@@ -1,0 +1,2002 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 100031,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 3,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8754"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8755"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Magnify01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310003101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100032,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 3,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8756"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8757"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Magnify02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310003102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100033,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 3,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8758"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8759"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Magnify03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310003103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100034,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 3,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8760"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8761"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Magnify06",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310003104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100041,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 4,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8762"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8763"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Damage01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310004101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100042,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 4,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8764"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8765"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Damage02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310004102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100043,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 4,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8766"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8767"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Damage03",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310004103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105221,
+      "BGJLBOBBFOB": 1,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10522,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8890"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8891"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Explosion01",
+      "PLAMLPHCGPK": 3,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 999,
+      "EJGFMFAHKNJ": [
+        310522102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105222,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10522,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8892"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8893"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Explosion02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310522201,
+        310522202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105223,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10522,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8894"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8895"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Explosion03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310522301,
+        310522302
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105224,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10522,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "5665"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8896"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Explosion04",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310522401,
+        310522402
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105225,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10522,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8897"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8898"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Explosion05",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310522502,
+        210522502,
+        210522501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 500011,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 10,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8731"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8732"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Supply01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        350001101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 500012,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 10,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8733"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8734"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Supply02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        350001102,
+        350001103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599911,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 910,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 31,
+      "EHBOFBJAFEM": 31,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599912,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 911,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 32,
+      "EHBOFBJAFEM": 32,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599913,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 912,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 33,
+      "EHBOFBJAFEM": 33,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599914,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 913,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 34,
+      "EHBOFBJAFEM": 34,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599915,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 914,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 35,
+      "EHBOFBJAFEM": 35,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599916,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 915,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 36,
+      "EHBOFBJAFEM": 36,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599917,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 916,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 37,
+      "EHBOFBJAFEM": 37,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599918,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 917,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 38,
+      "EHBOFBJAFEM": 38,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599919,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 918,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 39,
+      "EHBOFBJAFEM": 39,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599930,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 929,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 50,
+      "EHBOFBJAFEM": 50,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100021,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 2,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7448"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8659"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Absorb01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310002101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100022,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 2,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7450"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8899"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Absorb02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310002102,
+        310002106
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100023,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 2,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7533"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "9466"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Absorb03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310002103,
+        310002107
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100024,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 2,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "9420"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13381"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Absorb06",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310002104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100025,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 2,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "9844"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13392"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Absorb07",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310002105,
+        310002108
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100051,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 5,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8768"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8769"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Compress01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310005101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100052,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 5,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8770"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8771"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Compress02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310005102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100053,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 5,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8772"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8773"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Compress03",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310005103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100061,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 6,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8725"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8726"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Weapon01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310006101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100062,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 6,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8727"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8728"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Weapon02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310006102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100063,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 6,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8729"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8730"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Weapon03",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310006103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103411,
+      "BGJLBOBBFOB": 1,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10341,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "20983"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20984"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Critical01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 999,
+      "EJGFMFAHKNJ": [
+        310341101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103412,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10341,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "20985"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20986"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Critical02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310341201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103413,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10341,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "9878"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20987"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Critical03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310341301,
+        310341302
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103414,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10341,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "3189"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20988"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Critical04",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310341401,
+        210341401,
+        310341403
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103415,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10341,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "20989"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20990"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Critical05",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310341501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103911,
+      "BGJLBOBBFOB": 1,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10391,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8744"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8745"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Avalanche01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 999,
+      "EJGFMFAHKNJ": [
+        310391101,
+        310391102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103912,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10391,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8746"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8747"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Avalanche02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310391201,
+        310391202,
+        310391203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103913,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10391,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8748"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8749"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Avalanche03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310391301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103914,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10391,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8750"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8751"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Avalanche04",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310391401,
+        310391402
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103915,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10391,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8752"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8753"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Avalanche05",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310391501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100071,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 7,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "9934"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13669"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_LongShot01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310007101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100072,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 7,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "9936"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "17866"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_LongShot02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310007102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100073,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 7,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "9938"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20969"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_LongShot03",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310007103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103921,
+      "BGJLBOBBFOB": 1,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10392,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "6921"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8774"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Snowfield01",
+      "PLAMLPHCGPK": 3,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 999,
+      "EJGFMFAHKNJ": [
+        310392101,
+        310342102,
+        310342103,
+        210342101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103922,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10392,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8874"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8875"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Snowfield02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310342301,
+        210342101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103923,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10392,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "5657"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8876"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Snowfield03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310392301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103924,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10392,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8877"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8878"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Snowfield04",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310392401,
+        310392402,
+        210393401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103925,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1039,
+      "EALJEIIAEGE": 10392,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8879"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8880"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Snowfield05",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310392501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599960,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 939,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599961,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 940,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599962,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 941,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599963,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 942,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599964,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 943,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599965,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 944,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599966,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 945,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599967,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 946,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599968,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 947,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599969,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 948,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100011,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 1,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8715"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8716"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Repel01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310001101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100012,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 1,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8717"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8718"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Repel02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310001102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100013,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 1,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8719"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8720"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Repel03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310001103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100014,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 1,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8721"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8722"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Repel05",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310001104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100015,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 1,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8723"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8724"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Repel06",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310001105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100081,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 8,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8738"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8739"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Dodge01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310008101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100082,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 8,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8740"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8741"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Dodge02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310008102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100083,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 8,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8742"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8743"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Dodge03",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310008103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100091,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 9,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "19884"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20976"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Imprison01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310009101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100092,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 9,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "19896"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20977"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Imprison02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310009103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100093,
+      "BGJLBOBBFOB": 2,
+      "EALJEIIAEGE": 9,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "20978"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20979"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Imprison06",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310009104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100094,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 9,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "19898"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20980"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Imprison07",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310009105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100095,
+      "BGJLBOBBFOB": 3,
+      "EALJEIIAEGE": 9,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "20981"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20982"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Imprison05",
+      "PLAMLPHCGPK": 12,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        310009106
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103421,
+      "BGJLBOBBFOB": 1,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10342,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "6921"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20970"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Shield01",
+      "PLAMLPHCGPK": 3,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 999,
+      "EJGFMFAHKNJ": [
+        310342101,
+        310342102,
+        310342103,
+        210342101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103422,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10342,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "20971"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20972"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Shield02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310342201,
+        310342203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103423,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10342,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8874"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8875"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Shield03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310342301,
+        210342101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103424,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10342,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "20973"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20974"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Shield04",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310342401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103425,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1034,
+      "EALJEIIAEGE": 10342,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "5650"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "20975"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Shield05",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310342505,
+        310342501,
+        310342503,
+        210342101,
+        310342504
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105211,
+      "BGJLBOBBFOB": 1,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10521,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8881"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8882"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Poison01",
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 999,
+      "EJGFMFAHKNJ": [
+        310521101,
+        310521103,
+        310522101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105212,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10521,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8883"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8884"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Poison02",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310521201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105213,
+      "BGJLBOBBFOB": 2,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10521,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8299"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8885"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Poison03",
+      "PLAMLPHCGPK": 5,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310521302
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105214,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10521,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8886"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8887"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Poison04",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310521401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105215,
+      "BGJLBOBBFOB": 3,
+      "BKCIGACKEFD": 1052,
+      "EALJEIIAEGE": 10521,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8888"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8889"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Poison05",
+      "PLAMLPHCGPK": 15,
+      "EHBOFBJAFEM": 30,
+      "BPOIFPPPBDG": 20,
+      "EJGFMFAHKNJ": [
+        310521501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599920,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 919,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 40,
+      "EHBOFBJAFEM": 40,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599921,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 920,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 41,
+      "EHBOFBJAFEM": 41,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599922,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 921,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 42,
+      "EHBOFBJAFEM": 42,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599923,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 922,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 43,
+      "EHBOFBJAFEM": 43,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599924,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 923,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 44,
+      "EHBOFBJAFEM": 44,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599925,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 924,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 45,
+      "EHBOFBJAFEM": 45,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599926,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 925,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 46,
+      "EHBOFBJAFEM": 46,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599927,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 926,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 47,
+      "EHBOFBJAFEM": 47,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599928,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 927,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 48,
+      "EHBOFBJAFEM": 48,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599929,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 928,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "8735"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8736"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick01",
+      "PLAMLPHCGPK": 49,
+      "EHBOFBJAFEM": 49,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599951,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 930,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599952,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 931,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599953,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 932,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599954,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 933,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599955,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 934,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599956,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 935,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599957,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 936,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599958,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 937,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599959,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 938,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 599970,
+      "BGJLBOBBFOB": 1,
+      "EALJEIIAEGE": 949,
+      "DCCEKKIBIDJ": {
+        "DOHLNDIPHAJ": "7445"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8737"
+      },
+      "NBJFMAGJOEE": "Icon_MiniGame_ShootBuff_Trick02",
+      "PLAMLPHCGPK": 99,
+      "EHBOFBJAFEM": 99,
+      "BPOIFPPPBDG": 10,
+      "EJGFMFAHKNJ": [
+        250001201,
+        359991201
+      ]
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 1,
+      "DCFICDPOKFN": "FZ-001",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-001",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-001",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3072"
+      },
+      "JONPFGODOKJ": 8100
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 2,
+      "DCFICDPOKFN": "PZ-001",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_PZ-001",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_PZ-001",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4461"
+      },
+      "JONPFGODOKJ": 8101
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 3,
+      "DCFICDPOKFN": "EZ-001",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_EZ-001",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_EZ-001",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4462"
+      },
+      "JONPFGODOKJ": 8102
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 4,
+      "DCFICDPOKFN": "SZ-001",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_SZ-001",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_SZ-001",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4463"
+      },
+      "JONPFGODOKJ": 8103
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 5,
+      "DCFICDPOKFN": "FZ-002",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-002",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-002",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4464"
+      },
+      "JONPFGODOKJ": 8104
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 6,
+      "DCFICDPOKFN": "FZ-003",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-003",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-003",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4465"
+      },
+      "JONPFGODOKJ": 8105
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 7,
+      "DCFICDPOKFN": "SZ-002",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_SZ-002",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_SZ-002",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4466"
+      },
+      "JONPFGODOKJ": 8106
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 8,
+      "DCFICDPOKFN": "CZ-001",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CZ-001",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_CZ-001",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4467"
+      },
+      "JONPFGODOKJ": 8107
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 9,
+      "DCFICDPOKFN": "SZ-003",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_SZ-003",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_SZ-003",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4468"
+      },
+      "JONPFGODOKJ": 8108
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 10,
+      "DCFICDPOKFN": "CZ-002",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CZ-002",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_CZ-002",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4469"
+      },
+      "JONPFGODOKJ": 8111
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 11,
+      "DCFICDPOKFN": "PZ-002",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_PZ-002",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_PZ-002",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4470"
+      },
+      "JONPFGODOKJ": 8112
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 12,
+      "DCFICDPOKFN": "FZ-005",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-005",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-005",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4471"
+      },
+      "JONPFGODOKJ": 8113
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 13,
+      "DCFICDPOKFN": "FZ-006",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-006",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-006",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4472"
+      },
+      "JONPFGODOKJ": 8114
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 14,
+      "DCFICDPOKFN": "EZ-002",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_EZ-002",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_EZ-002",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4473"
+      },
+      "JONPFGODOKJ": 8120
+    },
+    {
+      "LGJCPENNFBC": 1025,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 15,
+      "DCFICDPOKFN": "FZ-014",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-014",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-014",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4474"
+      },
+      "JONPFGODOKJ": 8124
+    },
+    {
+      "LGJCPENNFBC": 1026,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 16,
+      "DCFICDPOKFN": "FZ-004",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-004",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-004",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4475"
+      },
+      "JONPFGODOKJ": 8109
+    },
+    {
+      "LGJCPENNFBC": 1027,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 17,
+      "DCFICDPOKFN": "GZ-001",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_GZ-001",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_GZ-001",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4476"
+      },
+      "JONPFGODOKJ": 8110
+    },
+    {
+      "LGJCPENNFBC": 1028,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 18,
+      "DCFICDPOKFN": "FZ-015",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-016",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-016",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4477"
+      },
+      "JONPFGODOKJ": 8126
+    },
+    {
+      "LGJCPENNFBC": 1029,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 19,
+      "DCFICDPOKFN": "FZ-016",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-017",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-017",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4478"
+      },
+      "JONPFGODOKJ": 8127
+    },
+    {
+      "LGJCPENNFBC": 1030,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 20,
+      "DCFICDPOKFN": "FZ-017",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-018",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-018",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4479"
+      },
+      "JONPFGODOKJ": 8129
+    },
+    {
+      "LGJCPENNFBC": 1031,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 21,
+      "DCFICDPOKFN": "FZ-018",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_FZ-019",
+      "PIAOMFEMDCM": "Img_ArchivesCenterList_FZ-019",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4480"
+      },
+      "JONPFGODOKJ": 8128
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 1,
+      "DCFICDPOKFN": "FZ-011",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD1",
+      "PIAOMFEMDCM": "Img_ArchivesCenter_CD1",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3078"
+      },
+      "JONPFGODOKJ": 8119
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 2,
+      "DCFICDPOKFN": "SZ-004",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD2",
+      "PIAOMFEMDCM": "Img_ArchivesCenter_CD2",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4481"
+      },
+      "JONPFGODOKJ": 8121
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 3,
+      "DCFICDPOKFN": "EZ-003",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD3",
+      "PIAOMFEMDCM": "Img_ArchivesCenter_CD3",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4482"
+      },
+      "JONPFGODOKJ": 8125
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 4,
+      "DCFICDPOKFN": "FZ-013",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD4",
+      "PIAOMFEMDCM": "Img_ArchivesCenter_CD4",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4483"
+      },
+      "JONPFGODOKJ": 8123
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 5,
+      "DCFICDPOKFN": "FZ-007",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD5",
+      "PIAOMFEMDCM": "Img_ArchivesCenter_CD1",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4484"
+      },
+      "JONPFGODOKJ": 8115
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 6,
+      "DCFICDPOKFN": "FZ-008",
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD6",
+      "PIAOMFEMDCM": "Img_ArchivesCenter_CD2",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4485"
+      },
+      "JONPFGODOKJ": 8116
+    }
+  ]
+}

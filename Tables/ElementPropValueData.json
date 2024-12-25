@@ -1,0 +1,211 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 100101,
+      "CFKPFBKIAAA": 506,
+      "GPLOHCAEMFP": "100:100",
+      "FJCICFEJBMO": "0:50",
+      "KIKFMHBFFGC": "101:201",
+      "HBJAHCGKJJD": "突击步枪对石头伤害"
+    },
+    {
+      "LGJCPENNFBC": 100102,
+      "CFKPFBKIAAA": 503,
+      "GPLOHCAEMFP": "10",
+      "FJCICFEJBMO": "5:20",
+      "HBJAHCGKJJD": "常规枪对BOSS伤害"
+    },
+    {
+      "LGJCPENNFBC": 100103,
+      "CFKPFBKIAAA": 501,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "100",
+      "HBJAHCGKJJD": "常规枪对普通敌人伤害"
+    },
+    {
+      "LGJCPENNFBC": 100104,
+      "CFKPFBKIAAA": 502,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "50",
+      "HBJAHCGKJJD": "常规枪对精英敌人伤害"
+    },
+    {
+      "LGJCPENNFBC": 100105,
+      "CFKPFBKIAAA": 511,
+      "GPLOHCAEMFP": "30",
+      "FJCICFEJBMO": "50",
+      "KIKFMHBFFGC": "701",
+      "HBJAHCGKJJD": "常规枪对普通敌人掩体穿透率"
+    },
+    {
+      "LGJCPENNFBC": 100106,
+      "CFKPFBKIAAA": 512,
+      "GPLOHCAEMFP": "20",
+      "FJCICFEJBMO": "30",
+      "KIKFMHBFFGC": "701",
+      "HBJAHCGKJJD": "常规枪对精英敌人掩体穿透率"
+    },
+    {
+      "LGJCPENNFBC": 100201,
+      "CFKPFBKIAAA": 506,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "0",
+      "KIKFMHBFFGC": "102",
+      "HBJAHCGKJJD": "刀对石头伤害"
+    },
+    {
+      "LGJCPENNFBC": 100205,
+      "CFKPFBKIAAA": 511,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "100",
+      "HBJAHCGKJJD": "近战对普通敌人掩体穿透率"
+    },
+    {
+      "LGJCPENNFBC": 100206,
+      "CFKPFBKIAAA": 512,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "100",
+      "HBJAHCGKJJD": "近战对精英敌人掩体穿透率"
+    },
+    {
+      "LGJCPENNFBC": 100301,
+      "CFKPFBKIAAA": 506,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "0:50",
+      "KIKFMHBFFGC": "103:203",
+      "HBJAHCGKJJD": "机枪对石头伤害"
+    },
+    {
+      "LGJCPENNFBC": 100305,
+      "CFKPFBKIAAA": 511,
+      "GPLOHCAEMFP": "30:100",
+      "FJCICFEJBMO": "50:100",
+      "KIKFMHBFFGC": "701:0",
+      "HBJAHCGKJJD": "机枪对普通敌人掩体穿透率"
+    },
+    {
+      "LGJCPENNFBC": 100306,
+      "CFKPFBKIAAA": 512,
+      "GPLOHCAEMFP": "20:100",
+      "FJCICFEJBMO": "50:100",
+      "KIKFMHBFFGC": "701:0",
+      "HBJAHCGKJJD": "机枪对精英敌人掩体穿透率"
+    },
+    {
+      "LGJCPENNFBC": 100401,
+      "CFKPFBKIAAA": 506,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "50:100",
+      "KIKFMHBFFGC": "104:204",
+      "HBJAHCGKJJD": "霰弹枪对石头伤害"
+    },
+    {
+      "LGJCPENNFBC": 100501,
+      "CFKPFBKIAAA": 506,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "0",
+      "KIKFMHBFFGC": "105",
+      "HBJAHCGKJJD": "冲锋枪对石头伤害"
+    },
+    {
+      "LGJCPENNFBC": 100502,
+      "CFKPFBKIAAA": 503,
+      "GPLOHCAEMFP": "10:25:50",
+      "FJCICFEJBMO": "5:20:40:75",
+      "KIKFMHBFFGC": "0:401:401:401",
+      "HBJAHCGKJJD": "冲锋枪对BOSS伤害"
+    },
+    {
+      "LGJCPENNFBC": 100503,
+      "CFKPFBKIAAA": 501,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "100",
+      "HBJAHCGKJJD": "冲锋枪对普通敌人伤害"
+    },
+    {
+      "LGJCPENNFBC": 100504,
+      "CFKPFBKIAAA": 502,
+      "GPLOHCAEMFP": "100:100",
+      "FJCICFEJBMO": "50:100",
+      "KIKFMHBFFGC": "0:302",
+      "HBJAHCGKJJD": "冲锋枪对精英敌人伤害"
+    },
+    {
+      "LGJCPENNFBC": 100505,
+      "CFKPFBKIAAA": 511,
+      "GPLOHCAEMFP": "30:100",
+      "FJCICFEJBMO": "50:100",
+      "KIKFMHBFFGC": "701:301",
+      "HBJAHCGKJJD": "冲锋枪对普通敌人掩体穿透率"
+    },
+    {
+      "LGJCPENNFBC": 100506,
+      "CFKPFBKIAAA": 512,
+      "GPLOHCAEMFP": "20:50:100",
+      "FJCICFEJBMO": "50:100",
+      "KIKFMHBFFGC": "701:301",
+      "HBJAHCGKJJD": "冲锋枪对精英敌人掩体穿透率"
+    },
+    {
+      "LGJCPENNFBC": 100601,
+      "CFKPFBKIAAA": 506,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "0",
+      "KIKFMHBFFGC": "106",
+      "HBJAHCGKJJD": "手枪对石头伤害"
+    },
+    {
+      "LGJCPENNFBC": 100701,
+      "CFKPFBKIAAA": 506,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "0:50",
+      "KIKFMHBFFGC": "107:207",
+      "HBJAHCGKJJD": "狙击枪对石头伤害"
+    },
+    {
+      "LGJCPENNFBC": 200101,
+      "CFKPFBKIAAA": 506,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "100",
+      "KIKFMHBFFGC": "108",
+      "HBJAHCGKJJD": "油桶/炸药桶对石头伤害"
+    },
+    {
+      "LGJCPENNFBC": 200102,
+      "CFKPFBKIAAA": 503,
+      "GPLOHCAEMFP": "25:35:50",
+      "FJCICFEJBMO": "35:50",
+      "KIKFMHBFFGC": "0:501",
+      "HBJAHCGKJJD": "油桶/炸药桶对BOSS伤害"
+    },
+    {
+      "LGJCPENNFBC": 200103,
+      "CFKPFBKIAAA": 501,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "100",
+      "HBJAHCGKJJD": "油桶/炸药桶对普通敌人伤害"
+    },
+    {
+      "LGJCPENNFBC": 200104,
+      "CFKPFBKIAAA": 502,
+      "GPLOHCAEMFP": "100",
+      "FJCICFEJBMO": "100",
+      "HBJAHCGKJJD": "油桶/炸药桶对精英怪伤害"
+    },
+    {
+      "LGJCPENNFBC": 200120,
+      "CFKPFBKIAAA": 504,
+      "GPLOHCAEMFP": "100:50",
+      "FJCICFEJBMO": "90:25",
+      "KIKFMHBFFGC": "0:601",
+      "HBJAHCGKJJD": "油桶/炸药桶对人形伤害"
+    },
+    {
+      "LGJCPENNFBC": 300120,
+      "CFKPFBKIAAA": 504,
+      "GPLOHCAEMFP": "30:20:5",
+      "FJCICFEJBMO": "80",
+      "HBJAHCGKJJD": "敌人对人形伤害"
+    }
+  ]
+}

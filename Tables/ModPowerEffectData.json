@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "PCLFJOCIINP": {
+        "3": 1001
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3263"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Attack01"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "PCLFJOCIINP": {
+        "3": 1002
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6172"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Attack02"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "PCLFJOCIINP": {
+        "3": 1003
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6173"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Critical01"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "PCLFJOCIINP": {
+        "3": 1004
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6174"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Current01"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "PCLFJOCIINP": {
+        "3": 1005
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6176"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Support01"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "PCLFJOCIINP": {
+        "3": 1006
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6968"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Defend01"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "PCLFJOCIINP": {
+        "3": 1010
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7374"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Physical"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "PCLFJOCIINP": {
+        "3": 1011
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7490"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Fire"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "PCLFJOCIINP": {
+        "3": 1012
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7552"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Ice"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "PCLFJOCIINP": {
+        "3": 1013
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7983"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Poison"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "PCLFJOCIINP": {
+        "3": 1014
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7984"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Electric"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "PCLFJOCIINP": {
+        "3": 1015
+      },
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7985"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Water"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "ICNLOJJDBNE": 201,
+      "HBJAHCGKJJD": "战术·范围伤害Ⅰ",
+      "PGBMMDIPEFA": "使用后可减少范围内的所有单位生命1点，立即生效.",
+      "BGJLBOBBFOB": 1,
+      "DADJIHEHAMB": "攻击",
+      "JKGMGALNGGK": 1,
+      "LJNKKCFEFEO": "伤害",
+      "BBOHLEANEMK": 1,
+      "OEJBNDDCJKP": 1,
+      "HBCFGBHIEED": 1009
+    },
+    {
+      "ICNLOJJDBNE": 202,
+      "HBJAHCGKJJD": "战术·范围伤害Ⅱ",
+      "PGBMMDIPEFA": "使用后可减少范围内的所有单位生命3点，立即生效.",
+      "BGJLBOBBFOB": 2,
+      "DADJIHEHAMB": "攻击",
+      "JKGMGALNGGK": 3,
+      "LJNKKCFEFEO": "伤害",
+      "BBOHLEANEMK": 1,
+      "OEJBNDDCJKP": 1,
+      "HBCFGBHIEED": 1009
+    },
+    {
+      "ICNLOJJDBNE": 203,
+      "HBJAHCGKJJD": "战术·范围攻击削弱Ⅰ",
+      "PGBMMDIPEFA": "使用后可减少范围内的所有敌方单位1点攻击，持续3回合",
+      "BGJLBOBBFOB": 1,
+      "DADJIHEHAMB": "攻击",
+      "JKGMGALNGGK": 1,
+      "LJNKKCFEFEO": "削弱",
+      "BBOHLEANEMK": 1,
+      "OEJBNDDCJKP": 1,
+      "HBCFGBHIEED": 1011
+    },
+    {
+      "ICNLOJJDBNE": 204,
+      "HBJAHCGKJJD": "战术·范围攻击削弱Ⅱ",
+      "PGBMMDIPEFA": "使用后可减少范围内的所有敌方单位3点攻击，持续3回合",
+      "BGJLBOBBFOB": 2,
+      "DADJIHEHAMB": "攻击",
+      "JKGMGALNGGK": 3,
+      "LJNKKCFEFEO": "削弱",
+      "BBOHLEANEMK": 1,
+      "OEJBNDDCJKP": 2,
+      "HBCFGBHIEED": 1011
+    },
+    {
+      "ICNLOJJDBNE": 205,
+      "HBJAHCGKJJD": "战术·范围防御削弱Ⅰ",
+      "PGBMMDIPEFA": "使用后可减少范围内的所有敌方单位1点防御，持续3回合",
+      "BGJLBOBBFOB": 1,
+      "DADJIHEHAMB": "攻击",
+      "JKGMGALNGGK": 1,
+      "LJNKKCFEFEO": "削弱",
+      "BBOHLEANEMK": 1,
+      "OEJBNDDCJKP": 1,
+      "HBCFGBHIEED": 1012
+    },
+    {
+      "ICNLOJJDBNE": 206,
+      "HBJAHCGKJJD": "战术·范围防御削弱Ⅱ",
+      "PGBMMDIPEFA": "使用后可减少范围内的所有敌方单位3点防御，持续3回合",
+      "BGJLBOBBFOB": 2,
+      "DADJIHEHAMB": "攻击",
+      "JKGMGALNGGK": 3,
+      "LJNKKCFEFEO": "削弱",
+      "BBOHLEANEMK": 1,
+      "OEJBNDDCJKP": 1,
+      "HBCFGBHIEED": 1012
+    },
+    {
+      "ICNLOJJDBNE": 207,
+      "HBJAHCGKJJD": "战术·任务干扰Ⅰ",
+      "PGBMMDIPEFA": "选择1张对方的任务卡，将其洗回牌库",
+      "BGJLBOBBFOB": 1,
+      "DADJIHEHAMB": "防御",
+      "JKGMGALNGGK": 1,
+      "LJNKKCFEFEO": "干扰",
+      "HBCFGBHIEED": 1008
+    },
+    {
+      "ICNLOJJDBNE": 208,
+      "HBJAHCGKJJD": "控制",
+      "PGBMMDIPEFA": "获得1个敌方单位的控制权，直至其死亡为止",
+      "BGJLBOBBFOB": 1,
+      "DADJIHEHAMB": "防御",
+      "JKGMGALNGGK": 4,
+      "LJNKKCFEFEO": "干扰",
+      "HBCFGBHIEED": 1010
+    }
+  ]
+}

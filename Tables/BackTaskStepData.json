@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "CPHJIJAOBGO": 6,
+      "FBPJHJLDELP": {
+        "1": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CPHJIJAOBGO": 12,
+      "FBPJHJLDELP": {
+        "8": 2
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CPHJIJAOBGO": 20,
+      "FBPJHJLDELP": {
+        "9010": 20
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "CPHJIJAOBGO": 28,
+      "FBPJHJLDELP": {
+        "1": 200
+      }
+    }
+  ]
+}

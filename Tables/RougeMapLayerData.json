@@ -1,0 +1,218 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "KAMHEIFEMJM": 1001,
+      "JEBGMGAEIDB": 1,
+      "GGANOEBEIFE": 101,
+      "GHHGHOJCFFF": [
+        3
+      ],
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "KAMHEIFEMJM": 1001,
+      "JEBGMGAEIDB": 1,
+      "GGANOEBEIFE": 102,
+      "GHHGHOJCFFF": [
+        3
+      ],
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "KAMHEIFEMJM": 1001,
+      "JEBGMGAEIDB": 2,
+      "GGANOEBEIFE": 103
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "KAMHEIFEMJM": 1002,
+      "JEBGMGAEIDB": 1,
+      "GGANOEBEIFE": 201,
+      "GHHGHOJCFFF": [
+        5,
+        6
+      ],
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "KAMHEIFEMJM": 1002,
+      "JEBGMGAEIDB": 2,
+      "GGANOEBEIFE": 202
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "KAMHEIFEMJM": 1002,
+      "JEBGMGAEIDB": 2,
+      "GGANOEBEIFE": 203,
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "KAMHEIFEMJM": 1003,
+      "JEBGMGAEIDB": 1,
+      "GGANOEBEIFE": 101,
+      "GHHGHOJCFFF": [
+        8,
+        9
+      ],
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "KAMHEIFEMJM": 1003,
+      "JEBGMGAEIDB": 2,
+      "GGANOEBEIFE": 102,
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "KAMHEIFEMJM": 1003,
+      "JEBGMGAEIDB": 2,
+      "GGANOEBEIFE": 103,
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "KAMHEIFEMJM": 1004,
+      "JEBGMGAEIDB": 1,
+      "GGANOEBEIFE": 201,
+      "GHHGHOJCFFF": [
+        12
+      ],
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "KAMHEIFEMJM": 1004,
+      "JEBGMGAEIDB": 1,
+      "GGANOEBEIFE": 202,
+      "GHHGHOJCFFF": [
+        12
+      ]
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "KAMHEIFEMJM": 1004,
+      "JEBGMGAEIDB": 2,
+      "GGANOEBEIFE": 203,
+      "GHHGHOJCFFF": [
+        13,
+        14,
+        15
+      ],
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "KAMHEIFEMJM": 1004,
+      "JEBGMGAEIDB": 3,
+      "GGANOEBEIFE": 201,
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "KAMHEIFEMJM": 1004,
+      "JEBGMGAEIDB": 3,
+      "GGANOEBEIFE": 202
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "KAMHEIFEMJM": 1004,
+      "JEBGMGAEIDB": 3,
+      "GGANOEBEIFE": 201,
+      "JFHMBMAFMGN": [
+        1,
+        3
+      ],
+      "AONDLLODADP": [
+        20,
+        30
+      ],
+      "MDDMEHFPFCA": 11
+    }
+  ]
+}

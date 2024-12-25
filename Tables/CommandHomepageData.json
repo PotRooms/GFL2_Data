@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 29202,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "2613"
+      },
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 1,
+      "DNHAGPFHGCE": "Icon_CommandCenter_Activity",
+      "BBEFAMPMEFL": 12
+    },
+    {
+      "LGJCPENNFBC": 11000,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "2608"
+      },
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "LGJCPENNFBC": 12000,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "2609"
+      },
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 2,
+      "DNHAGPFHGCE": "Icon_CommandCenter_Barrack",
+      "BBEFAMPMEFL": 11
+    },
+    {
+      "LGJCPENNFBC": 13000,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "2610"
+      },
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 4,
+      "DNHAGPFHGCE": "Icon_CommandCenter_Gashapon",
+      "BBEFAMPMEFL": 14
+    },
+    {
+      "LGJCPENNFBC": 15200,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "2611"
+      },
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 3,
+      "DNHAGPFHGCE": "Icon_CommandCenter_DailyQuest",
+      "BBEFAMPMEFL": 13
+    },
+    {
+      "LGJCPENNFBC": 16000,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "2612"
+      },
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 5,
+      "DNHAGPFHGCE": "Icon_CommandCenter_Gashapon",
+      "BBEFAMPMEFL": 15
+    }
+  ]
+}

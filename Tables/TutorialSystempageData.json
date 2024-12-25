@@ -1,0 +1,4600 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 400201,
+      "DHGBGMBFNPH": 4002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22801"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_5_b.png",
+      "JHJCOEBPHKL": "03",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22802"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400202,
+      "DHGBGMBFNPH": 4002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22803"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_6_a.png",
+      "JHJCOEBPHKL": "04",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22802"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400601,
+      "DHGBGMBFNPH": 4006,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22709"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_a.png",
+      "JHJCOEBPHKL": "11",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22831"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400602,
+      "DHGBGMBFNPH": 4006,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22832"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_b.png",
+      "JHJCOEBPHKL": "12",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22831"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400603,
+      "DHGBGMBFNPH": 4006,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22833"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_c.png",
+      "JHJCOEBPHKL": "13",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22831"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401901,
+      "DHGBGMBFNPH": 4019,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22684"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_19_a.png",
+      "JHJCOEBPHKL": "13",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22775"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120501,
+      "DHGBGMBFNPH": 41205,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22616"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_02_05_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 110301,
+      "DHGBGMBFNPH": 1103,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22607"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gun_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8137"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931801,
+      "DHGBGMBFNPH": 9318,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22585"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_12.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13433"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932301,
+      "DHGBGMBFNPH": 9323,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22734"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_18.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8177"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932302,
+      "DHGBGMBFNPH": 9323,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22735"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_17.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8177"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101301,
+      "DHGBGMBFNPH": 1013,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22488"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_25_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101302,
+      "DHGBGMBFNPH": 1013,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22489"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_25_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101303,
+      "DHGBGMBFNPH": 1013,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "9469"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_13_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101304,
+      "DHGBGMBFNPH": 1013,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22490"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_13_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103101,
+      "DHGBGMBFNPH": 1031,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22764"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_26_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110501,
+      "DHGBGMBFNPH": 41105,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22763"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_05_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130401,
+      "DHGBGMBFNPH": 41304,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22790"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_26_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301301,
+      "DHGBGMBFNPH": 3013,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22560"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_7.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302401,
+      "DHGBGMBFNPH": 3024,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22544"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Shootspace_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3171"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302402,
+      "DHGBGMBFNPH": 3024,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22545"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Shootspace_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3171"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302403,
+      "DHGBGMBFNPH": 3024,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22546"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Shootspace_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3171"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120601,
+      "DHGBGMBFNPH": 41206,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22652"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_13_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130501,
+      "DHGBGMBFNPH": 41305,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22590"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_05_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140801,
+      "DHGBGMBFNPH": 41408,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22497"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_08_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140802,
+      "DHGBGMBFNPH": 41408,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22498"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_08_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100801,
+      "DHGBGMBFNPH": 1008,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22690"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_8_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100802,
+      "DHGBGMBFNPH": 1008,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22691"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_8_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100803,
+      "DHGBGMBFNPH": 1008,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22692"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_10_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102601,
+      "DHGBGMBFNPH": 1026,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22502"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_Combat_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102602,
+      "DHGBGMBFNPH": 1026,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22503"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_Combat_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102603,
+      "DHGBGMBFNPH": 1026,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22504"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_Combat_d.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933201,
+      "DHGBGMBFNPH": 9332,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22808"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_transfergroup.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13402"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 4140401,
+      "DHGBGMBFNPH": 41404,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22755"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_04_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140402,
+      "DHGBGMBFNPH": 41404,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22756"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_04_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930901,
+      "DHGBGMBFNPH": 9309,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22556"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_7.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8161"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4121101,
+      "DHGBGMBFNPH": 41211,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22609"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_16_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301101,
+      "DHGBGMBFNPH": 3011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22837"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301102,
+      "DHGBGMBFNPH": 3011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22838"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_3_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301103,
+      "DHGBGMBFNPH": 3011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22839"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_3_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301104,
+      "DHGBGMBFNPH": 3011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22840"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401001,
+      "DHGBGMBFNPH": 4010,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22524"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_a.png",
+      "JHJCOEBPHKL": "04",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22554"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401002,
+      "DHGBGMBFNPH": 4010,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22525"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_b.png",
+      "JHJCOEBPHKL": "05",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22554"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401003,
+      "DHGBGMBFNPH": 4010,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22555"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_c.png",
+      "JHJCOEBPHKL": "06",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22554"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930801,
+      "DHGBGMBFNPH": 9308,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22702"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_6.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5273"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4131001,
+      "DHGBGMBFNPH": 41310,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22565"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_10_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 110101,
+      "DHGBGMBFNPH": 1101,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22618"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gun_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8137"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120801,
+      "DHGBGMBFNPH": 1208,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22600"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Talent_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "6609"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120802,
+      "DHGBGMBFNPH": 1208,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22601"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Talent_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "6609"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920901,
+      "DHGBGMBFNPH": 9209,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22791"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_10.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "7658"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4111201,
+      "DHGBGMBFNPH": 41112,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22778"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_6_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4131301,
+      "DHGBGMBFNPH": 41313,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22559"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_13_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4131501,
+      "DHGBGMBFNPH": 41315,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22768"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_15_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 140101,
+      "DHGBGMBFNPH": 1401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22706"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_StoryTutorial_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "9563"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 140102,
+      "DHGBGMBFNPH": 1401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22707"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_StoryTutorial_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "9563"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 900201,
+      "DHGBGMBFNPH": 9002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22688"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_t.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8166"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 900202,
+      "DHGBGMBFNPH": 9002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22689"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_1_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8166"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101501,
+      "DHGBGMBFNPH": 1015,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22681"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_14_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101502,
+      "DHGBGMBFNPH": 1015,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22682"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_15_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 110201,
+      "DHGBGMBFNPH": 1102,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22739"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gun_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8138"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920801,
+      "DHGBGMBFNPH": 9208,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22632"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_9.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13395"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932901,
+      "DHGBGMBFNPH": 9329,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22606"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_invisibleattack.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8182"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 4120401,
+      "DHGBGMBFNPH": 41204,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22793"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120402,
+      "DHGBGMBFNPH": 41204,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22794"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130701,
+      "DHGBGMBFNPH": 41307,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22622"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_07_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130702,
+      "DHGBGMBFNPH": 41307,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22623"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_07_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140101,
+      "DHGBGMBFNPH": 41401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22784"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_01_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141401,
+      "DHGBGMBFNPH": 41414,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22813"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_14_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 270101,
+      "DHGBGMBFNPH": 2701,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22788"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_Mod_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4330"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401101,
+      "DHGBGMBFNPH": 4011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22730"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_a.png",
+      "JHJCOEBPHKL": "07",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22731"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401102,
+      "DHGBGMBFNPH": 4011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22732"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_b.png",
+      "JHJCOEBPHKL": "08",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22731"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401103,
+      "DHGBGMBFNPH": 4011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22733"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_c.png",
+      "JHJCOEBPHKL": "09",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22731"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 180101,
+      "DHGBGMBFNPH": 1801,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22594"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Hard_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4349"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920701,
+      "DHGBGMBFNPH": 9207,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22649"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_8.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "9453"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920702,
+      "DHGBGMBFNPH": 9207,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22650"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_8.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "9453"
+      }
+    },
+    {
+      "LGJCPENNFBC": 932701,
+      "DHGBGMBFNPH": 9327,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22635"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_21.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8180"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110301,
+      "DHGBGMBFNPH": 41103,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22782"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110302,
+      "DHGBGMBFNPH": 41103,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22783"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141001,
+      "DHGBGMBFNPH": 41410,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22823"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_10_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141002,
+      "DHGBGMBFNPH": 41410,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22824"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_10_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100901,
+      "DHGBGMBFNPH": 1009,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22515"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100902,
+      "DHGBGMBFNPH": 1009,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22516"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102501,
+      "DHGBGMBFNPH": 1025,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22483"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_Combat_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 903501,
+      "DHGBGMBFNPH": 9035,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22679"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_1_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3243"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 903502,
+      "DHGBGMBFNPH": 9035,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22680"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_1_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3243"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920201,
+      "DHGBGMBFNPH": 9202,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22834"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8184"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920202,
+      "DHGBGMBFNPH": 9202,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22835"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8184"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130101,
+      "DHGBGMBFNPH": 41301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22492"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_01_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130102,
+      "DHGBGMBFNPH": 41301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22493"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_3_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100701,
+      "DHGBGMBFNPH": 1007,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22624"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_7_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100702,
+      "DHGBGMBFNPH": 1007,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22625"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_7_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932001,
+      "DHGBGMBFNPH": 9320,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22634"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_14.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8174"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120301,
+      "DHGBGMBFNPH": 41203,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22512"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_02_03_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301501,
+      "DHGBGMBFNPH": 3015,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22499"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_8.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130801,
+      "DHGBGMBFNPH": 41308,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22704"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_08_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930101,
+      "DHGBGMBFNPH": 9301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22800"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_move.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4645"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 4131401,
+      "DHGBGMBFNPH": 41314,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22647"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_14_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4131402,
+      "DHGBGMBFNPH": 41314,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22648"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_14_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4131601,
+      "DHGBGMBFNPH": 41316,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22716"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_16_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 150101,
+      "DHGBGMBFNPH": 1501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22517"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Mythic_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4346"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 150102,
+      "DHGBGMBFNPH": 1501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22518"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Mythic_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4346"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 150103,
+      "DHGBGMBFNPH": 1501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22519"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Mythic_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4346"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 150105,
+      "DHGBGMBFNPH": 1501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22520"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Mythic_5.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4346"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301001,
+      "DHGBGMBFNPH": 3010,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22729"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102201,
+      "DHGBGMBFNPH": 1022,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22779"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_22_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140601,
+      "DHGBGMBFNPH": 41406,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22725"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_06_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933101,
+      "DHGBGMBFNPH": 9331,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22804"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_23.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13401"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301801,
+      "DHGBGMBFNPH": 3018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22575"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Room_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22576"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301802,
+      "DHGBGMBFNPH": 3018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22577"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Room_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22578"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301803,
+      "DHGBGMBFNPH": 3018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22579"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Room_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22580"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301804,
+      "DHGBGMBFNPH": 3018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22581"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Room_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22582"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 903701,
+      "DHGBGMBFNPH": 9037,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22693"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_3_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5984"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 903702,
+      "DHGBGMBFNPH": 9037,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22694"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_3_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5984"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 190101,
+      "DHGBGMBFNPH": 1901,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22496"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Recordroom_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5959"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 360201,
+      "DHGBGMBFNPH": 3602,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22564"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8154"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931301,
+      "DHGBGMBFNPH": 9313,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22569"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_invisible.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22570"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 102901,
+      "DHGBGMBFNPH": 1029,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22610"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_2_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102902,
+      "DHGBGMBFNPH": 1029,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22737"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_2_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102001,
+      "DHGBGMBFNPH": 1020,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22617"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_20_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 921001,
+      "DHGBGMBFNPH": 9210,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22827"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_11.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13398"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401201,
+      "DHGBGMBFNPH": 4012,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "9469"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_13_a.png",
+      "JHJCOEBPHKL": "01",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13684"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103501,
+      "DHGBGMBFNPH": 1035,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "9469"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_13_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 230101,
+      "DHGBGMBFNPH": 2301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22640"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22641"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401601,
+      "DHGBGMBFNPH": 4016,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22789"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_16_a.png",
+      "JHJCOEBPHKL": "06",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13417"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931401,
+      "DHGBGMBFNPH": 9314,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22776"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_8.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13431"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932801,
+      "DHGBGMBFNPH": 9328,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22819"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_22.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8181"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141201,
+      "DHGBGMBFNPH": 41412,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22552"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_12_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141202,
+      "DHGBGMBFNPH": 41412,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22553"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_12_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100301,
+      "DHGBGMBFNPH": 1003,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22717"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_3_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103401,
+      "DHGBGMBFNPH": 1034,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22574"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931501,
+      "DHGBGMBFNPH": 9315,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22807"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_9.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13432"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932601,
+      "DHGBGMBFNPH": 9326,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22703"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_20.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8179"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933701,
+      "DHGBGMBFNPH": 9337,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22533"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_disturb.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13406"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 933702,
+      "DHGBGMBFNPH": 9337,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22534"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_disturb.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13406"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 933703,
+      "DHGBGMBFNPH": 9337,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22535"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_26.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22536"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400801,
+      "DHGBGMBFNPH": 4008,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22515"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_a.png",
+      "JHJCOEBPHKL": "01",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13411"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400802,
+      "DHGBGMBFNPH": 4008,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22516"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_9_b.png",
+      "JHJCOEBPHKL": "02",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13411"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400803,
+      "DHGBGMBFNPH": 4008,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22686"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_13_a.png",
+      "JHJCOEBPHKL": "02",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22687"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930601,
+      "DHGBGMBFNPH": 9306,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22584"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8159"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920601,
+      "DHGBGMBFNPH": 9206,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22596"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_7.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8660"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120101,
+      "DHGBGMBFNPH": 41201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22572"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_02_01_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140501,
+      "DHGBGMBFNPH": 41405,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22828"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_05_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140502,
+      "DHGBGMBFNPH": 41405,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22829"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_05_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120101,
+      "DHGBGMBFNPH": 1201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22663"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_7.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8150"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120102,
+      "DHGBGMBFNPH": 1201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22664"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_6.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8150"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120103,
+      "DHGBGMBFNPH": 1201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22665"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8150"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302501,
+      "DHGBGMBFNPH": 3025,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22698"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_ActivityTour_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1009"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302502,
+      "DHGBGMBFNPH": 3025,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22699"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_ActivityTour_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1009"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302503,
+      "DHGBGMBFNPH": 3025,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22700"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_ActivityTour_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1009"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302504,
+      "DHGBGMBFNPH": 3025,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22701"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_ActivityTour_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1009"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930201,
+      "DHGBGMBFNPH": 9302,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22509"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_attack.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1173"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 930202,
+      "DHGBGMBFNPH": 9302,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22510"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_attack.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1173"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 930203,
+      "DHGBGMBFNPH": 9302,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22511"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_attack.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1173"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 300401,
+      "DHGBGMBFNPH": 3004,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22619"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_10.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933301,
+      "DHGBGMBFNPH": 9333,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22491"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_24.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13403"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130301,
+      "DHGBGMBFNPH": 41303,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22621"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_03_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100101,
+      "DHGBGMBFNPH": 1001,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22557"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100102,
+      "DHGBGMBFNPH": 1001,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22662"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 170101,
+      "DHGBGMBFNPH": 1701,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22695"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_PVP_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1772"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 170102,
+      "DHGBGMBFNPH": 1701,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22696"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_PVP_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1772"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 170103,
+      "DHGBGMBFNPH": 1701,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22697"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_PVP_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "1772"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 160101,
+      "DHGBGMBFNPH": 1601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22809"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_7.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4344"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 160102,
+      "DHGBGMBFNPH": 1601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22810"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4344"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 160103,
+      "DHGBGMBFNPH": 1601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22811"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weekly_8.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4344"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141101,
+      "DHGBGMBFNPH": 41411,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22760"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_11_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141102,
+      "DHGBGMBFNPH": 41411,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22761"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_11_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141103,
+      "DHGBGMBFNPH": 41411,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22762"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_11_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110201,
+      "DHGBGMBFNPH": 41102,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22557"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110202,
+      "DHGBGMBFNPH": 41102,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22558"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_02_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110901,
+      "DHGBGMBFNPH": 41109,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22651"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_22_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120301,
+      "DHGBGMBFNPH": 1203,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22484"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "6102"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120302,
+      "DHGBGMBFNPH": 1203,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22485"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_5.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "6102"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110801,
+      "DHGBGMBFNPH": 41108,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22709"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110802,
+      "DHGBGMBFNPH": 41108,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22710"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_08_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110803,
+      "DHGBGMBFNPH": 41108,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22711"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_08_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "DHGBGMBFNPH": 2,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22527"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "DHGBGMBFNPH": 2,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22528"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "DHGBGMBFNPH": 2,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22529"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102301,
+      "DHGBGMBFNPH": 1023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22628"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102302,
+      "DHGBGMBFNPH": 1023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22629"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102303,
+      "DHGBGMBFNPH": 1023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22683"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102304,
+      "DHGBGMBFNPH": 1023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22630"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_d.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102305,
+      "DHGBGMBFNPH": 1023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22631"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_e.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102401,
+      "DHGBGMBFNPH": 1024,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22550"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_24_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102402,
+      "DHGBGMBFNPH": 1024,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22551"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_24_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 350101,
+      "DHGBGMBFNPH": 3501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22586"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Sandbox_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 350102,
+      "DHGBGMBFNPH": 3501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22587"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Sandbox_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401401,
+      "DHGBGMBFNPH": 4014,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22530"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_14_a.png",
+      "JHJCOEBPHKL": "03",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22531"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401701,
+      "DHGBGMBFNPH": 4017,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22659"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_a.png",
+      "JHJCOEBPHKL": "07",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13413"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401702,
+      "DHGBGMBFNPH": 4017,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22660"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_b.png",
+      "JHJCOEBPHKL": "08",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13413"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100601,
+      "DHGBGMBFNPH": 1006,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22841"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_6_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100602,
+      "DHGBGMBFNPH": 1006,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22842"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_6_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4121301,
+      "DHGBGMBFNPH": 41213,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22537"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_02_13_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103301,
+      "DHGBGMBFNPH": 1033,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22674"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_19_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110401,
+      "DHGBGMBFNPH": 41104,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22500"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110402,
+      "DHGBGMBFNPH": 41104,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22501"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100201,
+      "DHGBGMBFNPH": 1002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22769"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100202,
+      "DHGBGMBFNPH": 1002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22770"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100203,
+      "DHGBGMBFNPH": 1002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22771"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101401,
+      "DHGBGMBFNPH": 1014,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22681"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_14_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932501,
+      "DHGBGMBFNPH": 9325,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22571"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_19.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8178"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933601,
+      "DHGBGMBFNPH": 9336,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22597"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_switch.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8186"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 933602,
+      "DHGBGMBFNPH": 9336,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22598"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_27.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22599"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120901,
+      "DHGBGMBFNPH": 41209,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22583"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_02_09_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101601,
+      "DHGBGMBFNPH": 1016,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22736"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_16_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 310101,
+      "DHGBGMBFNPH": 3101,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22507"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_MNgame_shootspace_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3171"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 310102,
+      "DHGBGMBFNPH": 3101,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22508"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_MNgame_shootspace_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3171"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4121001,
+      "DHGBGMBFNPH": 41210,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22513"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_14_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4121002,
+      "DHGBGMBFNPH": 41210,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22514"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_15_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 280101,
+      "DHGBGMBFNPH": 2801,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22643"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Expansion_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4333"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 280102,
+      "DHGBGMBFNPH": 2801,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22644"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Expansion_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4333"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 280103,
+      "DHGBGMBFNPH": 2801,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22645"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Expansion_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4333"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931101,
+      "DHGBGMBFNPH": 9311,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22718"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_buildgrass.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4503"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 250101,
+      "DHGBGMBFNPH": 2501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22667"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_clothes_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22668"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920501,
+      "DHGBGMBFNPH": 9205,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22666"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_6.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8310"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110601,
+      "DHGBGMBFNPH": 41106,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22646"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_06_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301701,
+      "DHGBGMBFNPH": 3017,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22505"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_13.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301702,
+      "DHGBGMBFNPH": 3017,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22506"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_14.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4111001,
+      "DHGBGMBFNPH": 41110,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22719"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_10_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4111002,
+      "DHGBGMBFNPH": 41110,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22720"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_10_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 240101,
+      "DHGBGMBFNPH": 2401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22547"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Store_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3073"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 240102,
+      "DHGBGMBFNPH": 2401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22548"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Store_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3073"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 240103,
+      "DHGBGMBFNPH": 2401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22549"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Store_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3073"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400701,
+      "DHGBGMBFNPH": 4007,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22550"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_7_a.png",
+      "JHJCOEBPHKL": "14",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400702,
+      "DHGBGMBFNPH": 4007,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22551"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_7_b.png",
+      "JHJCOEBPHKL": "15",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120201,
+      "DHGBGMBFNPH": 41202,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22674"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_19_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120202,
+      "DHGBGMBFNPH": 41202,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22675"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_18_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4131201,
+      "DHGBGMBFNPH": 41312,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22753"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_12_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4131202,
+      "DHGBGMBFNPH": 41312,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22754"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_12_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140701,
+      "DHGBGMBFNPH": 41407,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22795"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_07_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140702,
+      "DHGBGMBFNPH": 41407,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22796"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_07_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140703,
+      "DHGBGMBFNPH": 41407,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22797"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_07_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100401,
+      "DHGBGMBFNPH": 1004,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22524"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100402,
+      "DHGBGMBFNPH": 1004,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22525"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100403,
+      "DHGBGMBFNPH": 1004,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22526"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102101,
+      "DHGBGMBFNPH": 1021,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22713"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_21_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102102,
+      "DHGBGMBFNPH": 1021,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22714"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_21_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102103,
+      "DHGBGMBFNPH": 1021,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22715"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_21_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932201,
+      "DHGBGMBFNPH": 9322,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22615"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_16.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8176"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130601,
+      "DHGBGMBFNPH": 41306,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22678"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_06_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 220101,
+      "DHGBGMBFNPH": 2201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22566"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gold_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4336"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 220102,
+      "DHGBGMBFNPH": 2201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22567"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Gold_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4336"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 360301,
+      "DHGBGMBFNPH": 3603,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22820"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8155"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302301,
+      "DHGBGMBFNPH": 3023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22538"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dungeon_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22539"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302302,
+      "DHGBGMBFNPH": 3023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22540"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dungeon_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22539"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302303,
+      "DHGBGMBFNPH": 3023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22541"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dungeon_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22539"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302304,
+      "DHGBGMBFNPH": 3023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22542"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dungeon_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22539"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302305,
+      "DHGBGMBFNPH": 3023,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22543"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dungeon_5.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22539"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931001,
+      "DHGBGMBFNPH": 9310,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22633"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_transfer.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13430"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 4120801,
+      "DHGBGMBFNPH": 41208,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22573"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_02_08_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101201,
+      "DHGBGMBFNPH": 1012,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22653"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_12_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101202,
+      "DHGBGMBFNPH": 1012,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22654"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_12_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101203,
+      "DHGBGMBFNPH": 1012,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22655"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_12_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101204,
+      "DHGBGMBFNPH": 1012,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22656"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_12_d.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 121201,
+      "DHGBGMBFNPH": 1212,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22705"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_Mod_Increase.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13444"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 300201,
+      "DHGBGMBFNPH": 3002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22676"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_5.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 300202,
+      "DHGBGMBFNPH": 3002,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22677"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_6.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920401,
+      "DHGBGMBFNPH": 9204,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22712"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8186"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110701,
+      "DHGBGMBFNPH": 41107,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22636"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_5_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4131101,
+      "DHGBGMBFNPH": 41311,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22812"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_11_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 230201,
+      "DHGBGMBFNPH": 2302,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22642"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Event_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 932101,
+      "DHGBGMBFNPH": 9321,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22777"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_15.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8175"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4121201,
+      "DHGBGMBFNPH": 41212,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22821"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_02_12_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4121202,
+      "DHGBGMBFNPH": 41212,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22822"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_02_12_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302101,
+      "DHGBGMBFNPH": 3021,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22785"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Guild_5.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13429"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302102,
+      "DHGBGMBFNPH": 3021,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22786"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Guild_6.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13429"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933501,
+      "DHGBGMBFNPH": 9335,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22588"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_9.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "7656"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933502,
+      "DHGBGMBFNPH": 9335,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22589"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_11.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "7656"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140301,
+      "DHGBGMBFNPH": 41403,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22787"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_03_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120601,
+      "DHGBGMBFNPH": 1206,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22486"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_WeaponSkin_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "12010"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120602,
+      "DHGBGMBFNPH": 1206,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22487"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_WeaponSkin_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "12010"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 300301,
+      "DHGBGMBFNPH": 3003,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22612"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_7.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 300302,
+      "DHGBGMBFNPH": 3003,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22613"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_12.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 300303,
+      "DHGBGMBFNPH": 3003,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22614"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_8.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401801,
+      "DHGBGMBFNPH": 4018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22494"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_19_a.png",
+      "JHJCOEBPHKL": "09",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13409"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401802,
+      "DHGBGMBFNPH": 4018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22562"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_18_b.png",
+      "JHJCOEBPHKL": "10",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13409"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933801,
+      "DHGBGMBFNPH": 9338,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22836"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_killboss.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13407"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 4140901,
+      "DHGBGMBFNPH": 41409,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22830"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_09_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101901,
+      "DHGBGMBFNPH": 1019,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22494"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_19_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101902,
+      "DHGBGMBFNPH": 1019,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22495"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_18_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102801,
+      "DHGBGMBFNPH": 1028,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22679"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_1_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102802,
+      "DHGBGMBFNPH": 1028,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22680"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_1_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 200101,
+      "DHGBGMBFNPH": 2001,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22780"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Simdaily_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5353"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401501,
+      "DHGBGMBFNPH": 4015,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22637"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_15_a.png",
+      "JHJCOEBPHKL": "04",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22638"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401502,
+      "DHGBGMBFNPH": 4015,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22639"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_15_a.png",
+      "JHJCOEBPHKL": "05",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22638"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100501,
+      "DHGBGMBFNPH": 1005,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22709"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100502,
+      "DHGBGMBFNPH": 1005,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22805"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 100503,
+      "DHGBGMBFNPH": 1005,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22806"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_5_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101101,
+      "DHGBGMBFNPH": 1011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22721"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_11_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101102,
+      "DHGBGMBFNPH": 1011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22722"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_11_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101103,
+      "DHGBGMBFNPH": 1011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22723"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_11_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101104,
+      "DHGBGMBFNPH": 1011,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22724"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_11_d.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103001,
+      "DHGBGMBFNPH": 1030,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22693"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_3_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103002,
+      "DHGBGMBFNPH": 1030,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22694"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_3_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302001,
+      "DHGBGMBFNPH": 3020,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22826"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Guild_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13428"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 360101,
+      "DHGBGMBFNPH": 3601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22568"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8153"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400901,
+      "DHGBGMBFNPH": 4009,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22494"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_19_a.png",
+      "JHJCOEBPHKL": "09",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13409"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400902,
+      "DHGBGMBFNPH": 4009,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22562"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_18_b.png",
+      "JHJCOEBPHKL": "10",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13409"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101801,
+      "DHGBGMBFNPH": 1018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22843"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_18_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101802,
+      "DHGBGMBFNPH": 1018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22844"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_18_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101803,
+      "DHGBGMBFNPH": 1018,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22845"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_18_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 900101,
+      "DHGBGMBFNPH": 9001,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22595"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_2_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3083"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930501,
+      "DHGBGMBFNPH": 9305,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22792"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_25.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8158"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 401301,
+      "DHGBGMBFNPH": 4013,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22686"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_13_a.png",
+      "JHJCOEBPHKL": "02",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22687"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101001,
+      "DHGBGMBFNPH": 1010,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "15498"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_10_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101004,
+      "DHGBGMBFNPH": 1010,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "17892"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_10_d.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103601,
+      "DHGBGMBFNPH": 1036,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22563"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_24_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 120901,
+      "DHGBGMBFNPH": 1209,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22757"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Talent_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "6611"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 903601,
+      "DHGBGMBFNPH": 9036,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22610"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_2_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5983"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 903602,
+      "DHGBGMBFNPH": 9036,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22611"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_DarkZoneBoss_2_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5983"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103201,
+      "DHGBGMBFNPH": 1032,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22626"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_27_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103202,
+      "DHGBGMBFNPH": 1032,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22627"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_27_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103203,
+      "DHGBGMBFNPH": 1032,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22628"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103204,
+      "DHGBGMBFNPH": 1032,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22629"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103205,
+      "DHGBGMBFNPH": 1032,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22630"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_d.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103206,
+      "DHGBGMBFNPH": 1032,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22631"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_23_e.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931701,
+      "DHGBGMBFNPH": 9317,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22532"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_11.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "7659"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130201,
+      "DHGBGMBFNPH": 41302,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22751"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_02_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130202,
+      "DHGBGMBFNPH": 41302,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22752"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_02_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 300501,
+      "DHGBGMBFNPH": 3005,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22620"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_11.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302201,
+      "DHGBGMBFNPH": 3022,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22602"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Tpsshoot_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "19865"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302202,
+      "DHGBGMBFNPH": 3022,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22603"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Tpsshoot_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "19865"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 302203,
+      "DHGBGMBFNPH": 3022,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22604"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Tpsshoot_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "19865"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920101,
+      "DHGBGMBFNPH": 9201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22605"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8183"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931601,
+      "DHGBGMBFNPH": 9316,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22661"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_10.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "7665"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4140201,
+      "DHGBGMBFNPH": 41402,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22523"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_02_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400501,
+      "DHGBGMBFNPH": 4005,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22524"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_a.png",
+      "JHJCOEBPHKL": "08",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22554"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400502,
+      "DHGBGMBFNPH": 4005,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22525"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_b.png",
+      "JHJCOEBPHKL": "09",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22554"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400503,
+      "DHGBGMBFNPH": 4005,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22555"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_4_c.png",
+      "JHJCOEBPHKL": "10",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22554"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930401,
+      "DHGBGMBFNPH": 9304,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22728"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_boss.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8157"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 320101,
+      "DHGBGMBFNPH": 3201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22669"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_HighPVP_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4350"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 320102,
+      "DHGBGMBFNPH": 3201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22670"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_HighPVP_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4350"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 320103,
+      "DHGBGMBFNPH": 3201,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22671"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_HighPVP_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4350"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931201,
+      "DHGBGMBFNPH": 9312,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22738"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_buildladder.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "4525"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 4141501,
+      "DHGBGMBFNPH": 41415,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22557"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 260101,
+      "DHGBGMBFNPH": 2601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22744"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dorm_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3070"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 260102,
+      "DHGBGMBFNPH": 2601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22745"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dorm_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5740"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 260103,
+      "DHGBGMBFNPH": 2601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22746"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dorm_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22747"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 260104,
+      "DHGBGMBFNPH": 2601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22748"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Dorm_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8302"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301201,
+      "DHGBGMBFNPH": 3012,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22726"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_5.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301202,
+      "DHGBGMBFNPH": 3012,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22727"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_Centaureissi_6.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 931901,
+      "DHGBGMBFNPH": 9319,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22781"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_13.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13434"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120701,
+      "DHGBGMBFNPH": 41207,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22749"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4120702,
+      "DHGBGMBFNPH": 41207,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22750"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 121001,
+      "DHGBGMBFNPH": 1210,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22799"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Weapon_9.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "9562"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4110101,
+      "DHGBGMBFNPH": 41101,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22522"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_01_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400101,
+      "DHGBGMBFNPH": 4001,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22557"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_a.png",
+      "JHJCOEBPHKL": "01",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22672"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400102,
+      "DHGBGMBFNPH": 4001,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22673"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_1_b.png",
+      "JHJCOEBPHKL": "02",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22672"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 933001,
+      "DHGBGMBFNPH": 9330,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22561"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_boost.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "13399"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 300101,
+      "DHGBGMBFNPH": 3001,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22825"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Activity_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22641"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 340101,
+      "DHGBGMBFNPH": 3401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22657"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_MNgame_Hocold_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5829"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 340102,
+      "DHGBGMBFNPH": 3401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22658"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_MNgame_Hocold_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5829"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400301,
+      "DHGBGMBFNPH": 4003,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22684"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_SimCombat_19_a.png",
+      "JHJCOEBPHKL": "05",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22685"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930301,
+      "DHGBGMBFNPH": 9303,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22740"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_alert.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22741"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 930302,
+      "DHGBGMBFNPH": 9303,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22742"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Biyoca_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "22743"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 930701,
+      "DHGBGMBFNPH": 9307,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22708"
+      },
+      "NFOLBHBJCDC": "Tutorial/Video_Tutorial_Darkzone_Biyoca_LMG.usm",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8160"
+      },
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 4111101,
+      "DHGBGMBFNPH": 41111,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22772"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_24_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4111102,
+      "DHGBGMBFNPH": 41111,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22773"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_24_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4111103,
+      "DHGBGMBFNPH": 41111,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22774"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_01_11_c.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101701,
+      "DHGBGMBFNPH": 1017,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22659"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101702,
+      "DHGBGMBFNPH": 1017,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22660"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_17_b.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 330101,
+      "DHGBGMBFNPH": 3301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22814"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5782"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 330102,
+      "DHGBGMBFNPH": 3301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22815"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5782"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 330103,
+      "DHGBGMBFNPH": 3301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22816"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5782"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 330104,
+      "DHGBGMBFNPH": 3301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22817"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_5.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5782"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 330105,
+      "DHGBGMBFNPH": 3301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22818"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Control_Fight_6.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5782"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4141301,
+      "DHGBGMBFNPH": 41413,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22798"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_04_13_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 210201,
+      "DHGBGMBFNPH": 2102,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22758"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Quest_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5955"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 210202,
+      "DHGBGMBFNPH": 2102,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22759"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Recordroom_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "5955"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400401,
+      "DHGBGMBFNPH": 4004,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22769"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400402,
+      "DHGBGMBFNPH": 4004,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22770"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_b.png",
+      "JHJCOEBPHKL": "06",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "20187"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 400403,
+      "DHGBGMBFNPH": 4004,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22771"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Combat_2_c.png",
+      "JHJCOEBPHKL": "07",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "20187"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301901,
+      "DHGBGMBFNPH": 3019,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22765"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Guild_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3166"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301902,
+      "DHGBGMBFNPH": 3019,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22766"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Guild_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3166"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 301903,
+      "DHGBGMBFNPH": 3019,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22767"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Guild_4.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "3166"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 920301,
+      "DHGBGMBFNPH": 9203,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22521"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_Darkzone_Activity_Ullrid_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "8185"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "DHGBGMBFNPH": 1,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22591"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_1.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "DHGBGMBFNPH": 1,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22592"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_2.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "DHGBGMBFNPH": 1,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22593"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_1_3.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4130901,
+      "DHGBGMBFNPH": 41309,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "22608"
+      },
+      "NFOLBHBJCDC": "Assets/_UI/UIRes/Atlas/Tutorial/Img_Tutorial_level_03_09_a.png",
+      "DJGHACDFBIF": {
+        "DOHLNDIPHAJ": "17879"
+      },
+      "BKCIGACKEFD": 1
+    }
+  ]
+}

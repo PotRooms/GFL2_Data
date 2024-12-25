@@ -1,0 +1,186 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 201,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "探索旷野地格获得的勘测指数-30%"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 202,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "哨站提供的勘测指数-30%"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 213,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "探索资源地格获得的勘测指数-30%"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 212,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "每次停留在敌人地格，物资-1"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 207,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "建造和升级哨站所需物资＋1"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 206,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "所有按百分比提高的增益效果，提高数值-2%"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 209,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "每使用三个勘测道具，物资-2"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 210,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "暗商小摊商品位-2"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 211,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "勘测策略可选择数量-1"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 208,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "探索资源地格、作战地格时，惊喜好运触发概率-20%"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 203,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "探索事件地格、派遣地格、资源地格、作战地格获得的勘测指数-30%"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 204,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "暗商小摊商品价格+20%"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "EOGACCIKFBM": 1,
+      "INDAKBJEEMJ": 205,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "所有勘测道具生效回合数-1"
+    },
+    {
+      "LGJCPENNFBC": 2001,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 201,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "探索旷野地格获得的勘测指数-30%"
+    },
+    {
+      "LGJCPENNFBC": 2002,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 202,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "哨站提供的测指数-30%"
+    },
+    {
+      "LGJCPENNFBC": 2003,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 213,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "探索资源地格获得的勘测指数-30%"
+    },
+    {
+      "LGJCPENNFBC": 2004,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 212,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "每次停留在敌人地格，物资-1"
+    },
+    {
+      "LGJCPENNFBC": 2005,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 207,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "建造和升级哨站所需物资＋1"
+    },
+    {
+      "LGJCPENNFBC": 2006,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 206,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "所有按百分比提高的增益效果，提高数值-2%"
+    },
+    {
+      "LGJCPENNFBC": 2007,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 209,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "每使用三个勘测道具，物资-2"
+    },
+    {
+      "LGJCPENNFBC": 2008,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 210,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "暗商小摊商品位-2"
+    },
+    {
+      "LGJCPENNFBC": 2009,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 211,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "勘测策略可选择数量-1"
+    },
+    {
+      "LGJCPENNFBC": 2010,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 208,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "探索资源地格、作战地格时，惊喜好运触发概率-20%"
+    },
+    {
+      "LGJCPENNFBC": 2011,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 203,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "探索事件地格、派遣地格、资源地格、作战地格获得的勘测指数-30%"
+    },
+    {
+      "LGJCPENNFBC": 2012,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 204,
+      "NKKBLEJIMOI": 20,
+      "GKFPJJIHICB": "暗商小摊商品价格+20%"
+    },
+    {
+      "LGJCPENNFBC": 2013,
+      "EOGACCIKFBM": 2001,
+      "INDAKBJEEMJ": 205,
+      "NKKBLEJIMOI": 10,
+      "GKFPJJIHICB": "所有勘测道具生效回合数-1"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "FPHEKOCLCAL": 34,
+      "JEEBCIJFKFJ": "ColphneR01_Summon_Cover",
+      "ECLLEGNIFNI": 2,
+      "CEGNKPFJBFD": 1,
+      "APGOKCGLCEL": "[0-0:1,1,1,1]",
+      "PJPOEMCDLKE": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "FPHEKOCLCAL": 4,
+      "JEEBCIJFKFJ": "TestLowCover",
+      "ECLLEGNIFNI": 2,
+      "CEGNKPFJBFD": 1,
+      "APGOKCGLCEL": "[0-0:1,1,1,1]",
+      "PJPOEMCDLKE": 1
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "FPHEKOCLCAL": 29,
+      "JEEBCIJFKFJ": "s_slg_damagesheltera_y01",
+      "ECLLEGNIFNI": 2,
+      "CEGNKPFJBFD": 1,
+      "APGOKCGLCEL": "[0-0:0,1,1,1];[1-0:1,0,0,0]",
+      "PJPOEMCDLKE": 2
+    }
+  ]
+}

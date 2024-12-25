@@ -1,0 +1,497 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 2011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 2,
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1005"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1006"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 2
+    },
+    {
+      "LGJCPENNFBC": 2012,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 2,
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1007"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1008"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 2
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 1,
+      "DNHAGPFHGCE": "WeaponPart_Scope_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1031"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1006"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 1
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 1,
+      "DNHAGPFHGCE": "WeaponPart_Scope_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1032"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1008"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 1
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 1,
+      "DNHAGPFHGCE": "WeaponPart_Scope_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1033"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1022"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 1
+    },
+    {
+      "LGJCPENNFBC": 2031,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 2,
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1043"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1015"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 2
+    },
+    {
+      "LGJCPENNFBC": 8011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 8,
+      "DNHAGPFHGCE": "WeaponPart_Adjust_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1025"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1013"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 9011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 9,
+      "DNHAGPFHGCE": "WeaponPart_Link_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1026"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1015"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 9012,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 9,
+      "DNHAGPFHGCE": "WeaponPart_Link_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1027"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1017"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 9013,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 9,
+      "DNHAGPFHGCE": "WeaponPart_Link_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1028"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1013"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_Scope_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1038"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1039"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 1
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_Hangdown_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1040"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 1
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1010"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 1
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_Adjust_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1041"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_Link_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1042"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 2021,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 2,
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1021"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1022"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 2
+    },
+    {
+      "LGJCPENNFBC": 2022,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 2,
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1023"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1024"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 2
+    },
+    {
+      "LGJCPENNFBC": 2041,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 2,
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1035"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1017"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 2
+    },
+    {
+      "LGJCPENNFBC": 11011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 11,
+      "DNHAGPFHGCE": "WeaponPart_orbment_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1014"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1015"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 11012,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 11,
+      "DNHAGPFHGCE": "WeaponPart_orbment_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1016"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1017"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 11013,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 11,
+      "DNHAGPFHGCE": "WeaponPart_orbment_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1018"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1013"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 13011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 13,
+      "DNHAGPFHGCE": "WeaponPart_Stool_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1036"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1022"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 5
+    },
+    {
+      "LGJCPENNFBC": 13012,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 13,
+      "DNHAGPFHGCE": "WeaponPart_Stool_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1037"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1024"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 5
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_orbment_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1001"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 2
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_Grip_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1003"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 1
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "BKCIGACKEFD": 1,
+      "DNHAGPFHGCE": "WeaponPart_Stool_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1004"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1002"
+      },
+      "NCGIIAECMDI": 1
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 1,
+      "DNHAGPFHGCE": "WeaponPart_Scope_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1034"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1024"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 1
+    },
+    {
+      "LGJCPENNFBC": 1031,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 1,
+      "DNHAGPFHGCE": "WeaponPart_Scope_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1019"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1015"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 1
+    },
+    {
+      "LGJCPENNFBC": 1032,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 1,
+      "DNHAGPFHGCE": "WeaponPart_Scope_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1020"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1017"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 1
+    },
+    {
+      "LGJCPENNFBC": 3011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 3,
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1044"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1006"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 3
+    },
+    {
+      "LGJCPENNFBC": 3012,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 3,
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1045"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1008"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 3
+    },
+    {
+      "LGJCPENNFBC": 3013,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 3,
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1046"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1022"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 3
+    },
+    {
+      "LGJCPENNFBC": 3014,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 3,
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1047"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1024"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 3
+    },
+    {
+      "LGJCPENNFBC": 4011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 4,
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1010"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1013"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 2
+    },
+    {
+      "LGJCPENNFBC": 12011,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 12,
+      "DNHAGPFHGCE": "WeaponPart_Grip_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1029"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1006"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 6
+    },
+    {
+      "LGJCPENNFBC": 12012,
+      "BKCIGACKEFD": 2,
+      "JKAJHFHHAFO": 12,
+      "DNHAGPFHGCE": "WeaponPart_Grip_None",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1030"
+      },
+      "FGMNPBBHHNK": {
+        "DOHLNDIPHAJ": "1008"
+      },
+      "NCGIIAECMDI": 1,
+      "IFONBNFGJNM": 6
+    }
+  ]
+}

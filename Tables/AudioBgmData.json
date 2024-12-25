@@ -1,0 +1,983 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "EJPHDLIHMDH": "UIEmbattlePanel",
+      "MBLPMGHOPHI": [
+        30014
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "EJPHDLIHMDH": "UIBattleTransitionPanel",
+      "MBLPMGHOPHI": [
+        30013
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "EJPHDLIHMDH": "UIBattleSettlementPanel",
+      "MBLPMGHOPHI": [
+        30016,
+        30017
+      ],
+      "ADBEKGKLEKO": 2
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "MBLPMGHOPHI": [
+        30018
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "EJPHDLIHMDH": "UILoginPanel",
+      "MBLPMGHOPHI": [
+        30020
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "EJPHDLIHMDH": "UIChapterPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "EJPHDLIHMDH": "UIBattleIndexPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "MBLPMGHOPHI": [
+        30015
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "MBLPMGHOPHI": [
+        30022
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "MBLPMGHOPHI": [
+        30024
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "MBLPMGHOPHI": [
+        30026
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "EJPHDLIHMDH": "UIChrPowerUpPanel",
+      "MBLPMGHOPHI": [
+        30028
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Depot"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "EJPHDLIHMDH": "UIGachaMainPanel",
+      "MBLPMGHOPHI": [
+        30030
+      ],
+      "KLJDENIBOPH": "ShopGacha",
+      "OFJCCFNOFEI": "Gacha"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "EJPHDLIHMDH": "UIStoreEntrancePanel",
+      "MBLPMGHOPHI": [
+        30029
+      ],
+      "KLJDENIBOPH": "ShopGacha",
+      "OFJCCFNOFEI": "Shop"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "MBLPMGHOPHI": [
+        30016
+      ],
+      "ADBEKGKLEKO": 2
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "MBLPMGHOPHI": [
+        30021
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "MBLPMGHOPHI": [
+        30023
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "MBLPMGHOPHI": [
+        30025
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "MBLPMGHOPHI": [
+        30044
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "EJPHDLIHMDH": "UICombatMainPanel",
+      "MBLPMGHOPHI": [
+        30013
+      ]
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "EJPHDLIHMDH": "UISimCombatTeachingPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "EJPHDLIHMDH": "UIChapterHardPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "EJPHDLIHMDH": "UISimCombatExpPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "EJPHDLIHMDH": "UISimCombatGoldPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "EJPHDLIHMDH": "UISimCombatEquipPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "EJPHDLIHMDH": "UISimCombatTrainingPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "EJPHDLIHMDH": "UISimCombatWeeklyPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "EJPHDLIHMDH": "UIBattleDefeatPanel",
+      "MBLPMGHOPHI": [
+        30017
+      ],
+      "ADBEKGKLEKO": 2
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "MBLPMGHOPHI": [
+        30043
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "MBLPMGHOPHI": [
+        30033
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "MBLPMGHOPHI": [
+        30034
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "MBLPMGHOPHI": [
+        30035
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "MBLPMGHOPHI": [
+        30036
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "MBLPMGHOPHI": [
+        30037
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "MBLPMGHOPHI": [
+        30038
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "MBLPMGHOPHI": [
+        30039
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "MBLPMGHOPHI": [
+        30040
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "MBLPMGHOPHI": [
+        30041
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "MBLPMGHOPHI": [
+        30042
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "MBLPMGHOPHI": [
+        30045
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "MBLPMGHOPHI": [
+        30046
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "MBLPMGHOPHI": [
+        30047
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "MBLPMGHOPHI": [
+        30048
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "MBLPMGHOPHI": [
+        30049
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "MBLPMGHOPHI": [
+        30050
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "MBLPMGHOPHI": [
+        30051
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "MBLPMGHOPHI": [
+        30052
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 49,
+      "MBLPMGHOPHI": [
+        30053
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "MBLPMGHOPHI": [
+        30054
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 53,
+      "MBLPMGHOPHI": [
+        30055
+      ],
+      "ADBEKGKLEKO": 3
+    },
+    {
+      "LGJCPENNFBC": 54,
+      "MBLPMGHOPHI": [
+        30056
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 55,
+      "MBLPMGHOPHI": [
+        30057
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 56,
+      "MBLPMGHOPHI": [
+        30058
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 57,
+      "MBLPMGHOPHI": [
+        30059
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 58,
+      "MBLPMGHOPHI": [
+        30060
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 59,
+      "MBLPMGHOPHI": [
+        30061
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 60,
+      "MBLPMGHOPHI": [
+        30062
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 61,
+      "MBLPMGHOPHI": [
+        30063
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 62,
+      "MBLPMGHOPHI": [
+        30064
+      ],
+      "ADBEKGKLEKO": 3
+    },
+    {
+      "LGJCPENNFBC": 63,
+      "EJPHDLIHMDH": "DarkzoneExploreSettlementPanel",
+      "MBLPMGHOPHI": [
+        30065
+      ],
+      "ADBEKGKLEKO": 3
+    },
+    {
+      "LGJCPENNFBC": 64,
+      "EJPHDLIHMDH": "UIBattleDarkZoneSettlementPanel",
+      "MBLPMGHOPHI": [
+        30066
+      ],
+      "ADBEKGKLEKO": 3
+    },
+    {
+      "LGJCPENNFBC": 65,
+      "MBLPMGHOPHI": [
+        30067
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 66,
+      "EJPHDLIHMDH": "UIDarkZoneMainPanel",
+      "MBLPMGHOPHI": [
+        30068
+      ]
+    },
+    {
+      "LGJCPENNFBC": 67,
+      "MBLPMGHOPHI": [
+        30069
+      ],
+      "ADBEKGKLEKO": 2,
+      "KLJDENIBOPH": "DZ_BattleMusic",
+      "OFJCCFNOFEI": "Common"
+    },
+    {
+      "LGJCPENNFBC": 68,
+      "MBLPMGHOPHI": [
+        30070
+      ],
+      "ADBEKGKLEKO": 2,
+      "KLJDENIBOPH": "DZ_BattleMusic",
+      "OFJCCFNOFEI": "Boss"
+    },
+    {
+      "LGJCPENNFBC": 69,
+      "MBLPMGHOPHI": [
+        30071
+      ],
+      "ADBEKGKLEKO": 2,
+      "KLJDENIBOPH": "DZ_BattleMusic",
+      "OFJCCFNOFEI": "Common"
+    },
+    {
+      "LGJCPENNFBC": 70,
+      "MBLPMGHOPHI": [
+        30072
+      ],
+      "ADBEKGKLEKO": 2,
+      "KLJDENIBOPH": "DZ_BattleMusic",
+      "OFJCCFNOFEI": "Boss"
+    },
+    {
+      "LGJCPENNFBC": 71,
+      "MBLPMGHOPHI": [
+        30073
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 72,
+      "EJPHDLIHMDH": "UIDarkZoneModePanel",
+      "MBLPMGHOPHI": [
+        30068
+      ]
+    },
+    {
+      "LGJCPENNFBC": 73,
+      "EJPHDLIHMDH": "UIDarkZoneQuestPanel",
+      "MBLPMGHOPHI": [
+        30068
+      ]
+    },
+    {
+      "LGJCPENNFBC": 74,
+      "EJPHDLIHMDH": "RecentActivitiePanelV2",
+      "MBLPMGHOPHI": [
+        30068
+      ]
+    },
+    {
+      "LGJCPENNFBC": 75,
+      "MBLPMGHOPHI": [
+        30071
+      ],
+      "ADBEKGKLEKO": 2
+    },
+    {
+      "LGJCPENNFBC": 76,
+      "MBLPMGHOPHI": [
+        30070
+      ],
+      "ADBEKGKLEKO": 2
+    },
+    {
+      "LGJCPENNFBC": 77,
+      "MBLPMGHOPHI": [
+        30075
+      ]
+    },
+    {
+      "LGJCPENNFBC": 78,
+      "MBLPMGHOPHI": [
+        30076
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 79,
+      "EJPHDLIHMDH": "UINickNamePanelV2",
+      "MBLPMGHOPHI": [
+        30077
+      ],
+      "ADBEKGKLEKO": 1
+    },
+    {
+      "LGJCPENNFBC": 80,
+      "MBLPMGHOPHI": [
+        30078
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 81,
+      "MBLPMGHOPHI": [
+        30079
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 82,
+      "MBLPMGHOPHI": [
+        30080
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 83,
+      "MBLPMGHOPHI": [
+        30081
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 84,
+      "EJPHDLIHMDH": "DaiyanMainPanel",
+      "MBLPMGHOPHI": [
+        30082
+      ]
+    },
+    {
+      "LGJCPENNFBC": 85,
+      "MBLPMGHOPHI": [
+        30083
+      ]
+    },
+    {
+      "LGJCPENNFBC": 86,
+      "EJPHDLIHMDH": "UIDormMainPanelV2",
+      "MBLPMGHOPHI": [
+        30084
+      ]
+    },
+    {
+      "LGJCPENNFBC": 87,
+      "EJPHDLIHMDH": "ChrPowerUpPanelV3",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 88,
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 89,
+      "MBLPMGHOPHI": [
+        30085
+      ],
+      "KLJDENIBOPH": "Event_Selector",
+      "OFJCCFNOFEI": "Selector_1"
+    },
+    {
+      "LGJCPENNFBC": 90,
+      "MBLPMGHOPHI": [
+        30086
+      ],
+      "KLJDENIBOPH": "Event_Selector",
+      "OFJCCFNOFEI": "Selector_2"
+    },
+    {
+      "LGJCPENNFBC": 91,
+      "EJPHDLIHMDH": "UIActivityCafeChallengePanel",
+      "MBLPMGHOPHI": [
+        30087
+      ],
+      "KLJDENIBOPH": "Event_Selector",
+      "OFJCCFNOFEI": "Selector_3"
+    },
+    {
+      "LGJCPENNFBC": 92,
+      "EJPHDLIHMDH": "UIActivityCafeChapterPanel",
+      "MBLPMGHOPHI": [
+        30087
+      ],
+      "KLJDENIBOPH": "Event_Selector",
+      "OFJCCFNOFEI": "Selector_3"
+    },
+    {
+      "LGJCPENNFBC": 93,
+      "EJPHDLIHMDH": "UIDarkzoneModeCarrierPanel",
+      "MBLPMGHOPHI": [
+        30068
+      ]
+    },
+    {
+      "LGJCPENNFBC": 94,
+      "EJPHDLIHMDH": "UIRecentActivityPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 95,
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 96,
+      "EJPHDLIHMDH": "UISimCombatWeaponModPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 97,
+      "EJPHDLIHMDH": "UISimCombatWeaponExpPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 98,
+      "EJPHDLIHMDH": "UISimCombatDailyPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 99,
+      "EJPHDLIHMDH": "UIBattleIndexPanelV2",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 100,
+      "EJPHDLIHMDH": "UIHardChapterDetailPanel",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "EJPHDLIHMDH": "UIShootEnterPanel",
+      "MBLPMGHOPHI": [
+        30088
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "EJPHDLIHMDH": "LennaMainPanel",
+      "MBLPMGHOPHI": [
+        30090
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "EJPHDLIHMDH": "ActivityTourMainPanel",
+      "MBLPMGHOPHI": [
+        30089
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "EJPHDLIHMDH": "UIActivityDialog",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "EJPHDLIHMDH": "UIHardChapterSelectPanelV2",
+      "MBLPMGHOPHI": [
+        30027
+      ],
+      "KLJDENIBOPH": "MainMenu",
+      "OFJCCFNOFEI": "Lobby"
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "EJPHDLIHMDH": "UIGravityJumpEnterPanel",
+      "MBLPMGHOPHI": [
+        30091
+      ]
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "EJPHDLIHMDH": "UIGravityJumpMainPanel",
+      "MBLPMGHOPHI": [
+        30091
+      ]
+    },
+    {
+      "LGJCPENNFBC": 109,
+      "MBLPMGHOPHI": [
+        30095
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Prepare"
+    },
+    {
+      "LGJCPENNFBC": 110,
+      "MBLPMGHOPHI": [
+        30096
+      ],
+      "ADBEKGKLEKO": 1,
+      "KLJDENIBOPH": "Battle",
+      "OFJCCFNOFEI": "Inbattle"
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "EJPHDLIHMDH": "UIDoodleJumpEnterPanel",
+      "MBLPMGHOPHI": [
+        30094
+      ]
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "EJPHDLIHMDH": "UIDoodleJumpMainPanel",
+      "MBLPMGHOPHI": [
+        30094
+      ]
+    },
+    {
+      "LGJCPENNFBC": 113,
+      "EJPHDLIHMDH": "UIAnniversaryMainPanel",
+      "MBLPMGHOPHI": [
+        30097
+      ]
+    },
+    {
+      "LGJCPENNFBC": 114,
+      "EJPHDLIHMDH": "SandBoxMainPanel",
+      "MBLPMGHOPHI": [
+        30097
+      ]
+    },
+    {
+      "LGJCPENNFBC": 116,
+      "MBLPMGHOPHI": [
+        30101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 117,
+      "MBLPMGHOPHI": [
+        30098
+      ]
+    },
+    {
+      "LGJCPENNFBC": 118,
+      "MBLPMGHOPHI": [
+        30099
+      ]
+    },
+    {
+      "LGJCPENNFBC": 119,
+      "MBLPMGHOPHI": [
+        30100
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120,
+      "MBLPMGHOPHI": [
+        30102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "MBLPMGHOPHI": [
+        30103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 122,
+      "EJPHDLIHMDH": "UITpsShootLevelListPanel",
+      "MBLPMGHOPHI": [
+        30041
+      ]
+    },
+    {
+      "LGJCPENNFBC": 123,
+      "MBLPMGHOPHI": [
+        30104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 124,
+      "EJPHDLIHMDH": "UISummerActivityMainPanel",
+      "MBLPMGHOPHI": [
+        30105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 125,
+      "EJPHDLIHMDH": "UIChrBlessingPanel",
+      "MBLPMGHOPHI": [
+        30106
+      ]
+    },
+    {
+      "LGJCPENNFBC": 126,
+      "EJPHDLIHMDH": "UIActivityTourDifficultySelectPanel",
+      "MBLPMGHOPHI": [
+        30089
+      ]
+    },
+    {
+      "LGJCPENNFBC": 127,
+      "EJPHDLIHMDH": "UIActivityThemeBMainPanel",
+      "MBLPMGHOPHI": [
+        30108
+      ]
+    }
+  ]
+}

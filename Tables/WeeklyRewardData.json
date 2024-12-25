@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "NKGEDIMKJHL": 25,
+      "DMGFKMJNIPF": {
+        "1": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "NKGEDIMKJHL": 50,
+      "DMGFKMJNIPF": {
+        "1": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "NKGEDIMKJHL": 75,
+      "DMGFKMJNIPF": {
+        "1": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "NKGEDIMKJHL": 100,
+      "DMGFKMJNIPF": {
+        "1": 100
+      }
+    }
+  ]
+}

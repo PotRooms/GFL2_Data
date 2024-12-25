@@ -1,0 +1,484 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1301,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1302,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1303,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1401,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1402,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1403,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3101,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3102,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3103,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3401,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3402,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 1500,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3403,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 1500,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4101,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4102,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4103,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2101,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2102,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2103,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2201,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2202,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2203,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2401,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2402,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 1500,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2403,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 1500,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3201,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3202,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3203,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4401,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4402,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 1500,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4403,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 4,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 1500,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1501,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1502,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1503,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2301,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2302,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2303,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2501,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 2502,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 5000,
+      "LDNCHNFEMKP": 4
+    },
+    {
+      "LGJCPENNFBC": 2503,
+      "JIEBHGPIGKL": 2,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 5000,
+      "LDNCHNFEMKP": 4
+    },
+    {
+      "LGJCPENNFBC": 4201,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4202,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4203,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4301,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4302,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4303,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4501,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 4502,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 5000,
+      "LDNCHNFEMKP": 4
+    },
+    {
+      "LGJCPENNFBC": 4503,
+      "JIEBHGPIGKL": 4,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 5000,
+      "LDNCHNFEMKP": 4
+    },
+    {
+      "LGJCPENNFBC": 1101,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1102,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1103,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 1,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1201,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1202,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 1203,
+      "JIEBHGPIGKL": 1,
+      "JCICKJAEAKF": 2,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3301,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3302,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3303,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 3,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3501,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 1,
+      "BOGMGNLEOHP": 99999,
+      "LDNCHNFEMKP": 2
+    },
+    {
+      "LGJCPENNFBC": 3502,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 2,
+      "BOGMGNLEOHP": 5000,
+      "LDNCHNFEMKP": 4
+    },
+    {
+      "LGJCPENNFBC": 3503,
+      "JIEBHGPIGKL": 3,
+      "JCICKJAEAKF": 5,
+      "HPMLJGCOFKN": 3,
+      "BOGMGNLEOHP": 5000,
+      "LDNCHNFEMKP": 4
+    }
+  ]
+}

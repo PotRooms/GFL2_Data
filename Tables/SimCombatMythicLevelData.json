@@ -1,0 +1,649 @@
+{
+  "data": [
+    {
+      "MAMMIGCEECG": 4011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4773"
+      },
+      "LLBEJEOKALI": 20411,
+      "NBDHPJKGCHI": 45,
+      "HOBFAHMGFEG": "Monster_Half_ArrowThornElite",
+      "KILFDEJGMDD": {
+        "2": 500
+      }
+    },
+    {
+      "MAMMIGCEECG": 4012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4773"
+      },
+      "LLBEJEOKALI": 20421,
+      "NBDHPJKGCHI": 46,
+      "HOBFAHMGFEG": "Monster_Half_ArrowThornElite",
+      "KILFDEJGMDD": {
+        "2": 600
+      }
+    },
+    {
+      "MAMMIGCEECG": 4013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4773"
+      },
+      "LLBEJEOKALI": 20431,
+      "NBDHPJKGCHI": 47,
+      "HOBFAHMGFEG": "Monster_Half_UnitasIon",
+      "KILFDEJGMDD": {
+        "110201": 1
+      }
+    },
+    {
+      "MAMMIGCEECG": 4014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4773"
+      },
+      "LLBEJEOKALI": 20441,
+      "NBDHPJKGCHI": 48,
+      "HOBFAHMGFEG": "Monster_Half_Commander",
+      "KILFDEJGMDD": {
+        "2": 1000
+      }
+    },
+    {
+      "MAMMIGCEECG": 4015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4773"
+      },
+      "LLBEJEOKALI": 20451,
+      "NBDHPJKGCHI": 50,
+      "HOBFAHMGFEG": "Monster_Half_Felaskju_Hummer",
+      "KILFDEJGMDD": {
+        "1": 25
+      }
+    },
+    {
+      "MAMMIGCEECG": 5011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4782"
+      },
+      "LLBEJEOKALI": 20511,
+      "NBDHPJKGCHI": 50,
+      "HOBFAHMGFEG": "Monster_Half_Commander",
+      "KILFDEJGMDD": {
+        "2": 600
+      }
+    },
+    {
+      "MAMMIGCEECG": 5012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4782"
+      },
+      "LLBEJEOKALI": 20521,
+      "NBDHPJKGCHI": 51,
+      "HOBFAHMGFEG": "Monster_Half_FelaskjuCaptain",
+      "KILFDEJGMDD": {
+        "2": 800
+      }
+    },
+    {
+      "MAMMIGCEECG": 5013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4782"
+      },
+      "LLBEJEOKALI": 20531,
+      "NBDHPJKGCHI": 52,
+      "HOBFAHMGFEG": "Monster_Half_HammerThornElite",
+      "KILFDEJGMDD": {
+        "110201": 1
+      }
+    },
+    {
+      "MAMMIGCEECG": 5014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4782"
+      },
+      "LLBEJEOKALI": 20541,
+      "NBDHPJKGCHI": 53,
+      "HOBFAHMGFEG": "Monster_Half_Felaskju_Hummer",
+      "KILFDEJGMDD": {
+        "2": 1000
+      }
+    },
+    {
+      "MAMMIGCEECG": 5015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4782"
+      },
+      "LLBEJEOKALI": 20551,
+      "NBDHPJKGCHI": 55,
+      "HOBFAHMGFEG": "Monster_Half_AegisArtillery_SWAP",
+      "KILFDEJGMDD": {
+        "1": 30
+      }
+    },
+    {
+      "MAMMIGCEECG": 6011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4896"
+      },
+      "LLBEJEOKALI": 20611,
+      "NBDHPJKGCHI": 55,
+      "HOBFAHMGFEG": "Monster_Half_ScophinxMoths",
+      "KILFDEJGMDD": {
+        "2": 800
+      }
+    },
+    {
+      "MAMMIGCEECG": 6012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4896"
+      },
+      "LLBEJEOKALI": 20621,
+      "NBDHPJKGCHI": 55,
+      "HOBFAHMGFEG": "Monster_Half_AegisJetpack",
+      "KILFDEJGMDD": {
+        "2": 1000
+      }
+    },
+    {
+      "MAMMIGCEECG": 6013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4896"
+      },
+      "LLBEJEOKALI": 20631,
+      "NBDHPJKGCHI": 55,
+      "HOBFAHMGFEG": "Monster_Half_ArrowThornElite",
+      "KILFDEJGMDD": {
+        "110201": 1
+      }
+    },
+    {
+      "MAMMIGCEECG": 6014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4896"
+      },
+      "LLBEJEOKALI": 20641,
+      "NBDHPJKGCHI": 55,
+      "HOBFAHMGFEG": "Monster_Half_ArrowThornElite",
+      "KILFDEJGMDD": {
+        "2": 1200
+      }
+    },
+    {
+      "MAMMIGCEECG": 6015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4896"
+      },
+      "LLBEJEOKALI": 20651,
+      "NBDHPJKGCHI": 55,
+      "HOBFAHMGFEG": "Monster_Half_FelaskjuCaptain",
+      "KILFDEJGMDD": {
+        "1": 30
+      }
+    },
+    {
+      "MAMMIGCEECG": 7011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20711,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_Niter"
+    },
+    {
+      "MAMMIGCEECG": 7012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20721,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_MosinnagantSSR"
+    },
+    {
+      "MAMMIGCEECG": 7013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20731,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_AegisJetpack"
+    },
+    {
+      "MAMMIGCEECG": 7014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20741,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_ArrowThornElite"
+    },
+    {
+      "MAMMIGCEECG": 7015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20751,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_AegisJetpack"
+    },
+    {
+      "MAMMIGCEECG": 9011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20911,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_HackerGuard",
+      "KILFDEJGMDD": {
+        "2": 1000
+      }
+    },
+    {
+      "MAMMIGCEECG": 9012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20921,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_MotorDrivenLightning",
+      "KILFDEJGMDD": {
+        "2": 1200
+      }
+    },
+    {
+      "MAMMIGCEECG": 9013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20931,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_Commander",
+      "KILFDEJGMDD": {
+        "131501": 1
+      }
+    },
+    {
+      "MAMMIGCEECG": 9014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20941,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_AegisArtillery_SWAP",
+      "KILFDEJGMDD": {
+        "2": 1500
+      }
+    },
+    {
+      "MAMMIGCEECG": 9015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20951,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Bust_HammerThornElite",
+      "KILFDEJGMDD": {
+        "1": 40
+      }
+    },
+    {
+      "MAMMIGCEECG": 1011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "1762"
+      },
+      "LLBEJEOKALI": 20111,
+      "NBDHPJKGCHI": 30,
+      "HOBFAHMGFEG": "Monster_Half_Commander",
+      "KILFDEJGMDD": {
+        "2": 200
+      }
+    },
+    {
+      "MAMMIGCEECG": 1012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "1762"
+      },
+      "LLBEJEOKALI": 20121,
+      "NBDHPJKGCHI": 31,
+      "HOBFAHMGFEG": "Monster_Half_AegisArtillery_SWAP",
+      "KILFDEJGMDD": {
+        "2": 300
+      }
+    },
+    {
+      "MAMMIGCEECG": 1013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "1762"
+      },
+      "LLBEJEOKALI": 20131,
+      "NBDHPJKGCHI": 32,
+      "HOBFAHMGFEG": "Monster_Half_FelaskjuCaptain",
+      "KILFDEJGMDD": {
+        "110201": 1
+      }
+    },
+    {
+      "MAMMIGCEECG": 1014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "1762"
+      },
+      "LLBEJEOKALI": 20141,
+      "NBDHPJKGCHI": 33,
+      "HOBFAHMGFEG": "Monster_Half_FelaskjuCaptain",
+      "KILFDEJGMDD": {
+        "2": 500
+      }
+    },
+    {
+      "MAMMIGCEECG": 1015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "1762"
+      },
+      "LLBEJEOKALI": 20151,
+      "NBDHPJKGCHI": 35,
+      "HOBFAHMGFEG": "Monster_Half_FelaskjuCaptain",
+      "KILFDEJGMDD": {
+        "1": 20
+      }
+    },
+    {
+      "MAMMIGCEECG": 2011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4897"
+      },
+      "LLBEJEOKALI": 20211,
+      "NBDHPJKGCHI": 35,
+      "HOBFAHMGFEG": "Monster_Half_AegisArtillery_SWAP",
+      "KILFDEJGMDD": {
+        "2": 300
+      }
+    },
+    {
+      "MAMMIGCEECG": 2012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4897"
+      },
+      "LLBEJEOKALI": 20221,
+      "NBDHPJKGCHI": 36,
+      "HOBFAHMGFEG": "Monster_Half_FelaskjuCaptain",
+      "KILFDEJGMDD": {
+        "2": 400
+      }
+    },
+    {
+      "MAMMIGCEECG": 2013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4897"
+      },
+      "LLBEJEOKALI": 20231,
+      "NBDHPJKGCHI": 37,
+      "HOBFAHMGFEG": "Monster_Half_ArrowThornElite",
+      "KILFDEJGMDD": {
+        "110201": 1
+      }
+    },
+    {
+      "MAMMIGCEECG": 2014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4897"
+      },
+      "LLBEJEOKALI": 20241,
+      "NBDHPJKGCHI": 38,
+      "HOBFAHMGFEG": "Monster_Half_FelaskjuCaptain",
+      "KILFDEJGMDD": {
+        "2": 600
+      }
+    },
+    {
+      "MAMMIGCEECG": 2015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4897"
+      },
+      "LLBEJEOKALI": 20251,
+      "NBDHPJKGCHI": 40,
+      "HOBFAHMGFEG": "Monster_Half_AegisArtillery_SWAP",
+      "KILFDEJGMDD": {
+        "1": 20
+      }
+    },
+    {
+      "MAMMIGCEECG": 3011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4895"
+      },
+      "LLBEJEOKALI": 20311,
+      "NBDHPJKGCHI": 40,
+      "HOBFAHMGFEG": "Monster_Half_AegisArtillery_SWAP",
+      "KILFDEJGMDD": {
+        "2": 400
+      }
+    },
+    {
+      "MAMMIGCEECG": 3012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4895"
+      },
+      "LLBEJEOKALI": 20321,
+      "NBDHPJKGCHI": 41,
+      "HOBFAHMGFEG": "Monster_Half_Commander",
+      "KILFDEJGMDD": {
+        "2": 500
+      }
+    },
+    {
+      "MAMMIGCEECG": 3013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4895"
+      },
+      "LLBEJEOKALI": 20331,
+      "NBDHPJKGCHI": 42,
+      "HOBFAHMGFEG": "Monster_Half_Commander",
+      "KILFDEJGMDD": {
+        "110201": 1
+      }
+    },
+    {
+      "MAMMIGCEECG": 3014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4895"
+      },
+      "LLBEJEOKALI": 20341,
+      "NBDHPJKGCHI": 43,
+      "HOBFAHMGFEG": "Monster_Half_AegisJetpack",
+      "KILFDEJGMDD": {
+        "2": 800
+      }
+    },
+    {
+      "MAMMIGCEECG": 3015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4895"
+      },
+      "LLBEJEOKALI": 20351,
+      "NBDHPJKGCHI": 45,
+      "HOBFAHMGFEG": "Monster_Half_ArrowThornElite",
+      "KILFDEJGMDD": {
+        "1": 25
+      }
+    },
+    {
+      "MAMMIGCEECG": 8011,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "3080"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20811,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_AegisJetpack"
+    },
+    {
+      "MAMMIGCEECG": 8012,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4774"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20821,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_AegisLeah"
+    },
+    {
+      "MAMMIGCEECG": 8013,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4777"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20831,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_AegisWall_SWAP"
+    },
+    {
+      "MAMMIGCEECG": 8014,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4778"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20841,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_Niter"
+    },
+    {
+      "MAMMIGCEECG": 8015,
+      "PECOMAJNHLK": {
+        "DOHLNDIPHAJ": "4779"
+      },
+      "PIBOFGBCHEH": {
+        "DOHLNDIPHAJ": "4894"
+      },
+      "LLBEJEOKALI": 20851,
+      "NBDHPJKGCHI": 60,
+      "HOBFAHMGFEG": "Monster_Half_Imbiber"
+    }
+  ]
+}

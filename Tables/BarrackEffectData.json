@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 100601,
+      "ALLHIBPKKFH": "NemesisSSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 102301,
+      "ALLHIBPKKFH": "DusevnyjSSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 102302,
+      "ALLHIBPKKFH": "DusevnyjSSR_01_wp",
+      "AGNKNPJNPIB": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon/lgp_eject"
+    },
+    {
+      "LGJCPENNFBC": 102501,
+      "ALLHIBPKKFH": "TololoSSR_01_TL",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 102502,
+      "ALLHIBPKKFH": "TololoSSR_01_wp_TL",
+      "AGNKNPJNPIB": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon00"
+    },
+    {
+      "LGJCPENNFBC": 100101,
+      "ALLHIBPKKFH": "CharolicSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 100102,
+      "ALLHIBPKKFH": "CharolicSR_wp",
+      "AGNKNPJNPIB": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon"
+    },
+    {
+      "LGJCPENNFBC": 100201,
+      "ALLHIBPKKFH": "ColphneR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 100301,
+      "ALLHIBPKKFH": "NemesisR01_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 100801,
+      "ALLHIBPKKFH": "NemesisSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101101,
+      "ALLHIBPKKFH": "VepleyR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101102,
+      "ALLHIBPKKFH": "VepleyR_01_wp",
+      "AGNKNPJNPIB": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon"
+    },
+    {
+      "LGJCPENNFBC": 101301,
+      "ALLHIBPKKFH": "LennaSSR01_Normal",
+      "AGNKNPJNPIB": "root/Root_M/Spine1_M/Spine2_M/Chest_M/Neck_M/Head_M/Glass_Jnt"
+    },
+    {
+      "LGJCPENNFBC": 101302,
+      "ALLHIBPKKFH": "LennaSSR_01_Bip001",
+      "AGNKNPJNPIB": "Bip001"
+    },
+    {
+      "LGJCPENNFBC": 101303,
+      "ALLHIBPKKFH": "LennaSSR01_Normal02",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101501,
+      "ALLHIBPKKFH": "VepleySR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101601,
+      "ALLHIBPKKFH": "CharolicR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 100401,
+      "ALLHIBPKKFH": "GrozaR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 100501,
+      "ALLHIBPKKFH": "CharolicSSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 100502,
+      "ALLHIBPKKFH": "CharolicSSR_wp",
+      "AGNKNPJNPIB": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/Weapon"
+    },
+    {
+      "LGJCPENNFBC": 100701,
+      "ALLHIBPKKFH": "GrozaSSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 102101,
+      "ALLHIBPKKFH": "PerityaSR01_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 102401,
+      "ALLHIBPKKFH": "lollipop_04",
+      "AGNKNPJNPIB": "root/lollipop04"
+    },
+    {
+      "LGJCPENNFBC": 103301,
+      "ALLHIBPKKFH": "MosinnagantSSR01@c_MosinnagantSSR01_Bullet",
+      "AGNKNPJNPIB": "root"
+    },
+    {
+      "LGJCPENNFBC": 100901,
+      "ALLHIBPKKFH": "ColphneSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101401,
+      "ALLHIBPKKFH": "PerityaSSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101402,
+      "ALLHIBPKKFH": "PerityaSSR_01_wp",
+      "AGNKNPJNPIB": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001 R Hand/weapon"
+    },
+    {
+      "LGJCPENNFBC": 102901,
+      "ALLHIBPKKFH": "SabrinaSSR01_Biscuit",
+      "AGNKNPJNPIB": "root/Root_M/Spine1_M/Spine2_M/Chest_M/Scapula_L/Shoulder_L/ShoulderPart1_L/Elbow_L/ElbowPart1_L/Wrist_L/ThumbFinger1_L/ThumbFinger2_L/ThumbFinger3_L/ThumbFinger4_L"
+    },
+    {
+      "LGJCPENNFBC": 102902,
+      "ALLHIBPKKFH": "pizza",
+      "AGNKNPJNPIB": "root/root2"
+    },
+    {
+      "LGJCPENNFBC": 101201,
+      "ALLHIBPKKFH": "ColphneSSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101701,
+      "ALLHIBPKKFH": "GrozaSR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101901,
+      "ALLHIBPKKFH": "PerityaR_01",
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 101902,
+      "ALLHIBPKKFH": "PerityaR_tw",
+      "AGNKNPJNPIB": "Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001 L Hand"
+    }
+  ]
+}

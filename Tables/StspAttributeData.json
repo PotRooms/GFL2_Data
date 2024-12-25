@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8663"
+      },
+      "IINAEFFCJFH": "Hpmax",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "玩家最大5\n怪物独立走"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9461"
+      },
+      "IINAEFFCJFH": "Attack",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "玩家=主动子弹基础伤害\n怪物均为1"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13677"
+      },
+      "IINAEFFCJFH": "Speed",
+      "FEONOIDAIBK": "All"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "15492"
+      },
+      "IINAEFFCJFH": "Outview_Speed",
+      "FEONOIDAIBK": "Monster"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "17872"
+      },
+      "IINAEFFCJFH": "Attack_Speed",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "每秒射出的【主动子弹】数量。（e.g.配置值为1.5时，每秒发射1.5次，即每0.6667秒发射一次）"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "17897"
+      },
+      "IINAEFFCJFH": "Bullet_Speed",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "【主动子弹】的飞行速度。"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "21022"
+      },
+      "IINAEFFCJFH": "Shoot_Range",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "【主动子弹】的最大飞行距离。【使用标准距离】"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24253"
+      },
+      "IINAEFFCJFH": "Bullet_Number",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "一次同时发射的子弹数量"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24254"
+      },
+      "IINAEFFCJFH": "Bullet_Diffusion_Angle",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "增加【主动子弹数量】时，每两颗子弹间的扩散角度"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24255"
+      },
+      "IINAEFFCJFH": "Bullet_Size",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "子弹的缩放大小，包含特效本身、cube碰撞盒的缩放大小。（配1.1，即扩大碰撞盒至1.1倍）"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24256"
+      },
+      "IINAEFFCJFH": "Repel_Size",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "影响击退距离.【使用标准距离】"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24257"
+      },
+      "IINAEFFCJFH": "Bullet_Collision",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "碰撞并造成伤害X目标后消亡，默认值为1。"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24258"
+      },
+      "IINAEFFCJFH": "Crit",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "千分比【配置值/1000*100%=暴击率】"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7698"
+      },
+      "IINAEFFCJFH": "Crit_mult",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "千分比【配置值/1000*100%=暴击伤害倍率；伤害*暴击伤害倍率=最终暴击伤害总量】"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24259"
+      },
+      "IINAEFFCJFH": "Shield_Hpmax",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "拥有临时生命值时，受到伤害优先使用临时生命值代替扣血。"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24260"
+      },
+      "IINAEFFCJFH": "Scale",
+      "FEONOIDAIBK": "All",
+      "MNNLJNAGCGP": "【角色】的缩放大小，包含spine本身、碰撞盒的缩放大小。"
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24261"
+      },
+      "IINAEFFCJFH": "Collect_Radius",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "拾取资源的范围【使用标准距离】"
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24262"
+      },
+      "IINAEFFCJFH": "Hit_Damage_Fix",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "影响主动子弹的伤害值-固定值，默认值：0"
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24263"
+      },
+      "IINAEFFCJFH": "Hit_Damage_Percent",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "影响主动子弹的伤害值-百分比，默认值：1000"
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24264"
+      },
+      "IINAEFFCJFH": "Behit_Damage",
+      "FEONOIDAIBK": "Monster",
+      "MNNLJNAGCGP": "影响怪物受到玩家的【非真实伤害】的伤害变化，百分比，默认值：1000；\n<1000为减伤，反之增伤"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24265"
+      },
+      "IINAEFFCJFH": "Change_To_Sheild_Hp",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "受到溢出的治疗转化为临时生命值，0-不起效，1-起效"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24266"
+      },
+      "IINAEFFCJFH": "Hit_Damage_Fix",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "造成伤害变化固定值"
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24267"
+      },
+      "IINAEFFCJFH": "Hit_Damage_Percent",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "造成伤害变化百分比"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24268"
+      },
+      "IINAEFFCJFH": "Repel_Resist",
+      "FEONOIDAIBK": "Monster",
+      "MNNLJNAGCGP": "玩家max(击退值-击退抗性,0)=最终击退值"
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24269"
+      },
+      "IINAEFFCJFH": "All_Moster_Hp",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "默认值0，怪物HP=基础HP*(1+本属性/1000)，千分比配置，会影响后续新刷新的怪物"
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "24270"
+      },
+      "IINAEFFCJFH": "All_Moster_Speed",
+      "FEONOIDAIBK": "Player",
+      "MNNLJNAGCGP": "默认值0，同上↑，会影响后续新刷新的怪物"
+    }
+  ]
+}

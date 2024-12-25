@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "生气",
+      "DNHAGPFHGCE": "Icon_Lounge_Mood1",
+      "ONGJJJDOLAC": 200,
+      "CMCIOIHPGDD": [
+        -10,
+        10
+      ],
+      "OMDKIFCCLDM": 1003
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "平静",
+      "DNHAGPFHGCE": "Icon_Lounge_Mood2",
+      "ONGJJJDOLAC": 400,
+      "CMCIOIHPGDD": [
+        -20,
+        20
+      ],
+      "OMDKIFCCLDM": 1002
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "普通",
+      "DNHAGPFHGCE": "Icon_Lounge_Mood3",
+      "ONGJJJDOLAC": 600,
+      "CMCIOIHPGDD": [
+        -30,
+        25
+      ],
+      "OMDKIFCCLDM": 1002
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "开心",
+      "DNHAGPFHGCE": "Icon_Lounge_Mood4",
+      "ONGJJJDOLAC": 800,
+      "MAKGHIOMEJD": [
+        1,
+        500,
+        600,
+        700
+      ],
+      "OBHFLCNIPKE": [
+        50,
+        350,
+        400,
+        450
+      ],
+      "CMCIOIHPGDD": [
+        -40,
+        30
+      ],
+      "CMHJOFIFOIG": 10,
+      "OMDKIFCCLDM": 1001
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "喜悦",
+      "DNHAGPFHGCE": "Icon_Lounge_Mood5",
+      "ONGJJJDOLAC": 999999,
+      "MAKGHIOMEJD": [
+        1
+      ],
+      "OBHFLCNIPKE": [
+        500
+      ],
+      "CMCIOIHPGDD": [
+        -70,
+        40
+      ],
+      "CMHJOFIFOIG": 20,
+      "OMDKIFCCLDM": 1001
+    }
+  ]
+}

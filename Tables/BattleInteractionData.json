@@ -1,0 +1,3376 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 101,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        50104
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13745"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13746"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13747"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13745"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13748"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13749"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "KABHHLHOBNO": 1005,
+      "FACPNMNDBGM": [
+        50107
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13750"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13751"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13752"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13750"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13753"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13754"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "KABHHLHOBNO": 1004,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9546"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13755"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13756"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "9546"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13757"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13758"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "KABHHLHOBNO": 1007,
+      "FACPNMNDBGM": [
+        50110
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8615"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13759"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13760"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "8615"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13761"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13762"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "KABHHLHOBNO": 1006,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9550"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13763"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13764"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "9550"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13765"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13766"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "KABHHLHOBNO": 1042,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9552"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13767"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13768"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "9552"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13769"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13770"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 108,
+      "KABHHLHOBNO": 1003,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13771"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13772"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13773"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13774"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 10011,
+      "KABHHLHOBNO": 10011,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/Items/GuideArea_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4532"
+      },
+      "OFCLMFCAJPE": 3,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13941"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13942"
+      },
+      "JBPBKNLDBIP": "51050,51051,51060,200",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Evacuate",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 1,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13943"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13944"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13945"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 10103,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13920"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13921"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13694"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13920"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13696"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13697"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13734"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13735"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13736"
+      },
+      "JBPBKNLDBIP": "0",
+      "FKLEHKHGBBH": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Set",
+      "BKCIGACKEFD": 3,
+      "FOCNBIKOIIG": 80239,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13734"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13737"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13738"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/Hole.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/Hole.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13728"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13739"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13730"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13731"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13732"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13733"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/Character/Enemy/MISC_Landmine_01/MISC_Landmine_01.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/Character/Enemy/MISC_Landmine_01/MISC_Landmine_01.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13740"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 3,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13742"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13743"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13744"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 10161,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/InteractItem/FunctionalBox_hard_0101.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/InteractItem/FunctionalBox_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13693"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13694"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13860"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13696"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13697"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 10881,
+      "KABHHLHOBNO": 1098,
+      "FACPNMNDBGM": [
+        50117
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13861"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13862"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13863"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13861"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13864"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13865"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 10882,
+      "KABHHLHOBNO": 1098,
+      "FACPNMNDBGM": [
+        50118
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13866"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13867"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13868"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13866"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13869"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13870"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "KABHHLHOBNO": 1001,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/Items/GuideArea_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4532"
+      },
+      "OFCLMFCAJPE": 3,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "9533"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13688"
+      },
+      "JBPBKNLDBIP": "51050,51051,51060,200",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Evacuate",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 1,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13689"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13690"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13692"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13693"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13694"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13695"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13696"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13697"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "KABHHLHOBNO": 1008,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9535"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13698"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13699"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Access",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13700"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13701"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13702"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5949"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13703"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13704"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13705"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13706"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13707"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "KABHHLHOBNO": 1009,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5709"
+      },
+      "OFCLMFCAJPE": 2,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13708"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13709"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Explore",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13710"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13711"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13712"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "KABHHLHOBNO": 1010,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9539"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13713"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13714"
+      },
+      "JBPBKNLDBIP": "51050,51051,51060",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Set",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13715"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13716"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13717"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "KABHHLHOBNO": 1011,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9541"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13718"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13719"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13720"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13721"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13722"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "KABHHLHOBNO": 1013,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9530"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13723"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13724"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13725"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13726"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13727"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/Hole.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/Hole.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13728"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13729"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13730"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13731"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13732"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13733"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1087,
+      "KABHHLHOBNO": 1097,
+      "FACPNMNDBGM": [
+        50113
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13795"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13796"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13797"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13795"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13798"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13799"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1088,
+      "KABHHLHOBNO": 1098,
+      "FACPNMNDBGM": [
+        50116
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13800"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13801"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13802"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13800"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13803"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13804"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1089,
+      "KABHHLHOBNO": 1099,
+      "FACPNMNDBGM": [
+        50121
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_AP.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_AP.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13805"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13806"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13807"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13805"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13808"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13809"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1090,
+      "KABHHLHOBNO": 1042,
+      "FACPNMNDBGM": [
+        50119
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/Character/Enemy/MISC_GasCylinders/MISC_GasCylinders.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/Character/Enemy/MISC_GasCylinders/MISC_GasCylinders.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13845"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 1,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13846"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13847"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13848"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1091,
+      "KABHHLHOBNO": 1091,
+      "FACPNMNDBGM": [
+        50123
+      ],
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/signaltower.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/signaltower.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13849"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13850"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13851"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13852"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1092,
+      "KABHHLHOBNO": 1091,
+      "FACPNMNDBGM": [
+        50124
+      ],
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/signaltower.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/signaltower.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13853"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13854"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13851"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13852"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1093,
+      "KABHHLHOBNO": 1093,
+      "FACPNMNDBGM": [
+        50123
+      ],
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/signaltower.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/signaltower.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13849"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13850"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13851"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13852"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1094,
+      "KABHHLHOBNO": 1093,
+      "FACPNMNDBGM": [
+        50124
+      ],
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/signaltower.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/signaltower.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13853"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13854"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13851"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13852"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1100,
+      "KABHHLHOBNO": 1100,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/extra_bonus.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/extra_bonus.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13855"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13856"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13857"
+      },
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13855"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13858"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13859"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 10871,
+      "KABHHLHOBNO": 1097,
+      "FACPNMNDBGM": [
+        50114
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13922"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13923"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13924"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13922"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13925"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13926"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 10872,
+      "KABHHLHOBNO": 1097,
+      "FACPNMNDBGM": [
+        50115
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13927"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13923"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13928"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13927"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13929"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13930"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 60001,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        33001
+      ],
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/doublepuzzle_smallpack.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/doublepuzzle_smallpack.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13946"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13947"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13948"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13947"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13949"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 60002,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        33002
+      ],
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/doublepuzzle_middlepack.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/doublepuzzle_middlepack.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13950"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13951"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13952"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13951"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13953"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 60003,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        33003
+      ],
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/doublepuzzle_largepack.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/doublepuzzle_largepack.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13954"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13955"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "2308"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13955"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13956"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 60004,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        33100
+      ],
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13957"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13958"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13959"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Set",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13960"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13961"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13949"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 60005,
+      "KABHHLHOBNO": 1043,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13962"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13963"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13964"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 60006,
+      "KABHHLHOBNO": 1043,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13965"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13966"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13964"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 62791,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        62791100
+      ],
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_electricity.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_electricity.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13871"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13872"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13873"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13874"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13875"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 62792,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        62791200
+      ],
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_fire.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_fire.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13876"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13877"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13878"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13879"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13880"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 62793,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        62791300
+      ],
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_ice.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_ice.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13881"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13882"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13883"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13884"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13885"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 62794,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        62791400
+      ],
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_poison.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_poison.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13886"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13887"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13888"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13889"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13890"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 62795,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        62791500
+      ],
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_water.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/InteractItem/s_slg_functionalBox_y01_water.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13891"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13892"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13893"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13894"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13895"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/Character/Enemy/MISC_Landmine_01/MISC_Landmine_01.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/Character/Enemy/MISC_Landmine_01/MISC_Landmine_01.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13810"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 3,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13742"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13743"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13744"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Buff/warning_active.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Buff/warning_active.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13811"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13812"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13813"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 3,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13811"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13814"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13815"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "KABHHLHOBNO": 1008,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9535"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13698"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13699"
+      },
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Access",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13700"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13701"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13702"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "KABHHLHOBNO": 1043,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4536"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13816"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13776"
+      },
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13817"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13818"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13819"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "KABHHLHOBNO": 1011,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9541"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13820"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13719"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13821"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13822"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13823"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "KABHHLHOBNO": 1008,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13824"
+      },
+      "OFCLMFCAJPE": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13825"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13826"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Access",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13827"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13828"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13829"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13830"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13831"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13736"
+      },
+      "JBPBKNLDBIP": "0",
+      "FKLEHKHGBBH": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Set",
+      "BKCIGACKEFD": 3,
+      "FOCNBIKOIIG": 80239,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13830"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13737"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13738"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13830"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13832"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13736"
+      },
+      "JBPBKNLDBIP": "0",
+      "FKLEHKHGBBH": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Set",
+      "BKCIGACKEFD": 3,
+      "FOCNBIKOIIG": 80239,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13830"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13737"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13738"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13830"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13833"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13736"
+      },
+      "JBPBKNLDBIP": "0",
+      "FKLEHKHGBBH": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Set",
+      "BKCIGACKEFD": 3,
+      "FOCNBIKOIIG": 80239,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13830"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13737"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13738"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/p_slg_guide_moveFirst.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13734"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13834"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13736"
+      },
+      "JBPBKNLDBIP": "0",
+      "FKLEHKHGBBH": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Set",
+      "BKCIGACKEFD": 3,
+      "FOCNBIKOIIG": 80239,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13734"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13737"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13738"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 110,
+      "KABHHLHOBNO": 1042,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4536"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13775"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13776"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13777"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13778"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13779"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "KABHHLHOBNO": 1043,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4536"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13780"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13776"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13781"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13782"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13783"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "KABHHLHOBNO": 1042,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4536"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13775"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13776"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13777"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13778"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13779"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 113,
+      "KABHHLHOBNO": 1006,
+      "FACPNMNDBGM": [
+        23020
+      ],
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/FunctionalBox_Stealth.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/FunctionalBox_Stealth.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13784"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13785"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13786"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13784"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13787"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13788"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 114,
+      "KABHHLHOBNO": 1043,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13789"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13790"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13791"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 115,
+      "KABHHLHOBNO": 1043,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13793"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13790"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13791"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 116,
+      "KABHHLHOBNO": 1043,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13794"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13790"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13791"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        50105
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13835"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13836"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13837"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13835"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13838"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13839"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "KABHHLHOBNO": 1004,
+      "FACPNMNDBGM": [
+        50106
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13840"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13841"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13842"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13840"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13843"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13844"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "KABHHLHOBNO": 1005,
+      "FACPNMNDBGM": [
+        50108
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13931"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13932"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13933"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13931"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13934"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13935"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "KABHHLHOBNO": 1005,
+      "FACPNMNDBGM": [
+        50109
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13936"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13937"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13938"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13936"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13939"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13940"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1041,
+      "KABHHLHOBNO": 1007,
+      "FACPNMNDBGM": [
+        50111
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13896"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13897"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13898"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13896"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13899"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13900"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1042,
+      "KABHHLHOBNO": 1007,
+      "FACPNMNDBGM": [
+        50112
+      ],
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13901"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13902"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13903"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80222,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13901"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13904"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13905"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1900,
+      "KABHHLHOBNO": 1900,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13906"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13790"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13791"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1901,
+      "KABHHLHOBNO": 1901,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13793"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13790"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13791"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1902,
+      "KABHHLHOBNO": 1900,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13907"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13790"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13791"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1903,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7398"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13908"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13909"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13292"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13910"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13911"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1904,
+      "KABHHLHOBNO": 1002,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/InteractItem/reinforce_open.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/InteractItem/reinforce_close.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13728"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13912"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13730"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13731"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13732"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13733"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1905,
+      "KABHHLHOBNO": 1901,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13913"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13790"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13791"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1906,
+      "KABHHLHOBNO": 1901,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13914"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13915"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13916"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13917"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13918"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 1907,
+      "KABHHLHOBNO": 1901,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13919"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13915"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13916"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13917"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13918"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 2043,
+      "KABHHLHOBNO": 1042,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4536"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13775"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13776"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13777"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13778"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13779"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 2044,
+      "KABHHLHOBNO": 1043,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/Caifa_Turret_Switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4536"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13780"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13776"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13781"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13782"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13783"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 90001,
+      "KABHHLHOBNO": 1001,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Scene/Items/GuideArea_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9528"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13967"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13968"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Access",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "9528"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13969"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13970"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 90002,
+      "KABHHLHOBNO": 1014,
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/UI/SLGInteraction/bomb_bundle/bomb_bundle.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9530"
+      },
+      "OFCLMFCAJPE": 2,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13971"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13724"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "9530"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13972"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13973"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 90003,
+      "KABHHLHOBNO": 1015,
+      "ALLHIBPKKFH": "Assets/ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_Landmine_01/Dz_dio_Landmine_01.prefab",
+      "OEDALBKHANC": "Assets/ArtsResource/Effect/Effect_sum/Scene/SLGInteraction_disable.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9532"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "9532"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13974"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "9532"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13975"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13976"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 90004,
+      "KABHHLHOBNO": 1901,
+      "ALLHIBPKKFH": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "OEDALBKHANC": "Assets/Level/LevelItem/InteractItem/switch.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13907"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13741"
+      },
+      "DNDCIBEKELL": 1,
+      "JBPBKNLDBIP": "0",
+      "KIIFDFCKMIB": 1,
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13790"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13791"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13792"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 90005,
+      "KABHHLHOBNO": 1007,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13977"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13772"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13978"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13979"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13980"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    },
+    {
+      "LGJCPENNFBC": 90006,
+      "KABHHLHOBNO": 1005,
+      "ALLHIBPKKFH": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+      "OEDALBKHANC": "Assets/ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "13981"
+      },
+      "KIIFAFLBAGF": {
+        "DOHLNDIPHAJ": "13772"
+      },
+      "JBPBKNLDBIP": "0",
+      "CPHHOLKBIJA": "BtnFunction/Icon_Btn_Combat_Pickup",
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 80221,
+      "KPMONEAIKPB": 2,
+      "FDKIKBAPPEE": 3,
+      "AJEJKFJLMGO": 2,
+      "DPJIOCJGIOO": {
+        "DOHLNDIPHAJ": "13982"
+      },
+      "ACKFHOLPMME": {
+        "DOHLNDIPHAJ": "13983"
+      },
+      "BGCJDJINBFF": {
+        "DOHLNDIPHAJ": "13691"
+      },
+      "CDFCBMLLDGI": {
+        "DOHLNDIPHAJ": "13984"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      },
+      "GBFLBMODNCB": 10
+    }
+  ]
+}

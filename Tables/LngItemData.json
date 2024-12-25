@@ -1,0 +1,96 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 81201,
+      "ECKCDABPAON": "s_Lng_simple_Bed",
+      "DHGBGMBFNPH": 1001,
+      "MGILONCLNDM": true,
+      "KKEEJKEMCDH": 7,
+      "JNJILODKKLC": 1,
+      "LPLOFOPPNIM": "0.3,0,0.5,1.9",
+      "IIHLEONNHBM": [
+        -0.6,
+        -0.9,
+        6
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81202,
+      "ECKCDABPAON": "s_Lng_simple_BedStand",
+      "DHGBGMBFNPH": 1001,
+      "MGILONCLNDM": true,
+      "JNJILODKKLC": 1,
+      "LPLOFOPPNIM": "0.3,0,0.5,1.9",
+      "IIHLEONNHBM": [
+        -0.6,
+        -0.9,
+        5.5
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81203,
+      "ECKCDABPAON": "s_Lng_simple_BedCarpet",
+      "DHGBGMBFNPH": 1001,
+      "MGILONCLNDM": true,
+      "JNJILODKKLC": 1,
+      "LPLOFOPPNIM": "0.3,0,0.6,1.9",
+      "IIHLEONNHBM": [
+        -0.6,
+        -0.9,
+        6
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81204,
+      "ECKCDABPAON": "s_Lng_simple_GrozaFunction",
+      "DHGBGMBFNPH": 1002,
+      "MGILONCLNDM": true,
+      "KKEEJKEMCDH": 3,
+      "JNJILODKKLC": 1,
+      "LPLOFOPPNIM": "0.3,0,0.5,1.9",
+      "IIHLEONNHBM": [
+        -0.6,
+        -0.9,
+        6
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81205,
+      "ECKCDABPAON": "s_Lng_simple_GrozaCook01",
+      "DHGBGMBFNPH": 1002,
+      "MGILONCLNDM": true,
+      "JNJILODKKLC": 1,
+      "LPLOFOPPNIM": "0.3,0,0.5,1.9",
+      "IIHLEONNHBM": [
+        -0.15,
+        0.06,
+        2
+      ],
+      "LAABJIIKPPG": [
+        10000,
+        10000,
+        10000
+      ]
+    }
+  ]
+}

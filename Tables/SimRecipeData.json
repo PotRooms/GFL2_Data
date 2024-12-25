@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "DPDLEDNLOPK": 10101,
+      "KNNPNGMAIGM": 1013,
+      "LPPOCHJHAKF": {
+        "DOHLNDIPHAJ": "3201"
+      },
+      "GINMCABOMLA": "Item_Icon_ActivityCafe_Latte",
+      "EGGJIEKCJBI": 170015,
+      "POHLOMNOGMJ": 1,
+      "CHJDBFABKBJ": 170045,
+      "FDFHNOFMANM": 1,
+      "CIJHEMKHFLG": 600,
+      "NKGEDIMKJHL": 10
+    },
+    {
+      "DPDLEDNLOPK": 10102,
+      "KNNPNGMAIGM": 1013,
+      "LPPOCHJHAKF": {
+        "DOHLNDIPHAJ": "5893"
+      },
+      "GINMCABOMLA": "Item_Icon_ActivityCafe_Coconut",
+      "EGGJIEKCJBI": 170016,
+      "POHLOMNOGMJ": 1,
+      "CHJDBFABKBJ": 170046,
+      "FDFHNOFMANM": 1,
+      "CIJHEMKHFLG": 480,
+      "NKGEDIMKJHL": 15
+    },
+    {
+      "DPDLEDNLOPK": 10103,
+      "KNNPNGMAIGM": 1013,
+      "LPPOCHJHAKF": {
+        "DOHLNDIPHAJ": "5894"
+      },
+      "GINMCABOMLA": "Item_Icon_ActivityCafe_Shining",
+      "EGGJIEKCJBI": 170017,
+      "POHLOMNOGMJ": 1,
+      "CHJDBFABKBJ": 170047,
+      "FDFHNOFMANM": 1,
+      "CIJHEMKHFLG": 360,
+      "NKGEDIMKJHL": 20
+    },
+    {
+      "DPDLEDNLOPK": 10104,
+      "KNNPNGMAIGM": 1013,
+      "LPPOCHJHAKF": {
+        "DOHLNDIPHAJ": "5896"
+      },
+      "GINMCABOMLA": "Item_Icon_ActivityCafe_Cheese",
+      "EGGJIEKCJBI": 170018,
+      "POHLOMNOGMJ": 1,
+      "CHJDBFABKBJ": 170048,
+      "FDFHNOFMANM": 1,
+      "CIJHEMKHFLG": 300,
+      "NKGEDIMKJHL": 25
+    },
+    {
+      "DPDLEDNLOPK": 10105,
+      "KNNPNGMAIGM": 1013,
+      "LPPOCHJHAKF": {
+        "DOHLNDIPHAJ": "5897"
+      },
+      "GINMCABOMLA": "Item_Icon_ActivityCafe_Summer",
+      "EGGJIEKCJBI": 170019,
+      "POHLOMNOGMJ": 1,
+      "CHJDBFABKBJ": 170049,
+      "FDFHNOFMANM": 1,
+      "CIJHEMKHFLG": 240,
+      "NKGEDIMKJHL": 30
+    },
+    {
+      "DPDLEDNLOPK": 10106,
+      "KNNPNGMAIGM": 1013,
+      "LPPOCHJHAKF": {
+        "DOHLNDIPHAJ": "5898"
+      },
+      "GINMCABOMLA": "Item_Icon_ActivityCafe_Macchiato",
+      "EGGJIEKCJBI": 170020,
+      "POHLOMNOGMJ": 1,
+      "CHJDBFABKBJ": 170050,
+      "FDFHNOFMANM": 1,
+      "CIJHEMKHFLG": 240,
+      "NKGEDIMKJHL": 40
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1010,
+      "MAMMIGCEECG": 10,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "MAMMIGCEECG": 11,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "MAMMIGCEECG": 12,
+      "NIKBOABCANE": {
+        "1": 150
+      },
+      "GPFPMOCPPND": {
+        "45": 3
+      },
+      "AJHBMLNLHNO": "1:150",
+      "JFLAMPDNFJM": "45:3"
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "MAMMIGCEECG": 13,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "MAMMIGCEECG": 14,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "MAMMIGCEECG": 15,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "MAMMIGCEECG": 16,
+      "NIKBOABCANE": {
+        "1": 150
+      },
+      "GPFPMOCPPND": {
+        "45": 3
+      },
+      "AJHBMLNLHNO": "1:150",
+      "JFLAMPDNFJM": "45:3"
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "MAMMIGCEECG": 17,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1018,
+      "MAMMIGCEECG": 18,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1019,
+      "MAMMIGCEECG": 19,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1020,
+      "MAMMIGCEECG": 20,
+      "NIKBOABCANE": {
+        "1": 150
+      },
+      "GPFPMOCPPND": {
+        "45": 3
+      },
+      "AJHBMLNLHNO": "1:150",
+      "JFLAMPDNFJM": "45:3"
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "MAMMIGCEECG": 1,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "MAMMIGCEECG": 2,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "MAMMIGCEECG": 3,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1024,
+      "MAMMIGCEECG": 4,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1025,
+      "MAMMIGCEECG": 5,
+      "NIKBOABCANE": {
+        "1": 20
+      },
+      "GPFPMOCPPND": {
+        "1": 20
+      },
+      "AJHBMLNLHNO": "1:20",
+      "JFLAMPDNFJM": "1:20"
+    },
+    {
+      "LGJCPENNFBC": 1026,
+      "MAMMIGCEECG": 6,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1027,
+      "MAMMIGCEECG": 7,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1028,
+      "MAMMIGCEECG": 8,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1029,
+      "MAMMIGCEECG": 9,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1030,
+      "MAMMIGCEECG": 10,
+      "NIKBOABCANE": {
+        "1": 20
+      },
+      "GPFPMOCPPND": {
+        "1": 20
+      },
+      "AJHBMLNLHNO": "1:20",
+      "JFLAMPDNFJM": "1:20"
+    },
+    {
+      "LGJCPENNFBC": 1031,
+      "MAMMIGCEECG": 11,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1032,
+      "MAMMIGCEECG": 12,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1033,
+      "MAMMIGCEECG": 13,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1034,
+      "MAMMIGCEECG": 14,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1035,
+      "MAMMIGCEECG": 15,
+      "NIKBOABCANE": {
+        "1": 20
+      },
+      "GPFPMOCPPND": {
+        "1": 20
+      },
+      "AJHBMLNLHNO": "1:20",
+      "JFLAMPDNFJM": "1:20"
+    },
+    {
+      "LGJCPENNFBC": 1036,
+      "MAMMIGCEECG": 16,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1037,
+      "MAMMIGCEECG": 17,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1038,
+      "MAMMIGCEECG": 18,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1039,
+      "MAMMIGCEECG": 19,
+      "NIKBOABCANE": {
+        "8301": 1500,
+        "9006": 24
+      },
+      "GPFPMOCPPND": {
+        "1": 60,
+        "2": 3000,
+        "25": 1500
+      },
+      "AJHBMLNLHNO": "8301:1500,9006:24",
+      "JFLAMPDNFJM": "1:60,2:3000,25:1500"
+    },
+    {
+      "LGJCPENNFBC": 1040,
+      "MAMMIGCEECG": 20,
+      "NIKBOABCANE": {
+        "1": 20
+      },
+      "GPFPMOCPPND": {
+        "1": 20
+      },
+      "AJHBMLNLHNO": "1:20",
+      "JFLAMPDNFJM": "1:20"
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "MAMMIGCEECG": 1,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "MAMMIGCEECG": 2,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "MAMMIGCEECG": 3,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "MAMMIGCEECG": 4,
+      "NIKBOABCANE": {
+        "1": 150
+      },
+      "GPFPMOCPPND": {
+        "45": 3
+      },
+      "AJHBMLNLHNO": "1:150",
+      "JFLAMPDNFJM": "45:3"
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "MAMMIGCEECG": 5,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "MAMMIGCEECG": 6,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "MAMMIGCEECG": 7,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "MAMMIGCEECG": 8,
+      "NIKBOABCANE": {
+        "1": 150
+      },
+      "GPFPMOCPPND": {
+        "45": 3
+      },
+      "AJHBMLNLHNO": "1:150",
+      "JFLAMPDNFJM": "45:3"
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "MAMMIGCEECG": 9,
+      "NIKBOABCANE": {
+        "1": 50
+      },
+      "GPFPMOCPPND": {
+        "45": 1
+      },
+      "AJHBMLNLHNO": "1:50",
+      "JFLAMPDNFJM": "45:1"
+    }
+  ]
+}

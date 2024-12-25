@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "JIEBHGPIGKL": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3079"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "3079"
+      },
+      "DNHAGPFHGCE": "WeaponPart_Effect_Property"
+    },
+    {
+      "JIEBHGPIGKL": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6993"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "6993"
+      },
+      "DNHAGPFHGCE": "WeaponPart_Effect_Combine"
+    },
+    {
+      "JIEBHGPIGKL": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7517"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "7517"
+      },
+      "DNHAGPFHGCE": "WeaponPart_Effect_Master"
+    }
+  ]
+}

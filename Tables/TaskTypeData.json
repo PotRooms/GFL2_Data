@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "BKCIGACKEFD": 1,
+      "DAEFIJDAOBC": {
+        "DOHLNDIPHAJ": "3085"
+      },
+      "JFHMMMGLKOP": "DAY TASK",
+      "BBNOKLIBFFF": "NewTask_Daily_decorationBG",
+      "KKKFNCJCCDJ": "NewTask_Daily_decorationImage",
+      "AEGODAEEFME": "Icon_Btn_Quest_CheckIn",
+      "MGKPANPEHOH": 2,
+      "KFEADHJBKPO": 24002
+    },
+    {
+      "BKCIGACKEFD": 2,
+      "DAEFIJDAOBC": {
+        "DOHLNDIPHAJ": "5062"
+      },
+      "JFHMMMGLKOP": "WEEK TASK",
+      "BBNOKLIBFFF": "NewTask_Daily_decorationBG",
+      "KKKFNCJCCDJ": "NewTask_Daily_decorationImage",
+      "AEGODAEEFME": "DailyTask_Icon_03"
+    },
+    {
+      "BKCIGACKEFD": 3,
+      "DAEFIJDAOBC": {
+        "DOHLNDIPHAJ": "5063"
+      },
+      "JFHMMMGLKOP": "DUIDE TASK",
+      "BBNOKLIBFFF": "NewTask_Week_decorationBG",
+      "KKKFNCJCCDJ": "NewTask_Week_decorationImage",
+      "AEGODAEEFME": "Icon_Btn_Quest_Newbie",
+      "KFEADHJBKPO": 24001
+    },
+    {
+      "BKCIGACKEFD": 4,
+      "DAEFIJDAOBC": {
+        "DOHLNDIPHAJ": "5065"
+      },
+      "JFHMMMGLKOP": "ACHIEVEMENT_TASK",
+      "BBNOKLIBFFF": "NewTask_Week_decorationBG",
+      "KKKFNCJCCDJ": "NewTask_Week_decorationImage",
+      "AEGODAEEFME": "Icon_Btn_Quest_Newbie",
+      "MGKPANPEHOH": 1,
+      "KFEADHJBKPO": 26001
+    }
+  ]
+}

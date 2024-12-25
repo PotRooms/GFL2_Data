@@ -1,0 +1,2109 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 2012711,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_attacksilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021211,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhps_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021431,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Primary_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012131,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022531,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Guntec_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012211,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032421,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg4_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011831,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012531,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012611,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014721,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012221,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032511,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg5_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013131,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011211,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunflamesup_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041511,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistoldg_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011331,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013431,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013731,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012121,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031431,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg4_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041131,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_hgsilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011321,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021631,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_GCenturionFlash_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013531,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011231,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011611,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common6_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012421,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013311,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021711,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sig_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022431,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Primary_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031411,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_salvo12_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012321,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012211,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031621,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_demoniclong_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041521,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistoldg_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012511,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011331,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011221,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014421,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011631,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifeInflection_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021421,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Primary_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021531,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfkmz_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022411,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Primary_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022421,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Primary_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014311,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011721,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011411,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common4_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031111,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgdba_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031221,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgretractor_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041311,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_backstop_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041611,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistolcompensate_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011731,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common6_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012731,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021621,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_bftac_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022621,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_GCenturionFlash_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041531,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistoldg_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012311,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012521,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common4_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011111,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014621,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012731,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_attacksilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022111,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfsilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031331,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgflamesup_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021611,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_GCenturionFlash_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012131,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunsilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012521,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunuidtask_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012731,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011621,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common6_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012231,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021731,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sig_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011411,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunmuzzlesp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011721,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_attacksilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021311,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfretractor_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013331,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012231,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012421,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012411,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunmuzzlesp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012611,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common5_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021211,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfflamesup_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022131,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfsilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011411,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifewind_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011511,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common4_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012721,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common6_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012731,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common6_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012421,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunmuzzlesp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012311,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013211,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014521,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011111,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunsilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012221,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunflamesup_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032631,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg6_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012611,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_quicksilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041211,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_hgflamesup_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011521,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032231,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012621,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013411,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011421,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031611,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg6_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032331,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011131,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011231,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011221,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifecold_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011621,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031221,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012331,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014131,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011411,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022511,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Guntec_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012711,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012411,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common4_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013411,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032211,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041421,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistols_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012211,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011431,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifewind_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012321,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021321,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfretractor_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011631,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common5_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012411,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021511,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfkmz_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013611,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012321,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013511,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012621,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021131,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfcdhps_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011611,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_quicksilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011421,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014531,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012121,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031121,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgdba_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031511,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Freno_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012621,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common5_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011511,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common5_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012431,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011331,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifeelectronics_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011631,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common6_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013221,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032221,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011211,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014611,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021221,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhps_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021531,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Guntec_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041331,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_backstop_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013121,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012111,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014211,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021411,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_uidtask_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012331,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031111,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032111,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012511,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunuidtask_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012531,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunuidtask_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021121,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfcdhps_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011721,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031631,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_demoniclong_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012521,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common5_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011821,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_samllsilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012111,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012321,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunretractor_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031511,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg5_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012411,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013421,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032521,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg5_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032531,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg5_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012311,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunretractor_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011111,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011731,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012711,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common6_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011131,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032121,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012421,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011311,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifeelectronics_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011311,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021511,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Guntec_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041231,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_hgflamesup_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013111,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014631,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031311,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012121,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunsilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012231,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011321,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031621,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg6_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021231,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfflamesup_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012511,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012221,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012331,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011421,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011711,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031131,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031211,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgretractor_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013311,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011421,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common4_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011221,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011621,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012631,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common6_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011831,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_samllsilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012231,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunflamesup_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011211,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifecold_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011321,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifeelectronics_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011621,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifeInflection_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012531,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common5_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012721,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011231,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunflamesup_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011611,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011111,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifehot_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013621,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032611,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg6_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011421,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunmuzzlesp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031231,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgretractor_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011411,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011531,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011121,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifehot_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021421,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_uidtask_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012211,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunflamesup_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022331,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfretractor_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011711,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012331,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011531,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common4_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012121,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013531,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014431,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011211,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031531,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Freno_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012111,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022121,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfsilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012131,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013231,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011131,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012521,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012521,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011611,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifeInflection_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012311,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012421,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common4_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021121,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfsilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013221,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011411,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011521,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common4_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013611,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011111,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012711,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012431,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011321,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunretractor_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022321,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfretractor_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022521,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Guntec_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011321,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013721,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013511,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031431,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_salvo12_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011431,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022631,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_GCenturionFlash_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013111,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011331,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunretractor_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022231,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfflamesup_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022611,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_GCenturionFlash_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031521,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Freno_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011631,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011331,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014121,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022211,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfflamesup_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011721,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common6_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011121,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunsilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041631,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistolcompensate_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021331,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfghs_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022221,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfflamesup_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011731,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032321,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014231,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014511,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011231,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031321,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031421,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_salvo12_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011211,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021611,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_bftac_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032621,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg6_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041221,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_hgflamesup_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011321,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021311,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfghs_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012511,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common4_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011221,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012211,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021521,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfkmz_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031131,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgdba_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012121,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011431,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_commonsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012111,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunsilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012811,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_samllsilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011531,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common5_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041411,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistols_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014331,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021431,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_uidtask_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012411,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014221,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011711,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common6_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011431,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common4_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031521,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg5_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011311,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014111,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013631,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013321,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021111,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfcdhps_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011311,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunretractor_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011811,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_samllsilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012431,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunmuzzlesp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012721,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_attacksilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011221,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunflamesup_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011621,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_quicksilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012331,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunretractor_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021621,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_GCenturionFlash_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013331,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014321,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021411,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Primary_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011531,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifesaw_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2022311,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfretractor_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013211,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014411,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011621,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common5_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012631,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common5_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012531,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common4_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021231,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhps_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011221,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012721,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011111,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011611,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011521,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifesaw_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011231,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012131,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011121,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013231,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012621,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_quicksilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021221,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfflamesup_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013711,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011521,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031321,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgflamesup_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013321,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_rmr_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013621,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011311,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013711,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011511,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011431,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunmuzzlesp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011331,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012631,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011531,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunuidtask_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012531,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012431,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common4_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031211,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041621,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistolcompensate_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011511,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011121,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011131,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021631,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_bftac_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031411,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg4_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031531,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg5_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031611,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_demoniclong_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032431,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg4_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2031311,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_sgflamesup_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032411,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg4_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021521,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_Guntec_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013421,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013631,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013731,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_lohd7_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031231,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032311,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011131,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunsilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011121,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_laser_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013521,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011511,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifesaw_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012111,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common1_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012621,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common6_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014731,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012321,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021111,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfsilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011521,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common5_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021721,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sig_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031631,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg6_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011511,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunuidtask_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011631,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_quicksilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011421,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifewind_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011611,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common5_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013131,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012511,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common5_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011521,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_gunuidtask_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011711,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_attacksilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012631,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_quicksilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011121,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011631,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13012611,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common6_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021331,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfretractor_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2021131,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_rfsilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013521,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012821,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_samllsilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012221,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3013721,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2011731,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_attacksilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012221,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunhs_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1032131,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011231,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifecold_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012131,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1011531,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012231,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_flashlight_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3012631,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights2_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012311,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gunrmr_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041121,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_hgsilencer_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 13011311,
+      "EMLNMEIJNGG": "Stool/WeaponPart_13_common3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041321,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_backstop_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3014711,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_spotlights3_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 4011131,
+      "EMLNMEIJNGG": "Blades/WeaponPart_4_knifehot_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031421,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg4_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013431,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sightsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031121,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg1_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12011211,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_common2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1012611,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_vortex2_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 12012431,
+      "EMLNMEIJNGG": "Grip/WeaponPart_12_commonsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1013121,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_gungb_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1021321,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_rfghs_2",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2012831,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_samllsilencer_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 3011431,
+      "EMLNMEIJNGG": "Lights/WeaponPart_3_hangsp1_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 1031331,
+      "EMLNMEIJNGG": "Sights/WeaponPart_1_sghg3_3",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041111,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_hgsilencer_1",
+      "MFGMDCJLCPB": 1
+    },
+    {
+      "LGJCPENNFBC": 2041431,
+      "EMLNMEIJNGG": "Silencers/WeaponPart_2_pistols_3",
+      "MFGMDCJLCPB": 1
+    }
+  ]
+}

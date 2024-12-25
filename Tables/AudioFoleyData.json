@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "KGDCGCALBCI": 1,
+      "KLJDENIBOPH": "Shoes",
+      "OFJCCFNOFEI": "Boots_Heavy"
+    },
+    {
+      "KGDCGCALBCI": 2,
+      "KLJDENIBOPH": "Shoes",
+      "OFJCCFNOFEI": "Heels"
+    },
+    {
+      "KGDCGCALBCI": 3,
+      "KLJDENIBOPH": "Shoes",
+      "OFJCCFNOFEI": "Boots"
+    },
+    {
+      "KGDCGCALBCI": 4,
+      "KLJDENIBOPH": "Shoes",
+      "OFJCCFNOFEI": "Ceramics"
+    },
+    {
+      "KGDCGCALBCI": 201,
+      "KLJDENIBOPH": "Clothes_Material",
+      "OFJCCFNOFEI": "Leather"
+    },
+    {
+      "KGDCGCALBCI": 202,
+      "KLJDENIBOPH": "Clothes_Material",
+      "OFJCCFNOFEI": "Cloak"
+    },
+    {
+      "KGDCGCALBCI": 203,
+      "KLJDENIBOPH": "Clothes_Material",
+      "OFJCCFNOFEI": "HeavyCoat"
+    },
+    {
+      "KGDCGCALBCI": 204,
+      "KLJDENIBOPH": "Clothes_Material",
+      "OFJCCFNOFEI": "Chegongsam"
+    },
+    {
+      "KGDCGCALBCI": 205,
+      "KLJDENIBOPH": "Clothes_Material",
+      "OFJCCFNOFEI": "Chegongsam_SP"
+    },
+    {
+      "KGDCGCALBCI": 206,
+      "KLJDENIBOPH": "Clothes_Material",
+      "OFJCCFNOFEI": "Leather_SP"
+    }
+  ]
+}

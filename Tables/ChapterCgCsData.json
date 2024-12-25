@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9216"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_01_Besiege",
+      "PKCFEDDNIIO": 1010211
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9217"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_01_Besiege_Change",
+      "PKCFEDDNIIO": 1010211
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9218"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_01_Besiege_Appear",
+      "PKCFEDDNIIO": 1010211
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9219"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_02_Nemertea",
+      "PKCFEDDNIIO": 1028401
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9220"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_02_Nemertea_Change",
+      "PKCFEDDNIIO": 1028401
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9221"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_02_Nemertea_Attack",
+      "PKCFEDDNIIO": 1021021
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9222"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_02_Nemertea_Disappear",
+      "PKCFEDDNIIO": 1021021
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9223"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_19_Resist",
+      "PKCFEDDNIIO": 1031021
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9224"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_20_Rtreat",
+      "PKCFEDDNIIO": 1031021
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9225"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_21_Infighting",
+      "PKCFEDDNIIO": 1031021
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9226"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_22_Impatience",
+      "PKCFEDDNIIO": 1031021
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9227"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_03_Confrontation",
+      "PKCFEDDNIIO": 1048511
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9228"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_03_Confrontation_Anxious",
+      "PKCFEDDNIIO": 1048521
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9229"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_04_Rescue",
+      "PKCFEDDNIIO": 1058101
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9230"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_04_Rescue_Begin",
+      "PKCFEDDNIIO": 1058101
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9231"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_05_Stagger",
+      "PKCFEDDNIIO": 1058201
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9232"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_05_Stagger_Leave",
+      "PKCFEDDNIIO": 1058201
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9233"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_06_Unusual",
+      "PKCFEDDNIIO": 1068301
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9234"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_06_Unusual_Attack",
+      "PKCFEDDNIIO": 1060721
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9235"
+      },
+      "NBJFMAGJOEE": "2DRes/0ob/CG/CG_06_Unusual_Explosion",
+      "PKCFEDDNIIO": 1060721
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9236"
+      },
+      "NBJFMAGJOEE": "2DRes/2sangduolaixi/CG/CG_07_Niter",
+      "PKCFEDDNIIO": 1078301
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9237"
+      },
+      "NBJFMAGJOEE": "2DRes/2sangduolaixi/CG/CG_07_Niter_Conscious",
+      "PKCFEDDNIIO": 1078301
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9238"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_08_Catch",
+      "PKCFEDDNIIO": 1080211
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9239"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_08_Catch_Away",
+      "PKCFEDDNIIO": 1080211
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9240"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_09_Down",
+      "PKCFEDDNIIO": 1088101
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9241"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_10_Pray",
+      "PKCFEDDNIIO": 1088301
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9242"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_10_Pray_Change",
+      "PKCFEDDNIIO": 1088301
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9243"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_10_Pray_Follow",
+      "PKCFEDDNIIO": 1088301
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9244"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_23_Waiting",
+      "PKCFEDDNIIO": 1088401
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8598"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_24_Manipulated",
+      "PKCFEDDNIIO": 1088401
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9060"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_24_Manipulated_Singing",
+      "PKCFEDDNIIO": 1088401
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9061"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_25_Enthusiasm",
+      "PKCFEDDNIIO": 1088401
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9062"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_11_Ceremony",
+      "PKCFEDDNIIO": 1088401
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9063"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_11_Ceremony_Shine",
+      "PKCFEDDNIIO": 1088401
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9204"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_12_Crifium",
+      "PKCFEDDNIIO": 1080721
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9205"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_12_Crifium_Continue",
+      "PKCFEDDNIIO": 1080721
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9206"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_12_Crifium_Threaten",
+      "PKCFEDDNIIO": 1080721
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9207"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_13_Gift",
+      "PKCFEDDNIIO": 1088501
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9208"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_13_Gift_Surprise_01",
+      "PKCFEDDNIIO": 1088501
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9209"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_13_Gift_Surprise_02",
+      "PKCFEDDNIIO": 1088501
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9210"
+      },
+      "NBJFMAGJOEE": "2DRes/4jiangyu/CG/CG_13_Gift_Crying",
+      "PKCFEDDNIIO": 1088501,
+      "MPNAMFAEGIN": true
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9211"
+      },
+      "NBJFMAGJOEE": "2DRes/9kelukai/CG/CG_15_Confrontation_Threaten",
+      "PKCFEDDNIIO": 3138101
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9212"
+      },
+      "NBJFMAGJOEE": "2DRes/9.5mishiti/CG/CG_17_FierceBattle",
+      "PKCFEDDNIIO": 3148201
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9213"
+      },
+      "NBJFMAGJOEE": "2DRes/9.5mishiti/CG/CG_17_FierceBattle_Fight",
+      "PKCFEDDNIIO": 3148201
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9214"
+      },
+      "NBJFMAGJOEE": "2DRes/9.5mishiti/CG/CG_17_FierceBattle_Ready",
+      "PKCFEDDNIIO": 3148201
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9215"
+      },
+      "NBJFMAGJOEE": "2DRes/9.5mishiti/CG/CG_18_Assault",
+      "PKCFEDDNIIO": 3141111
+    }
+  ]
+}

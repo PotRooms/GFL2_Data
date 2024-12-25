@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "PGOPMAHOPLI": "TacticSkill/AC130.usm",
+      "BAJFEHBHMPP": 255
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "PGOPMAHOPLI": "TacticSkill/missile.usm",
+      "BAJFEHBHMPP": 175
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "PGOPMAHOPLI": "TacticSkill/reload.usm"
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "PGOPMAHOPLI": "TacticSkill/AirDropBox.usm",
+      "BAJFEHBHMPP": 305
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "PGOPMAHOPLI": "TacticSkill/machinegun.usm",
+      "BAJFEHBHMPP": 400
+    },
+    {
+      "LGJCPENNFBC": 2001,
+      "PGOPMAHOPLI": "CharacterSkill/CharolicR01.usm"
+    },
+    {
+      "LGJCPENNFBC": 2002,
+      "PGOPMAHOPLI": "CharacterSkill/CharolicSR01.usm"
+    },
+    {
+      "LGJCPENNFBC": 2003,
+      "PGOPMAHOPLI": "CharacterSkill/ColphneR01.usm"
+    },
+    {
+      "LGJCPENNFBC": 2004,
+      "PGOPMAHOPLI": "CharacterSkill/GrozaR01.usm"
+    },
+    {
+      "LGJCPENNFBC": 2005,
+      "PGOPMAHOPLI": "CharacterSkill/GrozaSR01.usm"
+    },
+    {
+      "LGJCPENNFBC": 2006,
+      "PGOPMAHOPLI": "CharacterSkill/LennaSR01.usm"
+    },
+    {
+      "LGJCPENNFBC": 2007,
+      "PGOPMAHOPLI": "CharacterSkill/VepleyR01.usm"
+    },
+    {
+      "LGJCPENNFBC": 9999,
+      "PGOPMAHOPLI": "CharacterSkill/Black.usm"
+    },
+    {
+      "LGJCPENNFBC": 100101,
+      "PGOPMAHOPLI": "CharacterSkill/100101.usm"
+    }
+  ]
+}

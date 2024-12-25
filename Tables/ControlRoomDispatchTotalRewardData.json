@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "KKBBLLNFIIN": 5,
+      "EPDMINKKPFK": {
+        "OBLDLILOOGO": [
+          191001,
+          191002
+        ],
+        "NKGEDIMKJHL": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "KKBBLLNFIIN": 10,
+      "EPDMINKKPFK": {
+        "OBLDLILOOGO": [
+          191001,
+          191002
+        ],
+        "NKGEDIMKJHL": [
+          2,
+          1
+        ]
+      }
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "KKBBLLNFIIN": 15,
+      "EPDMINKKPFK": {
+        "OBLDLILOOGO": [
+          191001,
+          191002
+        ],
+        "NKGEDIMKJHL": [
+          3,
+          1
+        ]
+      }
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "KKBBLLNFIIN": 25,
+      "EPDMINKKPFK": {
+        "OBLDLILOOGO": [
+          191001,
+          191002
+        ],
+        "NKGEDIMKJHL": [
+          4,
+          2
+        ]
+      }
+    }
+  ]
+}

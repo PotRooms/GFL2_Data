@@ -1,0 +1,6548 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 210,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 211,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 212,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5015
+    },
+    {
+      "LGJCPENNFBC": 213,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 214,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 215,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 216,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 217,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 218,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 219,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 440,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 441,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 442,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 443,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 444,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 445,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901,
+      "DIDPMOLNAFK": true
+    },
+    {
+      "LGJCPENNFBC": 446,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 447,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 448,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 449,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 840,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 841,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 842,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 2
+    },
+    {
+      "LGJCPENNFBC": 843,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 844,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 845,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 846,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 847,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 848,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 849,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 100,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6002
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 108,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 109,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 190,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 191,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 192,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 193,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 194,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 195,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 196,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 197,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5013,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 198,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 199,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 380,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 381,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 382,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5025,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 383,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 384,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 385,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 386,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5025
+    },
+    {
+      "LGJCPENNFBC": 387,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 388,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 389,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 450,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 451,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_portal",
+      "DIDPMOLNAFK": true
+    },
+    {
+      "LGJCPENNFBC": 452,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 453,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 454,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 455,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 456,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 457,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 458,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 459,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5053
+    },
+    {
+      "LGJCPENNFBC": 760,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 761,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5074
+    },
+    {
+      "LGJCPENNFBC": 762,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 763,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 764,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 765,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 766,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 767,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 768,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 769,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 70,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 71,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 72,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5005,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 73,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 74,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5006,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 75,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 76,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 16
+    },
+    {
+      "LGJCPENNFBC": 77,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 78,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 79,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 350,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 351,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 352,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 353,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 354,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 355,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 356,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 357,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 358,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 359,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 980,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 981,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 982,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 983,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 984,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 985,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 986,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5087
+    },
+    {
+      "LGJCPENNFBC": 987,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 988,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 989,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 580,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 581,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 582,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 583,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 584,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 585,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 586,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5062
+    },
+    {
+      "LGJCPENNFBC": 587,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 588,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 589,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 920,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 921,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 922,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 923,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 924,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 925,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 926,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 927,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 928,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 929,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 1000,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5088,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 60,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 61,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 62,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 2
+    },
+    {
+      "LGJCPENNFBC": 63,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 64,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 65,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 66,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 67,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 68,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 69,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 620,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 621,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 622,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 623,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5064,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 624,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 625,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 626,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 627,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 628,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 629,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 660,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5065,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 661,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 662,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 663,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 664,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5067
+    },
+    {
+      "LGJCPENNFBC": 665,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 666,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6013
+    },
+    {
+      "LGJCPENNFBC": 667,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 668,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 669,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 52,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 53,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 54,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 55,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 56,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 57,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 58,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 59,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 670,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 671,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 672,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 673,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 674,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 675,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 676,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 16
+    },
+    {
+      "LGJCPENNFBC": 677,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 678,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5067,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 679,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 700,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 701,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 702,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 703,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5069,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 704,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 705,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 706,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 707,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 708,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 709,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 790,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 791,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 792,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 793,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 794,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 795,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5075
+    },
+    {
+      "LGJCPENNFBC": 796,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 16
+    },
+    {
+      "LGJCPENNFBC": 797,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 798,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 799,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 300,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 301,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 302,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5022
+    },
+    {
+      "LGJCPENNFBC": 303,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 304,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 305,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 306,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 307,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 308,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 309,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 680,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 681,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 682,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 683,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 684,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 685,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 686,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5068
+    },
+    {
+      "LGJCPENNFBC": 687,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 688,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 689,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 880,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 881,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 882,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 883,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 884,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5082,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 885,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 886,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 887,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 888,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 889,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 970,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 971,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 972,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 973,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 974,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 975,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 976,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5087,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 977,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 978,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 979,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 340,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 341,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 342,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 343,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 344,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 345,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5024,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 346,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5023,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 347,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 348,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5023
+    },
+    {
+      "LGJCPENNFBC": 349,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 510,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 511,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 512,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5058,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 513,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 514,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 515,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 516,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 517,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 518,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 519,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 120,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 122,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 123,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 124,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 125,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 126,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 127,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 128,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 129,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 850,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 851,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 852,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 853,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 854,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 855,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 856,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5079,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 857,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 858,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 859,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 940,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 941,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 942,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 943,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 944,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 945,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 946,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 947,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 948,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 949,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 1050,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 280,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 281,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 282,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 283,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 284,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5019,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 285,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 286,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 287,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 288,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 289,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 490,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 491,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 492,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 493,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 494,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 495,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 496,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 497,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 498,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5055
+    },
+    {
+      "LGJCPENNFBC": 499,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 720,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 721,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 722,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 723,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 724,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 725,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 726,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 727,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 728,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 729,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 240,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 241,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 242,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 243,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 244,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5017,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 245,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 246,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 247,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 248,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 249,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 360,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 361,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 362,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 363,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 364,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 365,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 366,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5025,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 367,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 368,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 369,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 550,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 551,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 552,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5059,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 553,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 554,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5059
+    },
+    {
+      "LGJCPENNFBC": 555,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 556,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 16
+    },
+    {
+      "LGJCPENNFBC": 557,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 558,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 559,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 590,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 591,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 592,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 593,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 594,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 595,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 596,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 597,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 598,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 599,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 710,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 711,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 712,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 713,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 714,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5070
+    },
+    {
+      "LGJCPENNFBC": 715,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 716,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 717,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 718,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 719,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 960,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 961,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 962,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 963,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 964,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 965,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 966,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 967,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 968,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5087,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 969,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 320,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 321,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 322,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 323,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 324,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 325,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5021,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 326,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 327,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 328,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 329,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 780,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 781,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 782,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5076,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 783,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 784,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 785,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5076,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 786,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 787,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 788,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 789,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5004
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 49,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5003,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 220,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 221,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 222,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 223,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 224,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 225,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 226,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6004
+    },
+    {
+      "LGJCPENNFBC": 227,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 228,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5016,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 229,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 310,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 311,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 312,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 313,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 314,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 315,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 316,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 317,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5021,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 318,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 319,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 640,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5066
+    },
+    {
+      "LGJCPENNFBC": 641,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 642,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 643,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 644,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 645,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 646,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 16
+    },
+    {
+      "LGJCPENNFBC": 647,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 648,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 649,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 230,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 231,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 232,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 233,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 234,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 235,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 236,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 237,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 238,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 239,
+      "MIILACLEBJL": 1032,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5016,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 570,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 571,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 572,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 573,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 574,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5061,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 575,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 576,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 577,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 578,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 579,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6012
+    },
+    {
+      "LGJCPENNFBC": 630,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 631,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 632,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 633,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 634,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 635,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 636,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 637,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 638,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 639,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 150,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 151,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 152,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 2
+    },
+    {
+      "LGJCPENNFBC": 153,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 154,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 155,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 156,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 157,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 158,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 159,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 400,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 401,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 402,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 403,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6007
+    },
+    {
+      "LGJCPENNFBC": 404,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 405,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 406,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 407,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 408,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 409,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 430,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 431,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 432,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 433,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 434,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 435,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5052,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 436,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 437,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 438,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 439,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 650,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5065
+    },
+    {
+      "LGJCPENNFBC": 651,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 652,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 653,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 654,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 655,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 656,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 657,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 658,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 659,
+      "MIILACLEBJL": 91022,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 890,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 891,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 892,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5081
+    },
+    {
+      "LGJCPENNFBC": 893,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 894,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 895,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 896,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 897,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 898,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 899,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 930,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 931,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 932,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5085
+    },
+    {
+      "LGJCPENNFBC": 933,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 934,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 935,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 936,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 937,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 938,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 939,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 610,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 611,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 612,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 613,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5063
+    },
+    {
+      "LGJCPENNFBC": 614,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 615,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5063,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 616,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 617,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 618,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 619,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 800,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 801,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 802,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 803,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 804,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 805,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 806,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 807,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 808,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 809,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 870,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 871,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 872,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 873,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 874,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 875,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5082,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 876,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 877,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 878,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 879,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 290,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 291,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 292,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5020
+    },
+    {
+      "LGJCPENNFBC": 293,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 294,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5020,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 295,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 296,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 297,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 298,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 299,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 390,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 391,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 392,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 393,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 394,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 395,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 396,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 397,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 398,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5026,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 399,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 480,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 481,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901,
+      "DIDPMOLNAFK": true
+    },
+    {
+      "LGJCPENNFBC": 482,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 2
+    },
+    {
+      "LGJCPENNFBC": 483,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 484,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 485,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 486,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 487,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 488,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 489,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 830,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 831,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 832,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 833,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5078,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 834,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 835,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 836,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 837,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 838,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 839,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 130,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 131,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 132,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5009,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 133,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 134,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 135,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 136,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 137,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 138,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 139,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 460,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 461,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 462,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5053
+    },
+    {
+      "LGJCPENNFBC": 463,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 464,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 465,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 466,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 467,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 468,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 469,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 530,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 531,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 532,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 533,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 534,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5057,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 535,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 536,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 537,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 538,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 539,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 370,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 371,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 372,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 373,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 374,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 14
+    },
+    {
+      "LGJCPENNFBC": 375,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 376,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 377,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 378,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 379,
+      "MIILACLEBJL": 1061,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 690,
+      "MIILACLEBJL": 91023,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 691,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 692,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5069,
+      "INDAKBJEEMJ": 9807
+    },
+    {
+      "LGJCPENNFBC": 693,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 694,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 695,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 696,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 697,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 698,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 699,
+      "MIILACLEBJL": 91031,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 90,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 91,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 92,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 2
+    },
+    {
+      "LGJCPENNFBC": 93,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 94,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 95,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 96,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 97,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 98,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 99,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5007,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 200,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5013
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 205,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 206,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 207,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 208,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 209,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 900,
+      "MIILACLEBJL": 91051,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 901,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 1,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 902,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5084
+    },
+    {
+      "LGJCPENNFBC": 903,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 904,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 905,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 906,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 907,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 908,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 909,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 160,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 161,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5011,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 162,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 163,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 164,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5012,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 165,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 166,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 16
+    },
+    {
+      "LGJCPENNFBC": 167,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 168,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 169,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 170,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 171,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6003
+    },
+    {
+      "LGJCPENNFBC": 172,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 173,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 174,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 175,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 176,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 177,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 178,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 179,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5012
+    },
+    {
+      "LGJCPENNFBC": 1040,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 1041,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 1042,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 1043,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 1044,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 1045,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 1046,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 1047,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 1048,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6017
+    },
+    {
+      "LGJCPENNFBC": 1049,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5090
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_portal",
+      "DIDPMOLNAFK": true
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 600,
+      "MIILACLEBJL": 91013,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5062
+    },
+    {
+      "LGJCPENNFBC": 601,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 602,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 603,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 604,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 605,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 606,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 607,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 608,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 609,
+      "MIILACLEBJL": 91021,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 1030,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 1031,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 1032,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 1033,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 1034,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 1035,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 1036,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 16
+    },
+    {
+      "LGJCPENNFBC": 1037,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5089
+    },
+    {
+      "LGJCPENNFBC": 1038,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 1039,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 260,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5018,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 261,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 262,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5018
+    },
+    {
+      "LGJCPENNFBC": 263,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 264,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 265,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 266,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 267,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 268,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 269,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 410,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 411,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5026,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 412,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 413,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 414,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 415,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 416,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 417,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 418,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 419,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5026
+    },
+    {
+      "LGJCPENNFBC": 470,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 471,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 472,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5054,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 473,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 474,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 475,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 476,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 477,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 478,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 479,
+      "MIILACLEBJL": 91002,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 560,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 561,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 21
+    },
+    {
+      "LGJCPENNFBC": 562,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 563,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 564,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 565,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 566,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 567,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5060
+    },
+    {
+      "LGJCPENNFBC": 568,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 569,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 730,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 731,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 732,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 733,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 734,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5071,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 735,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 736,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 737,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5072
+    },
+    {
+      "LGJCPENNFBC": 738,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 739,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 1020,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5088
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 2
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 1024,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 1025,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 1026,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 1027,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 1028,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5089,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 1029,
+      "MIILACLEBJL": 91063,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 330,
+      "MIILACLEBJL": 1051,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 331,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 332,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 2
+    },
+    {
+      "LGJCPENNFBC": 333,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 334,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 335,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 336,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 337,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 338,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6006
+    },
+    {
+      "LGJCPENNFBC": 339,
+      "MIILACLEBJL": 1052,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 420,
+      "MIILACLEBJL": 1062,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 421,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 422,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5051
+    },
+    {
+      "LGJCPENNFBC": 423,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 424,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 425,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 426,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 427,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5051,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 428,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 429,
+      "MIILACLEBJL": 91001,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 540,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 541,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 542,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 543,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 544,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 545,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 546,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 547,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 548,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 549,
+      "MIILACLEBJL": 91012,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 910,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 911,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 912,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 12
+    },
+    {
+      "LGJCPENNFBC": 913,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 914,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5084,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 915,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 916,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 917,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5083
+    },
+    {
+      "LGJCPENNFBC": 918,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 919,
+      "MIILACLEBJL": 91052,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 1018,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 1019,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 250,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 251,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 252,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 253,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 254,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 255,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 15,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 256,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 257,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 258,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 259,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 740,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 741,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 742,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 743,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 744,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 745,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 746,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 747,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 748,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 749,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 860,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5080
+    },
+    {
+      "LGJCPENNFBC": 861,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 862,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 863,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 864,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 865,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6015
+    },
+    {
+      "LGJCPENNFBC": 866,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 867,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 868,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 869,
+      "MIILACLEBJL": 91043,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5080
+    },
+    {
+      "LGJCPENNFBC": 990,
+      "MIILACLEBJL": 91061,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 991,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 992,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 993,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 994,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 995,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 996,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 997,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 998,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5088
+    },
+    {
+      "LGJCPENNFBC": 999,
+      "MIILACLEBJL": 91062,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5001,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5001
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5002,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 520,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 10,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5058
+    },
+    {
+      "LGJCPENNFBC": 521,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 11
+    },
+    {
+      "LGJCPENNFBC": 522,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 523,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 13,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 524,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 525,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 526,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 527,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 17,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 528,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 18
+    },
+    {
+      "LGJCPENNFBC": 529,
+      "MIILACLEBJL": 91011,
+      "NNMAIKICBHH": 19
+    },
+    {
+      "LGJCPENNFBC": 810,
+      "MIILACLEBJL": 91041,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 811,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 812,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5077
+    },
+    {
+      "LGJCPENNFBC": 813,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 814,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 815,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 816,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 817,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 818,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 819,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 950,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 951,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6016
+    },
+    {
+      "LGJCPENNFBC": 952,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 953,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 954,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5086,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 955,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5086
+    },
+    {
+      "LGJCPENNFBC": 956,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 957,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 958,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 959,
+      "MIILACLEBJL": 91053,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 80,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 81,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 82,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 83,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5006
+    },
+    {
+      "LGJCPENNFBC": 84,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 85,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 86,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 87,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 88,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 89,
+      "MIILACLEBJL": 1011,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 140,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 20
+    },
+    {
+      "LGJCPENNFBC": 141,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5009,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 142,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 143,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 144,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 145,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5010
+    },
+    {
+      "LGJCPENNFBC": 146,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 26,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 147,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 148,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 28
+    },
+    {
+      "LGJCPENNFBC": 149,
+      "MIILACLEBJL": 1021,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 270,
+      "MIILACLEBJL": 1041,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 271,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 272,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 2
+    },
+    {
+      "LGJCPENNFBC": 273,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6005
+    },
+    {
+      "LGJCPENNFBC": 274,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 275,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 276,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 277,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 278,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 279,
+      "MIILACLEBJL": 1042,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 750,
+      "MIILACLEBJL": 91032,
+      "NNMAIKICBHH": 30,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5072
+    },
+    {
+      "LGJCPENNFBC": 751,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 752,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 753,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6014
+    },
+    {
+      "LGJCPENNFBC": 754,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 755,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 756,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 757,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 758,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5073,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 759,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 9
+    },
+    {
+      "LGJCPENNFBC": 180,
+      "MIILACLEBJL": 1022,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 181,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 1
+    },
+    {
+      "LGJCPENNFBC": 182,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 183,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 3
+    },
+    {
+      "LGJCPENNFBC": 184,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 4,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5014,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 185,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 5
+    },
+    {
+      "LGJCPENNFBC": 186,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 6,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 187,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 7
+    },
+    {
+      "LGJCPENNFBC": 188,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 8,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 189,
+      "MIILACLEBJL": 1031,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 770,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 771,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 772,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 773,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9805
+    },
+    {
+      "LGJCPENNFBC": 774,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 24
+    },
+    {
+      "LGJCPENNFBC": 775,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 25
+    },
+    {
+      "LGJCPENNFBC": 776,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 777,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 778,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 779,
+      "MIILACLEBJL": 91033,
+      "NNMAIKICBHH": 29,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5074
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "MIILACLEBJL": 1001,
+      "NNMAIKICBHH": 30
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 1,
+      "DIDPMOLNAFK": true
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 2,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9801
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 3,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 4
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 5,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5003,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 6
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 7,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 8
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "MIILACLEBJL": 1002,
+      "NNMAIKICBHH": 9,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6001
+    },
+    {
+      "LGJCPENNFBC": 500,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5054,
+      "INDAKBJEEMJ": 9803
+    },
+    {
+      "LGJCPENNFBC": 501,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_final_stage",
+      "OKJDIKPPFHK": 6011
+    },
+    {
+      "LGJCPENNFBC": 502,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 22
+    },
+    {
+      "LGJCPENNFBC": 503,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 23,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 504,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 505,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 506,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 507,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 27
+    },
+    {
+      "LGJCPENNFBC": 508,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5054
+    },
+    {
+      "LGJCPENNFBC": 509,
+      "MIILACLEBJL": 91003,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 110,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 20,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 21,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 22,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5007,
+      "INDAKBJEEMJ": 9804
+    },
+    {
+      "LGJCPENNFBC": 113,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 23
+    },
+    {
+      "LGJCPENNFBC": 114,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 24,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 7777
+    },
+    {
+      "LGJCPENNFBC": 115,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 25,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5008
+    },
+    {
+      "LGJCPENNFBC": 116,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 26
+    },
+    {
+      "LGJCPENNFBC": 117,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 27,
+      "MPLOCEFKODH": "dungeon_portal"
+    },
+    {
+      "LGJCPENNFBC": 118,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 28,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9802
+    },
+    {
+      "LGJCPENNFBC": 119,
+      "MIILACLEBJL": 1012,
+      "NNMAIKICBHH": 29
+    },
+    {
+      "LGJCPENNFBC": 820,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 10
+    },
+    {
+      "LGJCPENNFBC": 821,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 11,
+      "MPLOCEFKODH": "dungeon_normal_stage",
+      "OKJDIKPPFHK": 5077
+    },
+    {
+      "LGJCPENNFBC": 822,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 12,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9904
+    },
+    {
+      "LGJCPENNFBC": 823,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 13
+    },
+    {
+      "LGJCPENNFBC": 824,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 14,
+      "MPLOCEFKODH": "dungeon_treasure",
+      "OKJDIKPPFHK": 8888,
+      "INDAKBJEEMJ": 9806
+    },
+    {
+      "LGJCPENNFBC": 825,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 15
+    },
+    {
+      "LGJCPENNFBC": 826,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 16,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    },
+    {
+      "LGJCPENNFBC": 827,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 17
+    },
+    {
+      "LGJCPENNFBC": 828,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 18,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9999
+    },
+    {
+      "LGJCPENNFBC": 829,
+      "MIILACLEBJL": 91042,
+      "NNMAIKICBHH": 19,
+      "MPLOCEFKODH": "dungeon_item",
+      "OKJDIKPPFHK": 9901
+    }
+  ]
+}

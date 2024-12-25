@@ -1,0 +1,1808 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 23000,
+      "IHGFFKGDHLI": [
+        99100
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-1后解锁通讯",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "6606"
+      }
+    },
+    {
+      "LGJCPENNFBC": 23001,
+      "IHGFFKGDHLI": [
+        99100
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-1后解锁通讯",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "6607"
+      }
+    },
+    {
+      "LGJCPENNFBC": 23002,
+      "IHGFFKGDHLI": [
+        21000
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1661"
+      }
+    },
+    {
+      "LGJCPENNFBC": 23003,
+      "IHGFFKGDHLI": [
+        21000
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "6608"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29101,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        29101
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-2后解锁远航巡录",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3223"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29102,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        29101
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-2后解锁远航巡录任务",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3223"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29103,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        29101
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-2后解锁远航巡录典藏",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3223"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29104,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        29101
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-2后解锁远航巡录商店",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3223"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11000,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5094"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11001,
+      "JKBOJDOAELP": 1,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Story",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3167"
+      },
+      "MGKPANPEHOH": 1
+    },
+    {
+      "LGJCPENNFBC": 11002,
+      "IHGFFKGDHLI": [
+        11002
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到16级后解锁困难模式",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Hard",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4349"
+      },
+      "MGKPANPEHOH": 31
+    },
+    {
+      "LGJCPENNFBC": 11003,
+      "IHGFFKGDHLI": [
+        11003
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到10级后\n解锁深度搜索",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4338"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11004,
+      "IHGFFKGDHLI": [
+        11004
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到10级后\n解锁标准同调",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_SimGold",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4336"
+      },
+      "MGKPANPEHOH": 33
+    },
+    {
+      "LGJCPENNFBC": 11005,
+      "IHGFFKGDHLI": [
+        11005
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到10级后\n解锁决策构象",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_SimEquip",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4340"
+      },
+      "MGKPANPEHOH": 33
+    },
+    {
+      "LGJCPENNFBC": 11006,
+      "IHGFFKGDHLI": [
+        11006
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到10级后\n解锁军备解析",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4348"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11007,
+      "IHGFFKGDHLI": [
+        11007
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到27级后解锁战力推定",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4342"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11008,
+      "IHGFFKGDHLI": [
+        11008
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到18级后解锁首领挑战",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_SimWeekly",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4344"
+      },
+      "FMHJNEPGIJB": "1645732800",
+      "MGKPANPEHOH": 32
+    },
+    {
+      "LGJCPENNFBC": 11009,
+      "IHGFFKGDHLI": [
+        11009
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到28级后解锁峰值推定",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Mythic",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4346"
+      },
+      "MGKPANPEHOH": 32
+    },
+    {
+      "LGJCPENNFBC": 11800,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9598"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11801,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9598"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11802,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9598"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11803,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9598"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11804,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9598"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11805,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9598"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11806,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        11806
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9598"
+      }
+    },
+    {
+      "LGJCPENNFBC": 15000,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "获得佩里缇亚后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3070"
+      }
+    },
+    {
+      "LGJCPENNFBC": 15001,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "获得佩里缇亚后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5541"
+      }
+    },
+    {
+      "LGJCPENNFBC": 15002,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "获得佩里缇亚后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5543"
+      }
+    },
+    {
+      "LGJCPENNFBC": 15100,
+      "IHGFFKGDHLI": [
+        15100
+      ],
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Lounge",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3070"
+      },
+      "MGKPANPEHOH": 12
+    },
+    {
+      "LGJCPENNFBC": 16201,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9575"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16202,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9576"
+      }
+    },
+    {
+      "LGJCPENNFBC": 17000,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5544"
+      }
+    },
+    {
+      "LGJCPENNFBC": 17001,
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役1-8后解锁人形武器",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5545"
+      }
+    },
+    {
+      "LGJCPENNFBC": 17002,
+      "IHGFFKGDHLI": [
+        12006
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-1后解锁拟态图谱",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5546"
+      }
+    },
+    {
+      "LGJCPENNFBC": 17003,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5547"
+      }
+    },
+    {
+      "LGJCPENNFBC": 17004,
+      "IHGFFKGDHLI": [
+        12007
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到15级后解锁配件",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5548"
+      }
+    },
+    {
+      "LGJCPENNFBC": 17005,
+      "IHGFFKGDHLI": [
+        18000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-3后解锁武装零件",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5549"
+      }
+    },
+    {
+      "LGJCPENNFBC": 17008,
+      "IHGFFKGDHLI": [
+        29000
+      ],
+      "EFANOJCPEGP": "指挥官达到22级后解锁衍生键",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5550"
+      }
+    },
+    {
+      "LGJCPENNFBC": 36001,
+      "MDBHNLEGLIO": 1,
+      "EFANOJCPEGP": "默认解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9599"
+      }
+    },
+    {
+      "LGJCPENNFBC": 37001,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        37001
+      ],
+      "EFANOJCPEGP": "指挥官达到25级后解锁",
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Control_Fight",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "8616"
+      },
+      "MGKPANPEHOH": 45
+    },
+    {
+      "LGJCPENNFBC": 39001,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        39001
+      ],
+      "EFANOJCPEGP": "默认解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9606"
+      }
+    },
+    {
+      "LGJCPENNFBC": 39002,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        39002
+      ],
+      "EFANOJCPEGP": "默认解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9607"
+      }
+    },
+    {
+      "LGJCPENNFBC": 13000,
+      "IHGFFKGDHLI": [
+        13000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役SL-1-2后解锁购置",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Gashapon",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "2610"
+      },
+      "MGKPANPEHOH": 3
+    },
+    {
+      "LGJCPENNFBC": 16000,
+      "IHGFFKGDHLI": [
+        16000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役1-1后解锁暗行",
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_StoreExchange",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9583"
+      },
+      "MGKPANPEHOH": 4
+    },
+    {
+      "LGJCPENNFBC": 16002,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9584"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16003,
+      "IHGFFKGDHLI": [
+        16003
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到15级后解锁荣誉专区",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9585"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16004,
+      "IHGFFKGDHLI": [
+        16004
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9586"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16005,
+      "IHGFFKGDHLI": [
+        16005
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役SL-1-2后解锁人形堆栈",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9587"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16006,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9588"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16007,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9589"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16008,
+      "IHGFFKGDHLI": [
+        16008
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到20级后解锁讯段交易",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9590"
+      }
+    },
+    {
+      "LGJCPENNFBC": 19000,
+      "IHGFFKGDHLI": [
+        99103
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Guild",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3166"
+      },
+      "MGKPANPEHOH": 60
+    },
+    {
+      "LGJCPENNFBC": 19001,
+      "IHGFFKGDHLI": [
+        99111
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5338"
+      }
+    },
+    {
+      "LGJCPENNFBC": 20000,
+      "IHGFFKGDHLI": [
+        20000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役1-6后解锁行迹",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "7510"
+      }
+    },
+    {
+      "LGJCPENNFBC": 20001,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9592"
+      }
+    },
+    {
+      "LGJCPENNFBC": 20002,
+      "IHGFFKGDHLI": [
+        20002
+      ],
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9593"
+      }
+    },
+    {
+      "LGJCPENNFBC": 20003,
+      "IHGFFKGDHLI": [
+        11002
+      ],
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9594"
+      }
+    },
+    {
+      "LGJCPENNFBC": 20004,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9595"
+      }
+    },
+    {
+      "LGJCPENNFBC": 20005,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9596"
+      }
+    },
+    {
+      "LGJCPENNFBC": 20006,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        38003
+      ],
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9597"
+      }
+    },
+    {
+      "LGJCPENNFBC": 26000,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5348"
+      }
+    },
+    {
+      "LGJCPENNFBC": 26001,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        26001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "通关剧情战役2-1",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5351"
+      }
+    },
+    {
+      "LGJCPENNFBC": 26002,
+      "IHGFFKGDHLI": [
+        26002
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "通关剧情战役2-1",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5354"
+      }
+    },
+    {
+      "LGJCPENNFBC": 34001,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        34001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到45级后解锁",
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Control_Fight",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5782"
+      },
+      "MGKPANPEHOH": 44
+    },
+    {
+      "LGJCPENNFBC": 40001,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        40001
+      ],
+      "EFANOJCPEGP": "完成剧情战役1-8后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9574"
+      },
+      "MGKPANPEHOH": 50
+    },
+    {
+      "LGJCPENNFBC": 11110,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9564"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11111,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9564"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11112,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9564"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11113,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9564"
+      }
+    },
+    {
+      "LGJCPENNFBC": 21000,
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到1级后解锁邮件",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5958"
+      }
+    },
+    {
+      "LGJCPENNFBC": 27000,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5356"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10997,
+      "IHGFFKGDHLI": [
+        10997
+      ],
+      "EFANOJCPEGP": "指挥官达到26级",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5512"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10998,
+      "IHGFFKGDHLI": [
+        10998
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到10级后解锁补给作战",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_SimCombat",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5353"
+      },
+      "MGKPANPEHOH": 30
+    },
+    {
+      "LGJCPENNFBC": 10999,
+      "IHGFFKGDHLI": [
+        10999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到13级后解锁模拟作战",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5350"
+      },
+      "MGKPANPEHOH": 20
+    },
+    {
+      "LGJCPENNFBC": 22000,
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-1后解锁公告",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5342"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28010,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        28010
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      }
+    },
+    {
+      "LGJCPENNFBC": 30001,
+      "IHGFFKGDHLI": [
+        30001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役SL-1-2后解锁活动",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Event",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5357"
+      },
+      "MGKPANPEHOH": 7
+    },
+    {
+      "LGJCPENNFBC": 30002,
+      "MDBHNLEGLIO": 1,
+      "EFANOJCPEGP": "默认解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5533"
+      }
+    },
+    {
+      "LGJCPENNFBC": 35001,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        35001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到25级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5534"
+      }
+    },
+    {
+      "LGJCPENNFBC": 35002,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        35002
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到25级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5535"
+      }
+    },
+    {
+      "LGJCPENNFBC": 35003,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        35003
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到25级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5536"
+      }
+    },
+    {
+      "LGJCPENNFBC": 35004,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        35004
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到25级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5538"
+      }
+    },
+    {
+      "LGJCPENNFBC": 35005,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        35005
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到25级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5539"
+      }
+    },
+    {
+      "LGJCPENNFBC": 35006,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        35006
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到25级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5540"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14500,
+      "IHGFFKGDHLI": [
+        14500
+      ],
+      "EFANOJCPEGP": "实兵演习段位达到专家·一后开启",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4350"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14501,
+      "IHGFFKGDHLI": [
+        14500
+      ],
+      "EFANOJCPEGP": "实兵演习段位达到专家·一后开启",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "lcon_NewFunctionUnlock_High_PVP",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4350"
+      }
+    },
+    {
+      "LGJCPENNFBC": 15200,
+      "IHGFFKGDHLI": [
+        15100
+      ],
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Recreationdeck",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "2611"
+      },
+      "MGKPANPEHOH": 12
+    },
+    {
+      "LGJCPENNFBC": 25000,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5960"
+      }
+    },
+    {
+      "LGJCPENNFBC": 25001,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9603"
+      }
+    },
+    {
+      "LGJCPENNFBC": 25002,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9603"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29000,
+      "IHGFFKGDHLI": [
+        29000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到16级后解锁心智螺旋",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Squad",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "6609"
+      },
+      "MGKPANPEHOH": 15
+    },
+    {
+      "LGJCPENNFBC": 29001,
+      "IHGFFKGDHLI": [
+        29001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到16级后解锁位键调控",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "6611"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29002,
+      "IHGFFKGDHLI": [
+        29002
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役1-8后解锁武器提升",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "6612"
+      },
+      "MGKPANPEHOH": 9
+    },
+    {
+      "LGJCPENNFBC": 29003,
+      "IHGFFKGDHLI": [
+        29003
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役1-8后解锁武器调校",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "7017"
+      },
+      "MGKPANPEHOH": 10
+    },
+    {
+      "LGJCPENNFBC": 29004,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到26级后解锁武器精调",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "7530"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29005,
+      "IHGFFKGDHLI": [
+        29005
+      ],
+      "EFANOJCPEGP": "完成剧情战役1-8后解锁武器管理",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "8273"
+      }
+    },
+    {
+      "LGJCPENNFBC": 32001,
+      "IHGFFKGDHLI": [
+        32001
+      ],
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_PVP",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9573"
+      },
+      "MGKPANPEHOH": 60
+    },
+    {
+      "LGJCPENNFBC": 38001,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        38001
+      ],
+      "EFANOJCPEGP": "指挥官等级达到16级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9600"
+      }
+    },
+    {
+      "LGJCPENNFBC": 38002,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "EFANOJCPEGP": "默认解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9601"
+      }
+    },
+    {
+      "LGJCPENNFBC": 38003,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        38003
+      ],
+      "EFANOJCPEGP": "指挥官等级达到16级后解锁",
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Control_Room",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "7514"
+      },
+      "MGKPANPEHOH": 46
+    },
+    {
+      "LGJCPENNFBC": 38004,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        38003
+      ],
+      "EFANOJCPEGP": "完成剧情战役普通SL-2-2",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "8256"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12101,
+      "IHGFFKGDHLI": [
+        12003
+      ],
+      "EFANOJCPEGP": "指挥官达到13级后解锁武器配件",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Coating",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "8152"
+      },
+      "MGKPANPEHOH": 34
+    },
+    {
+      "LGJCPENNFBC": 12102,
+      "IHGFFKGDHLI": [
+        12003
+      ],
+      "EFANOJCPEGP": "指挥官达到13级后解锁配件强化",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9565"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12103,
+      "IHGFFKGDHLI": [
+        12003
+      ],
+      "EFANOJCPEGP": "指挥官达到13级后解锁配件精调",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9566"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16101,
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役1-1后解锁易物所",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "2931"
+      }
+    },
+    {
+      "LGJCPENNFBC": 24000,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        24000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "通关剧情战役2-1",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5955"
+      }
+    },
+    {
+      "LGJCPENNFBC": 24001,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        24001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "通关剧情战役1-5",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5063"
+      }
+    },
+    {
+      "LGJCPENNFBC": 24002,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        24002
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "通关剧情战役2-1",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Quest",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5955"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28000,
+      "IHGFFKGDHLI": [
+        28000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到20级后解锁边界推进",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_DarkZone",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      },
+      "MGKPANPEHOH": 40
+    },
+    {
+      "LGJCPENNFBC": 28001,
+      "IHGFFKGDHLI": [
+        28001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到20级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28002,
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到20级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28003,
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到20级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28004,
+      "IHGFFKGDHLI": [
+        28000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到20级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28005,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成新手任务A01后解锁特殊悬赏模式",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28006,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成新手任务A09后解锁探索模式",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28007,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9604"
+      },
+      "FMHJNEPGIJB": "1745092800"
+    },
+    {
+      "LGJCPENNFBC": 28008,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        28008
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9605"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28009,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        28009
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3083"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29202,
+      "IHGFFKGDHLI": [
+        29202
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到20级后解锁近期活动",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5737"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29203,
+      "IHGFFKGDHLI": [
+        29301
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到26级后解锁近期活动",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11010,
+      "IHGFFKGDHLI": [
+        11010
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-1后解锁新手教学",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9563"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11011,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9564"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11012,
+      "IHGFFKGDHLI": [
+        11012
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到23级后\n解锁配件本",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_SimWeaponPart",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4330"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11013,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        11019
+      ],
+      "EFANOJCPEGP": "完成剧情战役3-5后解锁新手教学",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9563"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11101,
+      "IHGFFKGDHLI": [
+        11101
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役1-6后解锁归航教学",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9608"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11102,
+      "IHGFFKGDHLI": [
+        11102
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "通关归航教学·地形教学后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9608"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11103,
+      "IHGFFKGDHLI": [
+        11103
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "通关地形六后解锁【使用机关】",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9608"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11104,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        11104
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9608"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11105,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        11105
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9608"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11106,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        11106
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9608"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11501,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9567"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11502,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9568"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11503,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9569"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11504,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9570"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11505,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9571"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11506,
+      "JKBOJDOAELP": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9572"
+      }
+    },
+    {
+      "LGJCPENNFBC": 31000,
+      "IHGFFKGDHLI": [
+        31000
+      ],
+      "EFANOJCPEGP": "完成剧情战役1-8后解锁悔棋",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "3211"
+      }
+    },
+    {
+      "LGJCPENNFBC": 31001,
+      "IHGFFKGDHLI": [
+        31001
+      ],
+      "EFANOJCPEGP": "完成剧情战役2-1后解锁倍速战斗",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5774"
+      }
+    },
+    {
+      "LGJCPENNFBC": 31002,
+      "IHGFFKGDHLI": [
+        31002
+      ],
+      "EFANOJCPEGP": "完成剧情战役2-4后解锁自动战斗",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5776"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12000,
+      "IHGFFKGDHLI": [
+        12000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役SL-1-2后解锁整备室",
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Barrack",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "2609"
+      },
+      "MGKPANPEHOH": 2
+    },
+    {
+      "LGJCPENNFBC": 12001,
+      "IHGFFKGDHLI": [
+        12001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役SL-1-2后解锁效能提升",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9556"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12002,
+      "IHGFFKGDHLI": [
+        12002
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役SL-1-2后解锁云图强固",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9557"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12003,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        29102
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役1-5后解锁人形武器",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Weapon",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "8649"
+      },
+      "MGKPANPEHOH": 5
+    },
+    {
+      "LGJCPENNFBC": 12004,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9558"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12005,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9559"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12006,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9560"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12007,
+      "IHGFFKGDHLI": [
+        12007
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到13级后解锁武器配件",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_WeaponPart",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "6102"
+      },
+      "MGKPANPEHOH": 6
+    },
+    {
+      "LGJCPENNFBC": 12008,
+      "IHGFFKGDHLI": [
+        12007
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到13级后解锁配件强化",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9561"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12009,
+      "IHGFFKGDHLI": [
+        12007
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到13级后解锁配件精调",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9562"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12010,
+      "IHGFFKGDHLI": [
+        12010
+      ],
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9602"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14000,
+      "IHGFFKGDHLI": [
+        14000
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到13级后解锁实兵演习",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_PVP",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1772"
+      },
+      "MGKPANPEHOH": 32
+    },
+    {
+      "LGJCPENNFBC": 14001,
+      "IHGFFKGDHLI": [
+        14001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到13级后解锁荣誉专区",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14002,
+      "IHGFFKGDHLI": [
+        14002
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "累计消耗{0}/2000演习徽记解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14003,
+      "IHGFFKGDHLI": [
+        14003
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "段位达到新锐·一解锁演习兵械",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14004,
+      "IHGFFKGDHLI": [
+        14004
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "服务器时间99999999天后开启新手任务",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14005,
+      "IHGFFKGDHLI": [
+        14005
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-10后解锁演习记录",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14006,
+      "IHGFFKGDHLI": [
+        14006
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "完成剧情战役2-10后解锁排行榜",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14007,
+      "IHGFFKGDHLI": [
+        14007
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "段位达到职业·一开启战场机库",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "1772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 18000,
+      "IHGFFKGDHLI": [
+        99999
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "暂未开放",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9591"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29301,
+      "IHGFFKGDHLI": [
+        29301
+      ],
+      "EFANOJCPEGP": "指挥官达到26级后解锁主题活动",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_ThemeActivity",
+      "GPMDIHFLOKD": 1,
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9577"
+      },
+      "MGKPANPEHOH": 10
+    },
+    {
+      "LGJCPENNFBC": 29302,
+      "IHGFFKGDHLI": [
+        29302
+      ],
+      "EFANOJCPEGP": "指挥官达到26级后解锁主题活动",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9578"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29303,
+      "IHGFFKGDHLI": [
+        29303
+      ],
+      "EFANOJCPEGP": "指挥官达到26级后解锁主题活动",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9579"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29304,
+      "IHGFFKGDHLI": [
+        29304,
+        28005
+      ],
+      "EFANOJCPEGP": "完成活动战役普通1-1后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9580"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29305,
+      "IHGFFKGDHLI": [
+        29305
+      ],
+      "EFANOJCPEGP": "完成活动战役普通1-1后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9581"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29306,
+      "MDBHNLEGLIO": 1,
+      "IHGFFKGDHLI": [
+        29306
+      ],
+      "EFANOJCPEGP": "指挥官达到26级后解锁主题活动",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "9582"
+      }
+    },
+    {
+      "LGJCPENNFBC": 33001,
+      "IHGFFKGDHLI": [
+        33001
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到23级后解锁",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Unite",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "4333"
+      },
+      "MGKPANPEHOH": 41
+    },
+    {
+      "LGJCPENNFBC": 33002,
+      "IHGFFKGDHLI": [
+        33002
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到45级后解锁",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Decompose",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5777"
+      },
+      "MGKPANPEHOH": 42
+    },
+    {
+      "LGJCPENNFBC": 33003,
+      "IHGFFKGDHLI": [
+        33003
+      ],
+      "JKBOJDOAELP": 1,
+      "EFANOJCPEGP": "指挥官达到45级后解锁",
+      "ACJCPGBLOKF": 554,
+      "DNHAGPFHGCE": "Icon_NewFunctionUnlock_Calibration",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5779"
+      },
+      "MGKPANPEHOH": 43
+    },
+    {
+      "LGJCPENNFBC": 33004,
+      "IHGFFKGDHLI": [
+        12007
+      ],
+      "EFANOJCPEGP": "指挥官达到23级后解锁",
+      "MNEBOIKFDEP": {
+        "DOHLNDIPHAJ": "5780"
+      }
+    }
+  ]
+}

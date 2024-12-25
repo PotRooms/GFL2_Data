@@ -1,0 +1,1107 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 310,
+      "HBJAHCGKJJD": "土地升级地格-薄片",
+      "CDBCNNMPKNL": "Effect_Grid_Frame",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 3010,
+      "HBJAHCGKJJD": "基础地格-厚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Base",
+      "CDBCNNMPKNL": "Effect_Grid_Base",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_06"
+    },
+    {
+      "LGJCPENNFBC": 3011,
+      "HBJAHCGKJJD": "基础地格-厚-夜晚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Base",
+      "CDBCNNMPKNL": "Effect_Grid_Base",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_05"
+    },
+    {
+      "LGJCPENNFBC": 3070,
+      "HBJAHCGKJJD": "稀有随机-厚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random02",
+      "CDBCNNMPKNL": "Effect_Grid_Random02",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 3071,
+      "HBJAHCGKJJD": "稀有随机-厚-夜晚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random02",
+      "CDBCNNMPKNL": "Effect_Grid_Random02",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 120,
+      "HBJAHCGKJJD": "传送点B型出",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_Exit",
+      "CDBCNNMPKNL": "scene_trans_b2",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "HBJAHCGKJJD": "传送点B型入",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_Entrance",
+      "CDBCNNMPKNL": "scene_trans_b3",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 122,
+      "HBJAHCGKJJD": "传送点C型出入",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_TwoWay",
+      "CDBCNNMPKNL": "scene_trans_c1",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 123,
+      "HBJAHCGKJJD": "传送点C型出",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_Exit",
+      "CDBCNNMPKNL": "scene_trans_c2",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 124,
+      "HBJAHCGKJJD": "传送点C型入",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_Entrance",
+      "CDBCNNMPKNL": "scene_trans_c3",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 125,
+      "HBJAHCGKJJD": "抽签器",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Event",
+      "CDBCNNMPKNL": "scene_random_event",
+      "GGMGDIHOACH": "scene_random_event_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 126,
+      "HBJAHCGKJJD": "莱娜版本玩家出生点",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Born_Lenna",
+      "CDBCNNMPKNL": "scene_born_lenna",
+      "GGMGDIHOACH": "scene_born_lenna",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 127,
+      "HBJAHCGKJJD": "传送带激活状态",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_ConveyorBelt",
+      "CDBCNNMPKNL": "scene_conveyor",
+      "KIMCDBBPGNP": "scene_conveyor_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 128,
+      "HBJAHCGKJJD": "传送带未激活状态",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_ConveyorBelt_Lock",
+      "CDBCNNMPKNL": "scene_conveyor_close",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 129,
+      "HBJAHCGKJJD": "遥控器",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Control",
+      "CDBCNNMPKNL": "scene_control",
+      "GGMGDIHOACH": "scene_control_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 110,
+      "HBJAHCGKJJD": "奖励点",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Gift",
+      "CDBCNNMPKNL": "sence_gift",
+      "GGMGDIHOACH": "sence_gift_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "HBJAHCGKJJD": "单体恢复",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Cure",
+      "CDBCNNMPKNL": "sence_cure",
+      "GGMGDIHOACH": "sence_cure_1",
+      "KIMCDBBPGNP": "Monopoly_effect_cure",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "HBJAHCGKJJD": "全体恢复",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Cure_all",
+      "CDBCNNMPKNL": "sence_cure_all",
+      "GGMGDIHOACH": "sence_cure_all_1",
+      "KIMCDBBPGNP": "Monopoly_effect_cure",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 113,
+      "HBJAHCGKJJD": "单体稳态恢复",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Stable",
+      "CDBCNNMPKNL": "sence_stable",
+      "GGMGDIHOACH": "sence_stable_1",
+      "KIMCDBBPGNP": "Monopoly_effect_defend",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 114,
+      "HBJAHCGKJJD": "全体稳态恢复",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Stable_all",
+      "CDBCNNMPKNL": "sence_stable_all",
+      "GGMGDIHOACH": "sence_stable_all_1",
+      "KIMCDBBPGNP": "Monopoly_effect_defend",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 115,
+      "HBJAHCGKJJD": "跳转连接",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random",
+      "CDBCNNMPKNL": "Monopoly_effect_trans_function_1",
+      "KIMCDBBPGNP": "Monopoly_effect_trans_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 116,
+      "HBJAHCGKJJD": "传送点A型出入",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_TwoWay",
+      "CDBCNNMPKNL": "scene_trans_a1",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 117,
+      "HBJAHCGKJJD": "传送点A型出",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_Exit",
+      "CDBCNNMPKNL": "scene_trans_a2",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 118,
+      "HBJAHCGKJJD": "传送点A型入",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_Entrance",
+      "CDBCNNMPKNL": "scene_trans_a3",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 119,
+      "HBJAHCGKJJD": "传送点B型出入",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_TwoWay",
+      "CDBCNNMPKNL": "scene_trans_b1",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "HBJAHCGKJJD": "燃烧地形",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Burn",
+      "CDBCNNMPKNL": "Effect_ActivityTour_Event_Terrain_Burn",
+      "GGMGDIHOACH": "Effect_ActivityTour_Event_Terrain_Burn_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "HBJAHCGKJJD": "冰冻地形",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Ice",
+      "CDBCNNMPKNL": "Effect_ActivityTour_Event_Terrain_Ice",
+      "GGMGDIHOACH": "Effect_ActivityTour_Event_Terrain_Ice_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "HBJAHCGKJJD": "水洼地形",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_water",
+      "CDBCNNMPKNL": "Effect_ActivityTour_Event_Terrain_Water",
+      "GGMGDIHOACH": "Effect_ActivityTour_Event_Terrain_Water_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "HBJAHCGKJJD": "罕见随机点",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random_M",
+      "CDBCNNMPKNL": "sence_random",
+      "GGMGDIHOACH": "sence_random_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05b"
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "HBJAHCGKJJD": "灼烧",
+      "CDBCNNMPKNL": "Monopoly_effect_burn"
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "HBJAHCGKJJD": "冰封",
+      "CDBCNNMPKNL": "Monopoly_effect_ice"
+    },
+    {
+      "LGJCPENNFBC": 9101,
+      "HBJAHCGKJJD": "绿色地格",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 9102,
+      "HBJAHCGKJJD": "绿色悬空地格",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_06"
+    },
+    {
+      "LGJCPENNFBC": 9103,
+      "HBJAHCGKJJD": "透明地格",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_transparent_01"
+    },
+    {
+      "LGJCPENNFBC": 9104,
+      "HBJAHCGKJJD": "灰色地格",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05b"
+    },
+    {
+      "LGJCPENNFBC": 9105,
+      "HBJAHCGKJJD": "灰色悬空地格",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_06b"
+    },
+    {
+      "LGJCPENNFBC": 9106,
+      "HBJAHCGKJJD": "白色厚底地格",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_03c"
+    },
+    {
+      "LGJCPENNFBC": 9107,
+      "HBJAHCGKJJD": "莱娜常规地面铺路",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 9108,
+      "HBJAHCGKJJD": "莱娜悬空位置地面",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_floor_01"
+    },
+    {
+      "LGJCPENNFBC": 9109,
+      "HBJAHCGKJJD": "莱娜悬空位置铺路",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 9201,
+      "HBJAHCGKJJD": "1A0-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_001"
+    },
+    {
+      "LGJCPENNFBC": 9202,
+      "HBJAHCGKJJD": "1A0-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_002"
+    },
+    {
+      "LGJCPENNFBC": 9203,
+      "HBJAHCGKJJD": "1A0-03",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_003"
+    },
+    {
+      "LGJCPENNFBC": 9204,
+      "HBJAHCGKJJD": "1A0-04",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_004"
+    },
+    {
+      "LGJCPENNFBC": 9205,
+      "HBJAHCGKJJD": "1A0-05",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_005"
+    },
+    {
+      "LGJCPENNFBC": 9206,
+      "HBJAHCGKJJD": "1A0-06",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_006"
+    },
+    {
+      "LGJCPENNFBC": 9207,
+      "HBJAHCGKJJD": "1A0-07",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_007"
+    },
+    {
+      "LGJCPENNFBC": 9208,
+      "HBJAHCGKJJD": "1A0-08",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_008"
+    },
+    {
+      "LGJCPENNFBC": 9209,
+      "HBJAHCGKJJD": "1A0-09",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_009"
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "HBJAHCGKJJD": "玩家出生点",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Born",
+      "CDBCNNMPKNL": "sence_born",
+      "GGMGDIHOACH": "sence_born_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "HBJAHCGKJJD": "boss出生点",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Boss",
+      "CDBCNNMPKNL": "sence_boss",
+      "GGMGDIHOACH": "sence_boss_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "HBJAHCGKJJD": "怪物出生点",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Enemy",
+      "CDBCNNMPKNL": "sence_enemy",
+      "GGMGDIHOACH": "sence_enemy_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "HBJAHCGKJJD": "商店",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Shop",
+      "CDBCNNMPKNL": "sence_shop",
+      "GGMGDIHOACH": "sence_shop_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "HBJAHCGKJJD": "传送点A1",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_3",
+      "CDBCNNMPKNL": "Monopoly_effect_trans_function_1",
+      "KIMCDBBPGNP": "Monopoly_effect_trans_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "HBJAHCGKJJD": "传送点A2",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_3",
+      "CDBCNNMPKNL": "Monopoly_effect_trans_function_1",
+      "KIMCDBBPGNP": "Monopoly_effect_trans_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "HBJAHCGKJJD": "传送点B1",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_2",
+      "CDBCNNMPKNL": "Monopoly_effect_trans_function_2",
+      "KIMCDBBPGNP": "Monopoly_effect_trans_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 108,
+      "HBJAHCGKJJD": "传送点B2",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_2",
+      "CDBCNNMPKNL": "Monopoly_effect_trans_function_2",
+      "KIMCDBBPGNP": "Monopoly_effect_trans_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 109,
+      "HBJAHCGKJJD": "随机点",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random",
+      "CDBCNNMPKNL": "sence_random",
+      "GGMGDIHOACH": "sence_random_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 1020,
+      "HBJAHCGKJJD": "传送特效",
+      "CDBCNNMPKNL": "Monopoly_effect_trans_1"
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "HBJAHCGKJJD": "净化",
+      "CDBCNNMPKNL": "Monopoly_effect_purify"
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "HBJAHCGKJJD": "临时引雷针特效",
+      "CDBCNNMPKNL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "HBJAHCGKJJD": "临时速冻特效",
+      "CDBCNNMPKNL": "Monopolyorder_attack_02"
+    },
+    {
+      "LGJCPENNFBC": 1024,
+      "HBJAHCGKJJD": "通用攻击",
+      "CDBCNNMPKNL": "Monopolyorder_attack_03"
+    },
+    {
+      "LGJCPENNFBC": 1025,
+      "HBJAHCGKJJD": "通用受击",
+      "CDBCNNMPKNL": "Monopoly_effect_vertigo"
+    },
+    {
+      "LGJCPENNFBC": 3040,
+      "HBJAHCGKJJD": "怪物-厚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Enemy",
+      "CDBCNNMPKNL": "Effect_Grid_Monster",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 3041,
+      "HBJAHCGKJJD": "怪物-厚-夜晚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Enemy",
+      "CDBCNNMPKNL": "Effect_Grid_Monster",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 199,
+      "HBJAHCGKJJD": "障碍物",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Roadblock",
+      "CDBCNNMPKNL": "Effect_ActivityTour_Event_Terrain_Roadblock02",
+      "GGMGDIHOACH": "Effect_ActivityTour_Event_Terrain_Roadblock02_1",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 3030,
+      "HBJAHCGKJJD": "房屋-厚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Land",
+      "CDBCNNMPKNL": "Effect_Grid_Land",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 3031,
+      "HBJAHCGKJJD": "房屋-厚-夜晚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Land",
+      "CDBCNNMPKNL": "Effect_Grid_Land",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 301,
+      "HBJAHCGKJJD": "基础地格-薄片",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Base",
+      "CDBCNNMPKNL": "Effect_Grid_Base",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_04"
+    },
+    {
+      "LGJCPENNFBC": 302,
+      "HBJAHCGKJJD": "常规随机-薄片",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random",
+      "CDBCNNMPKNL": "Effect_Grid_Random",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 303,
+      "HBJAHCGKJJD": "房屋-薄片",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Land",
+      "CDBCNNMPKNL": "Effect_Grid_Land",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 304,
+      "HBJAHCGKJJD": "怪物-薄片",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Enemy",
+      "CDBCNNMPKNL": "Effect_Grid_Monster",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 305,
+      "HBJAHCGKJJD": "派遣-薄片",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Dispatch",
+      "CDBCNNMPKNL": "Effect_Grid_Dispatch",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 306,
+      "HBJAHCGKJJD": "起点-薄片",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Born_Mishty",
+      "CDBCNNMPKNL": "Effect_Grid_Start",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 307,
+      "HBJAHCGKJJD": "稀有随机-薄片",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random02",
+      "CDBCNNMPKNL": "Effect_Grid_Random02",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 308,
+      "HBJAHCGKJJD": "游戏-薄片",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Event",
+      "CDBCNNMPKNL": "Effect_Grid_Game",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_01"
+    },
+    {
+      "LGJCPENNFBC": 309,
+      "HBJAHCGKJJD": "地格刷新特效",
+      "CDBCNNMPKNL": "Effect_Grid_Flash"
+    },
+    {
+      "LGJCPENNFBC": 9220,
+      "HBJAHCGKJJD": "1A0-20",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_020"
+    },
+    {
+      "LGJCPENNFBC": 9221,
+      "HBJAHCGKJJD": "1A0-21",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_021"
+    },
+    {
+      "LGJCPENNFBC": 9222,
+      "HBJAHCGKJJD": "1A0-22",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_022"
+    },
+    {
+      "LGJCPENNFBC": 9223,
+      "HBJAHCGKJJD": "1A0-23",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_023"
+    },
+    {
+      "LGJCPENNFBC": 9224,
+      "HBJAHCGKJJD": "1A0-24",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_024"
+    },
+    {
+      "LGJCPENNFBC": 9225,
+      "HBJAHCGKJJD": "1A0-25",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_025"
+    },
+    {
+      "LGJCPENNFBC": 9226,
+      "HBJAHCGKJJD": "1A0-26",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_026"
+    },
+    {
+      "LGJCPENNFBC": 9227,
+      "HBJAHCGKJJD": "1A0-27",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_027"
+    },
+    {
+      "LGJCPENNFBC": 9228,
+      "HBJAHCGKJJD": "L-1A0-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_001"
+    },
+    {
+      "LGJCPENNFBC": 9229,
+      "HBJAHCGKJJD": "L-1A0-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_002"
+    },
+    {
+      "LGJCPENNFBC": 9301,
+      "HBJAHCGKJJD": "1A1-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_001"
+    },
+    {
+      "LGJCPENNFBC": 9302,
+      "HBJAHCGKJJD": "1A1-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_002"
+    },
+    {
+      "LGJCPENNFBC": 9303,
+      "HBJAHCGKJJD": "1A1-03",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_003"
+    },
+    {
+      "LGJCPENNFBC": 9304,
+      "HBJAHCGKJJD": "1A1-04",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_004"
+    },
+    {
+      "LGJCPENNFBC": 9305,
+      "HBJAHCGKJJD": "1A1-05",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_005"
+    },
+    {
+      "LGJCPENNFBC": 9306,
+      "HBJAHCGKJJD": "1A1-06",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_006"
+    },
+    {
+      "LGJCPENNFBC": 9307,
+      "HBJAHCGKJJD": "1A1-07",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_007"
+    },
+    {
+      "LGJCPENNFBC": 9308,
+      "HBJAHCGKJJD": "1A1-08",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_008"
+    },
+    {
+      "LGJCPENNFBC": 9309,
+      "HBJAHCGKJJD": "1A1-09",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_009"
+    },
+    {
+      "LGJCPENNFBC": 3020,
+      "HBJAHCGKJJD": "常规随机-厚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random",
+      "CDBCNNMPKNL": "Effect_Grid_Random",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 3021,
+      "HBJAHCGKJJD": "常规随机-厚-夜晚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Random",
+      "CDBCNNMPKNL": "Effect_Grid_Random",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 3060,
+      "HBJAHCGKJJD": "起点-厚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Born_Mishty",
+      "CDBCNNMPKNL": "Effect_Grid_Start",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 3061,
+      "HBJAHCGKJJD": "起点-厚-夜晚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Born_Mishty",
+      "CDBCNNMPKNL": "Effect_Grid_Start",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 9010,
+      "HBJAHCGKJJD": "控制提示",
+      "CDBCNNMPKNL": "scene_control_tips",
+      "GGMGDIHOACH": "scene_control_tips_1"
+    },
+    {
+      "LGJCPENNFBC": 9011,
+      "HBJAHCGKJJD": "连接提示",
+      "CDBCNNMPKNL": "scene_direction_tips",
+      "GGMGDIHOACH": "scene_direction_tips_1"
+    },
+    {
+      "LGJCPENNFBC": 9230,
+      "HBJAHCGKJJD": "L-1A0-03",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_003"
+    },
+    {
+      "LGJCPENNFBC": 9231,
+      "HBJAHCGKJJD": "L-1A0-04",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_004"
+    },
+    {
+      "LGJCPENNFBC": 9232,
+      "HBJAHCGKJJD": "L-1A0-05",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_005"
+    },
+    {
+      "LGJCPENNFBC": 9233,
+      "HBJAHCGKJJD": "L-1A0-06",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_006"
+    },
+    {
+      "LGJCPENNFBC": 9234,
+      "HBJAHCGKJJD": "L-1A0-07",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_007"
+    },
+    {
+      "LGJCPENNFBC": 9235,
+      "HBJAHCGKJJD": "L-1A0-08",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_008"
+    },
+    {
+      "LGJCPENNFBC": 9236,
+      "HBJAHCGKJJD": "L-1A0-09",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_009"
+    },
+    {
+      "LGJCPENNFBC": 9237,
+      "HBJAHCGKJJD": "L-1A0-10",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_010"
+    },
+    {
+      "LGJCPENNFBC": 9238,
+      "HBJAHCGKJJD": "L-1A0-11",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_011"
+    },
+    {
+      "LGJCPENNFBC": 9239,
+      "HBJAHCGKJJD": "L-1A0-12",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_012"
+    },
+    {
+      "LGJCPENNFBC": 3050,
+      "HBJAHCGKJJD": "派遣-厚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Dispatch",
+      "CDBCNNMPKNL": "Effect_Grid_Dispatch",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 3051,
+      "HBJAHCGKJJD": "派遣-厚-夜晚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Dispatch",
+      "CDBCNNMPKNL": "Effect_Grid_Dispatch",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 3080,
+      "HBJAHCGKJJD": "游戏-厚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Event",
+      "CDBCNNMPKNL": "Effect_Grid_Game",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 3081,
+      "HBJAHCGKJJD": "游戏-厚-夜晚",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Event",
+      "CDBCNNMPKNL": "Effect_Grid_Game",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 9110,
+      "HBJAHCGKJJD": "莱娜悬空位置夜间铺路",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 9210,
+      "HBJAHCGKJJD": "1A0-10",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_010"
+    },
+    {
+      "LGJCPENNFBC": 9211,
+      "HBJAHCGKJJD": "1A0-11",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_011"
+    },
+    {
+      "LGJCPENNFBC": 9212,
+      "HBJAHCGKJJD": "1A0-12",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_012"
+    },
+    {
+      "LGJCPENNFBC": 9213,
+      "HBJAHCGKJJD": "1A0-13",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_013"
+    },
+    {
+      "LGJCPENNFBC": 9214,
+      "HBJAHCGKJJD": "1A0-14",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_014"
+    },
+    {
+      "LGJCPENNFBC": 9215,
+      "HBJAHCGKJJD": "1A0-15",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_015"
+    },
+    {
+      "LGJCPENNFBC": 9216,
+      "HBJAHCGKJJD": "1A0-16",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_016"
+    },
+    {
+      "LGJCPENNFBC": 9217,
+      "HBJAHCGKJJD": "1A0-17",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_017"
+    },
+    {
+      "LGJCPENNFBC": 9218,
+      "HBJAHCGKJJD": "1A0-18",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_018"
+    },
+    {
+      "LGJCPENNFBC": 9219,
+      "HBJAHCGKJJD": "1A0-19",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A0_019"
+    },
+    {
+      "LGJCPENNFBC": 9240,
+      "HBJAHCGKJJD": "L-1A0-13",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_013"
+    },
+    {
+      "LGJCPENNFBC": 9241,
+      "HBJAHCGKJJD": "L-1A0-14",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_014"
+    },
+    {
+      "LGJCPENNFBC": 9242,
+      "HBJAHCGKJJD": "L-1A0-15",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_015"
+    },
+    {
+      "LGJCPENNFBC": 9243,
+      "HBJAHCGKJJD": "L-1A0-16",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_016"
+    },
+    {
+      "LGJCPENNFBC": 9244,
+      "HBJAHCGKJJD": "L-1A0-17",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A0_017"
+    },
+    {
+      "LGJCPENNFBC": 9320,
+      "HBJAHCGKJJD": "L-1A1-05",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_005"
+    },
+    {
+      "LGJCPENNFBC": 9321,
+      "HBJAHCGKJJD": "L-1A1-06",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_006"
+    },
+    {
+      "LGJCPENNFBC": 9322,
+      "HBJAHCGKJJD": "L-1A1-07",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_007"
+    },
+    {
+      "LGJCPENNFBC": 9323,
+      "HBJAHCGKJJD": "L-1A1-08",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_008"
+    },
+    {
+      "LGJCPENNFBC": 9324,
+      "HBJAHCGKJJD": "L-1A1-09",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_009"
+    },
+    {
+      "LGJCPENNFBC": 9325,
+      "HBJAHCGKJJD": "L-1A1-10",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_010"
+    },
+    {
+      "LGJCPENNFBC": 9401,
+      "HBJAHCGKJJD": "3A1-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_3A1_001"
+    },
+    {
+      "LGJCPENNFBC": 9402,
+      "HBJAHCGKJJD": "3A1-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_3A1_002"
+    },
+    {
+      "LGJCPENNFBC": 9403,
+      "HBJAHCGKJJD": "3B0-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_3B0_001"
+    },
+    {
+      "LGJCPENNFBC": 9404,
+      "HBJAHCGKJJD": "4B0-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_4B0_001"
+    },
+    {
+      "LGJCPENNFBC": 9405,
+      "HBJAHCGKJJD": "7A0-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_7A0_001"
+    },
+    {
+      "LGJCPENNFBC": 9406,
+      "HBJAHCGKJJD": "7A0-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_7A0_002"
+    },
+    {
+      "LGJCPENNFBC": 9407,
+      "HBJAHCGKJJD": "7A0-03",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_7A0_003"
+    },
+    {
+      "LGJCPENNFBC": 9408,
+      "HBJAHCGKJJD": "7A0-04",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_7A0_004"
+    },
+    {
+      "LGJCPENNFBC": 9409,
+      "HBJAHCGKJJD": "7A1-03",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_7A1_003"
+    },
+    {
+      "LGJCPENNFBC": 130,
+      "HBJAHCGKJJD": "传送点D型出入",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_TwoWay",
+      "CDBCNNMPKNL": "scene_trans_d1",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 131,
+      "HBJAHCGKJJD": "传送点D型出",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_Exit",
+      "CDBCNNMPKNL": "scene_trans_d2",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 132,
+      "HBJAHCGKJJD": "传送点D型入",
+      "ENIGEKJBLCK": "Icon_ActivityTour_Event_Trans_Entrance",
+      "CDBCNNMPKNL": "scene_trans_d3",
+      "KIMCDBBPGNP": "scene_trans_a_2",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_floor_05"
+    },
+    {
+      "LGJCPENNFBC": 3100,
+      "HBJAHCGKJJD": "土地升级地格-厚",
+      "CDBCNNMPKNL": "Effect_Grid_Frame",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_02"
+    },
+    {
+      "LGJCPENNFBC": 3101,
+      "HBJAHCGKJJD": "土地升级地格-厚",
+      "CDBCNNMPKNL": "Effect_Grid_Frame",
+      "BKBGCIGKKDL": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_road_03"
+    },
+    {
+      "LGJCPENNFBC": 9002,
+      "HBJAHCGKJJD": "警戒",
+      "CDBCNNMPKNL": "Monopoly_effect_monitor",
+      "GGMGDIHOACH": "Monopoly_effect_monitor_1"
+    },
+    {
+      "LGJCPENNFBC": 9003,
+      "HBJAHCGKJJD": "攻击",
+      "CDBCNNMPKNL": "Monopoly_effect_danger",
+      "GGMGDIHOACH": "Monopoly_effect_danger_1"
+    },
+    {
+      "LGJCPENNFBC": 9004,
+      "HBJAHCGKJJD": "我方占领",
+      "CDBCNNMPKNL": "occupy_us",
+      "GGMGDIHOACH": "occupy_us_1"
+    },
+    {
+      "LGJCPENNFBC": 9005,
+      "HBJAHCGKJJD": "敌方占领",
+      "CDBCNNMPKNL": "occupy_enemy",
+      "GGMGDIHOACH": "occupy_enemy_1"
+    },
+    {
+      "LGJCPENNFBC": 9006,
+      "HBJAHCGKJJD": "地格选中",
+      "CDBCNNMPKNL": "Monopoly_effect_choosen"
+    },
+    {
+      "LGJCPENNFBC": 9007,
+      "HBJAHCGKJJD": "地格可选",
+      "CDBCNNMPKNL": "Monopoly_effect_choose"
+    },
+    {
+      "LGJCPENNFBC": 9008,
+      "HBJAHCGKJJD": "岔路",
+      "CDBCNNMPKNL": "Monopoly_effect_crossway",
+      "GGMGDIHOACH": "Monopoly_effect_crossway_1"
+    },
+    {
+      "LGJCPENNFBC": 9009,
+      "HBJAHCGKJJD": "警戒",
+      "CDBCNNMPKNL": "Monopoly_effect_monitor",
+      "GGMGDIHOACH": "Monopoly_effect_monitor_1"
+    },
+    {
+      "LGJCPENNFBC": 9310,
+      "HBJAHCGKJJD": "1A1-10",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_010"
+    },
+    {
+      "LGJCPENNFBC": 9311,
+      "HBJAHCGKJJD": "1A1-11",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_011"
+    },
+    {
+      "LGJCPENNFBC": 9312,
+      "HBJAHCGKJJD": "1A1-12",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_012"
+    },
+    {
+      "LGJCPENNFBC": 9313,
+      "HBJAHCGKJJD": "1B1-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1B1_001"
+    },
+    {
+      "LGJCPENNFBC": 9314,
+      "HBJAHCGKJJD": "1A1-13",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_1A1_013"
+    },
+    {
+      "LGJCPENNFBC": 9315,
+      "HBJAHCGKJJD": "2A1-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_2A1_001"
+    },
+    {
+      "LGJCPENNFBC": 9316,
+      "HBJAHCGKJJD": "L-1A1-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_001"
+    },
+    {
+      "LGJCPENNFBC": 9317,
+      "HBJAHCGKJJD": "L-1A1-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_002"
+    },
+    {
+      "LGJCPENNFBC": 9318,
+      "HBJAHCGKJJD": "L-1A1-03",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_003"
+    },
+    {
+      "LGJCPENNFBC": 9319,
+      "HBJAHCGKJJD": "L-1A1-04",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_1A1_004"
+    },
+    {
+      "LGJCPENNFBC": 9410,
+      "HBJAHCGKJJD": "7A1-04",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_7A1_004"
+    },
+    {
+      "LGJCPENNFBC": 9411,
+      "HBJAHCGKJJD": "7A1-05",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_7A1_005"
+    },
+    {
+      "LGJCPENNFBC": 9412,
+      "HBJAHCGKJJD": "7A1-06",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_7A1_006"
+    },
+    {
+      "LGJCPENNFBC": 9413,
+      "HBJAHCGKJJD": "4B0-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/01/s_fes_4B0_002"
+    },
+    {
+      "LGJCPENNFBC": 9414,
+      "HBJAHCGKJJD": "L-3A0-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_3A0_001"
+    },
+    {
+      "LGJCPENNFBC": 9415,
+      "HBJAHCGKJJD": "L-3A0-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_3A0_002"
+    },
+    {
+      "LGJCPENNFBC": 9416,
+      "HBJAHCGKJJD": "L-7A1-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_7A1_001"
+    },
+    {
+      "LGJCPENNFBC": 9417,
+      "HBJAHCGKJJD": "L-7A1-02",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_7A1_002"
+    },
+    {
+      "LGJCPENNFBC": 9418,
+      "HBJAHCGKJJD": "L-9A0-01",
+      "GOBBJOPJHJN": "ThemeActivity/ActivityMonopoly/Mould/02/s_fes_9A0_001"
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "HBJAHCGKJJD": "防御",
+      "CDBCNNMPKNL": "Monopoly_effect_defense"
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "HBJAHCGKJJD": "横行",
+      "CDBCNNMPKNL": "Monopoly_effect_invincible"
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "HBJAHCGKJJD": "眩晕",
+      "CDBCNNMPKNL": "Monopoly_effect_vertigo"
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "HBJAHCGKJJD": "重启",
+      "CDBCNNMPKNL": "Monopoly_effect_reborn"
+    },
+    {
+      "LGJCPENNFBC": 1018,
+      "HBJAHCGKJJD": "愈合",
+      "CDBCNNMPKNL": "Monopoly_effect_cure"
+    },
+    {
+      "LGJCPENNFBC": 1019,
+      "HBJAHCGKJJD": "稳态回复",
+      "CDBCNNMPKNL": "Monopoly_effect_defend"
+    }
+  ]
+}

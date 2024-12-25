@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBCFNDOENFL": "材料",
+      "OGFCNAAEEHC": "指挥官的资源",
+      "DNHAGPFHGCE": "Icon_Repository_Res",
+      "MINHDEFMGIG": [
+        102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBCFNDOENFL": "物资",
+      "OGFCNAAEEHC": "指挥官的道具",
+      "DNHAGPFHGCE": "Icon_Repository_Item",
+      "MINHDEFMGIG": [
+        1,
+        4,
+        7,
+        21,
+        20,
+        115,
+        122
+      ]
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 5060,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19970"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60136,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8919"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5061,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19971"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60137,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8919"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5062,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19972"
+      },
+      "OMMILBAEAAG": "Monster_Half_HammerThorn",
+      "GJICDIOJBGC": 60138,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8919"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5063,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19973"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Poison",
+      "GJICDIOJBGC": 60139,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8920"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5064,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19974"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felahagle",
+      "GJICDIOJBGC": 60140,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8920"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5065,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19975"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60141,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8920"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5066,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19976"
+      },
+      "OMMILBAEAAG": "Monster_Half_DrWeeding",
+      "GJICDIOJBGC": 60142,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8920"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5067,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19977"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60143,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8920"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5068,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19978"
+      },
+      "OMMILBAEAAG": "Monster_Half_Crocodeer",
+      "GJICDIOJBGC": 60144,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8920"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5069,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19979"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Ice",
+      "GJICDIOJBGC": 60145,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8921"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 6011,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19997"
+      },
+      "OMMILBAEAAG": "Monster_Half_Ravn",
+      "GJICDIOJBGC": 60191,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8918"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6012,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19998"
+      },
+      "OMMILBAEAAG": "Monster_Half_Sextans_default",
+      "GJICDIOJBGC": 60192,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8919"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6013,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19999"
+      },
+      "OMMILBAEAAG": "Monster_Half_Darture_default",
+      "GJICDIOJBGC": 60193,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8920"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6014,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "20000"
+      },
+      "OMMILBAEAAG": "Monster_Half_Mecha_Support",
+      "GJICDIOJBGC": 60194,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8921"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6015,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "20001"
+      },
+      "OMMILBAEAAG": "Monster_Half_Eber_Pig",
+      "GJICDIOJBGC": 60195,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8922"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6016,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "20002"
+      },
+      "OMMILBAEAAG": "Monster_Half_FlareCerberus",
+      "GJICDIOJBGC": 60196,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8923"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6017,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "20003"
+      },
+      "OMMILBAEAAG": "Monster_Half_Ironside",
+      "GJICDIOJBGC": 60197,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8924"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 5010,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "3268"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felahagle",
+      "GJICDIOJBGC": 60110,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "6203"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5011,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "6963"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60111,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "6203"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5012,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "7489"
+      },
+      "OMMILBAEAAG": "Monster_Half_Crocodeer",
+      "GJICDIOJBGC": 60112,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "6203"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5013,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "8292"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Ice",
+      "GJICDIOJBGC": 60113,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8638"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5014,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "9442"
+      },
+      "OMMILBAEAAG": "Monster_Half_DrWeeding",
+      "GJICDIOJBGC": 60114,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8638"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5015,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "13257"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60115,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8638"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5016,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "15484"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felaste",
+      "GJICDIOJBGC": 60116,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8638"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5017,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "17885"
+      },
+      "OMMILBAEAAG": "Monster_Half_U023Melee",
+      "GJICDIOJBGC": 60117,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8915"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5018,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19932"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60118,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8915"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5019,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19933"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60119,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8915"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5051,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19941"
+      },
+      "OMMILBAEAAG": "Monster_Half_Svejk",
+      "GJICDIOJBGC": 60127,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8918"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5052,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19942"
+      },
+      "OMMILBAEAAG": "Monster_Half_HammerThorn",
+      "GJICDIOJBGC": 60128,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8918"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5053,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19943"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60129,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8918"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5054,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19944"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Poison",
+      "GJICDIOJBGC": 60130,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8918"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5055,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19945"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felaskju",
+      "GJICDIOJBGC": 60131,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8918"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5056,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19946"
+      },
+      "OMMILBAEAAG": "Monster_Half_Crocodeer",
+      "GJICDIOJBGC": 60132,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8918"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5057,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19947"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60133,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8919"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5058,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19948"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Ice",
+      "GJICDIOJBGC": 60134,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8919"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5059,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19949"
+      },
+      "OMMILBAEAAG": "Monster_Half_HammerThorn",
+      "GJICDIOJBGC": 60135,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8919"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5070,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19980"
+      },
+      "OMMILBAEAAG": "Monster_Half_DrWeeding",
+      "GJICDIOJBGC": 60146,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8921"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5071,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19981"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felahagle",
+      "GJICDIOJBGC": 60147,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8921"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5072,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19982"
+      },
+      "OMMILBAEAAG": "Monster_Half_HammerThorn",
+      "GJICDIOJBGC": 60148,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8921"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5073,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19983"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60149,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8921"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5074,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19984"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felaste",
+      "GJICDIOJBGC": 60150,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8921"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5075,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19985"
+      },
+      "OMMILBAEAAG": "Monster_Half_U023Melee",
+      "GJICDIOJBGC": 60151,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8922"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5076,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19986"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60152,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8922"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5077,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19987"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felaskju",
+      "GJICDIOJBGC": 60153,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8922"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5078,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19988"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisBlade",
+      "GJICDIOJBGC": 60154,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8922"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5079,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19989"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60155,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8922"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5080,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19950"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60156,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8922"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5081,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19951"
+      },
+      "OMMILBAEAAG": "Monster_Half_Svejk",
+      "GJICDIOJBGC": 60157,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8923"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5082,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19952"
+      },
+      "OMMILBAEAAG": "Monster_Half_HammerThorn",
+      "GJICDIOJBGC": 60158,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8923"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5083,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19953"
+      },
+      "OMMILBAEAAG": "Monster_Half_Brontes",
+      "GJICDIOJBGC": 60159,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8923"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5084,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19954"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60160,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8923"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5085,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19955"
+      },
+      "OMMILBAEAAG": "Monster_Half_Dinergate",
+      "GJICDIOJBGC": 60161,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8923"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5086,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19956"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Ice",
+      "GJICDIOJBGC": 60162,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8923"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5087,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19957"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60163,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8924"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5088,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19958"
+      },
+      "OMMILBAEAAG": "Monster_Half_U023Melee",
+      "GJICDIOJBGC": 60164,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8924"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5089,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19959"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60165,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8924"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5090,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19960"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Ice",
+      "GJICDIOJBGC": 60166,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8924"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 6001,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19990"
+      },
+      "OMMILBAEAAG": "Monster_Half_Ravn",
+      "GJICDIOJBGC": 60181,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8904"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6002,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19991"
+      },
+      "OMMILBAEAAG": "Monster_Half_Sextans_default",
+      "GJICDIOJBGC": 60182,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8905"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6003,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19992"
+      },
+      "OMMILBAEAAG": "Monster_Half_Darture_default",
+      "GJICDIOJBGC": 60183,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "6203"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6004,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19993"
+      },
+      "OMMILBAEAAG": "Monster_Half_Mecha_Support",
+      "GJICDIOJBGC": 60184,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8638"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6005,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19994"
+      },
+      "OMMILBAEAAG": "Monster_Half_Eber_Pig",
+      "GJICDIOJBGC": 60185,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8915"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6006,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19995"
+      },
+      "OMMILBAEAAG": "Monster_Half_FlareCerberus",
+      "GJICDIOJBGC": 60186,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8916"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 6007,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19996"
+      },
+      "OMMILBAEAAG": "Monster_Half_Ironside",
+      "GJICDIOJBGC": 60187,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8917"
+      },
+      "BMMOFFIFNKD": 3
+    },
+    {
+      "LGJCPENNFBC": 5001,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19961"
+      },
+      "OMMILBAEAAG": "Monster_Half_Svejk",
+      "GJICDIOJBGC": 60101,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8904"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5002,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19962"
+      },
+      "OMMILBAEAAG": "Monster_Half_HammerThorn",
+      "GJICDIOJBGC": 60102,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8904"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5003,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19963"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felaskju",
+      "GJICDIOJBGC": 60103,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8904"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5004,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19964"
+      },
+      "OMMILBAEAAG": "Monster_Half_Crocodeer",
+      "GJICDIOJBGC": 60104,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8904"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5005,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19965"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60105,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8905"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5006,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19966"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Ice",
+      "GJICDIOJBGC": 60106,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8905"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5007,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19967"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60107,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8905"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5008,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19968"
+      },
+      "OMMILBAEAAG": "Monster_Half_HammerThorn",
+      "GJICDIOJBGC": 60108,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8905"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5009,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19969"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Poison",
+      "GJICDIOJBGC": 60109,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "6203"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5020,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19934"
+      },
+      "OMMILBAEAAG": "Monster_Half_AegisFrontsight",
+      "GJICDIOJBGC": 60120,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8915"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5021,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19935"
+      },
+      "OMMILBAEAAG": "Monster_Half_Svejk",
+      "GJICDIOJBGC": 60121,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8916"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5022,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19936"
+      },
+      "OMMILBAEAAG": "Monster_Half_HammerThorn",
+      "GJICDIOJBGC": 60122,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8916"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5023,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19937"
+      },
+      "OMMILBAEAAG": "Monster_Half_Dinergate",
+      "GJICDIOJBGC": 60123,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8916"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5024,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19938"
+      },
+      "OMMILBAEAAG": "Monster_Half_Thutoad_Ice",
+      "GJICDIOJBGC": 60124,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8916"
+      },
+      "BMMOFFIFNKD": 2
+    },
+    {
+      "LGJCPENNFBC": 5025,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19939"
+      },
+      "OMMILBAEAAG": "Monster_Half_Felade",
+      "GJICDIOJBGC": 60125,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8917"
+      },
+      "BMMOFFIFNKD": 1
+    },
+    {
+      "LGJCPENNFBC": 5026,
+      "FGMAEDECALF": {
+        "DOHLNDIPHAJ": "19940"
+      },
+      "OMMILBAEAAG": "Monster_Half_U023Melee",
+      "GJICDIOJBGC": 60126,
+      "GBCFPLLJDPG": {
+        "DOHLNDIPHAJ": "8917"
+      },
+      "BMMOFFIFNKD": 1
+    }
+  ]
+}

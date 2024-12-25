@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "JONPFGODOKJ": 170011,
+      "ECKCDABPAON": "放置材料1",
+      "PGOEJBIOMGL": 1,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "3184"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "5601"
+      },
+      "EHIPDMDBELF": 4,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem1",
+      "FHAHMFHCMJE": 1
+    },
+    {
+      "JONPFGODOKJ": 170012,
+      "ECKCDABPAON": "放置材料2",
+      "PGOEJBIOMGL": 1,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "5602"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "5603"
+      },
+      "EHIPDMDBELF": 4,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem2",
+      "FHAHMFHCMJE": 1
+    },
+    {
+      "JONPFGODOKJ": 170013,
+      "ECKCDABPAON": "放置材料3",
+      "PGOEJBIOMGL": 1,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "5604"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "5605"
+      },
+      "EHIPDMDBELF": 4,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_PlaceItem3",
+      "FHAHMFHCMJE": 1
+    },
+    {
+      "JONPFGODOKJ": 170015,
+      "ECKCDABPAON": "咖啡1材料",
+      "PGOEJBIOMGL": 1,
+      "KPPEKONPEJG": 10,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "5606"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "5607"
+      },
+      "EHIPDMDBELF": 3,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_1",
+      "FHAHMFHCMJE": 3
+    },
+    {
+      "JONPFGODOKJ": 170016,
+      "ECKCDABPAON": "咖啡2材料",
+      "PGOEJBIOMGL": 1,
+      "KPPEKONPEJG": 15,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "6353"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "6354"
+      },
+      "EHIPDMDBELF": 3,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_2",
+      "FHAHMFHCMJE": 3
+    },
+    {
+      "JONPFGODOKJ": 170017,
+      "ECKCDABPAON": "咖啡3材料",
+      "PGOEJBIOMGL": 1,
+      "KPPEKONPEJG": 20,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "6355"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "6356"
+      },
+      "EHIPDMDBELF": 4,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_3",
+      "FHAHMFHCMJE": 3
+    },
+    {
+      "JONPFGODOKJ": 170018,
+      "ECKCDABPAON": "咖啡4材料",
+      "PGOEJBIOMGL": 1,
+      "KPPEKONPEJG": 25,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "6358"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "6359"
+      },
+      "EHIPDMDBELF": 4,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_4",
+      "FHAHMFHCMJE": 3
+    },
+    {
+      "JONPFGODOKJ": 170019,
+      "ECKCDABPAON": "咖啡5材料",
+      "PGOEJBIOMGL": 1,
+      "KPPEKONPEJG": 30,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "6360"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "6361"
+      },
+      "EHIPDMDBELF": 5,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_5",
+      "FHAHMFHCMJE": 3
+    },
+    {
+      "JONPFGODOKJ": 170020,
+      "ECKCDABPAON": "咖啡6材料",
+      "PGOEJBIOMGL": 1,
+      "KPPEKONPEJG": 40,
+      "PEOKODDOKDK": {
+        "DOHLNDIPHAJ": "6363"
+      },
+      "BILLCKCKMNN": {
+        "DOHLNDIPHAJ": "6364"
+      },
+      "EHIPDMDBELF": 5,
+      "GEDCDAHPDAD": "Assets/_UI/UIRes/Atlas/Icon/Item/Item_Icon_Centaureissi_ExchangeToken_6",
+      "FHAHMFHCMJE": 3
+    }
+  ]
+}

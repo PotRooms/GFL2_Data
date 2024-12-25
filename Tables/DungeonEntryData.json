@@ -1,0 +1,758 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10,
+      "KLINHOHLGJK": 99004,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "3210"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5835"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry02",
+      "OCGEHOAGCAM": "stamina_maxup",
+      "IEHBFIDACEJ": 10
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "KLINHOHLGJK": 99004,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5840"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5841"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_itemrecovery",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "KLINHOHLGJK": 99004,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "6004"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "6005"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry09",
+      "OCGEHOAGCAM": "hp_itemrecovery",
+      "IEHBFIDACEJ": 2
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "KLINHOHLGJK": 99011,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7497"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7905"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry01",
+      "OCGEHOAGCAM": "stamina_cost",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "KLINHOHLGJK": 99011,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7906"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7907"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry02",
+      "OCGEHOAGCAM": "stamina_max",
+      "IEHBFIDACEJ": 10
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "KLINHOHLGJK": 99011,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7908"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7909"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_ex",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "KLINHOHLGJK": 99011,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7910"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7911"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry10",
+      "OCGEHOAGCAM": "cost_change",
+      "IEHBFIDACEJ": 55,
+      "MOIFNDBHEDP": 4
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "KLINHOHLGJK": 99011,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7912"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7913"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry05",
+      "OCGEHOAGCAM": "item_effecet",
+      "IEHBFIDACEJ": 20
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "KLINHOHLGJK": 99012,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7914"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7915"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry06",
+      "OCGEHOAGCAM": "long_cost",
+      "IEHBFIDACEJ": 35,
+      "MOIFNDBHEDP": 2
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "KLINHOHLGJK": 99012,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7916"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7917"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry07",
+      "OCGEHOAGCAM": "layer_cost",
+      "IEHBFIDACEJ": 2
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "KLINHOHLGJK": 99012,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7908"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7909"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_ex",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "KLINHOHLGJK": 99012,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7918"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7919"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry09",
+      "OCGEHOAGCAM": "hp_ex",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "KLINHOHLGJK": 99012,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7910"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7911"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry10",
+      "OCGEHOAGCAM": "cost_change",
+      "IEHBFIDACEJ": 55,
+      "MOIFNDBHEDP": 4
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "KLINHOHLGJK": 99013,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7497"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7905"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry01",
+      "OCGEHOAGCAM": "stamina_cost",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "KLINHOHLGJK": 99013,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7906"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7907"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry02",
+      "OCGEHOAGCAM": "stamina_max",
+      "IEHBFIDACEJ": 10
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "KLINHOHLGJK": 99013,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7908"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7920"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_ex",
+      "IEHBFIDACEJ": 2
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "KLINHOHLGJK": 99013,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7918"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7919"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry09",
+      "OCGEHOAGCAM": "hp_ex",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "KLINHOHLGJK": 99013,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7914"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7915"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry06",
+      "OCGEHOAGCAM": "long_cost",
+      "IEHBFIDACEJ": 35,
+      "MOIFNDBHEDP": 2
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "KLINHOHLGJK": 99014,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7914"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7915"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry06",
+      "OCGEHOAGCAM": "long_cost",
+      "IEHBFIDACEJ": 35,
+      "MOIFNDBHEDP": 2
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "KLINHOHLGJK": 99014,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7916"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7917"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry07",
+      "OCGEHOAGCAM": "layer_cost",
+      "IEHBFIDACEJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "KLINHOHLGJK": 99014,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7908"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7909"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_ex",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "KLINHOHLGJK": 99014,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7918"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7919"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry09",
+      "OCGEHOAGCAM": "hp_ex",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "KLINHOHLGJK": 99014,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7497"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7905"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry01",
+      "OCGEHOAGCAM": "stamina_cost",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7497"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7905"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry01",
+      "OCGEHOAGCAM": "stamina_cost",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7906"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7907"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry02",
+      "OCGEHOAGCAM": "stamina_max",
+      "IEHBFIDACEJ": 10
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7914"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7921"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry06",
+      "OCGEHOAGCAM": "long_cost",
+      "IEHBFIDACEJ": 30,
+      "MOIFNDBHEDP": 2
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7910"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7922"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry10",
+      "OCGEHOAGCAM": "cost_change",
+      "IEHBFIDACEJ": 45,
+      "MOIFNDBHEDP": 5
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7912"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7923"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry05",
+      "OCGEHOAGCAM": "item_effecet",
+      "IEHBFIDACEJ": 10
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7914"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7924"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry06",
+      "OCGEHOAGCAM": "long_cost",
+      "IEHBFIDACEJ": 20,
+      "MOIFNDBHEDP": 5
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7912"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7923"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry05",
+      "OCGEHOAGCAM": "item_effecet",
+      "IEHBFIDACEJ": 10
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7914"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7924"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry06",
+      "OCGEHOAGCAM": "long_cost",
+      "IEHBFIDACEJ": 20,
+      "MOIFNDBHEDP": 5
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7916"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7917"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry07",
+      "OCGEHOAGCAM": "layer_cost",
+      "IEHBFIDACEJ": 2
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7908"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7925"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_ex",
+      "IEHBFIDACEJ": 5
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7918"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7926"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry09",
+      "OCGEHOAGCAM": "hp_ex",
+      "IEHBFIDACEJ": 3
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "KLINHOHLGJK": 99901,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7910"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7927"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry10",
+      "OCGEHOAGCAM": "cost_change",
+      "IEHBFIDACEJ": 15,
+      "MOIFNDBHEDP": 5
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "KLINHOHLGJK": 99911,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7497"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7928"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry01",
+      "OCGEHOAGCAM": "stamina_cost",
+      "IEHBFIDACEJ": 5
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "KLINHOHLGJK": 99911,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7929"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7930"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry04",
+      "OCGEHOAGCAM": "hp_cost",
+      "IEHBFIDACEJ": 3
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "KLINHOHLGJK": 99911,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7914"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7931"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry06",
+      "OCGEHOAGCAM": "long_cost",
+      "IEHBFIDACEJ": 20,
+      "MOIFNDBHEDP": 3
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "KLINHOHLGJK": 99911,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7910"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7927"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry10",
+      "OCGEHOAGCAM": "cost_change",
+      "IEHBFIDACEJ": 15,
+      "MOIFNDBHEDP": 5
+    },
+    {
+      "LGJCPENNFBC": 49,
+      "KLINHOHLGJK": 99911,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7908"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7925"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_ex",
+      "IEHBFIDACEJ": 5
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "KLINHOHLGJK": 99911,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7918"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7926"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry09",
+      "OCGEHOAGCAM": "hp_ex",
+      "IEHBFIDACEJ": 3
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "KLINHOHLGJK": 99099,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7932"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7933"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry01",
+      "OCGEHOAGCAM": "stamina_save",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 52,
+      "KLINHOHLGJK": 99099,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "3210"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5835"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry02",
+      "OCGEHOAGCAM": "stamina_maxup",
+      "IEHBFIDACEJ": 10
+    },
+    {
+      "LGJCPENNFBC": 53,
+      "KLINHOHLGJK": 99099,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5838"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7934"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry04",
+      "OCGEHOAGCAM": "hp_save",
+      "IEHBFIDACEJ": 2
+    },
+    {
+      "LGJCPENNFBC": 54,
+      "KLINHOHLGJK": 99099,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5875"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5910"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry05",
+      "OCGEHOAGCAM": "item_effecetup",
+      "IEHBFIDACEJ": 20
+    },
+    {
+      "LGJCPENNFBC": 55,
+      "KLINHOHLGJK": 99099,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "7935"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7936"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry10",
+      "OCGEHOAGCAM": "cost_recovery",
+      "IEHBFIDACEJ": 40,
+      "MOIFNDBHEDP": 5
+    },
+    {
+      "LGJCPENNFBC": 56,
+      "KLINHOHLGJK": 99099,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5840"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7937"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_itemrecovery",
+      "IEHBFIDACEJ": 5
+    },
+    {
+      "LGJCPENNFBC": 57,
+      "KLINHOHLGJK": 99099,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "6004"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "7938"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry09",
+      "OCGEHOAGCAM": "hp_itemrecovery",
+      "IEHBFIDACEJ": 3
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "KLINHOHLGJK": 99001,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "3210"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5835"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry02",
+      "OCGEHOAGCAM": "stamina_maxup",
+      "IEHBFIDACEJ": 10
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "KLINHOHLGJK": 99001,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5838"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5839"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry04",
+      "OCGEHOAGCAM": "hp_save",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "KLINHOHLGJK": 99001,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5840"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5841"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_itemrecovery",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "KLINHOHLGJK": 99002,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5840"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5841"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_itemrecovery",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "KLINHOHLGJK": 99002,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5838"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5839"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry04",
+      "OCGEHOAGCAM": "hp_save",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "KLINHOHLGJK": 99002,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5875"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5910"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry05",
+      "OCGEHOAGCAM": "item_effecetup",
+      "IEHBFIDACEJ": 20
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "KLINHOHLGJK": 99003,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5840"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5841"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry08",
+      "OCGEHOAGCAM": "stamina_itemrecovery",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "KLINHOHLGJK": 99003,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "5838"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "5839"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry04",
+      "OCGEHOAGCAM": "hp_save",
+      "IEHBFIDACEJ": 1
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "KLINHOHLGJK": 99003,
+      "GNBAEADMFIK": {
+        "DOHLNDIPHAJ": "6004"
+      },
+      "EAHLLLNLPIK": {
+        "DOHLNDIPHAJ": "6005"
+      },
+      "CEDNHHKMAGG": "Icon_Activity_Dungeon_Entry09",
+      "OCGEHOAGCAM": "hp_itemrecovery",
+      "IEHBFIDACEJ": 2
+    }
+  ]
+}

@@ -1,0 +1,1972 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "max_mp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7685"
+      },
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "vision_range",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7687"
+      },
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "res_mp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7688"
+      },
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7689"
+      },
+      "DNHAGPFHGCE": "Icon_Hp",
+      "APDIJFFLDAC": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "ap",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7690"
+      },
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "mp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7691"
+      },
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "pow",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7692"
+      },
+      "HFKEFLKMJHO": 1,
+      "DNHAGPFHGCE": "Icon_Pow",
+      "PGHCAACEGDB": 1,
+      "MBMAKCPDHNL": 1,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7693"
+      }
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "pow1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7692"
+      },
+      "HFKEFLKMJHO": 2,
+      "DNHAGPFHGCE": "Icon_Pow",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "max_hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7689"
+      },
+      "HFKEFLKMJHO": 3,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "PGHCAACEGDB": 3,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7694"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "max_hp1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7689"
+      },
+      "HFKEFLKMJHO": 4,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "armor",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7695"
+      },
+      "HFKEFLKMJHO": 5,
+      "DNHAGPFHGCE": "Icon_Armor",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "armor1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7695"
+      },
+      "HFKEFLKMJHO": 6,
+      "DNHAGPFHGCE": "Icon_Armor",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "max_ap",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7690"
+      },
+      "HFKEFLKMJHO": 7,
+      "DNHAGPFHGCE": "Icon_Max_Ap",
+      "PGHCAACEGDB": 10,
+      "MBMAKCPDHNL": 5,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7696"
+      }
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "max_ap1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7690"
+      },
+      "HFKEFLKMJHO": 8,
+      "DNHAGPFHGCE": "Icon_Max_Ap",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "crit",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5457"
+      },
+      "HFKEFLKMJHO": 20,
+      "DNHAGPFHGCE": "Icon_Crit",
+      "PGHCAACEGDB": 5,
+      "MBMAKCPDHNL": 3,
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7697"
+      }
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "crit_mult",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7698"
+      },
+      "HFKEFLKMJHO": 21,
+      "DNHAGPFHGCE": "Icon_Mult",
+      "PGHCAACEGDB": 6,
+      "MBMAKCPDHNL": 4,
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7699"
+      }
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "hit",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7700"
+      },
+      "HFKEFLKMJHO": 22,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "dodge",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7701"
+      },
+      "HFKEFLKMJHO": 23,
+      "DNHAGPFHGCE": "Icon_Dodge",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "hit_percentage",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7702"
+      },
+      "HFKEFLKMJHO": 24,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "dodge_percentage",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7701"
+      },
+      "HFKEFLKMJHO": 25,
+      "DNHAGPFHGCE": "Icon_Dodge",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "scratch",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7703"
+      },
+      "HFKEFLKMJHO": 9,
+      "DNHAGPFHGCE": "Icon_Dodge",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "scratch_reduction",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7704"
+      },
+      "HFKEFLKMJHO": 10,
+      "DNHAGPFHGCE": "Icon_Dodge",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "hit_damage",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7705"
+      },
+      "HFKEFLKMJHO": 11,
+      "DNHAGPFHGCE": "Icon_Mult",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "behit_damage",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7706"
+      },
+      "HFKEFLKMJHO": 12,
+      "DNHAGPFHGCE": "Icon_Mult",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "release_heal",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7707"
+      },
+      "HFKEFLKMJHO": 13,
+      "DNHAGPFHGCE": "Icon_release_heal",
+      "MBMAKCPDHNL": 11,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "accept_heal",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7708"
+      },
+      "HFKEFLKMJHO": 14,
+      "DNHAGPFHGCE": "Icon_accept_heal",
+      "MBMAKCPDHNL": 12,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "life_steal",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7709"
+      },
+      "HFKEFLKMJHO": 15,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "max_will_value",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7710"
+      },
+      "HFKEFLKMJHO": 16,
+      "DNHAGPFHGCE": "Icon_Will",
+      "PGHCAACEGDB": 4,
+      "APDIJFFLDAC": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7711"
+      }
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "suppress_value",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7712"
+      },
+      "HFKEFLKMJHO": 17,
+      "DNHAGPFHGCE": "Icon_Suppress",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7713"
+      }
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "physical_shield",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5291"
+      },
+      "HFKEFLKMJHO": 18,
+      "DNHAGPFHGCE": "Icon_Physical_Shield",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "magical_shield",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5292"
+      },
+      "HFKEFLKMJHO": 19,
+      "DNHAGPFHGCE": "Icon_Magical_Shield",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "shield_armor",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7695"
+      },
+      "HFKEFLKMJHO": 26,
+      "DNHAGPFHGCE": "Icon_Armor",
+      "PGHCAACEGDB": 2,
+      "MBMAKCPDHNL": 2,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7714"
+      }
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "shield_hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7715"
+      },
+      "HFKEFLKMJHO": 27,
+      "DNHAGPFHGCE": "Icon_Physical_Shield",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "shield_damage",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7716"
+      },
+      "HFKEFLKMJHO": 28,
+      "DNHAGPFHGCE": "Icon_Magical_Shield",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "weight",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7717"
+      },
+      "HFKEFLKMJHO": 29,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "max_shield_hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7715"
+      },
+      "HFKEFLKMJHO": 30,
+      "DNHAGPFHGCE": "Icon_Physical_Shield",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_damage",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7718"
+      },
+      "HFKEFLKMJHO": 31,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "be_suppressed_damage",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7719"
+      },
+      "HFKEFLKMJHO": 32,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "release_will_heal",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7720"
+      },
+      "HFKEFLKMJHO": 33,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "accept_will_heal",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7721"
+      },
+      "HFKEFLKMJHO": 34,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "pow_percent",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7722"
+      },
+      "HFKEFLKMJHO": 35,
+      "DNHAGPFHGCE": "Icon_Pow",
+      "PGHCAACEGDB": 7,
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7723"
+      }
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "max_hp_percent",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7724"
+      },
+      "HFKEFLKMJHO": 36,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "PGHCAACEGDB": 9,
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7725"
+      }
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "max_will_value_percent",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7726"
+      },
+      "HFKEFLKMJHO": 37,
+      "DNHAGPFHGCE": "Icon_Will",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7727"
+      }
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_value_percent",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7728"
+      },
+      "HFKEFLKMJHO": 38,
+      "DNHAGPFHGCE": "Icon_Suppress",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7729"
+      }
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "shield_armor_percent",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7730"
+      },
+      "HFKEFLKMJHO": 39,
+      "DNHAGPFHGCE": "Icon_Armor",
+      "PGHCAACEGDB": 8,
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7731"
+      }
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "max_shield_hp_percent",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7732"
+      },
+      "HFKEFLKMJHO": 40,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_add_fire",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5631"
+      },
+      "HFKEFLKMJHO": 41,
+      "DNHAGPFHGCE": "Icon_Add_Fire",
+      "PGHCAACEGDB": 22,
+      "MBMAKCPDHNL": 20,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7733"
+      }
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_add_electric",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5632"
+      },
+      "HFKEFLKMJHO": 42,
+      "DNHAGPFHGCE": "Icon_Add_Electric",
+      "PGHCAACEGDB": 23,
+      "MBMAKCPDHNL": 21,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7734"
+      }
+    },
+    {
+      "LGJCPENNFBC": 49,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_add_ice",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5633"
+      },
+      "HFKEFLKMJHO": 43,
+      "DNHAGPFHGCE": "Icon_Add_Ice",
+      "PGHCAACEGDB": 24,
+      "MBMAKCPDHNL": 22,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7735"
+      }
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_add_poison",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5634"
+      },
+      "HFKEFLKMJHO": 44,
+      "DNHAGPFHGCE": "Icon_Add_Poison",
+      "PGHCAACEGDB": 25,
+      "MBMAKCPDHNL": 23,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7736"
+      }
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_add_physics",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "3188"
+      },
+      "HFKEFLKMJHO": 45,
+      "DNHAGPFHGCE": "Icon_Add_Physical",
+      "PGHCAACEGDB": 26,
+      "MBMAKCPDHNL": 30,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7737"
+      }
+    },
+    {
+      "LGJCPENNFBC": 52,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_add_soil",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5635"
+      },
+      "HFKEFLKMJHO": 46,
+      "DNHAGPFHGCE": "Icon_Add_Soil",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 53,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_add_grass",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7738"
+      },
+      "HFKEFLKMJHO": 47,
+      "DNHAGPFHGCE": "Icon_Add_Grass",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 54,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_add_water",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5637"
+      },
+      "HFKEFLKMJHO": 48,
+      "DNHAGPFHGCE": "Icon_Add_Water",
+      "PGHCAACEGDB": 27,
+      "MBMAKCPDHNL": 24,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7739"
+      }
+    },
+    {
+      "LGJCPENNFBC": 55,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_against_fire",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "3110"
+      },
+      "HFKEFLKMJHO": 49,
+      "DNHAGPFHGCE": "Icon_Against_Fire",
+      "PGHCAACEGDB": 28,
+      "MBMAKCPDHNL": 25,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7740"
+      }
+    },
+    {
+      "LGJCPENNFBC": 56,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_against_electric",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "4824"
+      },
+      "HFKEFLKMJHO": 50,
+      "DNHAGPFHGCE": "Icon_Against_Electric",
+      "PGHCAACEGDB": 29,
+      "MBMAKCPDHNL": 26,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7741"
+      }
+    },
+    {
+      "LGJCPENNFBC": 57,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_against_ice",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7742"
+      },
+      "HFKEFLKMJHO": 51,
+      "DNHAGPFHGCE": "Icon_Against_Ice",
+      "PGHCAACEGDB": 30,
+      "MBMAKCPDHNL": 27,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7743"
+      }
+    },
+    {
+      "LGJCPENNFBC": 58,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_against_poison",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5468"
+      },
+      "HFKEFLKMJHO": 52,
+      "DNHAGPFHGCE": "Icon_Against_Poison",
+      "PGHCAACEGDB": 31,
+      "MBMAKCPDHNL": 28,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7744"
+      }
+    },
+    {
+      "LGJCPENNFBC": 59,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_against_physics",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5469"
+      },
+      "HFKEFLKMJHO": 53,
+      "DNHAGPFHGCE": "Icon_Against_Physical",
+      "PGHCAACEGDB": 32,
+      "MBMAKCPDHNL": 31,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7745"
+      }
+    },
+    {
+      "LGJCPENNFBC": 60,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_against_soil",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5470"
+      },
+      "HFKEFLKMJHO": 54,
+      "DNHAGPFHGCE": "Icon_Against_Soil",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 61,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_against_grass",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5471"
+      },
+      "HFKEFLKMJHO": 55,
+      "DNHAGPFHGCE": "Icon_Against_Grass",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 62,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "element_against_water",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "5472"
+      },
+      "HFKEFLKMJHO": 56,
+      "DNHAGPFHGCE": "Icon_Against_Water",
+      "PGHCAACEGDB": 33,
+      "MBMAKCPDHNL": 29,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7746"
+      }
+    },
+    {
+      "LGJCPENNFBC": 63,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "outround_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7747"
+      },
+      "HFKEFLKMJHO": 57,
+      "DNHAGPFHGCE": "Icon_outround_dam",
+      "PGHCAACEGDB": 11,
+      "MBMAKCPDHNL": 6,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7748"
+      }
+    },
+    {
+      "LGJCPENNFBC": 64,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "potential_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7749"
+      },
+      "HFKEFLKMJHO": 58,
+      "DNHAGPFHGCE": "Icon_potential_dam",
+      "PGHCAACEGDB": 12,
+      "MBMAKCPDHNL": 7,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7750"
+      }
+    },
+    {
+      "LGJCPENNFBC": 65,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "aoe_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7751"
+      },
+      "HFKEFLKMJHO": 59,
+      "DNHAGPFHGCE": "Icon_aoe_dam",
+      "PGHCAACEGDB": 13,
+      "MBMAKCPDHNL": 8,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7752"
+      }
+    },
+    {
+      "LGJCPENNFBC": 66,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "single_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7753"
+      },
+      "HFKEFLKMJHO": 60,
+      "DNHAGPFHGCE": "Icon_single_dam",
+      "PGHCAACEGDB": 14,
+      "MBMAKCPDHNL": 9,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7754"
+      }
+    },
+    {
+      "LGJCPENNFBC": 67,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "cd_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7755"
+      },
+      "HFKEFLKMJHO": 61,
+      "DNHAGPFHGCE": "Icon_cd_dam",
+      "PGHCAACEGDB": 15,
+      "MBMAKCPDHNL": 10,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7756"
+      }
+    },
+    {
+      "LGJCPENNFBC": 68,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "potential_behit_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7757"
+      },
+      "HFKEFLKMJHO": 58,
+      "DNHAGPFHGCE": "Icon_Against_potential",
+      "PGHCAACEGDB": 17,
+      "MBMAKCPDHNL": 14,
+      "FNEDILFMKNJ": true,
+      "KMEGLOGAPHJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7758"
+      }
+    },
+    {
+      "LGJCPENNFBC": 69,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "aoe_behit_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7759"
+      },
+      "HFKEFLKMJHO": 59,
+      "DNHAGPFHGCE": "Icon_Against_aoe",
+      "PGHCAACEGDB": 18,
+      "MBMAKCPDHNL": 15,
+      "FNEDILFMKNJ": true,
+      "KMEGLOGAPHJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7760"
+      }
+    },
+    {
+      "LGJCPENNFBC": 70,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "single_behit_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7761"
+      },
+      "HFKEFLKMJHO": 60,
+      "DNHAGPFHGCE": "Icon_Against_single",
+      "PGHCAACEGDB": 19,
+      "MBMAKCPDHNL": 16,
+      "FNEDILFMKNJ": true,
+      "KMEGLOGAPHJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7762"
+      }
+    },
+    {
+      "LGJCPENNFBC": 71,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "cd_behit_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7763"
+      },
+      "HFKEFLKMJHO": 61,
+      "DNHAGPFHGCE": "Icon_Against_cd",
+      "PGHCAACEGDB": 20,
+      "MBMAKCPDHNL": 17,
+      "FNEDILFMKNJ": true,
+      "KMEGLOGAPHJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7764"
+      }
+    },
+    {
+      "LGJCPENNFBC": 72,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "heal_reverse",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7765"
+      },
+      "HFKEFLKMJHO": 62,
+      "DNHAGPFHGCE": "Icon_Against_Water",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7766"
+      }
+    },
+    {
+      "LGJCPENNFBC": 73,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_dam_addrate",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7767"
+      },
+      "HFKEFLKMJHO": 63,
+      "DNHAGPFHGCE": "Icon_Will",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7768"
+      }
+    },
+    {
+      "LGJCPENNFBC": 74,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_dam_times",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7769"
+      },
+      "HFKEFLKMJHO": 64,
+      "DNHAGPFHGCE": "Icon_Suppress",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7770"
+      }
+    },
+    {
+      "LGJCPENNFBC": 75,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_resist",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7771"
+      },
+      "HFKEFLKMJHO": 65,
+      "DNHAGPFHGCE": "Icon_Suppress_Defend",
+      "PGHCAACEGDB": 21,
+      "MBMAKCPDHNL": 18,
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7772"
+      }
+    },
+    {
+      "LGJCPENNFBC": 76,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_resist_rate",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7773"
+      },
+      "HFKEFLKMJHO": 66,
+      "DNHAGPFHGCE": "Icon_Suppress",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7774"
+      }
+    },
+    {
+      "LGJCPENNFBC": 77,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_resist_ignore",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7775"
+      },
+      "HFKEFLKMJHO": 67,
+      "DNHAGPFHGCE": "Icon_Suppress",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7776"
+      }
+    },
+    {
+      "LGJCPENNFBC": 78,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "cover_resist_rate",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7777"
+      },
+      "HFKEFLKMJHO": 68,
+      "DNHAGPFHGCE": "Icon_Suppress",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7778"
+      }
+    },
+    {
+      "LGJCPENNFBC": 79,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "cover_resist_ignore",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7779"
+      },
+      "HFKEFLKMJHO": 69,
+      "DNHAGPFHGCE": "Icon_Suppress",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7780"
+      }
+    },
+    {
+      "LGJCPENNFBC": 80,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "crit_resist",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7781"
+      },
+      "HFKEFLKMJHO": 70,
+      "DNHAGPFHGCE": "Icon_Crit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7782"
+      }
+    },
+    {
+      "LGJCPENNFBC": 81,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "suppress_defend",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7783"
+      },
+      "HFKEFLKMJHO": 81,
+      "DNHAGPFHGCE": "Icon_Suppress_Armor",
+      "MBMAKCPDHNL": 19,
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7784"
+      }
+    },
+    {
+      "LGJCPENNFBC": 82,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "fixed_effect_base",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7785"
+      },
+      "HFKEFLKMJHO": 82,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7786"
+      }
+    },
+    {
+      "LGJCPENNFBC": 83,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "fixed_dam_add",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7787"
+      },
+      "HFKEFLKMJHO": 83,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7788"
+      }
+    },
+    {
+      "LGJCPENNFBC": 84,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "fixed_dam_resist",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7789"
+      },
+      "HFKEFLKMJHO": 84,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7790"
+      }
+    },
+    {
+      "LGJCPENNFBC": 85,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "assist_atknum",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7791"
+      },
+      "HFKEFLKMJHO": 85,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7792"
+      }
+    },
+    {
+      "LGJCPENNFBC": 86,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "counter_atknum",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7793"
+      },
+      "HFKEFLKMJHO": 86,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7794"
+      }
+    },
+    {
+      "LGJCPENNFBC": 87,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "shield_effect_rate",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7795"
+      },
+      "HFKEFLKMJHO": 87,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7796"
+      }
+    },
+    {
+      "LGJCPENNFBC": 88,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "min_hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7797"
+      },
+      "HFKEFLKMJHO": 88,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7797"
+      }
+    },
+    {
+      "LGJCPENNFBC": 89,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "min_will_value",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7798"
+      },
+      "HFKEFLKMJHO": 89,
+      "DNHAGPFHGCE": "Icon_Hit",
+      "HNGHPNIIBBI": 2,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7798"
+      }
+    },
+    {
+      "LGJCPENNFBC": 100,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "darkzone_chequer",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7799"
+      },
+      "HFKEFLKMJHO": 100,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "darkzone_speed_attack",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7800"
+      },
+      "HFKEFLKMJHO": 101,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "darkzone_range",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7801"
+      },
+      "HFKEFLKMJHO": 102,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "darkzone_visual_day",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7802"
+      },
+      "HFKEFLKMJHO": 103,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "darkzone_strength",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7803"
+      },
+      "HFKEFLKMJHO": 104,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "darkzone_speed_normal",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7804"
+      },
+      "HFKEFLKMJHO": 105,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "darkzone_visual_night",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7805"
+      },
+      "HFKEFLKMJHO": 106,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "darkzone_cure",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7806"
+      },
+      "HFKEFLKMJHO": 107,
+      "DNHAGPFHGCE": "Icon_Hp",
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7686"
+      }
+    },
+    {
+      "LGJCPENNFBC": 108,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "outround_behit_dam",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7807"
+      },
+      "HFKEFLKMJHO": 108,
+      "DNHAGPFHGCE": "Icon_Against_potential",
+      "PGHCAACEGDB": 16,
+      "MBMAKCPDHNL": 13,
+      "FNEDILFMKNJ": true,
+      "KMEGLOGAPHJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7808"
+      }
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "guard_pow",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7809"
+      },
+      "HFKEFLKMJHO": 1,
+      "DNHAGPFHGCE": "Icon_Pow_guard_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7810"
+      },
+      "KKNEIBMAPND": 1
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "guard_pow1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7811"
+      },
+      "HFKEFLKMJHO": 2,
+      "DNHAGPFHGCE": "Icon_Pow_guard_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7810"
+      },
+      "KKNEIBMAPND": 2
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "scout_pow",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7812"
+      },
+      "HFKEFLKMJHO": 11,
+      "DNHAGPFHGCE": "Icon_Pow_scout_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7813"
+      },
+      "KKNEIBMAPND": 3
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "scout_pow1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7814"
+      },
+      "HFKEFLKMJHO": 12,
+      "DNHAGPFHGCE": "Icon_Pow_scout_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7813"
+      },
+      "KKNEIBMAPND": 4
+    },
+    {
+      "LGJCPENNFBC": 205,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "assist_pow",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7815"
+      },
+      "HFKEFLKMJHO": 5,
+      "DNHAGPFHGCE": "Icon_Pow_assist_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7816"
+      },
+      "KKNEIBMAPND": 5
+    },
+    {
+      "LGJCPENNFBC": 206,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "assist_pow1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7817"
+      },
+      "HFKEFLKMJHO": 6,
+      "DNHAGPFHGCE": "Icon_Pow_assist_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7816"
+      },
+      "KKNEIBMAPND": 6
+    },
+    {
+      "LGJCPENNFBC": 207,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "suppress_pow",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7818"
+      },
+      "HFKEFLKMJHO": 7,
+      "DNHAGPFHGCE": "Icon_Pow_suppress_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7819"
+      },
+      "KKNEIBMAPND": 7
+    },
+    {
+      "LGJCPENNFBC": 208,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_pow1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7820"
+      },
+      "HFKEFLKMJHO": 8,
+      "DNHAGPFHGCE": "Icon_Pow_suppress_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7819"
+      },
+      "KKNEIBMAPND": 8
+    },
+    {
+      "LGJCPENNFBC": 209,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "guard_max_hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7821"
+      },
+      "HFKEFLKMJHO": 9,
+      "DNHAGPFHGCE": "Icon_Hp_guard_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7822"
+      },
+      "KKNEIBMAPND": 9
+    },
+    {
+      "LGJCPENNFBC": 210,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "guard_max_hp1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7823"
+      },
+      "HFKEFLKMJHO": 10,
+      "DNHAGPFHGCE": "Icon_Hp_guard_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7822"
+      },
+      "KKNEIBMAPND": 10
+    },
+    {
+      "LGJCPENNFBC": 211,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "scout_max_hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7824"
+      },
+      "HFKEFLKMJHO": 3,
+      "DNHAGPFHGCE": "Icon_Hp_scout_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7825"
+      },
+      "KKNEIBMAPND": 11
+    },
+    {
+      "LGJCPENNFBC": 212,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "scout_max_hp1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7826"
+      },
+      "HFKEFLKMJHO": 4,
+      "DNHAGPFHGCE": "Icon_Hp_scout_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7825"
+      },
+      "KKNEIBMAPND": 12
+    },
+    {
+      "LGJCPENNFBC": 213,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "assist_max_hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7827"
+      },
+      "HFKEFLKMJHO": 3,
+      "DNHAGPFHGCE": "Icon_Hp_assist_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7828"
+      },
+      "KKNEIBMAPND": 13
+    },
+    {
+      "LGJCPENNFBC": 214,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "assist_max_hp1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7829"
+      },
+      "HFKEFLKMJHO": 4,
+      "DNHAGPFHGCE": "Icon_Hp_assist_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7828"
+      },
+      "KKNEIBMAPND": 14
+    },
+    {
+      "LGJCPENNFBC": 215,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "suppress_max_hp",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7830"
+      },
+      "HFKEFLKMJHO": 3,
+      "DNHAGPFHGCE": "Icon_Hp_suppress_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7831"
+      },
+      "KKNEIBMAPND": 15
+    },
+    {
+      "LGJCPENNFBC": 216,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_max_hp1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7832"
+      },
+      "HFKEFLKMJHO": 4,
+      "DNHAGPFHGCE": "Icon_Hp_suppress_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7831"
+      },
+      "KKNEIBMAPND": 16
+    },
+    {
+      "LGJCPENNFBC": 217,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "guard_shield_armor",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7833"
+      },
+      "HFKEFLKMJHO": 5,
+      "DNHAGPFHGCE": "Icon_Armor_guard_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7834"
+      },
+      "KKNEIBMAPND": 17
+    },
+    {
+      "LGJCPENNFBC": 218,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "guard_shield_armor1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7835"
+      },
+      "HFKEFLKMJHO": 6,
+      "DNHAGPFHGCE": "Icon_Armor_guard_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7834"
+      },
+      "KKNEIBMAPND": 18
+    },
+    {
+      "LGJCPENNFBC": 219,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "scout_shield_armor",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7836"
+      },
+      "HFKEFLKMJHO": 5,
+      "DNHAGPFHGCE": "Icon_Armor_scout_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7837"
+      },
+      "KKNEIBMAPND": 19
+    },
+    {
+      "LGJCPENNFBC": 220,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "scout_shield_armor1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7838"
+      },
+      "HFKEFLKMJHO": 6,
+      "DNHAGPFHGCE": "Icon_Armor_scout_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7837"
+      },
+      "KKNEIBMAPND": 20
+    },
+    {
+      "LGJCPENNFBC": 221,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "assist_shield_armor",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7839"
+      },
+      "HFKEFLKMJHO": 5,
+      "DNHAGPFHGCE": "Icon_Armor_assist_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7840"
+      },
+      "KKNEIBMAPND": 21
+    },
+    {
+      "LGJCPENNFBC": 222,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "assist_shield_armor1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7841"
+      },
+      "HFKEFLKMJHO": 6,
+      "DNHAGPFHGCE": "Icon_Armor_assist_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7840"
+      },
+      "KKNEIBMAPND": 22
+    },
+    {
+      "LGJCPENNFBC": 223,
+      "BKCIGACKEFD": 1,
+      "FOCNBIKOIIG": 1,
+      "HGOLDPIDIFD": "suppress_shield_armor",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7842"
+      },
+      "HFKEFLKMJHO": 5,
+      "DNHAGPFHGCE": "Icon_Armor_suppress_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7843"
+      },
+      "KKNEIBMAPND": 23
+    },
+    {
+      "LGJCPENNFBC": 224,
+      "BKCIGACKEFD": 2,
+      "FOCNBIKOIIG": 2,
+      "HGOLDPIDIFD": "suppress_shield_armor1",
+      "EIBDNCAABPA": {
+        "DOHLNDIPHAJ": "7844"
+      },
+      "HFKEFLKMJHO": 6,
+      "DNHAGPFHGCE": "Icon_Armor_suppress_percent_64",
+      "FNEDILFMKNJ": true,
+      "HNGHPNIIBBI": 1,
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7843"
+      },
+      "KKNEIBMAPND": 24
+    }
+  ]
+}

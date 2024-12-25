@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBCFNDOENFL": {
+        "DOHLNDIPHAJ": "1546"
+      },
+      "OGFCNAAEEHC": "指挥官的资源",
+      "DNHAGPFHGCE": "Icon_Repository_Res",
+      "MINHDEFMGIG": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBCFNDOENFL": {
+        "DOHLNDIPHAJ": "1548"
+      },
+      "OGFCNAAEEHC": "指挥官的道具",
+      "DNHAGPFHGCE": "Icon_Repository_Item",
+      "MINHDEFMGIG": [
+        4,
+        7,
+        122
+      ]
+    }
+  ]
+}

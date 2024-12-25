@@ -1,0 +1,327 @@
+{
+  "data": [
+    {
+      "OLIKNBLFJDK": 110,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_cloud_01",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 111,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_cloud_02",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 112,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_cloud_03",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 113,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_train",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 114,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_door_02",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 115,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_door_04",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 116,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_chair_03",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2,
+      "GBHAEIGCJBF": 2
+    },
+    {
+      "OLIKNBLFJDK": 117,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_chair_04",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2,
+      "GBHAEIGCJBF": 1
+    },
+    {
+      "OLIKNBLFJDK": 118,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_table_03",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 119,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_chair_05",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2,
+      "GBHAEIGCJBF": 2
+    },
+    {
+      "OLIKNBLFJDK": 120,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_chair_06",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2,
+      "GBHAEIGCJBF": 1
+    },
+    {
+      "OLIKNBLFJDK": 121,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_table_04",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 201,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2855"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_darkzone_entry",
+      "OCIHKLMFLNF": 2,
+      "MONBCCMOAII": 2600,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 202,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2857"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_robot",
+      "OCIHKLMFLNF": 2,
+      "MONBCCMOAII": 1730,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 997,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2858"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2859"
+      },
+      "BHGHHKPJOLF": "Icon_ActivityCafe_Cafe",
+      "GGEDLPMNLFG": "activity_cafe_idle_C",
+      "OCIHKLMFLNF": 999,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 998,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2860"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2861"
+      },
+      "BHGHHKPJOLF": "Icon_ActivityCafe_Juice",
+      "GGEDLPMNLFG": "activity_cafe_idle_B",
+      "OCIHKLMFLNF": 999,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 999,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2862"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2863"
+      },
+      "BHGHHKPJOLF": "Icon_ActivityCafe_Carbonated",
+      "GGEDLPMNLFG": "activity_cafe_idle_A",
+      "OCIHKLMFLNF": 999,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 101,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_barchair",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 102,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_barcounter",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 103,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_chair_01",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2,
+      "GBHAEIGCJBF": 1
+    },
+    {
+      "OLIKNBLFJDK": 104,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_chair_02",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2,
+      "GBHAEIGCJBF": 2
+    },
+    {
+      "OLIKNBLFJDK": 105,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_table",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 106,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_sofa",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 107,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_table_02",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 1
+    },
+    {
+      "OLIKNBLFJDK": 108,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_sky",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    },
+    {
+      "OLIKNBLFJDK": 109,
+      "CGAKLMIOCGK": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "OEMIHEBIHJO": {
+        "DOHLNDIPHAJ": "2856"
+      },
+      "GGEDLPMNLFG": "activity_cafe_arch",
+      "OCIHKLMFLNF": 1,
+      "AOAEJGJGEEF": 2
+    }
+  ]
+}

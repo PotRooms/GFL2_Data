@@ -1,0 +1,314 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 100001,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "睡觉",
+      "BJJHLINMJAK": [
+        "00:00",
+        "00:30"
+      ],
+      "CIJHEMKHFLG": 30,
+      "IMKJPCJLGJC": "A1",
+      "EFCFONDECPE": 1,
+      "PKEAMKDDHMF": 1,
+      "FBODFBNNGLN": 1,
+      "FNHCMHBMNPI": true,
+      "JJJLBCPOPMC": true,
+      "FDLBLKDIDDA": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100002,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "测试寻路",
+      "BJJHLINMJAK": [
+        "00:30",
+        "01:00"
+      ],
+      "CIJHEMKHFLG": 30,
+      "IMKJPCJLGJC": "A2"
+    },
+    {
+      "LGJCPENNFBC": 100003,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "玩手机",
+      "BMLGBJGFILN": true,
+      "NACEOLBOAAC": [
+        100002
+      ],
+      "CIJHEMKHFLG": 30
+    },
+    {
+      "LGJCPENNFBC": 100004,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "看书",
+      "NFCOGCCNBDH": 3,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 1,
+      "IMKJPCJLGJC": "A3",
+      "EFCFONDECPE": 100001,
+      "PKEAMKDDHMF": 100002,
+      "IEOGCLBEOHM": "0.5,1;",
+      "DHGFHFOIBBK": 100003,
+      "FBODFBNNGLN": 100004,
+      "FNHCMHBMNPI": true,
+      "MFLIAHHCBIP": 200001,
+      "FIIHBHPAMKC": 200002,
+      "LOJNBJEABIE": 200003,
+      "IJNAGGFJMOO": 200004,
+      "JJJLBCPOPMC": true,
+      "FDLBLKDIDDA": [
+        10,
+        10
+      ],
+      "AFBPBMKJKFE": 81101
+    },
+    {
+      "LGJCPENNFBC": 100005,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "泡咖啡",
+      "NFCOGCCNBDH": 5,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 1,
+      "IMKJPCJLGJC": "A2",
+      "EFCFONDECPE": 100005,
+      "PKEAMKDDHMF": 100006,
+      "FBODFBNNGLN": 100007,
+      "FNHCMHBMNPI": true,
+      "MFLIAHHCBIP": 200005,
+      "FIIHBHPAMKC": 200006,
+      "IJNAGGFJMOO": 200007,
+      "DKDJADCJGMP": 100008,
+      "KDDMNPHMHCM": 100009,
+      "LGJODHBLBNI": [
+        202
+      ],
+      "NLKEOIOEBPE": 100010,
+      "NGHHLIODPKC": 200008,
+      "KODBNODEGEJ": 200009,
+      "IJNJKKICFHH": 200010,
+      "AFBPBMKJKFE": 81101
+    },
+    {
+      "LGJCPENNFBC": 100006,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "看书（邀约用）",
+      "NFCOGCCNBDH": 3,
+      "BMLGBJGFILN": true,
+      "CIJHEMKHFLG": 2,
+      "IMKJPCJLGJC": "A3",
+      "EFCFONDECPE": 100001,
+      "PKEAMKDDHMF": 100002,
+      "IEOGCLBEOHM": "0.5,1;",
+      "DHGFHFOIBBK": 100003,
+      "FBODFBNNGLN": 100004,
+      "FNHCMHBMNPI": true,
+      "MFLIAHHCBIP": 200001,
+      "FIIHBHPAMKC": 200002,
+      "LOJNBJEABIE": 200003,
+      "IJNAGGFJMOO": 200004,
+      "JJJLBCPOPMC": true,
+      "FDLBLKDIDDA": [
+        1,
+        3
+      ],
+      "AFBPBMKJKFE": 81101
+    },
+    {
+      "LGJCPENNFBC": 100007,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "泡咖啡（邀约用）",
+      "NFCOGCCNBDH": 5,
+      "BMLGBJGFILN": true,
+      "CIJHEMKHFLG": 2,
+      "IMKJPCJLGJC": "A2",
+      "EFCFONDECPE": 100005,
+      "PKEAMKDDHMF": 100006,
+      "FBODFBNNGLN": 100007,
+      "FNHCMHBMNPI": true,
+      "MFLIAHHCBIP": 200005,
+      "FIIHBHPAMKC": 200006,
+      "IJNAGGFJMOO": 200007,
+      "DKDJADCJGMP": 100008,
+      "KDDMNPHMHCM": 100009,
+      "FKOHMDCAJDM": true,
+      "JPKBFOEKEBP": "主动品尝,202;提出建议,202;没什么,0;",
+      "LGJODHBLBNI": [
+        202
+      ],
+      "NLKEOIOEBPE": 100010,
+      "NGHHLIODPKC": 200008,
+      "KODBNODEGEJ": 200009,
+      "IJNJKKICFHH": 200010,
+      "AFBPBMKJKFE": 81101
+    },
+    {
+      "LGJCPENNFBC": 100008,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "寻路到厨房",
+      "NFCOGCCNBDH": 2,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 1,
+      "IMKJPCJLGJC": "A1",
+      "JJJLBCPOPMC": true,
+      "AFBPBMKJKFE": 81101
+    },
+    {
+      "LGJCPENNFBC": 100009,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "寻路到功能屏",
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 1,
+      "IMKJPCJLGJC": "A5",
+      "JJJLBCPOPMC": true,
+      "AFBPBMKJKFE": 81101
+    },
+    {
+      "LGJCPENNFBC": 100010,
+      "NEMGDOAPCOC": 3,
+      "HBJAHCGKJJD": "寻路到二楼",
+      "NFCOGCCNBDH": 4,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 1,
+      "IMKJPCJLGJC": "A4",
+      "AFBPBMKJKFE": 81101
+    },
+    {
+      "LGJCPENNFBC": 100011,
+      "NEMGDOAPCOC": 7,
+      "HBJAHCGKJJD": "翻查日记",
+      "NFCOGCCNBDH": 5,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 2,
+      "IMKJPCJLGJC": "PB5",
+      "EFCFONDECPE": 100012,
+      "PKEAMKDDHMF": 100013,
+      "IEOGCLBEOHM": "0.5,1;",
+      "DHGFHFOIBBK": 100014,
+      "FBODFBNNGLN": 100016,
+      "FNHCMHBMNPI": true,
+      "MFLIAHHCBIP": 200012,
+      "FIIHBHPAMKC": 200013,
+      "LOJNBJEABIE": 200014,
+      "IJNAGGFJMOO": 200016,
+      "LGJODHBLBNI": [
+        203
+      ],
+      "AFBPBMKJKFE": 81105
+    },
+    {
+      "LGJCPENNFBC": 100012,
+      "NEMGDOAPCOC": 7,
+      "HBJAHCGKJJD": "武器墙二郎腿",
+      "NFCOGCCNBDH": 1,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 2,
+      "IMKJPCJLGJC": "PB1",
+      "EFCFONDECPE": 100017,
+      "PKEAMKDDHMF": 100018,
+      "IEOGCLBEOHM": "0.5,1;",
+      "DHGFHFOIBBK": 100019,
+      "FBODFBNNGLN": 100021,
+      "LGJODHBLBNI": [
+        205
+      ],
+      "AFBPBMKJKFE": 81105
+    },
+    {
+      "LGJCPENNFBC": 100013,
+      "NEMGDOAPCOC": 7,
+      "HBJAHCGKJJD": "修指甲",
+      "NFCOGCCNBDH": 2,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 2,
+      "IMKJPCJLGJC": "PB2",
+      "EFCFONDECPE": 100022,
+      "PKEAMKDDHMF": 100023,
+      "IEOGCLBEOHM": "0.5,1;",
+      "DHGFHFOIBBK": 100024,
+      "FBODFBNNGLN": 100026,
+      "FNHCMHBMNPI": true,
+      "MFLIAHHCBIP": 200027,
+      "FIIHBHPAMKC": 200028,
+      "LOJNBJEABIE": 200029,
+      "IJNAGGFJMOO": 200031,
+      "LGJODHBLBNI": [
+        207
+      ],
+      "AFBPBMKJKFE": 81105
+    },
+    {
+      "LGJCPENNFBC": 100014,
+      "NEMGDOAPCOC": 7,
+      "HBJAHCGKJJD": "坐床上",
+      "NFCOGCCNBDH": 3,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 2,
+      "IMKJPCJLGJC": "PB3",
+      "EFCFONDECPE": 100027,
+      "PKEAMKDDHMF": 100028,
+      "IEOGCLBEOHM": "0.5,1;",
+      "DHGFHFOIBBK": 100029,
+      "FBODFBNNGLN": 100031,
+      "LGJODHBLBNI": [
+        209
+      ],
+      "AFBPBMKJKFE": 81105
+    },
+    {
+      "LGJCPENNFBC": 100015,
+      "NEMGDOAPCOC": 7,
+      "HBJAHCGKJJD": "工作台看天",
+      "NFCOGCCNBDH": 4,
+      "BJJHLINMJAK": [
+        "00:00",
+        "23:59"
+      ],
+      "CIJHEMKHFLG": 2,
+      "IMKJPCJLGJC": "PB6",
+      "EFCFONDECPE": 100032,
+      "PKEAMKDDHMF": 100033,
+      "IEOGCLBEOHM": "0.5,1;",
+      "DHGFHFOIBBK": 100034,
+      "FBODFBNNGLN": 100036,
+      "FNHCMHBMNPI": true,
+      "MFLIAHHCBIP": 200017,
+      "FIIHBHPAMKC": 200018,
+      "LOJNBJEABIE": 200019,
+      "IJNAGGFJMOO": 200021,
+      "LGJODHBLBNI": [
+        211
+      ],
+      "AFBPBMKJKFE": 81105
+    }
+  ]
+}

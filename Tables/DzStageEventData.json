@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1660010201,
+      "HBJAHCGKJJD": "设置触发器"
+    },
+    {
+      "LGJCPENNFBC": 1660010202,
+      "HBJAHCGKJJD": "设置计数器",
+      "LBKDJFNDJAB": "dzset_counter",
+      "CHBJOIDAFMM": "1660010600|1"
+    },
+    {
+      "LGJCPENNFBC": 1660010203,
+      "HBJAHCGKJJD": "加buff事件",
+      "LBKDJFNDJAB": "dzadd_buff",
+      "CHBJOIDAFMM": "1001|0"
+    },
+    {
+      "LGJCPENNFBC": 1660010204,
+      "HBJAHCGKJJD": "设置交互物状态",
+      "LBKDJFNDJAB": "dzset_obj_state"
+    },
+    {
+      "LGJCPENNFBC": 1660010205,
+      "HBJAHCGKJJD": "发放物品",
+      "LBKDJFNDJAB": "dzgive_item",
+      "CHBJOIDAFMM": "51151,1:0"
+    },
+    {
+      "LGJCPENNFBC": 1660010206,
+      "HBJAHCGKJJD": "执行策略刷新",
+      "LBKDJFNDJAB": "dzdo_refresh",
+      "CHBJOIDAFMM": "165001"
+    },
+    {
+      "LGJCPENNFBC": 1660010301,
+      "HBJAHCGKJJD": "加buff事件",
+      "LBKDJFNDJAB": "dzadd_buff",
+      "CHBJOIDAFMM": "1001|0"
+    },
+    {
+      "LGJCPENNFBC": 2020011001,
+      "HBJAHCGKJJD": "执行策略刷新",
+      "LBKDJFNDJAB": "dzdo_refresh",
+      "CHBJOIDAFMM": "201014"
+    }
+  ]
+}

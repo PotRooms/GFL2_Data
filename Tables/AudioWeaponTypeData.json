@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "KGDCGCALBCI": 1,
+      "KLJDENIBOPH": "WeaponType",
+      "OFJCCFNOFEI": "Gun_HG"
+    },
+    {
+      "KGDCGCALBCI": 2,
+      "KLJDENIBOPH": "WeaponType",
+      "OFJCCFNOFEI": "Gun_SMG"
+    },
+    {
+      "KGDCGCALBCI": 3,
+      "KLJDENIBOPH": "WeaponType",
+      "OFJCCFNOFEI": "Gun_RF"
+    },
+    {
+      "KGDCGCALBCI": 4,
+      "KLJDENIBOPH": "WeaponType",
+      "OFJCCFNOFEI": "Gun_AR"
+    },
+    {
+      "KGDCGCALBCI": 5,
+      "KLJDENIBOPH": "WeaponType",
+      "OFJCCFNOFEI": "Gun_MG"
+    },
+    {
+      "KGDCGCALBCI": 6,
+      "KLJDENIBOPH": "WeaponType",
+      "OFJCCFNOFEI": "Gun_SG"
+    },
+    {
+      "KGDCGCALBCI": 7,
+      "KLJDENIBOPH": "WeaponType",
+      "OFJCCFNOFEI": "Sword_BLD"
+    }
+  ]
+}

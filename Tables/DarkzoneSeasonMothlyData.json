@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10010201,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 1,
+      "LMDJKJCPJHF": "在<color=#F26C1C>{0}</color>期间，您——",
+      "MFFPGEMDDGE": 110048
+    },
+    {
+      "LGJCPENNFBC": 10010202,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 2,
+      "LMDJKJCPJHF": "积极探索待勘测区，完成了<color=#F26C1C>{0}</color>项推进任务，",
+      "EPAPFKNJLGP": 10010203
+    },
+    {
+      "LGJCPENNFBC": 10010203,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 3,
+      "LMDJKJCPJHF": "推进任务进度达到<color=#F26C1C>{0}</color>。",
+      "MFFPGEMDDGE": 110049
+    },
+    {
+      "LGJCPENNFBC": 10010204,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 4,
+      "LMDJKJCPJHF": "努力重启并校准光粒风标，总校准率达到<color=#F26C1C>{0}%</color>。"
+    },
+    {
+      "LGJCPENNFBC": 10010205,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 5,
+      "LMDJKJCPJHF": "合理应对特殊悬赏，指挥人形小队行动<color=#F26C1C>{0}</color>次，",
+      "EPAPFKNJLGP": 10010206
+    },
+    {
+      "LGJCPENNFBC": 10010206,
+      "BKCIGACKEFD": 2,
+      "ABDJPOLOOKJ": 6,
+      "LMDJKJCPJHF": "悬赏最高进度达<color=#F26C1C>{0}</color>。"
+    },
+    {
+      "LGJCPENNFBC": 10010301,
+      "BKCIGACKEFD": 3,
+      "ABDJPOLOOKJ": 1,
+      "LMDJKJCPJHF": "您共搜集到<color=#F26C1C>{0}</color>份载波卡制作材料，",
+      "EPAPFKNJLGP": 10010302
+    },
+    {
+      "LGJCPENNFBC": 10010302,
+      "BKCIGACKEFD": 3,
+      "ABDJPOLOOKJ": 2,
+      "LMDJKJCPJHF": "，其中<color=#F26C1C>{0}</color>份为<color=#F26C1C>奇缺材料</color>。"
+    },
+    {
+      "LGJCPENNFBC": 10010303,
+      "BKCIGACKEFD": 3,
+      "ABDJPOLOOKJ": 3,
+      "LMDJKJCPJHF": "利用这些制作材料，您在分析机台制作了<color=#F26C1C>{0}</color>张载波卡。"
+    },
+    {
+      "LGJCPENNFBC": 10010304,
+      "BKCIGACKEFD": 3,
+      "ABDJPOLOOKJ": 4,
+      "LMDJKJCPJHF": "使用载波卡，您一共进行了<color=#F26C1C>{0}</color>次定向调度，您总能清晰地知道自己想要什么，幸运也会青睐这样的您。"
+    },
+    {
+      "LGJCPENNFBC": 10010305,
+      "BKCIGACKEFD": 3,
+      "ABDJPOLOOKJ": 5,
+      "LMDJKJCPJHF": "通过特殊悬赏，您获得了<color=#F26C1C>{0}</color>个<color=#F26C1C>橙色配件</color>，您的不懈努力将会为您带来丰厚的收获。",
+      "EPAPFKNJLGP": 10010306
+    },
+    {
+      "LGJCPENNFBC": 10010101,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 1,
+      "LMDJKJCPJHF": "尊敬的<color=#F26C1C>{0}</color>阁下：",
+      "MFFPGEMDDGE": 110047
+    },
+    {
+      "LGJCPENNFBC": 10010102,
+      "BKCIGACKEFD": 1,
+      "ABDJPOLOOKJ": 2,
+      "LMDJKJCPJHF": "恭喜您在<color=#F26C1C>{0}</color>中完成所有基础评估指标，以实力取得了独立探索污染区的资格。B.R.I.E.F.将持续关注您的成长，期待您更为活跃的表现。",
+      "MFFPGEMDDGE": 110048
+    }
+  ]
+}

@@ -1,0 +1,2141 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1784"
+      },
+      "IINAEFFCJFH": "Charolic",
+      "EPNCLMLDIPE": "CharolicSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_ColphneBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Colphne",
+      "EGPIAFNFKEJ": "b33e4cff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1001
+      ],
+      "OHMDOCDCPEG": "10020199:1,10020299:1,10020399:2,10020499:2,10020599:3,10020699:3,10020799:4,10020899:4,10020999:5,10021099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1794"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1795"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1796"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1799"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1800"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 4,
+      "AEDOOELENAD": "7100201,7100202,7100209",
+      "KPIHDEEEPEG": [
+        7100201,
+        7100202,
+        7100203,
+        7100204,
+        7100205,
+        7100206,
+        7100207,
+        7100208,
+        7100209,
+        7100210
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/CharolicSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Charolic",
+      "LGFABNONLON": 100199,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_CharolicSR01_Upgrade",
+      "OFHGKMMAGOM": "c_CharolicSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1801"
+      },
+      "IINAEFFCJFH": "Colphne",
+      "EPNCLMLDIPE": "ColphneSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_GrozaBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Groza",
+      "EGPIAFNFKEJ": "eb6778ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1009
+      ],
+      "OHMDOCDCPEG": "10030199:1,10030299:1,10030399:2,10030499:2,10030599:3,10030699:3,10030799:4,10030899:4,10030999:5,10031099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1802"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1803"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1804"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1805"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1800"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 5,
+      "AEDOOELENAD": "7100401,7100405,7100433",
+      "KPIHDEEEPEG": [
+        7100401,
+        7100402,
+        7100403,
+        7100404,
+        7100405,
+        7100406,
+        7100407,
+        7100408,
+        7100409,
+        7100410
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/ColphneSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Colphne",
+      "LGFABNONLON": 100999,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_ColphneSR01_Upgrade",
+      "OFHGKMMAGOM": "c_ColphneSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1806"
+      },
+      "IINAEFFCJFH": "Groza",
+      "EPNCLMLDIPE": "GrozaSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "bf493eff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1017
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1807"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1808"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1809"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1810"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1811"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1800"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 2,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/GrozaSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Groza",
+      "LGFABNONLON": 101799,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_GrozaSR01_Upgrade",
+      "OFHGKMMAGOM": "c_GrozaSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1812"
+      },
+      "IINAEFFCJFH": "Nemesis",
+      "EPNCLMLDIPE": "NemesisSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_VepleyBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Vepley",
+      "EGPIAFNFKEJ": "8a60acff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1008
+      ],
+      "OHMDOCDCPEG": "10050199:1,10050299:1,10050399:2,10050499:2,10050599:3,10050699:3,10050799:4,10050899:4,10050999:5,10051099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1813"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1814"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1815"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1810"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1816"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1800"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 3,
+      "AEDOOELENAD": "7101101,7101108,7101109",
+      "KPIHDEEEPEG": [
+        7101101,
+        7101102,
+        7101103,
+        7101104,
+        7101105,
+        7101106,
+        7101107,
+        7101108,
+        7101109,
+        7101110
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/NemesisSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Nemesis",
+      "LGFABNONLON": 100899,
+      "GFIGBPELCEM": 3,
+      "FAIJOGFEFKK": "c_NemesisSR01_Upgrade",
+      "OFHGKMMAGOM": "c_NemesisSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1817"
+      },
+      "IINAEFFCJFH": "Vepley",
+      "EPNCLMLDIPE": "VepleySSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_LennaBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Lenna",
+      "EGPIAFNFKEJ": "4fa6e6ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1015
+      ],
+      "OHMDOCDCPEG": "10060199:1,10060299:1,10060399:2,10060499:2,10060599:3,10060699:3,10060799:4,10060899:4,10060999:5,10061099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1818"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1819"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1820"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1821"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1800"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 6,
+      "AEDOOELENAD": "7101805,7101809,7101810",
+      "KPIHDEEEPEG": [
+        7101801,
+        7101802,
+        7101803,
+        7101804,
+        7101805,
+        7101806,
+        7101807,
+        7101808,
+        7101809,
+        7101810
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/VepleySSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Vepley",
+      "LGFABNONLON": 101599,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_VepleySSR01_Upgrade",
+      "OFHGKMMAGOM": "c_VepleySSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1822"
+      },
+      "IINAEFFCJFH": "Lenna",
+      "EPNCLMLDIPE": "LennaSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_PerityaBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Peritya",
+      "EGPIAFNFKEJ": "a6764dff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1013
+      ],
+      "OHMDOCDCPEG": "10070199:1,10070299:1,10070399:2,10070499:2,10070599:3,10070699:3,10070799:4,10070899:4,10070999:5,10071099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1823"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1824"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1825"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1826"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1827"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 19,
+      "AEDOOELENAD": "7101903,7101906,7101909",
+      "KPIHDEEEPEG": [
+        7101901,
+        7101902,
+        7101903,
+        7101904,
+        7101905,
+        7101906,
+        7101907,
+        7101908,
+        7101909,
+        7101910
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/LennaSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Lenna",
+      "LGFABNONLON": 101399,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_LennaSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_LennaSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1828"
+      },
+      "IINAEFFCJFH": "Peritya",
+      "EPNCLMLDIPE": "PerityaSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_SharkryBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Sharkry",
+      "EGPIAFNFKEJ": "a6ae5aff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1021
+      ],
+      "OHMDOCDCPEG": "10070199:1,10070299:1,10070399:2,10070499:2,10070599:3,10070699:3,10070799:4,10070899:4,10070999:5,10071099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1829"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1830"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1831"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1832"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1833"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 7,
+      "AEDOOELENAD": "7101903,7101906,7101909",
+      "KPIHDEEEPEG": [
+        7101901,
+        7101902,
+        7101903,
+        7101904,
+        7101905,
+        7101906,
+        7101907,
+        7101908,
+        7101909,
+        7101910
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/PerityaSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Peritya",
+      "LGFABNONLON": 102199,
+      "GFIGBPELCEM": 3,
+      "FAIJOGFEFKK": "c_PerityaSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_PerityaSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1834"
+      },
+      "IINAEFFCJFH": "Sharkry",
+      "EPNCLMLDIPE": "SharkrySR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_DusevnyjBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Dusevnyj",
+      "EGPIAFNFKEJ": "7e7ec9ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1022
+      ],
+      "OHMDOCDCPEG": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1835"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1836"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1837"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1838"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1839"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 8,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110,
+        7100119,
+        7100120,
+        7100121,
+        7100122,
+        7100123,
+        7100124,
+        7100125,
+        7100126,
+        7100127,
+        7100128,
+        7100129,
+        7100130
+      ],
+      "IJBDIBAHFNM": [
+        11017001,
+        11017002,
+        11017003,
+        11017004,
+        11017005,
+        11017006,
+        11017007,
+        11017008,
+        11017009,
+        11017010,
+        11017011,
+        11017012,
+        11017013,
+        11017014,
+        11017015,
+        11017016,
+        11017017,
+        11017018,
+        11017019,
+        11017020,
+        11017021,
+        11017022,
+        11017023,
+        11017024
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/SharkrySR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Sharkry",
+      "LGFABNONLON": 102299,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_SharkrySR01_Upgrade",
+      "OFHGKMMAGOM": "c_SharkrySR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1840"
+      },
+      "IINAEFFCJFH": "Dusevnyj",
+      "EPNCLMLDIPE": "DusevnyjSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_DusevnyjBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Dusevnyj",
+      "EGPIAFNFKEJ": "CFD844ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1023
+      ],
+      "OHMDOCDCPEG": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1841"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1842"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1843"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1844"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1845"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 25,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110,
+        7100119,
+        7100120,
+        7100121,
+        7100122,
+        7100123,
+        7100124,
+        7100125,
+        7100126,
+        7100127,
+        7100128,
+        7100129,
+        7100130
+      ],
+      "IJBDIBAHFNM": [
+        11017001,
+        11017002,
+        11017003,
+        11017004,
+        11017005,
+        11017006,
+        11017007,
+        11017008,
+        11017009,
+        11017010,
+        11017011,
+        11017012,
+        11017013,
+        11017014,
+        11017015,
+        11017016,
+        11017017,
+        11017018,
+        11017019,
+        11017020,
+        11017021,
+        11017022,
+        11017023,
+        11017024
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/DusevnyjSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Dusevnyj",
+      "LGFABNONLON": 102399,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_DusevnyjSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_DusevnyjSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1860"
+      },
+      "IINAEFFCJFH": "Cheeta",
+      "EPNCLMLDIPE": "CheetaSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_DusevnyjBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Dusevnyj",
+      "EGPIAFNFKEJ": "e4716cff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1024
+      ],
+      "OHMDOCDCPEG": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1861"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1862"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1863"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1864"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1865"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 9,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110,
+        7100119,
+        7100120,
+        7100121,
+        7100122,
+        7100123,
+        7100124,
+        7100125,
+        7100126,
+        7100127,
+        7100128,
+        7100129,
+        7100130
+      ],
+      "IJBDIBAHFNM": [
+        11017001,
+        11017002,
+        11017003,
+        11017004,
+        11017005,
+        11017006,
+        11017007,
+        11017008,
+        11017009,
+        11017010,
+        11017011,
+        11017012,
+        11017013,
+        11017014,
+        11017015,
+        11017016,
+        11017017,
+        11017018,
+        11017019,
+        11017020,
+        11017021,
+        11017022,
+        11017023,
+        11017024
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/CheetaSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Cheeta",
+      "LGFABNONLON": 102499,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_CheetaSR01_Upgrade",
+      "OFHGKMMAGOM": "c_CheetaSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1866"
+      },
+      "IINAEFFCJFH": "Tololo",
+      "EPNCLMLDIPE": "TololoSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_SabrinaBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Sabrina",
+      "EGPIAFNFKEJ": "4fb49bff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1025
+      ],
+      "OHMDOCDCPEG": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1867"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1868"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1869"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1870"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1871"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1865"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 10,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110,
+        7100119,
+        7100120,
+        7100121,
+        7100122,
+        7100123,
+        7100124,
+        7100125,
+        7100126,
+        7100127,
+        7100128,
+        7100129,
+        7100130
+      ],
+      "IJBDIBAHFNM": [
+        11017001,
+        11017002,
+        11017003,
+        11017004,
+        11017005,
+        11017006,
+        11017007,
+        11017008,
+        11017009,
+        11017010,
+        11017011,
+        11017012,
+        11017013,
+        11017014,
+        11017015,
+        11017016,
+        11017017,
+        11017018,
+        11017019,
+        11017020,
+        11017021,
+        11017022,
+        11017023,
+        11017024
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/TololoSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Tololo",
+      "LGFABNONLON": 102599,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_TololoSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_TololoSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1872"
+      },
+      "IINAEFFCJFH": "Sabrina",
+      "EPNCLMLDIPE": "SabrinaSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NagantBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nagant",
+      "EGPIAFNFKEJ": "a71924ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1029
+      ],
+      "OHMDOCDCPEG": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1873"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1874"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1875"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1876"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1877"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 11,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110,
+        7100119,
+        7100120,
+        7100121,
+        7100122,
+        7100123,
+        7100124,
+        7100125,
+        7100126,
+        7100127,
+        7100128,
+        7100129,
+        7100130
+      ],
+      "IJBDIBAHFNM": [
+        11017001,
+        11017002,
+        11017003,
+        11017004,
+        11017005,
+        11017006,
+        11017007,
+        11017008,
+        11017009,
+        11017010,
+        11017011,
+        11017012,
+        11017013,
+        11017014,
+        11017015,
+        11017016,
+        11017017,
+        11017018,
+        11017019,
+        11017020,
+        11017021,
+        11017022,
+        11017023,
+        11017024
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/SabrinaSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Sabrina",
+      "LGFABNONLON": 102999,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_SabrinaSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_SabrinaSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1878"
+      },
+      "IINAEFFCJFH": "Nagant",
+      "EPNCLMLDIPE": "NagantSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_QiongjiuBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Qiongjiu",
+      "EGPIAFNFKEJ": "5f89afff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1026
+      ],
+      "OHMDOCDCPEG": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1879"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1880"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1881"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1882"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1883"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 12,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110,
+        7100119,
+        7100120,
+        7100121,
+        7100122,
+        7100123,
+        7100124,
+        7100125,
+        7100126,
+        7100127,
+        7100128,
+        7100129,
+        7100130
+      ],
+      "IJBDIBAHFNM": [
+        11017001,
+        11017002,
+        11017003,
+        11017004,
+        11017005,
+        11017006,
+        11017007,
+        11017008,
+        11017009,
+        11017010,
+        11017011,
+        11017012,
+        11017013,
+        11017014,
+        11017015,
+        11017016,
+        11017017,
+        11017018,
+        11017019,
+        11017020,
+        11017021,
+        11017022,
+        11017023,
+        11017024
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/NagantSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Nagant",
+      "LGFABNONLON": 102699,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_NagantSR01_Upgrade",
+      "OFHGKMMAGOM": "c_NagantSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1884"
+      },
+      "IINAEFFCJFH": "Qiongjiu",
+      "EPNCLMLDIPE": "QiongjiuSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_CentaureissiBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Centaureissi",
+      "EGPIAFNFKEJ": "f15c33ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1027
+      ],
+      "OHMDOCDCPEG": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1885"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1886"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1887"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1888"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1889"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1865"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 13,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110,
+        7100119,
+        7100120,
+        7100121,
+        7100122,
+        7100123,
+        7100124,
+        7100125,
+        7100126,
+        7100127,
+        7100128,
+        7100129,
+        7100130
+      ],
+      "IJBDIBAHFNM": [
+        11017001,
+        11017002,
+        11017003,
+        11017004,
+        11017005,
+        11017006,
+        11017007,
+        11017008,
+        11017009,
+        11017010,
+        11017011,
+        11017012,
+        11017013,
+        11017014,
+        11017015,
+        11017016,
+        11017017,
+        11017018,
+        11017019,
+        11017020,
+        11017021,
+        11017022,
+        11017023,
+        11017024
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/QiongjiuSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Qiongjiu",
+      "LGFABNONLON": 102799,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_QiongjiuSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_QiongjiuSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1890"
+      },
+      "IINAEFFCJFH": "Centaureissi",
+      "EPNCLMLDIPE": "CentaureissiSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_DaiyanBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Daiyan",
+      "EGPIAFNFKEJ": "eabe8cff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1028
+      ],
+      "OHMDOCDCPEG": "10090199:1,10090299:1,10090399:2,10090499:2,10090599:3,10090699:3,10090799:4,10090899:4,10090999:5,10091099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1891"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1892"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1893"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1894"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1839"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 18,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110,
+        7100119,
+        7100120,
+        7100121,
+        7100122,
+        7100123,
+        7100124,
+        7100125,
+        7100126,
+        7100127,
+        7100128,
+        7100129,
+        7100130
+      ],
+      "IJBDIBAHFNM": [
+        11017001,
+        11017002,
+        11017003,
+        11017004,
+        11017005,
+        11017006,
+        11017007,
+        11017008,
+        11017009,
+        11017010,
+        11017011,
+        11017012,
+        11017013,
+        11017014,
+        11017015,
+        11017016,
+        11017017,
+        11017018,
+        11017019,
+        11017020,
+        11017021,
+        11017022,
+        11017023,
+        11017024
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/CentaureissiSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Centaureissi",
+      "LGFABNONLON": 102899,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_CentaureissiSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_CentaureissiSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1895"
+      },
+      "IINAEFFCJFH": "Daiyan",
+      "EPNCLMLDIPE": "DaiyanSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_CharolicBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Charolic",
+      "EGPIAFNFKEJ": "0a4ac2ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1032
+      ],
+      "OHMDOCDCPEG": "10010199:1,10010299:1,10010399:2,10010499:2,10010599:3,10010699:3,10010799:4,10010899:4,10010999:5,10011099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1896"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1897"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1898"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1899"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1833"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 14,
+      "AEDOOELENAD": "7100105,7100110,7100123",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/DaiyanSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Daiyan",
+      "LGFABNONLON": 103299,
+      "GFIGBPELCEM": 3,
+      "FAIJOGFEFKK": "c_DaiyanSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_DaiyanSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1900"
+      },
+      "IINAEFFCJFH": "Mayling",
+      "EPNCLMLDIPE": "Mayling",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_CharolicBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Charolic",
+      "EGPIAFNFKEJ": "704f4fff",
+      "BKCIGACKEFD": "role_type_npc",
+      "GKBNJEIFKFD": [
+        101
+      ],
+      "OHMDOCDCPEG": "10010199:1,10010299:1,10010399:2,10010499:2,10010599:3,10010699:3,10010799:4,10010899:4,10010999:5,10011099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1901"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1836"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1902"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 1,
+      "AEDOOELENAD": "7100105,7100110,7100123",
+      "KPIHDEEEPEG": [
+        7100101,
+        7100102,
+        7100103,
+        7100104,
+        7100105,
+        7100106,
+        7100107,
+        7100108,
+        7100109,
+        7100110
+      ],
+      "OFAKPJCFPNB": true,
+      "LGFABNONLON": 101,
+      "GFIGBPELCEM": 1
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1903"
+      },
+      "IINAEFFCJFH": "Mosinnagant",
+      "EPNCLMLDIPE": "MosinnagantSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "7eb0c2ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1033
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1904"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1905"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1906"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1870"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1907"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1883"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 15,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/MosinnagantSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Mosinnagant",
+      "LGFABNONLON": 103399,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_MosinnagantSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_MosinnagantSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1908"
+      },
+      "IINAEFFCJFH": "Macqiato",
+      "EPNCLMLDIPE": "MacqiatoSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "8c4f6eff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1034
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1909"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1910"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1911"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1912"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1839"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 21,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/MacqiatoSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Macqiato",
+      "LGFABNONLON": 103499,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_MacqiatoSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_MacqiatoSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1913"
+      },
+      "IINAEFFCJFH": "Jiangyu",
+      "EPNCLMLDIPE": "JiangyuSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "ed6853ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1035
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1914"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1915"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1916"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1917"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1833"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 20,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/JiangyuSSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Jiangyu",
+      "LGFABNONLON": 103599,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_JiangyuSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_JiangyuSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1918"
+      },
+      "IINAEFFCJFH": "Ksenia",
+      "EPNCLMLDIPE": "KseniaSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "694c74ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1036
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1919"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1795"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1920"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1921"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1883"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 16,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/KseniaSR01_GunGetShow.usm",
+      "BPDOEBBFMGI": "Ksenia",
+      "LGFABNONLON": 103699,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_KseniaSR01_Upgrade",
+      "OFHGKMMAGOM": "c_KseniaSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1922"
+      },
+      "IINAEFFCJFH": "Ullrid",
+      "EPNCLMLDIPE": "UllridSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "571915ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1037
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1923"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1924"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1925"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1888"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1926"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1927"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 22,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/UllridSSR01_GunGetShow",
+      "BPDOEBBFMGI": "Ullrid",
+      "LGFABNONLON": 103799,
+      "GFIGBPELCEM": 3,
+      "FAIJOGFEFKK": "c_UllridSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_UllridSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1928"
+      },
+      "IINAEFFCJFH": "Littara",
+      "EPNCLMLDIPE": "LittaraSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "efad5bff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1038
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1929"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1930"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1931"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1888"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1932"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1933"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 17,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/LittaraSR01_GunGetShow",
+      "BPDOEBBFMGI": "Littara",
+      "LGFABNONLON": 103899,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_LittaraSR01_Upgrade",
+      "OFHGKMMAGOM": "c_LittaraSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1934"
+      },
+      "IINAEFFCJFH": "Suomi",
+      "EPNCLMLDIPE": "SuomiSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "A5C5D2ff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1039
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1935"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1936"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1937"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1934"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1927"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 24,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/SuomiSSR01_GunGetShow",
+      "BPDOEBBFMGI": "Suomi",
+      "LGFABNONLON": 103999,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_SuomiSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_SuomiSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1938"
+      },
+      "IINAEFFCJFH": "Papasha",
+      "EPNCLMLDIPE": "PapashaSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "7DA0BEff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1040
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1939"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1940"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1906"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1888"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1941"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1800"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 27,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/PapashaSSR01_GunGetShow",
+      "BPDOEBBFMGI": "Papasha",
+      "LGFABNONLON": 104099,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_PapashaSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_PapashaSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1942"
+      },
+      "IINAEFFCJFH": "Lotta",
+      "EPNCLMLDIPE": "LottaSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "EGPIAFNFKEJ": "40487bff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1041
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1943"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1944"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1945"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1946"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1927"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 23,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/LottaSR01_GunGetShow",
+      "BPDOEBBFMGI": "Lotta",
+      "LGFABNONLON": 104199,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_LottaSR01_Upgrade",
+      "OFHGKMMAGOM": "c_LottaSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1947"
+      },
+      "IINAEFFCJFH": "Vector",
+      "EPNCLMLDIPE": "VectorSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1044
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1948"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1949"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1950"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1951"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1827"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 30,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/VectorSSR01_GunGetShow",
+      "BPDOEBBFMGI": "Vector",
+      "LGFABNONLON": 104499,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_VectorSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_VectorSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1952"
+      },
+      "IINAEFFCJFH": "Biyoca",
+      "EPNCLMLDIPE": "BiyocaSSR",
+      "EKAHNEJIGAA": "Img_ArchivesCenter_Chr_NemesisBg",
+      "ALCCHCBKIFH": "Img_ArchivesCenter_Chr_Nemesis",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1045
+      ],
+      "OHMDOCDCPEG": "10040199:1,10040299:1,10040399:2,10040499:2,10040599:3,10040699:3,10040799:4,10040899:4,10040999:5,10041099:5;",
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1953"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1954"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1955"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1888"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1956"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1827"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 31,
+      "AEDOOELENAD": "7100301,7100305,7100308",
+      "KPIHDEEEPEG": [
+        7100301,
+        7100302,
+        7100303,
+        7100304,
+        7100305,
+        7100306,
+        7100307,
+        7100308,
+        7100309,
+        7100310
+      ],
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/BiyocaSSR01_GunGetShow",
+      "BPDOEBBFMGI": "Biyoca",
+      "LGFABNONLON": 104599,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_BiyocaSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_BiyocaSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1957"
+      },
+      "IINAEFFCJFH": "Zhaohui",
+      "EPNCLMLDIPE": "ZhaohuiSSR",
+      "EGPIAFNFKEJ": "34857Fff",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1050
+      ],
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1958"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1959"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1960"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1870"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1961"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1962"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 26,
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/ZhaohuiSSR01_GunGetShow",
+      "BPDOEBBFMGI": "Zhaohui",
+      "LGFABNONLON": 105099,
+      "GFIGBPELCEM": 2,
+      "FAIJOGFEFKK": "c_ZhaohuiSSR01_Upgrade",
+      "OFHGKMMAGOM": "c_ZhaohuiSSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1963"
+      },
+      "IINAEFFCJFH": "Mishty",
+      "EPNCLMLDIPE": "MishtySSR",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1051
+      ],
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1964"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1808"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1965"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1798"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1966"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1827"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 29,
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/MishtySSR01_GunGetShow",
+      "BPDOEBBFMGI": "Mishty",
+      "LGFABNONLON": 105199,
+      "GFIGBPELCEM": 1,
+      "FAIJOGFEFKK": "c_MishtySSR01_Upgrade",
+      "OFHGKMMAGOM": "c_MishtySSR01_Class"
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1967"
+      },
+      "IINAEFFCJFH": "Clukay",
+      "EPNCLMLDIPE": "ClukaySSR",
+      "BKCIGACKEFD": "role_type_gun",
+      "GKBNJEIFKFD": [
+        1052
+      ],
+      "KLMEOGHEHCK": {
+        "DOHLNDIPHAJ": "1968"
+      },
+      "JAPMKMGOBOI": {
+        "DOHLNDIPHAJ": "1969"
+      },
+      "DKABJFIAGEJ": {
+        "DOHLNDIPHAJ": "1970"
+      },
+      "JJAKDOPKJIH": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "GDFIEFPDMKK": {
+        "DOHLNDIPHAJ": "1870"
+      },
+      "PNACHNABHBJ": {
+        "DOHLNDIPHAJ": "1971"
+      },
+      "KNGKFJCEJGK": {
+        "DOHLNDIPHAJ": "1827"
+      },
+      "PIHIGOEFGNP": {
+        "DOHLNDIPHAJ": "1797"
+      },
+      "ABDJPOLOOKJ": 28,
+      "AJOIFANPIEE": true,
+      "LALNCJIMDJJ": "GunGet/ClukaySSR01_GunGetShow",
+      "BPDOEBBFMGI": "Clukay",
+      "LGFABNONLON": 105299,
+      "GFIGBPELCEM": 2
+    }
+  ]
+}

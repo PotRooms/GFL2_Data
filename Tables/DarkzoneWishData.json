@@ -1,0 +1,664 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 150030,
+      "HBJAHCGKJJD": "完美成色载波卡·长波",
+      "PGBMMDIPEFA": "标准、完美成色的配件出现概率大幅提升",
+      "BKCIGACKEFD": 1,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        201,
+        202,
+        203,
+        204,
+        301,
+        401,
+        801,
+        901,
+        1001,
+        1101,
+        1201,
+        1301,
+        1401
+      ],
+      "EILDMEACKAO": "指定成色",
+      "JDKFCGBNMGF": 3,
+      "NKKBLEJIMOI": {
+        "2": 225,
+        "3": 75
+      }
+    },
+    {
+      "LGJCPENNFBC": 150001,
+      "HBJAHCGKJJD": "一型套装载波卡·短波",
+      "PGBMMDIPEFA": "含有协同防卫、战地救援、重装救援特性的配件出现概率小幅提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "1": 367,
+        "3": 367,
+        "8": 367
+      }
+    },
+    {
+      "LGJCPENNFBC": 150002,
+      "HBJAHCGKJJD": "一型套装载波卡·中波",
+      "PGBMMDIPEFA": "含有协同防卫、战地救援、重装救援特性的配件出现概率提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "1": 700,
+        "3": 700,
+        "8": 700
+      },
+      "HBCNNMOPGKI": {
+        "1": 401
+      }
+    },
+    {
+      "LGJCPENNFBC": 150003,
+      "HBJAHCGKJJD": "一型套装载波卡·长波",
+      "PGBMMDIPEFA": "含有协同防卫、战地救援、重装救援特性的配件出现概率大幅提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "1": 1000,
+        "3": 1000,
+        "8": 1000
+      },
+      "HBCNNMOPGKI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 150004,
+      "HBJAHCGKJJD": "二型套装载波卡·短波",
+      "PGBMMDIPEFA": "含有稳态坚守、警戒急救、爆破突袭特性的配件出现概率小幅提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "2": 367,
+        "4": 367,
+        "9": 367
+      },
+      "HBCNNMOPGKI": {
+        "3": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 150005,
+      "HBJAHCGKJJD": "二型套装载波卡·中波",
+      "PGBMMDIPEFA": "含有稳态坚守、警戒急救、爆破突袭特性的配件出现概率提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "2": 700,
+        "4": 700,
+        "9": 700
+      }
+    },
+    {
+      "LGJCPENNFBC": 150006,
+      "HBJAHCGKJJD": "二型套装载波卡·长波",
+      "PGBMMDIPEFA": "含有稳态坚守、警戒急救、爆破突袭特性的配件出现概率大幅提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "2": 1000,
+        "4": 1000,
+        "9": 1000
+      },
+      "HBCNNMOPGKI": {
+        "1": 401
+      }
+    },
+    {
+      "LGJCPENNFBC": 150007,
+      "HBJAHCGKJJD": "三型套装载波卡·短波",
+      "PGBMMDIPEFA": "含有散弹效应、导染聚能、稳态镇压特性的配件出现概率小幅提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "5": 367,
+        "6": 367,
+        "7": 367
+      },
+      "HBCNNMOPGKI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 150008,
+      "HBJAHCGKJJD": "三型套装载波卡·中波",
+      "PGBMMDIPEFA": "含有散弹效应、导染聚能、稳态镇压特性的配件出现概率提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "5": 700,
+        "6": 700,
+        "7": 700
+      },
+      "HBCNNMOPGKI": {
+        "3": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 150009,
+      "HBJAHCGKJJD": "三型套装载波卡·长波",
+      "PGBMMDIPEFA": "含有散弹效应、导染聚能、稳态镇压特性的配件出现概率大幅提升",
+      "BKCIGACKEFD": 3,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定套装",
+      "JDKFCGBNMGF": 4,
+      "NKKBLEJIMOI": {
+        "5": 1000,
+        "6": 1000,
+        "7": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 150010,
+      "HBJAHCGKJJD": "一型部位载波卡·短波",
+      "PGBMMDIPEFA": "握把、脚架、链接组件和涂料图层的出现概率小幅提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        1201,
+        1301,
+        901,
+        1001
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "3": 367,
+        "5": 367
+      }
+    },
+    {
+      "LGJCPENNFBC": 150011,
+      "HBJAHCGKJJD": "一型部位载波卡·中波",
+      "PGBMMDIPEFA": "握把、脚架、链接组件和涂料图层的出现概率提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        1201,
+        1301,
+        901,
+        1001
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "3": 700,
+        "5": 700
+      }
+    },
+    {
+      "LGJCPENNFBC": 150012,
+      "HBJAHCGKJJD": "一型部位载波卡·长波",
+      "PGBMMDIPEFA": "握把、脚架、链接组件和涂料图层的出现概率大幅提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        1201,
+        1301,
+        901,
+        1001
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "3": 1700,
+        "5": 1700
+      }
+    },
+    {
+      "LGJCPENNFBC": 150013,
+      "HBJAHCGKJJD": "二型部位载波卡·短波",
+      "PGBMMDIPEFA": "瞄准设备和工程芯片的出现概率小幅提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1401
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "2": 367,
+        "6": 367
+      }
+    },
+    {
+      "LGJCPENNFBC": 150014,
+      "HBJAHCGKJJD": "二型部位载波卡·中波",
+      "PGBMMDIPEFA": "瞄准设备和工程芯片的出现概率提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1401
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "2": 700,
+        "6": 700
+      }
+    },
+    {
+      "LGJCPENNFBC": 150015,
+      "HBJAHCGKJJD": "二型部位载波卡·长波",
+      "PGBMMDIPEFA": "瞄准设备和工程芯片的出现概率大幅提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1401
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "2": 1700,
+        "6": 1700
+      }
+    },
+    {
+      "LGJCPENNFBC": 150016,
+      "HBJAHCGKJJD": "三型部位载波卡·短波",
+      "PGBMMDIPEFA": "枪口装置、涂料图层和工程芯片的出现概率小幅提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        201,
+        202,
+        203,
+        204,
+        1001,
+        1401
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "1": 367,
+        "5": 367,
+        "6": 367
+      }
+    },
+    {
+      "LGJCPENNFBC": 150017,
+      "HBJAHCGKJJD": "三型部位载波卡·中波",
+      "PGBMMDIPEFA": "枪口装置、涂料图层和工程芯片的出现概率提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        201,
+        202,
+        203,
+        204,
+        1001,
+        1401
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "1": 700,
+        "5": 700,
+        "6": 700
+      }
+    },
+    {
+      "LGJCPENNFBC": 150018,
+      "HBJAHCGKJJD": "三型部位载波卡·长波",
+      "PGBMMDIPEFA": "枪口装置、涂料图层和工程芯片的出现概率大幅提升",
+      "BKCIGACKEFD": 4,
+      "PBAEKNAJECH": [
+        201,
+        202,
+        203,
+        204,
+        1001,
+        1401
+      ],
+      "EILDMEACKAO": "指定部位",
+      "JDKFCGBNMGF": 1,
+      "NKKBLEJIMOI": {
+        "1": 1700,
+        "5": 1700,
+        "6": 1700
+      }
+    },
+    {
+      "LGJCPENNFBC": 150019,
+      "HBJAHCGKJJD": "一型功能载波卡·短波",
+      "PGBMMDIPEFA": "组装类型的配件出现概率小幅提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "3": 350
+      }
+    },
+    {
+      "LGJCPENNFBC": 150020,
+      "HBJAHCGKJJD": "一型功能载波卡·中波",
+      "PGBMMDIPEFA": "组装类型的配件出现概率提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "3": 600
+      }
+    },
+    {
+      "LGJCPENNFBC": 150021,
+      "HBJAHCGKJJD": "一型功能载波卡·长波",
+      "PGBMMDIPEFA": "组装类型的配件出现概率大幅提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        1201,
+        1301,
+        1101,
+        801,
+        901,
+        301
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "3": 1100
+      }
+    },
+    {
+      "LGJCPENNFBC": 150022,
+      "HBJAHCGKJJD": "二型功能载波卡·短波",
+      "PGBMMDIPEFA": "无限类型的配件出现概率小幅提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        1001,
+        1401
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "2": 400
+      }
+    },
+    {
+      "LGJCPENNFBC": 150023,
+      "HBJAHCGKJJD": "二型功能载波卡·中波",
+      "PGBMMDIPEFA": "无限类型的配件出现概率提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        1001,
+        1401
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "2": 650
+      }
+    },
+    {
+      "LGJCPENNFBC": 150024,
+      "HBJAHCGKJJD": "二型功能载波卡·长波",
+      "PGBMMDIPEFA": "无限类型的配件出现概率大幅提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        1001,
+        1401
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "2": 1067
+      }
+    },
+    {
+      "LGJCPENNFBC": 150025,
+      "HBJAHCGKJJD": "三型功能载波卡·短波",
+      "PGBMMDIPEFA": "专项类型的配件出现概率小幅提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        201,
+        202,
+        203,
+        204,
+        401
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "4": 371
+      }
+    },
+    {
+      "LGJCPENNFBC": 150026,
+      "HBJAHCGKJJD": "三型功能载波卡·中波",
+      "PGBMMDIPEFA": "专项类型的配件出现概率提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        201,
+        202,
+        203,
+        204,
+        401
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "4": 633
+      }
+    },
+    {
+      "LGJCPENNFBC": 150027,
+      "HBJAHCGKJJD": "三型功能载波卡·长波",
+      "PGBMMDIPEFA": "专项类型的配件出现概率大幅提升",
+      "BKCIGACKEFD": 2,
+      "PBAEKNAJECH": [
+        201,
+        202,
+        203,
+        204,
+        401
+      ],
+      "EILDMEACKAO": "指定类型",
+      "JDKFCGBNMGF": 2,
+      "NKKBLEJIMOI": {
+        "4": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 150028,
+      "HBJAHCGKJJD": "完美成色载波卡·短波",
+      "PGBMMDIPEFA": "标准、完美成色的配件出现概率小幅提升",
+      "BKCIGACKEFD": 1,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        201,
+        202,
+        203,
+        204,
+        301,
+        401,
+        801,
+        901,
+        1001,
+        1101,
+        1201,
+        1301,
+        1401
+      ],
+      "EILDMEACKAO": "指定成色",
+      "JDKFCGBNMGF": 3,
+      "NKKBLEJIMOI": {
+        "2": 100,
+        "3": 33
+      }
+    },
+    {
+      "LGJCPENNFBC": 150029,
+      "HBJAHCGKJJD": "完美成色载波卡·中波",
+      "PGBMMDIPEFA": "标准、完美成色的配件出现概率提升",
+      "BKCIGACKEFD": 1,
+      "PBAEKNAJECH": [
+        101,
+        102,
+        103,
+        201,
+        202,
+        203,
+        204,
+        301,
+        401,
+        801,
+        901,
+        1001,
+        1101,
+        1201,
+        1301,
+        1401
+      ],
+      "EILDMEACKAO": "指定成色",
+      "JDKFCGBNMGF": 3,
+      "NKKBLEJIMOI": {
+        "2": 150,
+        "3": 50
+      }
+    }
+  ]
+}

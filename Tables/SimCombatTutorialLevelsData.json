@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 41310,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41311,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41310,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41312,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41311,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41313,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41312,
+      "JNJILODKKLC": "NO.4"
+    },
+    {
+      "LGJCPENNFBC": 41314,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41313,
+      "JNJILODKKLC": "NO.5"
+    },
+    {
+      "LGJCPENNFBC": 41315,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41314,
+      "JNJILODKKLC": "NO.6"
+    },
+    {
+      "LGJCPENNFBC": 41316,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41315,
+      "JNJILODKKLC": "NO.7"
+    },
+    {
+      "LGJCPENNFBC": 41401,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41402,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41401,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41403,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41402,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41404,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41405,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41404,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41406,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41405,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41407,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41408,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41407,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41409,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41408,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41410,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41409,
+      "JNJILODKKLC": "NO.4"
+    },
+    {
+      "LGJCPENNFBC": 41411,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41412,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41411,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41413,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41412,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41414,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41413,
+      "JNJILODKKLC": "NO.4"
+    },
+    {
+      "LGJCPENNFBC": 41101,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1",
+      "OJNIOFLAHIN": [
+        400101,
+        400102
+      ],
+      "DJHGMFCBGLC": 2
+    },
+    {
+      "LGJCPENNFBC": 41102,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41101,
+      "JNJILODKKLC": "NO.2",
+      "OJNIOFLAHIN": [
+        400201,
+        400202
+      ],
+      "DJHGMFCBGLC": 2
+    },
+    {
+      "LGJCPENNFBC": 41103,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41102,
+      "JNJILODKKLC": "NO.3",
+      "OJNIOFLAHIN": [
+        400301
+      ],
+      "DJHGMFCBGLC": 1
+    },
+    {
+      "LGJCPENNFBC": 41104,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41103,
+      "JNJILODKKLC": "NO.4",
+      "OJNIOFLAHIN": [
+        400401,
+        400402
+      ],
+      "DJHGMFCBGLC": 2
+    },
+    {
+      "LGJCPENNFBC": 41105,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41104,
+      "JNJILODKKLC": "NO.5",
+      "OJNIOFLAHIN": [
+        400501,
+        400502,
+        400503
+      ],
+      "DJHGMFCBGLC": 3
+    },
+    {
+      "LGJCPENNFBC": 41106,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41105,
+      "JNJILODKKLC": "NO.6"
+    },
+    {
+      "LGJCPENNFBC": 41107,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1",
+      "OJNIOFLAHIN": [
+        400601,
+        400602,
+        400603
+      ],
+      "DJHGMFCBGLC": 3
+    },
+    {
+      "LGJCPENNFBC": 41108,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41107,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41109,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41108,
+      "JNJILODKKLC": "NO.3",
+      "OJNIOFLAHIN": [
+        400801,
+        400802,
+        400803
+      ],
+      "DJHGMFCBGLC": 3
+    },
+    {
+      "LGJCPENNFBC": 41110,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41109,
+      "JNJILODKKLC": "NO.4",
+      "OJNIOFLAHIN": [
+        400901,
+        400902
+      ],
+      "DJHGMFCBGLC": 2
+    },
+    {
+      "LGJCPENNFBC": 41111,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41110,
+      "JNJILODKKLC": "NO.5"
+    },
+    {
+      "LGJCPENNFBC": 41112,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41111,
+      "JNJILODKKLC": "NO.6"
+    },
+    {
+      "LGJCPENNFBC": 41201,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41202,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41201,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41203,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41202,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41204,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41203,
+      "JNJILODKKLC": "NO.4"
+    },
+    {
+      "LGJCPENNFBC": 41205,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41204,
+      "JNJILODKKLC": "NO.5"
+    },
+    {
+      "LGJCPENNFBC": 41206,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41207,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41206,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41208,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41207,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41209,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41208,
+      "JNJILODKKLC": "NO.4"
+    },
+    {
+      "LGJCPENNFBC": 41210,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41209,
+      "JNJILODKKLC": "NO.5"
+    },
+    {
+      "LGJCPENNFBC": 41211,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41210,
+      "JNJILODKKLC": "NO.6"
+    },
+    {
+      "LGJCPENNFBC": 41212,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41213,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41212,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41301,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41302,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41301,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41303,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41302,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41304,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41303,
+      "JNJILODKKLC": "NO.4"
+    },
+    {
+      "LGJCPENNFBC": 41305,
+      "FILDPMAMDNB": 18,
+      "JNJILODKKLC": "NO.1"
+    },
+    {
+      "LGJCPENNFBC": 41306,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41305,
+      "JNJILODKKLC": "NO.2"
+    },
+    {
+      "LGJCPENNFBC": 41307,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41306,
+      "JNJILODKKLC": "NO.3"
+    },
+    {
+      "LGJCPENNFBC": 41308,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41307,
+      "JNJILODKKLC": "NO.4"
+    },
+    {
+      "LGJCPENNFBC": 41309,
+      "FILDPMAMDNB": 18,
+      "OKLMHOMMFKJ": 41308,
+      "JNJILODKKLC": "NO.5"
+    }
+  ]
+}

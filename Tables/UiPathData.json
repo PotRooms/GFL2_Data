@@ -1,0 +1,122 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HMICOOEAJHB": "CombatImage/ElementPanel"
+    },
+    {
+      "LGJCPENNFBC": 12
+    },
+    {
+      "LGJCPENNFBC": 13
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HMICOOEAJHB": "CombatImage/UI_Trans_SkillUnitInfo/Trans_CombatBtn/Btn_Confirm"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HMICOOEAJHB": "CombatImage/UI_Trans_SkillUnitInfo/Trans_CombatBtn/Btn_Cancel"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HMICOOEAJHB": "CombatImage/UI_Trans_SkillUnitInfo/SkillUnitInfoInf|CombatImage"
+    },
+    {
+      "LGJCPENNFBC": 17
+    },
+    {
+      "LGJCPENNFBC": 18
+    },
+    {
+      "LGJCPENNFBC": 19
+    },
+    {
+      "LGJCPENNFBC": 20
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HMICOOEAJHB": "CombatImage/UI_Trans_UnitInformation/UI_Trans_HeadrUnitInfo|CombatText/Trans_UnitInformation/HeadUnitInfo"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HMICOOEAJHB": "CombatImage/Trans_CombatBtn/Btn_Standby"
+    },
+    {
+      "LGJCPENNFBC": 23
+    },
+    {
+      "LGJCPENNFBC": 24
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HMICOOEAJHB": "CombatImage/UI_VLayout_StageStepList"
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HMICOOEAJHB": "CombatImage/UI_Trans_SkillUnitInfo/Trans_SkillInf"
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "HMICOOEAJHB": "CombatImage/BattleSsttingButton/Trans_Btn_InfoBtn"
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "HMICOOEAJHB": "CombatInteractionBtn"
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "HMICOOEAJHB": "CombatImage/UI_Trans_SkillUnitInfo/UI_GunSkillLayout|CombatImage/UI_Trans_SkillUnitInfo/EnemySkill"
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "HMICOOEAJHB": "CombatImage/Btn_BattleScan"
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "HMICOOEAJHB": "UI_Trans_SkillUnitInfo/SkillHit"
+    },
+    {
+      "LGJCPENNFBC": 32
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HMICOOEAJHB": "CombatImage/BattleSsttingButton/Btn_SettingBtn/BtnImage"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HMICOOEAJHB": "CombatImage/BattleRoundBG/BattleRound|CombatImage/BattleRoundBG/EnemyBattleRound"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HMICOOEAJHB": "CombatImage/BattleSsttingButton/Btn_AutoBtn/AutoON|CombatImage/BattleSsttingButton/Btn_AutoBtn/AutoOFF"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HMICOOEAJHB": "CombatImage/BattleSsttingButton/Btn_SpeedBtn/SpeedON"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HMICOOEAJHB": "CombatImage/BtnControl/LeftBtn/LeftBtnON|CombatImage/BtnControl/LeftBtn/LeftBtnOFFCombatImage/BtnControl/RightBtn/RightBtnON|CombatImage/BtnControl/RightBtn/RightBtnOFF"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HMICOOEAJHB": "CombatImage/UI_Trans_UnitInformation/UI_Trans_HeadrUnitInfo|CombatText/Trans_UnitInformation/HeadUnitInfo"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HMICOOEAJHB": "CombatImage/Trans_CombatBtn/Btn_RoundOver/RoundOverImage"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HMICOOEAJHB": "CombatImage/UI_HLayout_HeadList"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HMICOOEAJHB": "CombatImage/UI_Trans_TacticSkill|CombatText/Text_TacticSkillPower"
+    }
+  ]
+}

@@ -1,0 +1,4865 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 51001,
+      "EALJEIIAEGE": 510,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3509"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3510"
+      },
+      "ANGPDODMECM": "CommandCenterHudPanel",
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 51002,
+      "EALJEIIAEGE": 510,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3511"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3512"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 51003,
+      "EALJEIIAEGE": 510,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3513"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3514"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 523,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterHudPanel(Clone)/Root/GrpDialog/GrpCenter/Btn_Repository:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150401,
+      "EALJEIIAEGE": 1504,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "2988"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "2989"
+      },
+      "ANGPDODMECM": "ChrRangePanelV3",
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150402,
+      "EALJEIIAEGE": 1504,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "2990"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "2991"
+      },
+      "AKONHFGEIGK": true,
+      "PAGCIPKKPMN": {
+        "8328": 4
+      },
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150403,
+      "EALJEIIAEGE": 1504,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "2992"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "2993"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "gun_break_up",
+      "IELFCJCAOIC": 1017,
+      "LCKMNNCCHMP": "Canvas/Default/ChrRangePanelV3(Clone)/Root/GrpBreak/Trans_BtnConfirm/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150404,
+      "EALJEIIAEGE": 1504,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "2994"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "2995"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrBreakDialogV3",
+      "LCKMNNCCHMP": "Canvas/Default/ChrBreakDialogV3(Clone)/Root/GrpBg/Btn_Close/ImgBlackBg:1",
+      "CKDADLIKDHN": true,
+      "BAKIPHKGPIJ": 2,
+      "NMOANNNPBBH": 120
+    },
+    {
+      "LGJCPENNFBC": 150405,
+      "EALJEIIAEGE": 1504,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "2996"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "2997"
+      },
+      "OGCHNJCNKLF": 1102,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190101,
+      "EALJEIIAEGE": 1901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3329"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3330"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190102,
+      "EALJEIIAEGE": 1901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3331"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3332"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 609,
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/GrpRight/GrpInfo/GrpLayout/GrpWeaponEntrance/GrpContent/Btn_ChrWeaponItemV3(Clone):0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190103,
+      "EALJEIIAEGE": 1901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3333"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3334"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 609,
+      "KMKMOCPNFJF": "42",
+      "ANGPDODMECM": "ChrWeaponPanelV4",
+      "LCKMNNCCHMP": "Canvas/Default/ChrWeaponPanelV4(Clone)/Root/GrpTop/GrpTopRightBtn:1,Btn_ComTopBarItem(Clone)/Cast:2",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190104,
+      "EALJEIIAEGE": 1901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3335"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3336"
+      },
+      "AKONHFGEIGK": true,
+      "PAGCIPKKPMN": {
+        "20111443": 1
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190105,
+      "EALJEIIAEGE": 1901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3337"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3338"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1802,
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPanelV4(Clone)/Root/Trans_WeaponParts_1/ChrWeaponPartsOverViewItem/GrpAttribute:1"
+      ],
+      "JKPHPPNJLPF": 0.2,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190106,
+      "EALJEIIAEGE": 1901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3339"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3340"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "ChrWeaponPartsReplacePanel",
+      "LCKMNNCCHMP": "Canvas/Default/ChrWeaponPartsReplacePanel(Clone)/Root/GrpPartsReplaceList/GrpBtn/GrpAction/GrpPartsState/Trans_BtnEquip/Btn_Content/Root/Cast:1",
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190107,
+      "EALJEIIAEGE": 1901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3341"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3342"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1803,
+      "ANGPDODMECM": "ChrWeaponPartsReplacePanel",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPartsReplacePanel(Clone)/Root/GrpPartsReplaceList/GrpBtn/GrpAction/GrpPartsPowerUp/Trans_BtnPolarity/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190108,
+      "EALJEIIAEGE": 1901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3343"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3344"
+      },
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 440101,
+      "EALJEIIAEGE": 4401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3353"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3354"
+      },
+      "OGCHNJCNKLF": 3010,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 440102,
+      "EALJEIIAEGE": 4401,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3355"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3356"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "ActivityCafeMainPanel",
+      "DAEJDHPKDFO": [
+        "Default/ActivityCafeMainPanel(Clone)/Root/GrpBottom/Btn_Pad/Root:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 110201,
+      "EALJEIIAEGE": 1102,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3775"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3776"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 110401,
+      "EALJEIIAEGE": 1104,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3385"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3386"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 110402,
+      "EALJEIIAEGE": 1104,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3387"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3388"
+      },
+      "JKPHPPNJLPF": 0.1,
+      "OGCHNJCNKLF": 1101,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 110403,
+      "EALJEIIAEGE": 1104,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_ColphneSR",
+      "LJEFMCJHKLC": "Avatar_Head_ColphneSR",
+      "HBJAHCGKJJD": "寇尔芙",
+      "CIBIOCPPAAN": "7,200,-400",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3389"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3390"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150301,
+      "EALJEIIAEGE": 1503,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3399"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3400"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 918,
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/GrpRight/GrpAction/Trans_BtnLevelUp:0"
+      ],
+      "PAGCIPKKPMN": {
+        "25": 5165
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150302,
+      "EALJEIIAEGE": 1503,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3401"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3402"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "gun_level_up",
+      "IELFCJCAOIC": 1017,
+      "ANGPDODMECM": "ChrRangePanelV3",
+      "LCKMNNCCHMP": "Canvas/Default/ChrRangePanelV3(Clone)/Root/GrpTrain/GrpAction/Trans_BtnConfirm/Root/Cast:1",
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150303,
+      "EALJEIIAEGE": 1503,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3403"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3404"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrLevelUpDialogV3",
+      "LCKMNNCCHMP": "Canvas/Default/ChrLevelUpDialogV3(Clone)/Root/GrpBg/Btn_Close/ImgBlackBg:1",
+      "CKDADLIKDHN": true,
+      "BAKIPHKGPIJ": 2,
+      "NMOANNNPBBH": 120
+    },
+    {
+      "LGJCPENNFBC": 151301,
+      "EALJEIIAEGE": 1513,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3535"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3536"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 152001,
+      "EALJEIIAEGE": 1520,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3717"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3718"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "DarkzoneModePanel",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneModePanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 171901,
+      "EALJEIIAEGE": 1719,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3657"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3658"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "QuestPanel",
+      "DAEJDHPKDFO": [
+        "Default/QuestPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 210201,
+      "EALJEIIAEGE": 2102,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3351"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3352"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 2201,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50501,
+      "EALJEIIAEGE": 505,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3533"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3534"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "BattleIndexPanel",
+      "DAEJDHPKDFO": [
+        "Default/BattleIndexPanelV2(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 110101,
+      "EALJEIIAEGE": 1101,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3327"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3328"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "StoryChapterPanel",
+      "DAEJDHPKDFO": [
+        "Default/StoryChapterPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 151201,
+      "EALJEIIAEGE": 1512,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3473"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3474"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "StoryChapterPanel",
+      "DAEJDHPKDFO": [
+        "Default/StoryChapterPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 220201,
+      "EALJEIIAEGE": 2202,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3707"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3708"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 220202,
+      "EALJEIIAEGE": 2202,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3709"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3710"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 220203,
+      "EALJEIIAEGE": 2202,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3711"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3712"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1601,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 270101,
+      "EALJEIIAEGE": 2701,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3008"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3009"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3004,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470101,
+      "EALJEIIAEGE": 4701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3495"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3496"
+      },
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470102,
+      "EALJEIIAEGE": 4701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,384,-80",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3497"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3498"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ControlFightChapterPanel(Clone)/Root/GrpList/Viewport/Content:1"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 480001,
+      "EALJEIIAEGE": 4800,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3499"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3500"
+      },
+      "OGCHNJCNKLF": 3501,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 480002,
+      "EALJEIIAEGE": 4800,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_UllridSSR",
+      "LJEFMCJHKLC": "Avatar_Head_UllridSSR",
+      "HBJAHCGKJJD": "乌尔丽德",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3501"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3502"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 480003,
+      "EALJEIIAEGE": 4800,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_UllridSSR",
+      "LJEFMCJHKLC": "Avatar_Head_UllridSSR",
+      "HBJAHCGKJJD": "乌尔丽德",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3503"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3504"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 480004,
+      "EALJEIIAEGE": 4800,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_UllridSSR",
+      "LJEFMCJHKLC": "Avatar_Head_UllridSSR",
+      "HBJAHCGKJJD": "乌尔丽德",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3505"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3506"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/SandboxMainPanel(Clone)/Root/GrpBottom/Btn_Mode:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 480005,
+      "EALJEIIAEGE": 4800,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_UllridSSR",
+      "LJEFMCJHKLC": "Avatar_Head_UllridSSR",
+      "HBJAHCGKJJD": "乌尔丽德",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3507"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3508"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600101,
+      "EALJEIIAEGE": 6001,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3713"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3714"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExploreMainPanel(Clone)/Root/GrpAction/Btn_Start:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600102,
+      "EALJEIIAEGE": 6001,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3715"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3716"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneFleetPanelV2(Clone)/Root/GrpBottom/Btn_Confirm:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 240101,
+      "EALJEIIAEGE": 2401,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3577"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3578"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 240102,
+      "EALJEIIAEGE": 2401,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3579"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3580"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1501,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 250101,
+      "EALJEIIAEGE": 2501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3277"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3278"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1901,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 490001,
+      "EALJEIIAEGE": 4900,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3397"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3398"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1401,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 20101,
+      "EALJEIIAEGE": 201,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-150",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3671"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3672"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "StoryChapterPanel",
+      "DAEJDHPKDFO": [
+        "Default/StoryChapterPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "LCKMNNCCHMP": "Canvas/Default/StoryChapterPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 171101,
+      "EALJEIIAEGE": 1711,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "2983"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "2985"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ComBatWinShowDialogV2(Clone)/Root/GrpSettlement_1/Content/GrpAction/BtnConfirm/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 180201,
+      "EALJEIIAEGE": 1802,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3477"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3478"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "LCKMNNCCHMP": "Canvas/Default/CommandCenterPanelV4(Clone)/Root/Btn_Battle/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 180202,
+      "EALJEIIAEGE": 1802,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3479"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3480"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 596,
+      "KMKMOCPNFJF": "24",
+      "ANGPDODMECM": "BattleIndexPanelV2",
+      "DAEJDHPKDFO": [
+        "Default/BattleIndexPanelV2(Clone)/Root/GrpTop/TabModeList/Content:5"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 180203,
+      "EALJEIIAEGE": 1802,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3481"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3482"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 588,
+      "LCKMNNCCHMP": "Canvas/Default/BattleIndexPanelV2(Clone)/Root/GrpSimCombat_1/BattleIndexSimCombatItem(Clone)/GrpList/Viewport/Content:1,Btn_BattleIndexSimCombatItem(Clone)/Root/Cast:1",
+      "GJMFINOPOPM": {
+        "Canvas/Default/BattleIndexPanelV2(Clone)/Root/GrpSimCombat_1/BattleIndexSimCombatItem(Clone)/GrpList": "0|2"
+      },
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 180204,
+      "EALJEIIAEGE": 1802,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3483"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3484"
+      },
+      "JKPHPPNJLPF": 1,
+      "OGCHNJCNKLF": 1801,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 500301,
+      "EALJEIIAEGE": 5003,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3283"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3284"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "DAEJDHPKDFO": [
+        "Default/DormGiftPanel(Clone)/Root/GrpRight/GrpGiftSend/GrpGiftInfo/Btn_Info:1"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 500302,
+      "EALJEIIAEGE": 5003,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3285"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3286"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "DAEJDHPKDFO": [
+        "Default/DormGiftGetDialog(Clone)/Root/GrpDialog/GrpCenter/GrpAction/BtnConfirm:1"
+      ],
+      "JKPHPPNJLPF": 0.2,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 10301,
+      "EALJEIIAEGE": 103,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3743"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3744"
+      },
+      "CEDCNDALDJJ": "click_ui_highlight",
+      "DAEJDHPKDFO": [
+        "Default/BattleIndexPanelV2(Clone)/Root/GrpStoryMode_0/BattleIndexStoryModeItem(Clone)/GrpStoryMode_0/GrpBottom/BtnOk/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 290101,
+      "EALJEIIAEGE": 2901,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3659"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3660"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 2302,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470201,
+      "EALJEIIAEGE": 4702,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3613"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3614"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470202,
+      "EALJEIIAEGE": 4702,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3615"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3616"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470203,
+      "EALJEIIAEGE": 4702,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3617"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3618"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "DAEJDHPKDFO": [
+        "Default/ControlFightBattleDialog(Clone)/Root/GrpDialog/GrpCenter/GrpTabList/Viewport/Content:0"
+      ],
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470204,
+      "EALJEIIAEGE": 4702,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3619"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3620"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 89,
+      "DAEJDHPKDFO": [
+        "Default/ControlFightBattleDialog(Clone)/Root/GrpControlFightChapter/Btn_ControlFightChapterItem(Clone)/BtnScoresReward/Btn_ScoresReward:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 570101,
+      "EALJEIIAEGE": 5701,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3741"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3742"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3022,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 160201,
+      "EALJEIIAEGE": 1602,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3675"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3676"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 596,
+      "LCKMNNCCHMP": "Canvas/Default/CommandCenterPanelV4(Clone)/Root/Btn_Battle/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 160202,
+      "EALJEIIAEGE": 1602,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3677"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3678"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 596,
+      "KMKMOCPNFJF": "23",
+      "ANGPDODMECM": "BattleIndexPanelV2",
+      "DAEJDHPKDFO": [
+        "Default/BattleIndexPanelV2(Clone)/Root/GrpTop/TabModeList/Content:4"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 160203,
+      "EALJEIIAEGE": 1602,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3679"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3680"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 924,
+      "ANGPDODMECM": "BattleIndexPanelV2",
+      "GJMFINOPOPM": {
+        "Canvas/Default/BattleIndexPanelV2(Clone)/Root/GrpSimCombatDaily_2/BattleIndexSimCombatDailyItem(Clone)/GrpList": "2|2"
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 160204,
+      "EALJEIIAEGE": 1602,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-400",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3681"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3682"
+      },
+      "ANGPDODMECM": "SimCombatComPanel",
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 171701,
+      "EALJEIIAEGE": 1717,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3723"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3724"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimComBatHardBattlePanel",
+      "DAEJDHPKDFO": [
+        "Default/SimComBatHardBattlePanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 180101,
+      "EALJEIIAEGE": 1801,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3391"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3392"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "LCKMNNCCHMP": "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 130101,
+      "EALJEIIAEGE": 1301,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-400",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3303"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3304"
+      },
+      "ANGPDODMECM": "BattleIndexPanelV2",
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 130102,
+      "EALJEIIAEGE": 1301,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-400",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3305"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3306"
+      },
+      "ANGPDODMECM": "BattleIndexPanelV2",
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 130103,
+      "EALJEIIAEGE": 1301,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3307"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3308"
+      },
+      "AKONHFGEIGK": true,
+      "OGCHNJCNKLF": 2001,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150201,
+      "EALJEIIAEGE": 1502,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3777"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3778"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150202,
+      "EALJEIIAEGE": 1502,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3779"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3780"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "GJMFINOPOPM": {
+        "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/Trans_ChrSelectList_T/GrpChrList": "1017|1"
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 230301,
+      "EALJEIIAEGE": 2303,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3273"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3274"
+      },
+      "CEDCNDALDJJ": "click_ui_highlight",
+      "LCKMNNCCHMP": "Canvas/Default/PVPMainPanel(Clone)/Root/GrpAction/BtnStart/Btn_Content/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 510301,
+      "EALJEIIAEGE": 5103,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3785"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3786"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3020,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600401,
+      "EALJEIIAEGE": 6004,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3567"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3568"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExploreMainPanel(Clone)/Root/GrpLeft/GrpBottom/GrpEntrust:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190201,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3407"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3408"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190202,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3411"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3415"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "GJMFINOPOPM": {
+        "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/Trans_ChrSelectList_T/GrpChrList": "1017|1"
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190203,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3416"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3417"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 609,
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/GrpRight/GrpInfo/GrpLayout/GrpWeaponEntrance/GrpContent/Btn_ChrWeaponItemV3(Clone):0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190204,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3459"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3460"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 609,
+      "KMKMOCPNFJF": "42",
+      "ANGPDODMECM": "ChrWeaponPanelV4",
+      "LCKMNNCCHMP": "Canvas/Default/ChrWeaponPanelV4(Clone)/Root/GrpTop/GrpTopRightBtn:1,Btn_ComTopBarItem(Clone)/Cast:2",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190205,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3461"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3462"
+      },
+      "AKONHFGEIGK": true,
+      "PAGCIPKKPMN": {
+        "20111443": 1
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190206,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3463"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3464"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1802,
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPanelV4(Clone)/Root/Trans_WeaponParts_1/ChrWeaponPartsOverViewItem/GrpAttribute:1"
+      ],
+      "JKPHPPNJLPF": 0.2,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190207,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3465"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3466"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "ChrWeaponPartsReplacePanel",
+      "LCKMNNCCHMP": "Canvas/Default/ChrWeaponPartsReplacePanel(Clone)/Root/GrpPartsReplaceList/GrpBtn/GrpAction/GrpPartsState/Trans_BtnEquip/Btn_Content/Root/Cast:1",
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190208,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3467"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3468"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1803,
+      "ANGPDODMECM": "ChrWeaponPartsReplacePanel",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPartsReplacePanel(Clone)/Root/GrpPartsReplaceList/GrpBtn/GrpAction/GrpPartsPowerUp/Trans_BtnPolarity/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190209,
+      "EALJEIIAEGE": 1902,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3469"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3470"
+      },
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 430101,
+      "EALJEIIAEGE": 4301,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3781"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3782"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPartsPowerUpPanelV4(Clone)/Root/Trans_PartsPowerUp_0/GrpPowerUpRightInfo/Trans_GrpPolarity/Btn_Increase/Root/Btn_Increase:0"
+      ],
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 430102,
+      "EALJEIIAEGE": 4301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3783"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3784"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1212,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 510201,
+      "EALJEIIAEGE": 5102,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3571"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3572"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3019,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 510401,
+      "EALJEIIAEGE": 5104,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3555"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3556"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3021,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30201,
+      "EALJEIIAEGE": 302,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3287"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3288"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30202,
+      "EALJEIIAEGE": 302,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,194,-480",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3289"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3290"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "MJFGGPCMICA": "Canvas/Default/ChrScreenPanelV3(Clone)/Root/GrpChrSelectList/GrpChrList/GrpList/Viewport/Content:1001:Cast",
+      "GJMFINOPOPM": {
+        "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/Trans_ChrSelectList_T/GrpChrList": "1001|1"
+      },
+      "BAKIPHKGPIJ": 1
+    },
+    {
+      "LGJCPENNFBC": 30203,
+      "EALJEIIAEGE": 302,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3291"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3292"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 918,
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/GrpRight/GrpAction/Trans_BtnLevelUp:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30204,
+      "EALJEIIAEGE": 302,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3293"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3294"
+      },
+      "ANGPDODMECM": "ChrRangePanelV3",
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30205,
+      "EALJEIIAEGE": 302,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3295"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3296"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "gun_level_up",
+      "IELFCJCAOIC": 1001,
+      "ANGPDODMECM": "ChrRangePanelV3",
+      "LCKMNNCCHMP": "Canvas/Default/ChrRangePanelV3(Clone)/Root/GrpTrain/GrpAction/Trans_BtnConfirm/Root/Cast:1",
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30206,
+      "EALJEIIAEGE": 302,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3297"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3298"
+      },
+      "ANGPDODMECM": "ChrLevelUpDialogV3",
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 171601,
+      "EALJEIIAEGE": 1716,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3517"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3518"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 450101,
+      "EALJEIIAEGE": 4501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "2998"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "2999"
+      },
+      "OGCHNJCNKLF": 3201,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 450102,
+      "EALJEIIAEGE": 4501,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3000"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3001"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 2902,
+      "DAEJDHPKDFO": [
+        "Default/HigherPVPMainPanel(Clone)/Root/Btn_Defense/Root:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 450103,
+      "EALJEIIAEGE": 4501,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3002"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3003"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/HigherPVPDefenseTeamDialog(Clone)/Root/GrpContent/GrpMapCard/GrpAction/Trans_GrpBtn/Trans_Edit/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 151101,
+      "EALJEIIAEGE": 1511,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3573"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3574"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ComBatWinShowDialogV2(Clone)/Root/GrpSettlement_1/Content/GrpAction/BtnConfirm/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 151401,
+      "EALJEIIAEGE": 1514,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3757"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3758"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 151701,
+      "EALJEIIAEGE": 1517,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3673"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3674"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimComBatHardBattlePanel",
+      "DAEJDHPKDFO": [
+        "Default/SimComBatHardBattlePanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 230501,
+      "EALJEIIAEGE": 2305,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3551"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3552"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1010,
+      "LCKMNNCCHMP": "Canvas/Default/PVPMainPanel(Clone)/Root/GrpAction/BtnDefenseFleet/Btn_Content/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 230502,
+      "EALJEIIAEGE": 2305,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3553"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3554"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "PVPDefenseTeamDialog",
+      "LCKMNNCCHMP": "Canvas/Default/PVPDefenseTeamDialog(Clone)/Root/GrpContent/GrpMapCard/GrpAction/GrpLeft/Trans_Edit/Btn_Content/Root/Cast:1",
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600301,
+      "EALJEIIAEGE": 6003,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3557"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3558"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExploreMainPanel(Clone)/Root/GrpLeft/GrpBottom/GrpTalent:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600302,
+      "EALJEIIAEGE": 6003,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3559"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3560"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600303,
+      "EALJEIIAEGE": 6003,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3561"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3562"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExploreTalentPanel(Clone)/Root/GrpDetailsList/Viewport/Content/Node_1/Root:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600304,
+      "EALJEIIAEGE": 6003,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3563"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3564"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExploreTalentPanel(Clone)/Root/Trans_GrpRightInfo/DarkzoneExploreTalentInfoItem(Clone)/Root/GrpAction/Trans_GrpActivation/Btn_Activation/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600305,
+      "EALJEIIAEGE": 6003,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3565"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3566"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExploreTalentPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnBack/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170101,
+      "EALJEIIAEGE": 1701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3309"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3310"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170102,
+      "EALJEIIAEGE": 1701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3311"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3312"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "KMKMOCPNFJF": "33",
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "LCKMNNCCHMP": "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/GrpTop/GrpTopRightBtn:1,Btn_ChrBarrackTopBarItemV3(Clone)/Cast:3",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170103,
+      "EALJEIIAEGE": 1701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3313"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3314"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170104,
+      "EALJEIIAEGE": 1701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3315"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3316"
+      },
+      "AKONHFGEIGK": true,
+      "PAGCIPKKPMN": {
+        "9006": 24
+      },
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170105,
+      "EALJEIIAEGE": 1701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3317"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3318"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "gun_talent",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_ChrTalent_1/ChrPowerUp_ChrTalentItem(Clone)/Root/GrpRightInfo/Root/GrpAction/Trans_BtnActivated:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 171401,
+      "EALJEIIAEGE": 1714,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3575"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3576"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 171801,
+      "EALJEIIAEGE": 1718,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3683"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3684"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 151601,
+      "EALJEIIAEGE": 1516,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3569"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3570"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 410101,
+      "EALJEIIAEGE": 4101,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3591"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3592"
+      },
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 410102,
+      "EALJEIIAEGE": 4101,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3593"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3594"
+      },
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 410103,
+      "EALJEIIAEGE": 4101,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3595"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3596"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 2801,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 500101,
+      "EALJEIIAEGE": 5001,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,314,-250",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3745"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3746"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 2310,
+      "DAEJDHPKDFO": [
+        "Default/DormEnterPanel(Clone)/Root/GrpModeList:1"
+      ],
+      "JKPHPPNJLPF": 0.2,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50201,
+      "EALJEIIAEGE": 502,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-150",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3621"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3622"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 891,
+      "ANGPDODMECM": "CommandCenterPanelV4",
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpLeftTab/Btn_NewTask/Root:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50202,
+      "EALJEIIAEGE": 502,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3623"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3624"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "get_newbie_reward",
+      "IELFCJCAOIC": 1,
+      "ANGPDODMECM": "NewTaskPanel",
+      "DAEJDHPKDFO": [
+        "Default/NewTaskPanel(Clone)/Root/GrpContent/GrpRight/GrpCurrentTask/GrpState/Trans_Btn_Receive/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50203,
+      "EALJEIIAEGE": 502,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3625"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3626"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "NewTaskPanel",
+      "DAEJDHPKDFO": [
+        "Default/NewTaskPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnBack/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 59901,
+      "EALJEIIAEGE": 599,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3787"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3788"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "StoryChapterPanel",
+      "DAEJDHPKDFO": [
+        "Default/StoryChapterPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 150101,
+      "EALJEIIAEGE": 1501,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3515"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3516"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 171301,
+      "EALJEIIAEGE": 1713,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3703"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3704"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 190301,
+      "EALJEIIAEGE": 1903,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3549"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3550"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1203,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 192001,
+      "EALJEIIAEGE": 1920,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3006"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3007"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "DarkzoneModePanel",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneModePanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470301,
+      "EALJEIIAEGE": 4703,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3627"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3628"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470302,
+      "EALJEIIAEGE": 4703,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3629"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3630"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470303,
+      "EALJEIIAEGE": 4703,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3631"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3632"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470304,
+      "EALJEIIAEGE": 4703,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3633"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3634"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 95,
+      "DAEJDHPKDFO": [
+        "Default/ControlFightScoresQuestDialog(Clone)/Root/GrpDialog/GrpClose/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 470305,
+      "EALJEIIAEGE": 4703,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3635"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3636"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3301,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600201,
+      "EALJEIIAEGE": 6002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3519"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3520"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 11243,
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExploreMainPanel(Clone)/Root/GrpAction/Btn_Explore/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600202,
+      "EALJEIIAEGE": 6002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3521"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3522"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600203,
+      "EALJEIIAEGE": 6002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3523"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3524"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600204,
+      "EALJEIIAEGE": 6002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3525"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3526"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExplorePutPanel(Clone)/Root/GrpContent/Trans_GrpBottomAction/Btn_Dispatch/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600205,
+      "EALJEIIAEGE": 6002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3527"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3528"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneExplorePutPanel(Clone)/Root/GrpContent/Trans_GrpBottomAction/Btn_RewardView:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600206,
+      "EALJEIIAEGE": 6002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3529"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3530"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 600207,
+      "EALJEIIAEGE": 6002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3531"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3532"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191301,
+      "EALJEIIAEGE": 1913,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3685"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3686"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191801,
+      "EALJEIIAEGE": 1918,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3393"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3394"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 230401,
+      "EALJEIIAEGE": 2304,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "2986"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "2987"
+      },
+      "ANGPDODMECM": "PVPChallengeDialog",
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 500401,
+      "EALJEIIAEGE": 5004,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3357"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3358"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GJMFINOPOPM": {
+        "Canvas/Default/DormGiftPanel(Clone)/Root/GrpRight/GrpGiftSend/GrpList": "0|2"
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 500402,
+      "EALJEIIAEGE": 5004,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3359"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3360"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "DAEJDHPKDFO": [
+        "Default/DormGiftPanel(Clone)/Root/GrpRight/GrpGiftSend:5"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 500403,
+      "EALJEIIAEGE": 5004,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3361"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3362"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "DAEJDHPKDFO": [
+        "Default/DormGiftPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 20301,
+      "EALJEIIAEGE": 203,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,314,-250",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3299"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3300"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 522,
+      "KMKMOCPNFJF": "1",
+      "ANGPDODMECM": "GashaponMainPanelV2",
+      "BBEFAMPMEFL": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 20302,
+      "EALJEIIAEGE": 203,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3301"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3302"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "gacha",
+      "ANGPDODMECM": "GashaponMainPanelV2",
+      "DAEJDHPKDFO": [
+        "Default/GashaponMainPanelV2(Clone)/Root/GrpOrder/GrpRight/GrpAction/Btn_OrderOne:0"
+      ],
+      "LCKMNNCCHMP": "Canvas/Default/GashaponMainPanelV2(Clone)/Root/GrpOrder/GrpRight/GrpAction/Btn_OrderOne/Root/Cast:1",
+      "PAGCIPKKPMN": {
+        "12": 1
+      },
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 151801,
+      "EALJEIIAEGE": 1518,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3721"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3722"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 151901,
+      "EALJEIIAEGE": 1519,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3655"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3656"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "QuestPanel",
+      "DAEJDHPKDFO": [
+        "Default/QuestPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 300101,
+      "EALJEIIAEGE": 3001,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_LennaSSR",
+      "LJEFMCJHKLC": "Avatar_Head_LennaSSR",
+      "HBJAHCGKJJD": "莱娜",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3687"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3688"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 300102,
+      "EALJEIIAEGE": 3001,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3689"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3690"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3006,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 590101,
+      "EALJEIIAEGE": 5901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,194,-480",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3319"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3320"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/CommanderInfoPanelV4(Clone)/Root/Trans_GrpPlayerInfo_0/GrpContent/CommanderInfoItem(Clone)/GrpLeft/GrpInfo/GrpPlayerInfo/GrpBirthday/GrpNum/Btn_Remark:0"
+      ],
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30101,
+      "EALJEIIAEGE": 301,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3651"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3652"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 522,
+      "LCKMNNCCHMP": "Canvas/Default/GashaponResultPanel(Clone)/Root/GrpClose/Btn_Content/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30102,
+      "EALJEIIAEGE": 301,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3653"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3654"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "GashaponMainPanelV2",
+      "LCKMNNCCHMP": "Canvas/Default/GashaponMainPanelV2(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191101,
+      "EALJEIIAEGE": 1911,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3475"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3476"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ComBatWinShowDialogV2(Clone)/Root/GrpSettlement_1/Content/GrpAction/BtnConfirm/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 350101,
+      "EALJEIIAEGE": 3501,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3581"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3582"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 350102,
+      "EALJEIIAEGE": 3501,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3583"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3584"
+      },
+      "OGCHNJCNKLF": 3011,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 350103,
+      "EALJEIIAEGE": 3501,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3585"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3586"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 350104,
+      "EALJEIIAEGE": 3501,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3587"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3588"
+      },
+      "AKONHFGEIGK": true,
+      "PAGCIPKKPMN": {
+        "170011": 150,
+        "170012": 150,
+        "170013": 150,
+        "170027": 3,
+        "170032": 3,
+        "170037": 3
+      },
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 350105,
+      "EALJEIIAEGE": 3501,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3589"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3590"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50101,
+      "EALJEIIAEGE": 501,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3637"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3638"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ComBatWinShowDialogV2(Clone)/Root/GrpSettlement_1/Content/GrpAction/BtnConfirm/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50401,
+      "EALJEIIAEGE": 504,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3691"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3692"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50402,
+      "EALJEIIAEGE": 504,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3693"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3694"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "GJMFINOPOPM": {
+        "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/Trans_ChrSelectList_T/GrpChrList": "1017|1"
+      },
+      "BAKIPHKGPIJ": 1
+    },
+    {
+      "LGJCPENNFBC": 50403,
+      "EALJEIIAEGE": 504,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3695"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3696"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 609,
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/GrpRight/GrpInfo/GrpLayout/GrpWeaponEntrance/GrpContent/Btn_ChrWeaponItemV3(Clone):0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50404,
+      "EALJEIIAEGE": 504,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3697"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3698"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "ChrWeaponPanelV4",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPanelV4(Clone)/Root/Trans_Overview_0/ChrWeaponOverviewItem/GrpLeft/GrpBottomBtn/Btn_WeaponReplace/Root:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50405,
+      "EALJEIIAEGE": 504,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3699"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3700"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrWeaponPanelV4",
+      "GJMFINOPOPM": {
+        "Canvas/Default/ChrWeaponPanelV4(Clone)/Root/Trans_Overview_0/ChrWeaponOverviewItem/Trans_GrpWeaponList/Trans_WeaponList/GrpList": "1|2"
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50406,
+      "EALJEIIAEGE": 504,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3701"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3702"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPanelV4(Clone)/Root/Trans_Overview_0/ChrWeaponOverviewItem/Trans_GrpWeaponList/Trans_WeaponList/GrpAction/Trans_BtnBreak/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170301,
+      "EALJEIIAEGE": 1703,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3537"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3538"
+      },
+      "JKPHPPNJLPF": 1.5,
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1208,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 200201,
+      "EALJEIIAEGE": 2002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3485"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3486"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 596,
+      "LCKMNNCCHMP": "Canvas/Default/CommandCenterPanelV4(Clone)/Root/Btn_Battle/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 200202,
+      "EALJEIIAEGE": 2002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3487"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3488"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 596,
+      "KMKMOCPNFJF": "23",
+      "ANGPDODMECM": "BattleIndexPanel",
+      "DAEJDHPKDFO": [
+        "Default/BattleIndexPanelV2(Clone)/Root/GrpTop/TabModeList/Content:4"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 200203,
+      "EALJEIIAEGE": 2002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3489"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3490"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 930,
+      "ANGPDODMECM": "BattleIndexPanelV2",
+      "GJMFINOPOPM": {
+        "Canvas/Default/BattleIndexPanelV2(Clone)/Root/GrpSimCombatDaily_2/BattleIndexSimCombatDailyItem(Clone)/GrpList": "3|2"
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 200204,
+      "EALJEIIAEGE": 2002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-400",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3491"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3492"
+      },
+      "ANGPDODMECM": "SimCombatComPanel",
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 0.5,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 200205,
+      "EALJEIIAEGE": 2002,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3493"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3494"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 2701,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 390101,
+      "EALJEIIAEGE": 3901,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3375"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3376"
+      },
+      "OGCHNJCNKLF": 3014,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 390102,
+      "EALJEIIAEGE": 3901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3377"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3378"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneModeCarrierPanel(Clone)/Root/GrpBg/GrpMap/GrpQuestMode/GrpEasy/GrpEasy1/Btn_DarkzoneModeCarrierItem(Clone)/Root:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 390103,
+      "EALJEIIAEGE": 3901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3379"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3380"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 390104,
+      "EALJEIIAEGE": 3901,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3381"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3382"
+      },
+      "OGCHNJCNKLF": 3013,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 390105,
+      "EALJEIIAEGE": 3901,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3383"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3384"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneMapSelectPanelV3(Clone)/Root/GrpRight/GrpState/GrpAction/Btn_Next:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 500201,
+      "EALJEIIAEGE": 5002,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3761"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3762"
+      },
+      "OGCHNJCNKLF": 2601,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 500202,
+      "EALJEIIAEGE": 5002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3763"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3764"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 10083,
+      "DAEJDHPKDFO": [
+        "Default/DormMainPanelV2(Clone)/Root/TabFunctionList:5"
+      ],
+      "PAGCIPKKPMN": {
+        "300003": 1
+      },
+      "JKPHPPNJLPF": 0.2,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 10101,
+      "EALJEIIAEGE": 101,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3321"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3322"
+      },
+      "CEDCNDALDJJ": "click_ui_highlight",
+      "LCKMNNCCHMP": "Canvas/Default/CommandCenterPanelV4(Clone)/Root/Btn_Battle/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 10201,
+      "EALJEIIAEGE": 102,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3347"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3348"
+      },
+      "CEDCNDALDJJ": "click_ui_highlight",
+      "DAEJDHPKDFO": [
+        "Default/BattleIndexPanelV2(Clone)/Root/GrpStoryMode_0/BattleIndexStoryModeItem(Clone)/GrpStoryMode_0/GrpBottom/BtnOk/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 51101,
+      "EALJEIIAEGE": 511,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3649"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3650"
+      },
+      "JKPHPPNJLPF": 0.5,
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 2401,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 370101,
+      "EALJEIIAEGE": 3701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3010"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3011"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 370102,
+      "EALJEIIAEGE": 3701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3012"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3013"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "DAEJDHPKDFO": [
+        "Default/ActivityCafeMainPanel(Clone)/Root/GrpViewSwitch/Btn_ActivityCafeArrowItem(Clone)/BtnLeft/Btn_Left:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 370103,
+      "EALJEIIAEGE": 3701,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3014"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3015"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 370104,
+      "EALJEIIAEGE": 3701,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3016"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3017"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3012,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191401,
+      "EALJEIIAEGE": 1914,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3345"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3346"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 160101,
+      "EALJEIIAEGE": 1601,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3759"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3760"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "ChrRangePanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrRangePanelV3(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 171501,
+      "EALJEIIAEGE": 1715,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3405"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3406"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 580101,
+      "EALJEIIAEGE": 5801,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3647"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3648"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 3023,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 280101,
+      "EALJEIIAEGE": 2801,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3769"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3770"
+      },
+      "OGCHNJCNKLF": 3005,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 280102,
+      "EALJEIIAEGE": 2801,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_LennaSSR",
+      "LJEFMCJHKLC": "Avatar_Head_LennaSSR",
+      "HBJAHCGKJJD": "莱娜",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3771"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3772"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 2105,
+      "DAEJDHPKDFO": [
+        "Default/DaiyanMainPanel(Clone)/Root/GrpUI/GrpBottom/Btn_ChapterEntry:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 280103,
+      "EALJEIIAEGE": 2801,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_LennaSSR",
+      "LJEFMCJHKLC": "Avatar_Head_LennaSSR",
+      "HBJAHCGKJJD": "莱娜",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3773"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3774"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 100101,
+      "EALJEIIAEGE": 1001,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3323"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3324"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "CommandCenterPanelV4",
+      "LCKMNNCCHMP": "Canvas/Default/CommandCenterPanelV4(Clone)/Root/Btn_Battle/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 100102,
+      "EALJEIIAEGE": 1001,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3325"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3326"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "BattleIndexPanelV2",
+      "LCKMNNCCHMP": "Canvas/Default/BattleIndexPanelV2(Clone)/Root/GrpStoryMode_0/BattleIndexStoryModeItem(Clone)/GrpStoryMode_0/GrpBottom/BtnOk/Btn_Content/Root/Cast:1",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170201,
+      "EALJEIIAEGE": 1702,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3363"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3364"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170202,
+      "EALJEIIAEGE": 1702,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3365"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3366"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "GJMFINOPOPM": {
+        "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/Trans_ChrSelectList_T/GrpChrList": "1017|1"
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170205,
+      "EALJEIIAEGE": 1702,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3367"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3368"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "KMKMOCPNFJF": "33",
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "LCKMNNCCHMP": "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/GrpTop/GrpTopRightBtn:1,Btn_ChrBarrackTopBarItemV3(Clone)/Cast:3",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170206,
+      "EALJEIIAEGE": 1702,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3369"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3370"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170207,
+      "EALJEIIAEGE": 1702,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3371"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3372"
+      },
+      "AKONHFGEIGK": true,
+      "PAGCIPKKPMN": {
+        "9006": 24
+      },
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 170208,
+      "EALJEIIAEGE": 1702,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3373"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3374"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "gun_talent",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_ChrTalent_1/ChrPowerUp_ChrTalentItem(Clone)/Root/GrpRightInfo/Root/GrpAction/Trans_BtnActivated:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191201,
+      "EALJEIIAEGE": 1912,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3705"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3706"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "StoryChapterPanel",
+      "DAEJDHPKDFO": [
+        "Default/StoryChapterPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191701,
+      "EALJEIIAEGE": 1917,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3349"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3350"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimComBatHardBattlePanel",
+      "DAEJDHPKDFO": [
+        "Default/SimComBatHardBattlePanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 230201,
+      "EALJEIIAEGE": 2302,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3767"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3768"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1701,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 30301,
+      "EALJEIIAEGE": 303,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3281"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3282"
+      },
+      "ANGPDODMECM": "ChrRangePanelV3",
+      "JKPHPPNJLPF": 1,
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1101,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 151501,
+      "EALJEIIAEGE": 1515,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3765"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3766"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 110301,
+      "EALJEIIAEGE": 1103,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3639"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3640"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 110303,
+      "EALJEIIAEGE": 1103,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3641"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3642"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "GJMFINOPOPM": {
+        "Canvas/Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/Trans_ChrSelectList_T/GrpChrList": "1009|1"
+      },
+      "BAKIPHKGPIJ": 1
+    },
+    {
+      "LGJCPENNFBC": 171201,
+      "EALJEIIAEGE": 1712,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3271"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3272"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "StoryChapterPanel",
+      "DAEJDHPKDFO": [
+        "Default/StoryChapterPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 180301,
+      "EALJEIIAEGE": 1803,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-78",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3643"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3644"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 180302,
+      "EALJEIIAEGE": 1803,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-78",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3645"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3646"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1650,
+      "LCKMNNCCHMP": "Canvas/Default/SimComBatHardBattlePanel(Clone)/Root/GrpContent/Trans_GrpAnalysis/Btn_Description/Cast:1",
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191601,
+      "EALJEIIAEGE": 1916,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3275"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3276"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 20201,
+      "EALJEIIAEGE": 202,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3719"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3720"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 522,
+      "LCKMNNCCHMP": "Canvas/Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:1,Btn_CommandCenterLeftTabItem(Clone)/Root/Cast:5",
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 100201,
+      "EALJEIIAEGE": 1002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3609"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3610"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "StoryChapterPanel",
+      "DAEJDHPKDFO": [
+        "Default/StoryChapterPanel(Clone)/Root/GrpCenter/GrpDetailsList/Viewport/Content:12"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 100202,
+      "EALJEIIAEGE": 1002,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3611"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3612"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_play_avg",
+      "ANGPDODMECM": "BattleDetailDialog",
+      "LCKMNNCCHMP": "Canvas/Default/BattleDetailDialog(Clone)/Root/GrpContent/GrpAction/BtnStart/Btn_Content/Root/Cast:1",
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 172001,
+      "EALJEIIAEGE": 1720,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3279"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3280"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "DarkzoneModePanel",
+      "DAEJDHPKDFO": [
+        "Default/DarkzoneModePanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 360101,
+      "EALJEIIAEGE": 3601,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3725"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3726"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 53,
+      "DAEJDHPKDFO": [
+        "Default/ActivityCafeMainPanel(Clone)/Root/GrpBottom/Btn_Pad/Root:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 360102,
+      "EALJEIIAEGE": 3601,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3727"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3728"
+      },
+      "AKONHFGEIGK": true,
+      "JKPHPPNJLPF": 2,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 360103,
+      "EALJEIIAEGE": 3601,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3729"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3730"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ActivityCafePadPanel(Clone)/Root/GrpPad/GrpTopTab/TabLeftModeList/Content:2"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 360104,
+      "EALJEIIAEGE": 3601,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3731"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3732"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 360105,
+      "EALJEIIAEGE": 3601,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3733"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3734"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ActivityCafePadPanel(Clone)/Root/GrpPad/GrpTopTab/TabLeftModeList/Content:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 360106,
+      "EALJEIIAEGE": 3601,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3735"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3736"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 360107,
+      "EALJEIIAEGE": 3601,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3737"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3738"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ActivityCafePadPanel(Clone)/Root/GrpPad/GrpTopTab/TabLeftModeList/Content:4"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 360108,
+      "EALJEIIAEGE": 3601,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_CentaureissiSSR",
+      "LJEFMCJHKLC": "Avatar_Head_CentaureissiSSR",
+      "HBJAHCGKJJD": "桑朵莱希",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3739"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3740"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191901,
+      "EALJEIIAEGE": 1919,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3004"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3005"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "QuestPanel",
+      "DAEJDHPKDFO": [
+        "Default/QuestPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 200101,
+      "EALJEIIAEGE": 2001,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3395"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3396"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "ChrRangePanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPartsPowerUpPanelV4(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 260101,
+      "EALJEIIAEGE": 2601,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3607"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3608"
+      },
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1209,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50301,
+      "EALJEIIAEGE": 503,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3597"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3598"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50302,
+      "EALJEIIAEGE": 503,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3599"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3600"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 609,
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/GrpRight/GrpInfo/GrpLayout/GrpWeaponEntrance/GrpContent/Btn_ChrWeaponItemV3(Clone):0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50303,
+      "EALJEIIAEGE": 503,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3601"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3602"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "ChrWeaponPanelV4",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPanelV4(Clone)/Root/Trans_Overview_0/ChrWeaponOverviewItem/GrpLeft/GrpBottomBtn/Btn_WeaponReplace/Root:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50304,
+      "EALJEIIAEGE": 503,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3603"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3604"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "ANGPDODMECM": "ChrWeaponPanelV4",
+      "GJMFINOPOPM": {
+        "Canvas/Default/ChrWeaponPanelV4(Clone)/Root/Trans_Overview_0/ChrWeaponOverviewItem/Trans_GrpWeaponList/Trans_WeaponList/GrpList": "1|2"
+      },
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50305,
+      "EALJEIIAEGE": 503,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3605"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3606"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPanelV4(Clone)/Root/Trans_Overview_0/ChrWeaponOverviewItem/Trans_GrpWeaponList/Trans_WeaponList/GrpAction/Trans_BtnBreak/Btn_Content:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50601,
+      "EALJEIIAEGE": 506,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3539"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3540"
+      },
+      "CEDCNDALDJJ": "click_ui_area",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1304,
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightTab:3"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50602,
+      "EALJEIIAEGE": 506,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3541"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3542"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 609,
+      "ANGPDODMECM": "ChrPowerUpPanelV3",
+      "DAEJDHPKDFO": [
+        "Default/ChrPowerUpPanelV3(Clone)/Root/Trans_Overview_0/ChrPowerUp_OverviewItem(Clone)/Root/GrpRight/GrpInfo/GrpLayout/GrpWeaponEntrance/GrpContent/Btn_ChrWeaponItemV3(Clone):0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50603,
+      "EALJEIIAEGE": 506,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3543"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3544"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 1557,
+      "ANGPDODMECM": "ChrWeaponPanelV4",
+      "DAEJDHPKDFO": [
+        "Default/ChrWeaponPanelV4(Clone)/Root/Trans_Overview_0/ChrWeaponOverviewItem/GrpAction/Trans_BtnPowerUp/BtnLvUp/Btn_Content:0"
+      ],
+      "JKPHPPNJLPF": 0.2,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50604,
+      "EALJEIIAEGE": 506,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3545"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3546"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 50605,
+      "EALJEIIAEGE": 506,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3547"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3548"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "JKPHPPNJLPF": 0.5,
+      "OPNMOFHBPHG": 1,
+      "OGCHNJCNKLF": 1201,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 191501,
+      "EALJEIIAEGE": 1915,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-100",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3471"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3472"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "GGFBLEKBFFH": "click_UI",
+      "IELFCJCAOIC": 554,
+      "ANGPDODMECM": "SimCombatComPanel",
+      "DAEJDHPKDFO": [
+        "Default/SimCombatComPanel(Clone)/Root/GrpTop/GrpTopLeftBtn/BtnHome/Btn_Content:0"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 510101,
+      "EALJEIIAEGE": 5101,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3661"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3662"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 510102,
+      "EALJEIIAEGE": 5101,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3663"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3664"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/CommandCenterPanelV4(Clone)/Root/GrpRightBottom/GrpActivityEnter/Btn_GrpUnion:0"
+      ],
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 510103,
+      "EALJEIIAEGE": 5101,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3665"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3666"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "GuildEditPanel",
+      "DAEJDHPKDFO": [
+        "Default/GuildEditPanel(Clone)/Root/GrpTop/GrpTopRightBtn:2"
+      ],
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 510104,
+      "EALJEIIAEGE": 5101,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3667"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3668"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "ANGPDODMECM": "GuildEditPanel",
+      "DAEJDHPKDFO": [
+        "Default/GuildEditPanel(Clone)/Root/GrpTop/GrpTopRightBtn:3"
+      ],
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 510105,
+      "EALJEIIAEGE": 5101,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3669"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3670"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 520101,
+      "EALJEIIAEGE": 5201,
+      "PNKCGOOJBPE": true,
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3747"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3748"
+      },
+      "OGCHNJCNKLF": 3018,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 520102,
+      "EALJEIIAEGE": 5201,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3749"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3750"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 520103,
+      "EALJEIIAEGE": 5201,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3751"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3752"
+      },
+      "CEDCNDALDJJ": "click_ui",
+      "DAEJDHPKDFO": [
+        "Default/ControlRoomMainPanel(Clone)/Root/GrpBottomInfo/GrpBtnList:1"
+      ],
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 520104,
+      "EALJEIIAEGE": 5201,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3753"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3754"
+      },
+      "AKONHFGEIGK": true,
+      "BAKIPHKGPIJ": 2
+    },
+    {
+      "LGJCPENNFBC": 520105,
+      "EALJEIIAEGE": 5201,
+      "PNKCGOOJBPE": true,
+      "NODGLEHLEAM": "Avatar_Head_GrozaSR",
+      "LJEFMCJHKLC": "Avatar_Head_GrozaSR",
+      "HBJAHCGKJJD": "闪电",
+      "CIBIOCPPAAN": "7,58,-72",
+      "LMDJKJCPJHF": {
+        "DOHLNDIPHAJ": "3755"
+      },
+      "FCBBNBMGKAB": {
+        "DOHLNDIPHAJ": "3756"
+      },
+      "AKONHFGEIGK": true,
+      "OPNMOFHBPHG": 1,
+      "BAKIPHKGPIJ": 2
+    }
+  ]
+}

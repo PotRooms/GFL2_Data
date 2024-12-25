@@ -1,0 +1,1041 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "GNKNDMNJKIM": [
+        101
+      ],
+      "BEJJGPNBKHF": [
+        201
+      ],
+      "KCGMANMMABA": [
+        102
+      ],
+      "PJOOAHLPCKO": [
+        202
+      ],
+      "KBPINOCMHPM": [
+        103
+      ],
+      "FDLMPAPFHKP": [
+        203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "GNKNDMNJKIM": [
+        0
+      ],
+      "BEJJGPNBKHF": [
+        302,
+        301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "GNKNDMNJKIM": [
+        401,
+        402
+      ],
+      "BEJJGPNBKHF": [
+        501,
+        502,
+        503
+      ],
+      "KCGMANMMABA": [
+        102
+      ],
+      "PJOOAHLPCKO": [
+        202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "GNKNDMNJKIM": [
+        601,
+        602
+      ],
+      "BEJJGPNBKHF": [
+        0
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "GNKNDMNJKIM": [
+        10170501
+      ],
+      "BEJJGPNBKHF": [
+        10080501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100104,
+      "GNKNDMNJKIM": [
+        10010401
+      ],
+      "BEJJGPNBKHF": [
+        10010421
+      ],
+      "KCGMANMMABA": [
+        10010402
+      ],
+      "PJOOAHLPCKO": [
+        10010422
+      ],
+      "KBPINOCMHPM": [
+        10010403
+      ],
+      "FDLMPAPFHKP": [
+        10010423
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100105,
+      "GNKNDMNJKIM": [
+        10010501,
+        100105011
+      ],
+      "BEJJGPNBKHF": [
+        10010511,
+        100105111
+      ],
+      "KCGMANMMABA": [
+        10010502,
+        100105011
+      ],
+      "PJOOAHLPCKO": [
+        10010512,
+        100105111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100107,
+      "GNKNDMNJKIM": [
+        10010701
+      ],
+      "BEJJGPNBKHF": [
+        10010711
+      ],
+      "KCGMANMMABA": [
+        10010702
+      ],
+      "PJOOAHLPCKO": [
+        10010712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102305,
+      "GNKNDMNJKIM": [
+        10230501
+      ],
+      "BEJJGPNBKHF": [
+        10230511
+      ],
+      "KCGMANMMABA": [
+        10230502
+      ],
+      "PJOOAHLPCKO": [
+        10230512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102307,
+      "GNKNDMNJKIM": [
+        10230701
+      ],
+      "BEJJGPNBKHF": [
+        10230711
+      ],
+      "KCGMANMMABA": [
+        10230702
+      ],
+      "PJOOAHLPCKO": [
+        10230712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103305,
+      "GNKNDMNJKIM": [
+        10330501,
+        103305011
+      ],
+      "BEJJGPNBKHF": [
+        10330511,
+        103305111
+      ],
+      "KCGMANMMABA": [
+        10330502,
+        103305021
+      ],
+      "PJOOAHLPCKO": [
+        10330512,
+        103305121
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103307,
+      "GNKNDMNJKIM": [
+        10330701,
+        103307011
+      ],
+      "BEJJGPNBKHF": [
+        10330711,
+        103307111
+      ],
+      "KCGMANMMABA": [
+        10330702,
+        103307021
+      ],
+      "PJOOAHLPCKO": [
+        10330712,
+        103307121
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105103,
+      "GNKNDMNJKIM": [
+        10510501
+      ],
+      "BEJJGPNBKHF": [
+        10510511
+      ],
+      "KCGMANMMABA": [
+        10510502
+      ],
+      "PJOOAHLPCKO": [
+        10510512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105104,
+      "GNKNDMNJKIM": [
+        10510701
+      ],
+      "BEJJGPNBKHF": [
+        10510711
+      ],
+      "KCGMANMMABA": [
+        10510702
+      ],
+      "PJOOAHLPCKO": [
+        10510712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102505,
+      "GNKNDMNJKIM": [
+        10250501
+      ],
+      "BEJJGPNBKHF": [
+        10250511
+      ],
+      "KCGMANMMABA": [
+        10250502
+      ],
+      "PJOOAHLPCKO": [
+        10250512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102507,
+      "GNKNDMNJKIM": [
+        10250701
+      ],
+      "BEJJGPNBKHF": [
+        10250711,
+        102507111
+      ],
+      "KCGMANMMABA": [
+        10250702
+      ],
+      "PJOOAHLPCKO": [
+        10250712,
+        102507111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104405,
+      "GNKNDMNJKIM": [
+        10440501
+      ],
+      "BEJJGPNBKHF": [
+        10440511
+      ],
+      "KCGMANMMABA": [
+        10440502
+      ],
+      "PJOOAHLPCKO": [
+        10440512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100905,
+      "GNKNDMNJKIM": [
+        10090501
+      ],
+      "BEJJGPNBKHF": [
+        10090511
+      ],
+      "KCGMANMMABA": [
+        10090502
+      ],
+      "PJOOAHLPCKO": [
+        10090512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100907,
+      "GNKNDMNJKIM": [
+        10090701,
+        100907011
+      ],
+      "BEJJGPNBKHF": [
+        10090711,
+        100907111
+      ],
+      "KCGMANMMABA": [
+        10090702,
+        100907021
+      ],
+      "PJOOAHLPCKO": [
+        10090712,
+        100907121
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102905,
+      "GNKNDMNJKIM": [
+        10290501
+      ],
+      "BEJJGPNBKHF": [
+        10290511
+      ],
+      "KCGMANMMABA": [
+        10290502
+      ],
+      "PJOOAHLPCKO": [
+        10290512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102907,
+      "GNKNDMNJKIM": [
+        10290701
+      ],
+      "BEJJGPNBKHF": [
+        10290711,
+        102907113
+      ],
+      "KCGMANMMABA": [
+        10290702
+      ],
+      "PJOOAHLPCKO": [
+        10290712,
+        102907113
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100805,
+      "GNKNDMNJKIM": [
+        10080501,
+        10080701
+      ],
+      "BEJJGPNBKHF": [
+        10080511,
+        10080711
+      ],
+      "KCGMANMMABA": [
+        10080502,
+        10080702
+      ],
+      "PJOOAHLPCKO": [
+        10080512,
+        10080712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101705,
+      "GNKNDMNJKIM": [
+        10170501
+      ],
+      "BEJJGPNBKHF": [
+        10170511,
+        101705111
+      ],
+      "KCGMANMMABA": [
+        10170502
+      ],
+      "PJOOAHLPCKO": [
+        10170512,
+        101705111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101707,
+      "GNKNDMNJKIM": [
+        10170701
+      ],
+      "BEJJGPNBKHF": [
+        10170711
+      ],
+      "KCGMANMMABA": [
+        10170702
+      ],
+      "PJOOAHLPCKO": [
+        10170712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103504,
+      "GNKNDMNJKIM": [
+        10350401
+      ],
+      "BEJJGPNBKHF": [
+        10350411
+      ],
+      "KCGMANMMABA": [
+        10350402
+      ],
+      "PJOOAHLPCKO": [
+        10350412
+      ],
+      "KBPINOCMHPM": [
+        10350403
+      ],
+      "FDLMPAPFHKP": [
+        10350413
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103505,
+      "GNKNDMNJKIM": [
+        10350501,
+        103505011
+      ],
+      "BEJJGPNBKHF": [
+        10350511,
+        103505111
+      ],
+      "KCGMANMMABA": [
+        10350502,
+        103505011
+      ],
+      "PJOOAHLPCKO": [
+        10350512,
+        103505111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101305,
+      "GNKNDMNJKIM": [
+        10130501
+      ],
+      "BEJJGPNBKHF": [
+        10130511
+      ],
+      "KCGMANMMABA": [
+        10130502
+      ],
+      "PJOOAHLPCKO": [
+        10130512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101307,
+      "GNKNDMNJKIM": [
+        10130701,
+        101307011
+      ],
+      "BEJJGPNBKHF": [
+        10130711,
+        101307111
+      ],
+      "KCGMANMMABA": [
+        10130702,
+        101307011
+      ],
+      "PJOOAHLPCKO": [
+        10130712,
+        101307111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102205,
+      "GNKNDMNJKIM": [
+        10220501
+      ],
+      "BEJJGPNBKHF": [
+        10220511,
+        102205111
+      ],
+      "KCGMANMMABA": [
+        10220502
+      ],
+      "PJOOAHLPCKO": [
+        10220512,
+        102205111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102207,
+      "GNKNDMNJKIM": [
+        10220701
+      ],
+      "BEJJGPNBKHF": [
+        10220711,
+        102207111
+      ],
+      "KCGMANMMABA": [
+        10220702
+      ],
+      "PJOOAHLPCKO": [
+        10220712,
+        102207111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102805,
+      "GNKNDMNJKIM": [
+        10280501,
+        102805011
+      ],
+      "BEJJGPNBKHF": [
+        10280511,
+        102805111
+      ],
+      "KCGMANMMABA": [
+        10280502,
+        102805021
+      ],
+      "PJOOAHLPCKO": [
+        10280512,
+        102805121
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102807,
+      "GNKNDMNJKIM": [
+        10280701
+      ],
+      "BEJJGPNBKHF": [
+        10280711
+      ],
+      "KCGMANMMABA": [
+        10280702,
+        102807021
+      ],
+      "PJOOAHLPCKO": [
+        10280712,
+        102807021
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103205,
+      "GNKNDMNJKIM": [
+        10320501
+      ],
+      "BEJJGPNBKHF": [
+        10320511,
+        103205112
+      ],
+      "KCGMANMMABA": [
+        10320502
+      ],
+      "PJOOAHLPCKO": [
+        10320512,
+        103205112
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103207,
+      "GNKNDMNJKIM": [
+        10320701
+      ],
+      "BEJJGPNBKHF": [
+        10320711
+      ],
+      "KCGMANMMABA": [
+        10320702
+      ],
+      "PJOOAHLPCKO": [
+        10320712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103707,
+      "GNKNDMNJKIM": [
+        10370701
+      ],
+      "BEJJGPNBKHF": [
+        10370711
+      ],
+      "KCGMANMMABA": [
+        10370702
+      ],
+      "PJOOAHLPCKO": [
+        10370712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101505,
+      "GNKNDMNJKIM": [
+        10150501
+      ],
+      "BEJJGPNBKHF": [
+        10150511
+      ],
+      "KCGMANMMABA": [
+        10150502
+      ],
+      "PJOOAHLPCKO": [
+        10150512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101507,
+      "GNKNDMNJKIM": [
+        10150701
+      ],
+      "BEJJGPNBKHF": [
+        10150711
+      ],
+      "KCGMANMMABA": [
+        10150702
+      ],
+      "PJOOAHLPCKO": [
+        10150712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102701,
+      "GNKNDMNJKIM": [
+        10270501
+      ],
+      "BEJJGPNBKHF": [
+        10270511,
+        10270510
+      ],
+      "KCGMANMMABA": [
+        10270502
+      ],
+      "PJOOAHLPCKO": [
+        10270512,
+        10270510
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102702,
+      "GNKNDMNJKIM": [
+        10270701
+      ],
+      "BEJJGPNBKHF": [
+        10270711
+      ],
+      "KCGMANMMABA": [
+        10270702
+      ],
+      "PJOOAHLPCKO": [
+        10270712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102705,
+      "GNKNDMNJKIM": [
+        10270501
+      ],
+      "BEJJGPNBKHF": [
+        10270511,
+        102705111
+      ],
+      "KCGMANMMABA": [
+        10270502
+      ],
+      "PJOOAHLPCKO": [
+        10270512,
+        102705111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102707,
+      "GNKNDMNJKIM": [
+        10270701
+      ],
+      "BEJJGPNBKHF": [
+        10270711
+      ],
+      "KCGMANMMABA": [
+        10270702
+      ],
+      "PJOOAHLPCKO": [
+        10270712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103405,
+      "GNKNDMNJKIM": [
+        10340501,
+        103405011
+      ],
+      "BEJJGPNBKHF": [
+        10340511,
+        103405111
+      ],
+      "KCGMANMMABA": [
+        10340502,
+        103405022
+      ],
+      "PJOOAHLPCKO": [
+        10340512,
+        103405122
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103407,
+      "GNKNDMNJKIM": [
+        10340701
+      ],
+      "BEJJGPNBKHF": [
+        10340711
+      ],
+      "KCGMANMMABA": [
+        10340702
+      ],
+      "PJOOAHLPCKO": [
+        10340712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105204,
+      "GNKNDMNJKIM": [
+        10520401
+      ],
+      "BEJJGPNBKHF": [
+        10520411
+      ],
+      "KCGMANMMABA": [
+        10520402
+      ],
+      "PJOOAHLPCKO": [
+        10520412
+      ],
+      "KBPINOCMHPM": [
+        10520403
+      ],
+      "FDLMPAPFHKP": [
+        10520413
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102105,
+      "GNKNDMNJKIM": [
+        10210501
+      ],
+      "BEJJGPNBKHF": [
+        10210511
+      ],
+      "KCGMANMMABA": [
+        10210502
+      ],
+      "PJOOAHLPCKO": [
+        10210512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102107,
+      "GNKNDMNJKIM": [
+        10210701
+      ],
+      "BEJJGPNBKHF": [
+        10210711,
+        102107111
+      ],
+      "KCGMANMMABA": [
+        10210702
+      ],
+      "PJOOAHLPCKO": [
+        10210712,
+        102107111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102405,
+      "GNKNDMNJKIM": [
+        10240501
+      ],
+      "BEJJGPNBKHF": [
+        10240511,
+        102405111
+      ],
+      "KCGMANMMABA": [
+        10240502
+      ],
+      "PJOOAHLPCKO": [
+        10240512,
+        102405111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102407,
+      "GNKNDMNJKIM": [
+        10240701,
+        102407011
+      ],
+      "BEJJGPNBKHF": [
+        10240711
+      ],
+      "KCGMANMMABA": [
+        10240702,
+        102407011
+      ],
+      "PJOOAHLPCKO": [
+        10240712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103605,
+      "GNKNDMNJKIM": [
+        10360501
+      ],
+      "BEJJGPNBKHF": [
+        10360511,
+        103605113
+      ],
+      "KCGMANMMABA": [
+        10360502
+      ],
+      "PJOOAHLPCKO": [
+        10360512,
+        103605123
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103607,
+      "GNKNDMNJKIM": [
+        10360701
+      ],
+      "BEJJGPNBKHF": [
+        10360711
+      ],
+      "KCGMANMMABA": [
+        10360702
+      ],
+      "PJOOAHLPCKO": [
+        10360712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103905,
+      "GNKNDMNJKIM": [
+        10390501
+      ],
+      "BEJJGPNBKHF": [
+        10390511,
+        103905111
+      ],
+      "KCGMANMMABA": [
+        10390502
+      ],
+      "PJOOAHLPCKO": [
+        10390512,
+        103905111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103907,
+      "GNKNDMNJKIM": [
+        10390701
+      ],
+      "BEJJGPNBKHF": [
+        10390711
+      ],
+      "KCGMANMMABA": [
+        10390702
+      ],
+      "PJOOAHLPCKO": [
+        10390712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105005,
+      "GNKNDMNJKIM": [
+        10500501
+      ],
+      "BEJJGPNBKHF": [
+        10500511,
+        105005111
+      ],
+      "KCGMANMMABA": [
+        10500502
+      ],
+      "PJOOAHLPCKO": [
+        10500512,
+        105005111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105007,
+      "GNKNDMNJKIM": [
+        10500701
+      ],
+      "BEJJGPNBKHF": [
+        10500711
+      ],
+      "KCGMANMMABA": [
+        10500702
+      ],
+      "PJOOAHLPCKO": [
+        10500712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102605,
+      "GNKNDMNJKIM": [
+        10260501,
+        102605011
+      ],
+      "BEJJGPNBKHF": [
+        10260511,
+        102605111,
+        102605011
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102607,
+      "GNKNDMNJKIM": [
+        10260701
+      ],
+      "BEJJGPNBKHF": [
+        10260711
+      ],
+      "KCGMANMMABA": [
+        10260702
+      ],
+      "PJOOAHLPCKO": [
+        10260712
+      ],
+      "KBPINOCMHPM": [
+        10260703
+      ],
+      "FDLMPAPFHKP": [
+        10260713
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103805,
+      "GNKNDMNJKIM": [
+        10380501
+      ],
+      "BEJJGPNBKHF": [
+        10380511
+      ],
+      "KCGMANMMABA": [
+        10380502
+      ],
+      "PJOOAHLPCKO": [
+        10380512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103807,
+      "GNKNDMNJKIM": [
+        10380701
+      ],
+      "BEJJGPNBKHF": [
+        10380711,
+        103807113,
+        1038071111
+      ],
+      "KCGMANMMABA": [
+        10380702
+      ],
+      "PJOOAHLPCKO": [
+        10380712,
+        103807113,
+        1038071111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104001,
+      "GNKNDMNJKIM": [
+        10400501
+      ],
+      "BEJJGPNBKHF": [
+        10400503,
+        104005012
+      ],
+      "KCGMANMMABA": [
+        10400502
+      ],
+      "PJOOAHLPCKO": [
+        10400504,
+        104005012
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104004,
+      "GNKNDMNJKIM": [
+        10400701
+      ],
+      "BEJJGPNBKHF": [
+        10400703,
+        104007012
+      ],
+      "KCGMANMMABA": [
+        10400702
+      ],
+      "PJOOAHLPCKO": [
+        10400704,
+        104007012
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104105,
+      "GNKNDMNJKIM": [
+        10410501
+      ],
+      "BEJJGPNBKHF": [
+        10410511
+      ],
+      "KCGMANMMABA": [
+        10410502
+      ],
+      "PJOOAHLPCKO": [
+        10410512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104107,
+      "GNKNDMNJKIM": [
+        10410701
+      ],
+      "BEJJGPNBKHF": [
+        10410711
+      ],
+      "KCGMANMMABA": [
+        10410702
+      ],
+      "PJOOAHLPCKO": [
+        10410712
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104507,
+      "GNKNDMNJKIM": [
+        10450701,
+        104507011
+      ],
+      "BEJJGPNBKHF": [
+        10450711,
+        104507111
+      ],
+      "KCGMANMMABA": [
+        10450702,
+        104507021
+      ],
+      "PJOOAHLPCKO": [
+        10450712,
+        104507121
+      ]
+    }
+  ]
+}

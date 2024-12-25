@@ -1,0 +1,460 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 20,
+      "GMDAINPGFJN": 6,
+      "IDNKKNMHNCL": 5,
+      "LFHGDLMCENE": [
+        1800
+      ],
+      "FDNDGODCGIC": {
+        "OBLDLILOOGO": [
+          170020,
+          170012,
+          170013,
+          170011,
+          200,
+          25,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          60,
+          800,
+          800,
+          800,
+          10,
+          20,
+          420
+        ]
+      },
+      "OIGOLDGCMMG": 3,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "3137"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_5"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "GMDAINPGFJN": 6,
+      "IDNKKNMHNCL": 4,
+      "LFHGDLMCENE": [
+        1500,
+        1799
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "6010"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_4"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "GMDAINPGFJN": 6,
+      "IDNKKNMHNCL": 3,
+      "LFHGDLMCENE": [
+        1000,
+        1499
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5855"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_3"
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "GMDAINPGFJN": 6,
+      "IDNKKNMHNCL": 2,
+      "LFHGDLMCENE": [
+        500,
+        999
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5626"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_2"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "GMDAINPGFJN": 6,
+      "IDNKKNMHNCL": 1,
+      "LFHGDLMCENE": [
+        0,
+        499
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5627"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_1"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "GMDAINPGFJN": 1,
+      "IDNKKNMHNCL": 3,
+      "LFHGDLMCENE": [
+        260
+      ],
+      "FDNDGODCGIC": {
+        "OBLDLILOOGO": [
+          170015,
+          170012,
+          200,
+          25,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          30,
+          200,
+          10,
+          20,
+          210
+        ]
+      },
+      "OIGOLDGCMMG": 3,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "3137"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_5"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "GMDAINPGFJN": 1,
+      "IDNKKNMHNCL": 2,
+      "LFHGDLMCENE": [
+        100,
+        259
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5626"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_2"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "GMDAINPGFJN": 1,
+      "IDNKKNMHNCL": 1,
+      "LFHGDLMCENE": [
+        0,
+        99
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5627"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_1"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "GMDAINPGFJN": 2,
+      "IDNKKNMHNCL": 3,
+      "LFHGDLMCENE": [
+        450
+      ],
+      "FDNDGODCGIC": {
+        "OBLDLILOOGO": [
+          170016,
+          170012,
+          170011,
+          200,
+          25,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          36,
+          300,
+          300,
+          10,
+          20,
+          250
+        ]
+      },
+      "OIGOLDGCMMG": 3,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "3137"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_5"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "GMDAINPGFJN": 2,
+      "IDNKKNMHNCL": 2,
+      "LFHGDLMCENE": [
+        100,
+        449
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5626"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_2"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "GMDAINPGFJN": 2,
+      "IDNKKNMHNCL": 1,
+      "LFHGDLMCENE": [
+        0,
+        99
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5627"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_1"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "GMDAINPGFJN": 3,
+      "IDNKKNMHNCL": 4,
+      "LFHGDLMCENE": [
+        700
+      ],
+      "FDNDGODCGIC": {
+        "OBLDLILOOGO": [
+          170017,
+          170012,
+          170013,
+          200,
+          25,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          42,
+          400,
+          300,
+          10,
+          20,
+          290
+        ]
+      },
+      "OIGOLDGCMMG": 3,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "3137"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_5"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "GMDAINPGFJN": 3,
+      "IDNKKNMHNCL": 3,
+      "LFHGDLMCENE": [
+        500,
+        699
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5855"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_3"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "GMDAINPGFJN": 3,
+      "IDNKKNMHNCL": 2,
+      "LFHGDLMCENE": [
+        200,
+        499
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5626"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_2"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "GMDAINPGFJN": 3,
+      "IDNKKNMHNCL": 1,
+      "LFHGDLMCENE": [
+        0,
+        199
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5627"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_1"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "GMDAINPGFJN": 4,
+      "IDNKKNMHNCL": 4,
+      "LFHGDLMCENE": [
+        900
+      ],
+      "FDNDGODCGIC": {
+        "OBLDLILOOGO": [
+          170018,
+          170012,
+          170011,
+          200,
+          25,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          48,
+          500,
+          500,
+          10,
+          20,
+          340
+        ]
+      },
+      "OIGOLDGCMMG": 3,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "3137"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_5"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "GMDAINPGFJN": 4,
+      "IDNKKNMHNCL": 3,
+      "LFHGDLMCENE": [
+        600,
+        899
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5855"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_3"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "GMDAINPGFJN": 4,
+      "IDNKKNMHNCL": 2,
+      "LFHGDLMCENE": [
+        200,
+        599
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5626"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_2"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "GMDAINPGFJN": 4,
+      "IDNKKNMHNCL": 1,
+      "LFHGDLMCENE": [
+        0,
+        199
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5627"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_1"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "GMDAINPGFJN": 5,
+      "IDNKKNMHNCL": 5,
+      "LFHGDLMCENE": [
+        1200
+      ],
+      "FDNDGODCGIC": {
+        "OBLDLILOOGO": [
+          170019,
+          170012,
+          170013,
+          200,
+          25,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          54,
+          600,
+          500,
+          10,
+          20,
+          380
+        ]
+      },
+      "OIGOLDGCMMG": 3,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "3137"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_5"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "GMDAINPGFJN": 5,
+      "IDNKKNMHNCL": 4,
+      "LFHGDLMCENE": [
+        1000,
+        1199
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "6010"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_4"
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "GMDAINPGFJN": 5,
+      "IDNKKNMHNCL": 3,
+      "LFHGDLMCENE": [
+        600,
+        999
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5855"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_3"
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "GMDAINPGFJN": 5,
+      "IDNKKNMHNCL": 2,
+      "LFHGDLMCENE": [
+        300,
+        599
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5626"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_2"
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "GMDAINPGFJN": 5,
+      "IDNKKNMHNCL": 1,
+      "LFHGDLMCENE": [
+        0,
+        299
+      ],
+      "FDNDGODCGIC": {},
+      "OIGOLDGCMMG": 1,
+      "IJCNPKBHCGD": {
+        "DOHLNDIPHAJ": "5627"
+      },
+      "EEDGHCFAHGF": "Darkzone/Icon_DarkzoneScore_Level_1"
+    }
+  ]
+}

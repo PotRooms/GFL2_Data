@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7983"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Current01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        10
+      ],
+      "PCNEKDOPKDM": 3
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7984"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Support01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        10
+      ],
+      "PCNEKDOPKDM": 3
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7985"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Defend01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        10
+      ],
+      "PCNEKDOPKDM": 3
+    },
+    {
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3241"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_None01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        9
+      ],
+      "PCNEKDOPKDM": 2
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3263"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Attack01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        4
+      ],
+      "PCNEKDOPKDM": 2
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6172"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Attack02",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        9
+      ],
+      "PCNEKDOPKDM": 2
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6173"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Critical01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        10
+      ],
+      "PCNEKDOPKDM": 3
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6174"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Current01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        4
+      ],
+      "PCNEKDOPKDM": 2
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6176"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Support01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        4
+      ],
+      "PCNEKDOPKDM": 2
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6968"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Defend01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        4
+      ],
+      "PCNEKDOPKDM": 2
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7374"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Attack01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        10
+      ],
+      "PCNEKDOPKDM": 3
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7490"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Attack02",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        10
+      ],
+      "PCNEKDOPKDM": 3
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7552"
+      },
+      "DBMGEGMGIEG": "WeaponPart_ModPower_Critical01",
+      "ALIPMEAJDHF": [
+        1,
+        2,
+        10
+      ],
+      "PCNEKDOPKDM": 3
+    }
+  ]
+}

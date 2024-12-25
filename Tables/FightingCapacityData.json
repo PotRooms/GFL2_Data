@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BKCIGACKEFD": 1,
+      "HBJAHCGKJJD": "pow",
+      "NKGEDIMKJHL": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BKCIGACKEFD": 1,
+      "HBJAHCGKJJD": "shield_armor",
+      "NKGEDIMKJHL": 0.6
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BKCIGACKEFD": 1,
+      "HBJAHCGKJJD": "max_hp",
+      "NKGEDIMKJHL": 0.8
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "crit",
+      "NKGEDIMKJHL": 0.0005
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "crit_mult",
+      "NKGEDIMKJHL": 0.001
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "skill_talent",
+      "NKGEDIMKJHL": 1
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "BKCIGACKEFD": 3,
+      "HBJAHCGKJJD": "scale_param",
+      "NKGEDIMKJHL": 1
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "skill_weapon_1",
+      "NKGEDIMKJHL": 1
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "grade_skill_1",
+      "NKGEDIMKJHL": 1
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "hit_damage",
+      "NKGEDIMKJHL": 0.001
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "behit_damage",
+      "NKGEDIMKJHL": 0.001
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "outround_dam",
+      "NKGEDIMKJHL": 0.0004
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "potential_dam",
+      "NKGEDIMKJHL": 0.0006
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "aoe_dam",
+      "NKGEDIMKJHL": 0.0008
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "single_dam",
+      "NKGEDIMKJHL": 0.0008
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "cd_dam",
+      "NKGEDIMKJHL": 0.0006
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "potential_behit_dam",
+      "NKGEDIMKJHL": 0.0004
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "aoe_behit_dam",
+      "NKGEDIMKJHL": 0.0006
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "single_behit_dam",
+      "NKGEDIMKJHL": 0.0008
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "cd_behit_dam",
+      "NKGEDIMKJHL": 0.0008
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "BKCIGACKEFD": 2,
+      "HBJAHCGKJJD": "outround_behit_dam",
+      "NKGEDIMKJHL": 0.0006
+    }
+  ]
+}

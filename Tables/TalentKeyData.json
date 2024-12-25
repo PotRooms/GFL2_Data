@@ -1,0 +1,4424 @@
+{
+  "data": [
+    {
+      "DLIBADLMFEG": 91010,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000047,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20631"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91011,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000050,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20069"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91012,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000053,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20071"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91013,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000056,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20073"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92001,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000025,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20632"
+      },
+      "FJPEBNKMJOJ": "攻击力提高<color=#f26c1c>2%</color>，最大生命值提高<color=#f26c1c>2%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 92002,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000020,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20633"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92003,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000027,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2433"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92004,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000030,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20042"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92005,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000033,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20044"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92006,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000036,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20634"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92007,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000039,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20635"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92008,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000042,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20062"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92009,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000045,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20064"
+      }
+    },
+    {
+      "DLIBADLMFEG": 201301,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10130901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2600"
+      },
+      "AKCOFHLALLO": [
+        1013
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201302,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10130905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2601"
+      },
+      "AKCOFHLALLO": [
+        1013
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 101305
+    },
+    {
+      "DLIBADLMFEG": 201303,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10130903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2602"
+      },
+      "AKCOFHLALLO": [
+        1013
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201304,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10130906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2603"
+      },
+      "AKCOFHLALLO": [
+        1013
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 101307
+    },
+    {
+      "DLIBADLMFEG": 201305,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10130902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2604"
+      },
+      "AKCOFHLALLO": [
+        1013
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201306,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10130904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2605"
+      },
+      "AKCOFHLALLO": [
+        1013
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204101,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10410901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10642"
+      },
+      "AKCOFHLALLO": [
+        1041
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204102,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10410902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10643"
+      },
+      "AKCOFHLALLO": [
+        1041
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204103,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10410903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10644"
+      },
+      "AKCOFHLALLO": [
+        1041
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204104,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10410904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10645"
+      },
+      "AKCOFHLALLO": [
+        1041
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204105,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10410905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10646"
+      },
+      "AKCOFHLALLO": [
+        1041
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 104105
+    },
+    {
+      "DLIBADLMFEG": 204106,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10410906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10647"
+      },
+      "AKCOFHLALLO": [
+        1041
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 104107
+    },
+    {
+      "DLIBADLMFEG": 901001,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000007,
+      "JCBLCGDHPHL": 10010907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2544"
+      },
+      "FJPEBNKMJOJ": "暴击提高<color=#f26c1c>4%</color>;若自身拥有燃烧类增益，则免疫<color=#3487e0>凝固</color>和<color=#3487e0>僵冷</color>，且造成伤害提高<color=#f26c1c>5%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901008,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000002,
+      "JCBLCGDHPHL": 10080907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2545"
+      },
+      "FJPEBNKMJOJ": "攻击力提高<color=#f26c1c>4%</color>;造成击杀时，若自身拥有<color=#3487e0>洞察</color>，则获得<color=#f26c1c>3格</color><color=#3487e0>移动追加</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901009,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000003,
+      "JCBLCGDHPHL": 10090907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2546"
+      },
+      "FJPEBNKMJOJ": "最大生命值提高<color=#f26c1c>4%</color>;主动单体治疗前，驱散目标身上随机<color=#f26c1c>1个</color>减益效果。"
+    },
+    {
+      "DLIBADLMFEG": 921017,
+      "EBPAMEEKJEK": 3,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "20601"
+      },
+      "JCBLCGDHPHL": 10170908,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2568"
+      },
+      "AKCOFHLALLO": [
+        1017
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202301,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10230901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20675"
+      },
+      "AKCOFHLALLO": [
+        1023
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102305
+    },
+    {
+      "DLIBADLMFEG": 202302,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10230902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20676"
+      },
+      "AKCOFHLALLO": [
+        1023
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202303,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10230903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20677"
+      },
+      "AKCOFHLALLO": [
+        1023
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202304,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10230904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20678"
+      },
+      "AKCOFHLALLO": [
+        1023
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102307
+    },
+    {
+      "DLIBADLMFEG": 202305,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10230905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20679"
+      },
+      "AKCOFHLALLO": [
+        1023
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202306,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10230906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20680"
+      },
+      "AKCOFHLALLO": [
+        1023
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203401,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10340901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20623"
+      },
+      "AKCOFHLALLO": [
+        1034
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103405
+    },
+    {
+      "DLIBADLMFEG": 203402,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10340902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20624"
+      },
+      "AKCOFHLALLO": [
+        1034
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203403,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10340903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20625"
+      },
+      "AKCOFHLALLO": [
+        1034
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103407
+    },
+    {
+      "DLIBADLMFEG": 203404,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10340904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20626"
+      },
+      "AKCOFHLALLO": [
+        1034
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203405,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10340905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20627"
+      },
+      "AKCOFHLALLO": [
+        1034
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203406,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10340906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20628"
+      },
+      "AKCOFHLALLO": [
+        1034
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204501,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10450901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20663"
+      },
+      "AKCOFHLALLO": [
+        1045
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204502,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10450902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20664"
+      },
+      "AKCOFHLALLO": [
+        1045
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204503,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10450903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20665"
+      },
+      "AKCOFHLALLO": [
+        1045
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204504,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10450904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20666"
+      },
+      "AKCOFHLALLO": [
+        1045
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 104507
+    },
+    {
+      "DLIBADLMFEG": 204505,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10450905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20667"
+      },
+      "AKCOFHLALLO": [
+        1045
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204506,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10450906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20668"
+      },
+      "AKCOFHLALLO": [
+        1045
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 91001,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000016,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2431"
+      },
+      "FJPEBNKMJOJ": "攻击力提高<color=#f26c1c>4%</color>，暴击提高<color=#f26c1c>4%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 91002,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000019,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2432"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91003,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000026,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20653"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91004,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000029,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2434"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91005,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000032,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2435"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91006,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000035,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2436"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91007,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000038,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2437"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91008,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000041,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2438"
+      }
+    },
+    {
+      "DLIBADLMFEG": 91009,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000044,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2439"
+      }
+    },
+    {
+      "DLIBADLMFEG": 202201,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10220901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "11044"
+      },
+      "FJPEBNKMJOJ": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1022
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202202,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10220904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "11045"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>滚烫音浪</color>若造成击杀，则获得<color=#3487e0>聚焦</color>。",
+      "AKCOFHLALLO": [
+        1022
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202203,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10220902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "11046"
+      },
+      "FJPEBNKMJOJ": "行动开始时，若场上有敌方单位拥有持续伤害效果的燃烧类减益，则自身获得<color=#3487e0>火热攻势II</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>火热攻势II</color> ：攻击力提高<color=#f26c1c>15%</color>。燃烧类增益。",
+      "AKCOFHLALLO": [
+        1022
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202204,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10220906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "11047"
+      },
+      "FJPEBNKMJOJ": "每拥有<color=#f26c1c>1个</color>增益效果，暴击伤害提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>5层</color>。",
+      "AKCOFHLALLO": [
+        1022
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102207
+    },
+    {
+      "DLIBADLMFEG": 202205,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10220905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "11048"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>完美升调</color>造成的伤害修改为<color=#e67129>燃烧伤害</color>。",
+      "AKCOFHLALLO": [
+        1022
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102205
+    },
+    {
+      "DLIBADLMFEG": 202206,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10220903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "11049"
+      },
+      "FJPEBNKMJOJ": "攻击拥有燃烧类减益的目标后，恢复自身生命值上限<color=#f26c1c>20%</color>的生命值。",
+      "AKCOFHLALLO": [
+        1022
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202601,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10260901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20657"
+      },
+      "FJPEBNKMJOJ": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1026
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202602,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10260902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20658"
+      },
+      "FJPEBNKMJOJ": "若攻击拥有防御类减益效果的敌方目标，则自身所有主动技能的冷却时间减少<color=#f26c1c>1回合</color>。",
+      "AKCOFHLALLO": [
+        1026
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202603,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10260903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20659"
+      },
+      "FJPEBNKMJOJ": "若被拥有减益的敌方目标攻击，则受到的伤害降低<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1026
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202604,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10260906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20660"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>正义的伙伴</color>时，若攻击<color=#f26c1c>2次</color>，则第一次造成<color=#f26c1c>10%</color>，第二次造成<color=#f26c1c>130%</color>攻击力的物理伤害。",
+      "AKCOFHLALLO": [
+        1026
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102607
+    },
+    {
+      "DLIBADLMFEG": 202605,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10260904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20661"
+      },
+      "FJPEBNKMJOJ": "若攻击拥有防御类减益效果的敌方目标，则自身的暴击率和暴击伤害提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1026
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202606,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10260905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20662"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>前辈的劝诫</color>时，若造成敌方目标稳态崩溃，则对其追加一次<color=#f26c1c>50%</color>攻击力的固定伤害。",
+      "AKCOFHLALLO": [
+        1026
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102605
+    },
+    {
+      "DLIBADLMFEG": 202901,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10290902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12446"
+      },
+      "FJPEBNKMJOJ": "受到攻击时，防御力提高，提高量为自身攻击力的<color=#f26c1c>15%</color>。",
+      "AKCOFHLALLO": [
+        1029
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202902,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10290904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12447"
+      },
+      "FJPEBNKMJOJ": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1029
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202903,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10290901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12448"
+      },
+      "FJPEBNKMJOJ": "在浊刻地格上时，获得<color=#3487e0>温水煮一切</color>。\n<color=#3487e0>温水煮一切</color>：防御力提高<color=#f26c1c>30%</color>，免疫敌方目标的位移效果和所有浊刻类异常地面效果，不可驱散。",
+      "AKCOFHLALLO": [
+        1029
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202904,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10290903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12449"
+      },
+      "FJPEBNKMJOJ": "每获得<color=#f26c1c>1点</color>导染指数，恢复<color=#f26c1c>2点</color>稳态指数。",
+      "AKCOFHLALLO": [
+        1029
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202905,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10290905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12450"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>美味盛宴</color>的作用范围改为<color=#f26c1c>单格</color>，造成伤害提高到攻击力的<color=#f26c1c>120%</color>。",
+      "AKCOFHLALLO": [
+        1029
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102905
+    },
+    {
+      "DLIBADLMFEG": 202906,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10290906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12451"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>饭前准备</color>作用范围修改为<color=#f26c1c>自身周围半径5格</color>范围，不再施加<color=#3487e0>移动降低Ⅱ</color>，对至多<color=#f26c1c>2个</color>敌人施加<color=#3487e0>嘲讽</color>效果，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>嘲讽</color>：无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。",
+      "AKCOFHLALLO": [
+        1029
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102907
+    },
+    {
+      "DLIBADLMFEG": 203801,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10380901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20608"
+      },
+      "FJPEBNKMJOJ": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1038
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203802,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10380902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20609"
+      },
+      "FJPEBNKMJOJ": "每造成<color=#f26c1c>3次</color>伤害，获得<color=#f26c1c>1点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1038
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203803,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10380903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20610"
+      },
+      "FJPEBNKMJOJ": "若产生克制，则对目标施加<color=#f26c1c>1个</color>减益效果，持续<color=#f26c1c>2回合</color>。",
+      "AKCOFHLALLO": [
+        1038
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203804,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10380904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20611"
+      },
+      "FJPEBNKMJOJ": "若目标拥有防御类减益，则暴击率提高<color=#f26c1c>15%</color>。",
+      "AKCOFHLALLO": [
+        1038
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203805,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10380905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20612"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>绝佳时机</color>时，额外对目标施加<color=#3487e0>攻击降低Ⅰ</color>，持续<color=#f26c1c>2回合</color>。\n<color=#3487e0>攻击降低Ⅰ</color>：攻击力降低<color=#f26c1c>10%</color>。减益效果。",
+      "AKCOFHLALLO": [
+        1038
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103805
+    },
+    {
+      "DLIBADLMFEG": 203806,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10380906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20613"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>可靠的掩护</color>时，造成燃烧伤害，不再施加<color=#3487e0>防御降低Ⅱ</color>。\n<color=#3487e0>防御降低Ⅱ</color>：防御力降低<color=#f26c1c>20%</color>。减益效果。",
+      "AKCOFHLALLO": [
+        1038
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103807
+    },
+    {
+      "DLIBADLMFEG": 93001,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000024,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10688"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93002,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000028,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10689"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93003,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000031,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10690"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93004,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000034,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10691"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93005,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000037,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10692"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93006,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000040,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10693"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93007,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000043,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10694"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93008,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000046,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10695"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93009,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000049,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10696"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93010,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000052,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20654"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93011,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000055,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20655"
+      }
+    },
+    {
+      "DLIBADLMFEG": 93012,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000058,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20656"
+      }
+    },
+    {
+      "DLIBADLMFEG": 201501,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10150902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20641"
+      },
+      "FJPEBNKMJOJ": "对拥有移动降低的敌方目标造成的伤害提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1015
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201502,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10150905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20642"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>全力演出</color>的范围修改为<color=#f26c1c>5×3格</color>，击退格数修改为<color=#f26c1c>1格</color>。",
+      "AKCOFHLALLO": [
+        1015
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 101505
+    },
+    {
+      "DLIBADLMFEG": 201503,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10150901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20643"
+      },
+      "FJPEBNKMJOJ": "若自身<color=#f26c1c>周围半径6格内</color>没有友方单位，则行动结束时获得<color=#f26c1c>1层</color><color=#3487e0>速效屏障</color>。\n<color=#3487e0>速效屏障</color>：受到的精准伤害降低<color=#f26c1c>60%</color>，生效<color=#f26c1c>1次</color>。",
+      "AKCOFHLALLO": [
+        1015
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201504,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10150906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20644"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>专属舞台</color>对拥有移动降低的目标施加<color=#3487e0>诱导</color>效果，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>诱导</color>：无法操控，主动向状态施加者靠近。",
+      "AKCOFHLALLO": [
+        1015
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 101507
+    },
+    {
+      "DLIBADLMFEG": 201505,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10150904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20645"
+      },
+      "FJPEBNKMJOJ": "若自身<color=#f26c1c>周围半径1格内</color>存在掩体，获得<color=#3487e0>抗压能力特训</color>。\n<color=#3487e0>抗压能力特训</color>：受到的范围伤害降低<color=#f26c1c>20%</color>，不可驱散。",
+      "AKCOFHLALLO": [
+        1015
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201506,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10150903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20646"
+      },
+      "FJPEBNKMJOJ": "对大型目标施加移动降低效果时，追加<color=#f26c1c>1次</color><color=#f26c1c>15%</color>攻击力的固定伤害。",
+      "AKCOFHLALLO": [
+        1015
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204001,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10400901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "5969"
+      },
+      "AKCOFHLALLO": [
+        1040
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 104001
+    },
+    {
+      "DLIBADLMFEG": 204002,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10400902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7380"
+      },
+      "AKCOFHLALLO": [
+        1040
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204003,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10400903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7948"
+      },
+      "AKCOFHLALLO": [
+        1040
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204004,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10400904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7949"
+      },
+      "AKCOFHLALLO": [
+        1040
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 104004
+    },
+    {
+      "DLIBADLMFEG": 204005,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10400905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7950"
+      },
+      "AKCOFHLALLO": [
+        1040
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204006,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10400906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7951"
+      },
+      "AKCOFHLALLO": [
+        1040
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 901032,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000010,
+      "JCBLCGDHPHL": 10320907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10538"
+      },
+      "FJPEBNKMJOJ": "暴击提高<color=#f26c1c>5%</color>;回合开始时，获得<color=#3487e0>移动提升Ⅰ</color>，持续<color=#f26c1c>1回合</color>。每<color=#f26c1c>2回合</color>触发<color=#f26c1c>1次</color>。\n<color=#3487e0>移动提升Ⅰ</color>：行动力提高<color=#f26c1c>1格</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901033,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000015,
+      "JCBLCGDHPHL": 10330907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10539"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901034,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000022,
+      "JCBLCGDHPHL": 10340907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10540"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901035,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000023,
+      "JCBLCGDHPHL": 10350907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10541"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901036,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000017,
+      "JCBLCGDHPHL": 10360907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10542"
+      },
+      "FJPEBNKMJOJ": "施加燃烧类增益时，50%概率给予一个随机基础增益，持续一回合"
+    },
+    {
+      "DLIBADLMFEG": 901037,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001001,
+      "JCBLCGDHPHL": 10370907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10543"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901038,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000018,
+      "JCBLCGDHPHL": 10380907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10544"
+      },
+      "FJPEBNKMJOJ": "对拥有防御类减益的目标，造成伤害提高<color=#f26c1c>7%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901039,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001003,
+      "JCBLCGDHPHL": 10390907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10545"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911040,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200003,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2409"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911041,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200026,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2411"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911044,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200029,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2412"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911045,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200030,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2413"
+      }
+    },
+    {
+      "DLIBADLMFEG": 200101,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10010901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2550"
+      },
+      "FJPEBNKMJOJ": "若自身<color=#f26c1c>周围半径3格内</color>不存在友方单位，则获得<color=#3487e0>炽热的怒火</color>。\n<color=#3487e0>炽热的怒火</color>：造成伤害提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1001
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 100104
+    },
+    {
+      "DLIBADLMFEG": 200102,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10010905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2551"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>粉碎回旋</color>若命中拥有燃烧类减益的目标，即可获得<color=#3487e0>移动追加</color>。",
+      "AKCOFHLALLO": [
+        1001
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 100105
+    },
+    {
+      "DLIBADLMFEG": 200103,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10010904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2552"
+      },
+      "FJPEBNKMJOJ": "<color=#3487e0>杀戮序列</color>需要的导染指数减少<color=#f26c1c>1点</color>。",
+      "AKCOFHLALLO": [
+        1001
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200104,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10010906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2553"
+      },
+      "FJPEBNKMJOJ": "若使用主动技能<color=#3487e0>淬火斩</color>造成击杀，则此技能冷却时间减少<color=#f26c1c>2回合</color>。",
+      "AKCOFHLALLO": [
+        1001
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 100107
+    },
+    {
+      "DLIBADLMFEG": 200105,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10010902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2554"
+      },
+      "FJPEBNKMJOJ": "回合开始时，若场上存在拥有燃烧类减益的敌方单位，则获得<color=#3487e0>火热攻势II</color>，持续<color=#f26c1c>2回合</color>。\n<color=#3487e0>火热攻势II</color>：攻击力提高<color=#f26c1c>15%</color>。燃烧类增益。",
+      "AKCOFHLALLO": [
+        1001
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200106,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10010903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2555"
+      },
+      "FJPEBNKMJOJ": "造成伤害前，若移动了<color=#f26c1c>3格</color>以上，则自身暴击率提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1001
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202101,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10210902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12179"
+      },
+      "FJPEBNKMJOJ": "每造成<color=#f26c1c>10点</color>稳态伤害，获得<color=#f26c1c>1点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1021
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202102,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10210904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12180"
+      },
+      "FJPEBNKMJOJ": "技能仅命中1个目标时，造成伤害提高<color=#f26c1c>15%</color>。",
+      "AKCOFHLALLO": [
+        1021
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202103,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10210903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12181"
+      },
+      "FJPEBNKMJOJ": "攻击前若未进行移动，则驱散自身<color=#f26c1c>2个</color>减益效果。",
+      "AKCOFHLALLO": [
+        1021
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202104,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10210906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12182"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>领域压制</color>对无法被位移的目标，造成伤害提高<color=#f26c1c>15%</color>。",
+      "AKCOFHLALLO": [
+        1021
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102107
+    },
+    {
+      "DLIBADLMFEG": 202105,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10210901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12183"
+      },
+      "FJPEBNKMJOJ": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1021
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202106,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10210905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12184"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>定点侵蚀</color>生效范围修改为<color=#f26c1c>单格</color>，造成伤害提高至攻击力的<color=#f26c1c>120%</color>。",
+      "AKCOFHLALLO": [
+        1021
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102105
+    },
+    {
+      "DLIBADLMFEG": 202701,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10270902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20636"
+      },
+      "FJPEBNKMJOJ": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1027
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202702,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10270904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20129"
+      },
+      "FJPEBNKMJOJ": "处于支援状态时，造成伤害提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1027
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202703,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10270903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20637"
+      },
+      "FJPEBNKMJOJ": "处于支援状态时，攻击前对目标施加<color=#3487e0>防御降低II</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>防御降低II</color>：防御力降低<color=#f26c1c>20%</color>。",
+      "AKCOFHLALLO": [
+        1027
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202704,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10270906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20638"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>胜利指引</color>效果修改为对所选方向<color=#f26c1c>9格</color>内的所有敌方目标造成伤害，第一个目标外的敌方目标受到伤害降低<color=#f26c1c>30%</color>。",
+      "AKCOFHLALLO": [
+        1027
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102707
+    },
+    {
+      "DLIBADLMFEG": 202705,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10270905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20639"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>共轨</color>时，若克制异位弱点，则获得<color=#3487e0>火热攻势II</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>火热攻势II</color>：攻击力提高<color=#f26c1c>15%</color>。燃烧类增益。",
+      "AKCOFHLALLO": [
+        1027
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102705
+    },
+    {
+      "DLIBADLMFEG": 202706,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10270901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20640"
+      },
+      "FJPEBNKMJOJ": "处于支援状态时，免疫敌方单位施加的位移效果。",
+      "AKCOFHLALLO": [
+        1027
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203201,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10320901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2578"
+      },
+      "FJPEBNKMJOJ": "拥有<color=#f26c1c>3层</color>及以上<color=#3487e0>校音</color>时，行动力增加<color=#f26c1c>1格</color>。\n<color=#3487e0>校音</color>：暴击率提高<color=#f26c1c>3%</color>，暴击伤害提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>10层</color>。增益不可驱散。",
+      "AKCOFHLALLO": [
+        1032
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203202,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10320902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2579"
+      },
+      "FJPEBNKMJOJ": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1032
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203203,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10320903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2580"
+      },
+      "FJPEBNKMJOJ": "行动开始时，每拥有<color=#f26c1c>1点</color>额外的行动力，暴击率提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1032
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203204,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10320904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2581"
+      },
+      "FJPEBNKMJOJ": "若自身行动力比目标高，则造成伤害前获得<color=#f26c1c>1层</color><color=#3487e0>校音</color>。\n<color=#3487e0>校音</color>：暴击率提高<color=#f26c1c>3%</color>，暴击伤害提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>10层</color>。增益不可驱散。",
+      "AKCOFHLALLO": [
+        1032
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203205,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10320905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2582"
+      },
+      "FJPEBNKMJOJ": "每拥有<color=#f26c1c>3层</color><color=#3487e0>校音</color>，使用主动技能<color=#3487e0>绝调金声</color>时，额外驱散<color=#f26c1c>1个</color>增益效果。\n<color=#3487e0>校音</color>：暴击率提高<color=#f26c1c>3%</color>，暴击伤害提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>10层</color>。增益不可驱散。",
+      "AKCOFHLALLO": [
+        1032
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103205
+    },
+    {
+      "DLIBADLMFEG": 203206,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10320906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2583"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>清商和鸣</color>后，若本回合造成击杀，恢复自身<color=#f26c1c>20%</color>的生命值及<color=#f26c1c>2点</color>稳态指数。",
+      "AKCOFHLALLO": [
+        1032
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103207
+    },
+    {
+      "DLIBADLMFEG": 204401,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10440901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10767"
+      },
+      "AKCOFHLALLO": [
+        1044
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 104405
+    },
+    {
+      "DLIBADLMFEG": 204402,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10440902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10768"
+      },
+      "AKCOFHLALLO": [
+        1044
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204403,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10440903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10769"
+      },
+      "AKCOFHLALLO": [
+        1044
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204404,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10440904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10770"
+      },
+      "AKCOFHLALLO": [
+        1044
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204405,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10440905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10771"
+      },
+      "AKCOFHLALLO": [
+        1044
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 204406,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10440906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10772"
+      },
+      "AKCOFHLALLO": [
+        1044
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205001,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10500901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20614"
+      },
+      "AKCOFHLALLO": [
+        1050
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205002,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10500902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20615"
+      },
+      "AKCOFHLALLO": [
+        1050
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 105005
+    },
+    {
+      "DLIBADLMFEG": 205003,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10500903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20616"
+      },
+      "AKCOFHLALLO": [
+        1050
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205004,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10500904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20617"
+      },
+      "AKCOFHLALLO": [
+        1050
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 105007
+    },
+    {
+      "DLIBADLMFEG": 205005,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10500905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20618"
+      },
+      "AKCOFHLALLO": [
+        1050
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205006,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10500906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20619"
+      },
+      "AKCOFHLALLO": [
+        1050
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 901021,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000011,
+      "JCBLCGDHPHL": 10210907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "13671"
+      },
+      "FJPEBNKMJOJ": "暴击提高<color=#f26c1c>5%</color>;主动技能若命中<color=#f26c1c>2个</color>以上敌方目标，则造成伤害提高<color=#f26c1c>7%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901022,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000012,
+      "JCBLCGDHPHL": 10220907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "17867"
+      },
+      "FJPEBNKMJOJ": "暴击提高<color=#f26c1c>4%</color>;若自身拥有的增益效果大于<color=#f26c1c>1个</color>，则造成伤害提高<color=#f26c1c>7%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901023,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001004,
+      "JCBLCGDHPHL": 10230907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20323"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901024,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000013,
+      "JCBLCGDHPHL": 10240907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20324"
+      },
+      "FJPEBNKMJOJ": "最大生命值提高<color=#f26c1c>4%</color>;主动治疗时，有<color=#f26c1c>50%</color>概率对目标随机施加<color=#f26c1c>1个</color>增益效果，持续<color=#f26c1c>1回合</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901025,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000005,
+      "JCBLCGDHPHL": 10250907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20325"
+      },
+      "FJPEBNKMJOJ": "攻击力提高<color=#f26c1c>5%</color>;导染指数不满时，则造成伤害提高<color=#f26c1c>7%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901026,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000004,
+      "JCBLCGDHPHL": 10260907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20326"
+      },
+      "FJPEBNKMJOJ": "攻击力提高<color=#f26c1c>4%</color>;若目标的稳态指数低于自身，则对其造成伤害提高<color=#f26c1c>7%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901027,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000006,
+      "JCBLCGDHPHL": 10270907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20327"
+      },
+      "FJPEBNKMJOJ": "暴击提高<color=#f26c1c>5%</color>;自身行动回合外造成伤害提高<color=#f26c1c>7%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901028,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000008,
+      "JCBLCGDHPHL": 10280907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20328"
+      },
+      "FJPEBNKMJOJ": "最大生命值提高<color=#f26c1c>5%</color>;行动结束时，随机为1个没有热态回复的友方单位施加热态回复。每<color=#f26c1c>3回合</color>触发<color=#f26c1c>1次</color>。\n热态回复：被攻击前，恢复施加者<color=#f26c1c>30%</color>攻击力的生命值，<color=#f26c1c>2点</color>稳态指数，并随机驱散攻击者的<color=#f26c1c>1个</color>增益效果，生效<color=#f26c1c>1次</color>。燃烧类增益。不可驱散。"
+    },
+    {
+      "DLIBADLMFEG": 901029,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000009,
+      "JCBLCGDHPHL": 10290907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20600"
+      },
+      "FJPEBNKMJOJ": "防御力提高<color=#f26c1c>5%</color>;造成精准伤害时，对目标施加<color=#3487e0>移动降低Ⅱ</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>移动降低Ⅱ</color>：行动力降低<color=#f26c1c>2格</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901050,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001005,
+      "JCBLCGDHPHL": 10500907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10816"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901051,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001008,
+      "JCBLCGDHPHL": 10510907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10817"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901052,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001007,
+      "JCBLCGDHPHL": 10520907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10818"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911013,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200009,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20681"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911015,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200006,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20682"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911017,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200018,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20683"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911050,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200002,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10483"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911051,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200028,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10484"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911052,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200001,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10485"
+      }
+    },
+    {
+      "DLIBADLMFEG": 10000,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "7952"
+      },
+      "JCBLCGDHPHL": 10000002,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7953"
+      },
+      "FJPEBNKMJOJ": "稳态指数大于0时，受到掩体保护。",
+      "AKCOFHLALLO": [
+        1001,
+        1008,
+        1009,
+        1015,
+        1017,
+        1022,
+        1023,
+        1013,
+        1021,
+        1024,
+        1025
+      ]
+    },
+    {
+      "DLIBADLMFEG": 200801,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10080903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12151"
+      },
+      "FJPEBNKMJOJ": "攻击拥有<color=#3487e0>悼亡预言</color>标记的目标时，造成伤害提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1008
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200802,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10080905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12152"
+      },
+      "FJPEBNKMJOJ": "拥有<color=#3487e0>洞察</color>时，主动技能<color=#3487e0>启星</color>的射程增加<color=#f26c1c>1格</color>。",
+      "AKCOFHLALLO": [
+        1008
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200803,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10080904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12153"
+      },
+      "FJPEBNKMJOJ": "拥有<color=#3487e0>洞察</color>时，若自身附近存在掩体，则获得<color=#3487e0>好运的呼唤</color>。\n<color=#3487e0>好运的呼唤</color>：受到的范围伤害降低<color=#f26c1c>20%</color>。",
+      "AKCOFHLALLO": [
+        1008
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200804,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10080906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12154"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>隧穿之匣</color>中拥有<color=#3487e0>悼亡预言</color>标记的目标被攻击时，纳美西丝获得<color=#f26c1c>1点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1008
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200805,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10080901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12155"
+      },
+      "FJPEBNKMJOJ": "击杀敌方目标后，获得<color=#f26c1c>1点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1008
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200806,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10080902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12156"
+      },
+      "FJPEBNKMJOJ": "拥有<color=#3487e0>洞察</color>时，免疫敌方单位施加的位移效果。",
+      "AKCOFHLALLO": [
+        1008
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200901,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10090905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20669"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>危情救护</color>对拥有<color=#3487e0>掩护</color>的目标，治疗效果提高<color=#f26c1c>30%</color>。",
+      "AKCOFHLALLO": [
+        1009
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 100905
+    },
+    {
+      "DLIBADLMFEG": 200902,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10090901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20670"
+      },
+      "FJPEBNKMJOJ": "若友方目标被攻击后陷入稳态崩溃，则自身获得<color=#3487e0>移动提升Ⅱ</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>移动提升Ⅱ</color>：行动力提高<color=#f26c1c>2格</color>。",
+      "AKCOFHLALLO": [
+        1009
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200903,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10090906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20671"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>战场微芒</color>效果增加，同时为自身<color=#f26c1c>周围半径3格内</color>的友方目标恢复生命值。",
+      "AKCOFHLALLO": [
+        1009
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 100907
+    },
+    {
+      "DLIBADLMFEG": 200904,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10090902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20672"
+      },
+      "FJPEBNKMJOJ": "自身生命值高于<color=#f26c1c>80%</color>时，获得<color=#3487e0>战斗医疗兵</color>。\n<color=#3487e0>战斗医疗兵</color>：攻击力提高<color=#f26c1c>10%</color>，不可驱散。",
+      "AKCOFHLALLO": [
+        1009
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200905,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10090903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20673"
+      },
+      "FJPEBNKMJOJ": "治疗后，随机为目标驱散<color=#f26c1c>1个</color>减益效果。",
+      "AKCOFHLALLO": [
+        1009
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 200906,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10090904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20674"
+      },
+      "FJPEBNKMJOJ": "主动治疗时，若目标生命值低于<color=#f26c1c>50%</color>，则此次治疗效果提高<color=#f26c1c>20%</color>。",
+      "AKCOFHLALLO": [
+        1009
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201701,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10170902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10668"
+      },
+      "FJPEBNKMJOJ": "自身拥有<color=#3487e0>掩护</color>时，受到的范围伤害降低<color=#f26c1c>20%</color>。",
+      "AKCOFHLALLO": [
+        1017
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201702,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10170906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10669"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>完美掩护</color>时，若友方目标已拥有<color=#3487e0>掩护</color>，则为其施加<color=#3487e0>攻击提升I</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>攻击提升I</color>：攻击力提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1017
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 101707
+    },
+    {
+      "DLIBADLMFEG": 201703,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10170903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10670"
+      },
+      "FJPEBNKMJOJ": "自身生命值低于<color=#f26c1c>30%</color>时，受到的治疗效果提高<color=#f26c1c>50%</color>。",
+      "AKCOFHLALLO": [
+        1017
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201704,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10170905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10671"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>强力压制</color>，造成敌方目标稳态崩溃时，对目标施加<color=#3487e0>嘲讽</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>嘲讽</color>：无法控制，强制使用普通攻击对状态施加者进行攻击，施加者死亡时消除。",
+      "AKCOFHLALLO": [
+        1017
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 101705
+    },
+    {
+      "DLIBADLMFEG": 201705,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10170901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10672"
+      },
+      "FJPEBNKMJOJ": "攻击拥有移动降低效果的目标时，造成伤害提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1017
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 201706,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10170904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10673"
+      },
+      "FJPEBNKMJOJ": "稳态崩溃时，恢复自身最大生命值的<color=#f26c1c>20%</color>，<color=#f26c1c>5点</color>稳态指数，同时驱散自身<color=#f26c1c>4个</color>减益效果，每场战斗至多触发<color=#f26c1c>1次</color>。",
+      "AKCOFHLALLO": [
+        1017
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203301,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10330901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7954"
+      },
+      "AKCOFHLALLO": [
+        1033
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203302,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10330905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7955"
+      },
+      "AKCOFHLALLO": [
+        1033
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103305
+    },
+    {
+      "DLIBADLMFEG": 203303,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10330902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7956"
+      },
+      "AKCOFHLALLO": [
+        1033
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203304,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10330906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7957"
+      },
+      "AKCOFHLALLO": [
+        1033
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103307
+    },
+    {
+      "DLIBADLMFEG": 203305,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10330903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7958"
+      },
+      "AKCOFHLALLO": [
+        1033
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203306,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10330904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7959"
+      },
+      "AKCOFHLALLO": [
+        1033
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203601,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10360901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7960"
+      },
+      "AKCOFHLALLO": [
+        1036
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203602,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10360905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7961"
+      },
+      "AKCOFHLALLO": [
+        1036
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103605
+    },
+    {
+      "DLIBADLMFEG": 203603,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10360902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7962"
+      },
+      "AKCOFHLALLO": [
+        1036
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203604,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10360906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7963"
+      },
+      "AKCOFHLALLO": [
+        1036
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103607
+    },
+    {
+      "DLIBADLMFEG": 203605,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10360903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7964"
+      },
+      "AKCOFHLALLO": [
+        1036
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203606,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10360904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7965"
+      },
+      "AKCOFHLALLO": [
+        1036
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203901,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10390901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10636"
+      },
+      "AKCOFHLALLO": [
+        1039
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103905
+    },
+    {
+      "DLIBADLMFEG": 203902,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10390902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10637"
+      },
+      "AKCOFHLALLO": [
+        1039
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203903,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10390903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10638"
+      },
+      "AKCOFHLALLO": [
+        1039
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103907
+    },
+    {
+      "DLIBADLMFEG": 203904,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10390904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10639"
+      },
+      "AKCOFHLALLO": [
+        1039
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203905,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10390905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10640"
+      },
+      "AKCOFHLALLO": [
+        1039
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203906,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10390906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10641"
+      },
+      "AKCOFHLALLO": [
+        1039
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 901013,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000021,
+      "JCBLCGDHPHL": 10130907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10862"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901015,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000014,
+      "JCBLCGDHPHL": 10150907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10863"
+      },
+      "FJPEBNKMJOJ": "攻击力提高<color=#f26c1c>5%</color>;若行动力大于等于目标，则造成伤害提高<color=#f26c1c>7%</color>。"
+    },
+    {
+      "DLIBADLMFEG": 901017,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000001,
+      "JCBLCGDHPHL": 10170907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10864"
+      },
+      "FJPEBNKMJOJ": "最大生命值提高<color=#f26c1c>4%</color>;拥有<color=#3487e0>掩护</color>时，免疫<color=#f26c1c>1次</color>位移，每<color=#f26c1c>2回合</color>触发<color=#f26c1c>1次</color>。"
+    },
+    {
+      "DLIBADLMFEG": 911032,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200007,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20684"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911033,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200016,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20685"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911034,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200011,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20686"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911035,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200010,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20687"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911036,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200024,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20688"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911037,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200012,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20689"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911038,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200027,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20690"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911039,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200013,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20691"
+      }
+    },
+    {
+      "DLIBADLMFEG": 921026,
+      "EBPAMEEKJEK": 3,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "20601"
+      },
+      "JCBLCGDHPHL": 10260908,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20629"
+      },
+      "AKCOFHLALLO": [
+        1026
+      ]
+    },
+    {
+      "DLIBADLMFEG": 921027,
+      "EBPAMEEKJEK": 3,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "20601"
+      },
+      "JCBLCGDHPHL": 10270908,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20630"
+      },
+      "AKCOFHLALLO": [
+        1027
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202501,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10250904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20647"
+      },
+      "FJPEBNKMJOJ": "行动追加时，驱散自身<color=#f26c1c>2个</color>减益效果。",
+      "AKCOFHLALLO": [
+        1025
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202502,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10250905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20648"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>黑洞反演</color>时，若目标未受到掩体保护，则无视其<color=#f26c1c>20%</color>防御力。",
+      "AKCOFHLALLO": [
+        1025
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102505
+    },
+    {
+      "DLIBADLMFEG": 202503,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10250903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20649"
+      },
+      "FJPEBNKMJOJ": "行动追加时，获得<color=#3487e0>攻击提升Ⅱ</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>攻击提升Ⅱ</color>：攻击力提高<color=#f26c1c>15%</color>。",
+      "AKCOFHLALLO": [
+        1025
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202504,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10250906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20650"
+      },
+      "FJPEBNKMJOJ": "使用主动技能<color=#3487e0>超新星冲击</color>时，若目标生命值或稳态指数低于<color=#f26c1c>100%</color>，则此次攻击造成<color=#2caadb>浊刻伤害</color>。",
+      "AKCOFHLALLO": [
+        1025
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102507
+    },
+    {
+      "DLIBADLMFEG": 202505,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10250901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20651"
+      },
+      "FJPEBNKMJOJ": "施加浊刻类减益时，随机驱散目标身上<color=#f26c1c>1个</color>增益效果。",
+      "AKCOFHLALLO": [
+        1025
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202506,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10250902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20652"
+      },
+      "FJPEBNKMJOJ": "若克制异位弱点，此次攻击造成伤害提高<color=#f26c1c>10%</color>。",
+      "AKCOFHLALLO": [
+        1025
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203501,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10350901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12267"
+      },
+      "AKCOFHLALLO": [
+        1035
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203502,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10350904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12268"
+      },
+      "AKCOFHLALLO": [
+        1035
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103505
+    },
+    {
+      "DLIBADLMFEG": 203503,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10350902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12269"
+      },
+      "AKCOFHLALLO": [
+        1035
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203504,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10350905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12270"
+      },
+      "AKCOFHLALLO": [
+        1035
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203505,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10350903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12271"
+      },
+      "AKCOFHLALLO": [
+        1035
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103504
+    },
+    {
+      "DLIBADLMFEG": 203506,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10350906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12272"
+      },
+      "AKCOFHLALLO": [
+        1035
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203701,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10370901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10903"
+      },
+      "AKCOFHLALLO": [
+        1037
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 103707
+    },
+    {
+      "DLIBADLMFEG": 203702,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10370905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10904"
+      },
+      "AKCOFHLALLO": [
+        1037
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203703,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10370902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10905"
+      },
+      "AKCOFHLALLO": [
+        1037
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203704,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10370906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10906"
+      },
+      "AKCOFHLALLO": [
+        1037
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203705,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10370903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10907"
+      },
+      "AKCOFHLALLO": [
+        1037
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 203706,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10370904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10908"
+      },
+      "AKCOFHLALLO": [
+        1037
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 92010,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000048,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10975"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92011,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000051,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10976"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92012,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000054,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10977"
+      }
+    },
+    {
+      "DLIBADLMFEG": 92013,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8000057,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10978"
+      }
+    },
+    {
+      "DLIBADLMFEG": 202401,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10240901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7966"
+      },
+      "FJPEBNKMJOJ": "战斗开始时获得<color=#f26c1c>3点</color>导染指数。",
+      "AKCOFHLALLO": [
+        1024
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202402,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10240902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7967"
+      },
+      "FJPEBNKMJOJ": "回合开始时获得<color=#f26c1c>1个</color>增益效果，持续<color=#f26c1c>1回合</color>。",
+      "AKCOFHLALLO": [
+        1024
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202403,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10240905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7968"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>辣味糖果</color>新增效果，自身拥有<color=#3487e0>火热攻势</color>时，为最近的1名友方目标（不包含自身）恢复<color=#f26c1c>80%</color>攻击力的生命值。",
+      "AKCOFHLALLO": [
+        1024
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102405
+    },
+    {
+      "DLIBADLMFEG": 202404,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10240903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7969"
+      },
+      "FJPEBNKMJOJ": "每拥有<color=#f26c1c>1个</color>增益效果，攻击力提高<color=#f26c1c>3%</color>，至多叠加<color=#f26c1c>5层</color>。",
+      "AKCOFHLALLO": [
+        1024
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202405,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10240906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "7970"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>烟火嘉年华</color>不再对敌方目标造成伤害，效果修改为恢复范围内友方目标<color=#f26c1c>65%</color>攻击力的生命值，并驱散<color=#f26c1c>1个</color>减益效果。",
+      "AKCOFHLALLO": [
+        1024
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102407
+    },
+    {
+      "DLIBADLMFEG": 202406,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10240904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "8655"
+      },
+      "FJPEBNKMJOJ": "若行动结束时，拥有<color=#3487e0>火热攻势</color>，则恢复自身<color=#f26c1c>20%</color>攻击力的生命值。",
+      "AKCOFHLALLO": [
+        1024
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202801,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10280901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2450"
+      },
+      "FJPEBNKMJOJ": "对拥有<color=#3487e0>热态回复</color>的目标，治疗效果提高<color=#f26c1c>50%</color>；触发热态回复效果时，额外随机驱散攻击者身上的1个增益效果。",
+      "AKCOFHLALLO": [
+        1028
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202802,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10280905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2452"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>悉心招待</color>伤害若克制异位弱点，则造成的稳态伤害增加<color=#f26c1c>2点</color>，生命值恢复量提高<color=#f26c1c>25%</color>。",
+      "AKCOFHLALLO": [
+        1028
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202803,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10280902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2453"
+      },
+      "FJPEBNKMJOJ": "<color=#3487e0>热态回复</color>的治疗效果提升至桑朵莱希攻击力的<color=#f26c1c>50%</color>。",
+      "AKCOFHLALLO": [
+        1028
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202804,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10280906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2454"
+      },
+      "FJPEBNKMJOJ": "主动技能<color=#3487e0>方糖特饮</color>不再对敌方造成伤害；驱散至多<color=#f26c1c>2个</color>减益效果，并解除<color=#3487e0>恐惧</color>和<color=#3487e0>嘲讽</color>效果。",
+      "AKCOFHLALLO": [
+        1028
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 102807
+    },
+    {
+      "DLIBADLMFEG": 202805,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10280903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2455"
+      },
+      "FJPEBNKMJOJ": "触发<color=#3487e0>热态回复</color>效果时，有<color=#f26c1c>30%</color>的概率不消耗<color=#3487e0>热态回复</color>。",
+      "AKCOFHLALLO": [
+        1028
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 202806,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10280904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2456"
+      },
+      "FJPEBNKMJOJ": "若本回合使用治疗技能，则获得<color=#3487e0>冰咖啡</color>，持续<color=#f26c1c>1回合</color>。若本回合造成伤害，则获得<color=#3487e0>热牛奶</color>，持续<color=#f26c1c>1回合</color>。\n<color=#3487e0>冰咖啡</color>：造成伤害提高<color=#f26c1c>10%</color>，不可驱散。\n<color=#3487e0>热牛奶</color>：治疗效果提高<color=#f26c1c>20%</color>，不可驱散。",
+      "AKCOFHLALLO": [
+        1028
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205101,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10510901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20602"
+      },
+      "AKCOFHLALLO": [
+        1051
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205102,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10510902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20603"
+      },
+      "AKCOFHLALLO": [
+        1051
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205103,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10510903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20604"
+      },
+      "AKCOFHLALLO": [
+        1051
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 105103
+    },
+    {
+      "DLIBADLMFEG": 205104,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10510904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20605"
+      },
+      "AKCOFHLALLO": [
+        1051
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 105104
+    },
+    {
+      "DLIBADLMFEG": 205105,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10510905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20606"
+      },
+      "AKCOFHLALLO": [
+        1051
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205106,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10510906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20607"
+      },
+      "AKCOFHLALLO": [
+        1051
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205201,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10520901,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2474"
+      },
+      "AKCOFHLALLO": [
+        1052
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205202,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10520902,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2475"
+      },
+      "AKCOFHLALLO": [
+        1052
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205203,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10520903,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2476"
+      },
+      "AKCOFHLALLO": [
+        1052
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205204,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10520904,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2477"
+      },
+      "AKCOFHLALLO": [
+        1052
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 205205,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10520905,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2478"
+      },
+      "AKCOFHLALLO": [
+        1052
+      ],
+      "DENEFDBIDKL": 0.05,
+      "ILIMDOGBPJB": 1,
+      "PEFOBBDONII": 105204
+    },
+    {
+      "DLIBADLMFEG": 205206,
+      "EBPAMEEKJEK": 1,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "3242"
+      },
+      "JCBLCGDHPHL": 10520906,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2479"
+      },
+      "AKCOFHLALLO": [
+        1052
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 901040,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001006,
+      "JCBLCGDHPHL": 10400907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12399"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901041,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001002,
+      "JCBLCGDHPHL": 10410907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12400"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901044,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001009,
+      "JCBLCGDHPHL": 10440907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12401"
+      }
+    },
+    {
+      "DLIBADLMFEG": 901045,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8001010,
+      "JCBLCGDHPHL": 10450907,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "12402"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911001,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200020,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2480"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911008,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200019,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2481"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911009,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200021,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "2482"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911021,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200015,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10674"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911022,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200022,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10675"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911023,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200014,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10676"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911024,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200023,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10677"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911025,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200004,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10678"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911026,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200025,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10679"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911027,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200005,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10680"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911028,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200008,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10681"
+      }
+    },
+    {
+      "DLIBADLMFEG": 911029,
+      "EBPAMEEKJEK": 2,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "9454"
+      },
+      "FINJKEKGLIK": 8200017,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "10682"
+      }
+    },
+    {
+      "DLIBADLMFEG": 921034,
+      "EBPAMEEKJEK": 3,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "20601"
+      },
+      "JCBLCGDHPHL": 10340908,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20620"
+      },
+      "AKCOFHLALLO": [
+        1034
+      ],
+      "DENEFDBIDKL": 0.05
+    },
+    {
+      "DLIBADLMFEG": 921035,
+      "EBPAMEEKJEK": 3,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "20601"
+      },
+      "JCBLCGDHPHL": 10350908,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20621"
+      },
+      "AKCOFHLALLO": [
+        1035
+      ]
+    },
+    {
+      "DLIBADLMFEG": 921037,
+      "EBPAMEEKJEK": 3,
+      "LLKIMELCNBM": 1,
+      "EENEDIIPPHG": {
+        "DOHLNDIPHAJ": "20601"
+      },
+      "JCBLCGDHPHL": 10370908,
+      "DFDFIDBDLIN": {
+        "DOHLNDIPHAJ": "20622"
+      },
+      "AKCOFHLALLO": [
+        1037
+      ],
+      "DENEFDBIDKL": 0.05
+    }
+  ]
+}

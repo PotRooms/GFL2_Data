@@ -1,0 +1,694 @@
+{
+  "data": [
+    {
+      "KHAKCFAKBNH": 310006101,
+      "LGJCPENNFBC": [
+        24
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310006102,
+      "LGJCPENNFBC": [
+        25
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310006103,
+      "LGJCPENNFBC": [
+        26
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310007101,
+      "LGJCPENNFBC": [
+        27
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310007102,
+      "LGJCPENNFBC": [
+        28
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310007103,
+      "LGJCPENNFBC": [
+        29
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342401,
+      "LGJCPENNFBC": [
+        103
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391201,
+      "LGJCPENNFBC": [
+        111
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391202,
+      "LGJCPENNFBC": [
+        112
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391203,
+      "LGJCPENNFBC": [
+        113
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522101,
+      "LGJCPENNFBC": [
+        151
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522102,
+      "LGJCPENNFBC": [
+        152
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 359991201,
+      "LGJCPENNFBC": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310002101,
+      "LGJCPENNFBC": [
+        6
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310002102,
+      "LGJCPENNFBC": [
+        7
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310002103,
+      "LGJCPENNFBC": [
+        8
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310002104,
+      "LGJCPENNFBC": [
+        9
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310002105,
+      "LGJCPENNFBC": [
+        10
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310002106,
+      "LGJCPENNFBC": [
+        11
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310002107,
+      "LGJCPENNFBC": [
+        12
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310002108,
+      "LGJCPENNFBC": [
+        13
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342501,
+      "LGJCPENNFBC": [
+        104
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342502,
+      "LGJCPENNFBC": [
+        105
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342503,
+      "LGJCPENNFBC": [
+        106
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342504,
+      "LGJCPENNFBC": [
+        107
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342505,
+      "LGJCPENNFBC": [
+        108
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392501,
+      "LGJCPENNFBC": [
+        135
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392502,
+      "LGJCPENNFBC": [
+        136
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392503,
+      "LGJCPENNFBC": [
+        137
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392504,
+      "LGJCPENNFBC": [
+        138
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522501,
+      "LGJCPENNFBC": [
+        159
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522502,
+      "LGJCPENNFBC": [
+        160
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310003101,
+      "LGJCPENNFBC": [
+        14
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310003102,
+      "LGJCPENNFBC": [
+        15
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310003103,
+      "LGJCPENNFBC": [
+        16
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310003104,
+      "LGJCPENNFBC": [
+        17
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310005101,
+      "LGJCPENNFBC": [
+        21
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310005102,
+      "LGJCPENNFBC": [
+        22
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310005103,
+      "LGJCPENNFBC": [
+        23
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310001101,
+      "LGJCPENNFBC": [
+        1
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310001102,
+      "LGJCPENNFBC": [
+        2
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310001103,
+      "LGJCPENNFBC": [
+        3
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310001104,
+      "LGJCPENNFBC": [
+        4
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310001105,
+      "LGJCPENNFBC": [
+        5
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310008101,
+      "LGJCPENNFBC": [
+        30
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310008102,
+      "LGJCPENNFBC": [
+        31
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310008103,
+      "LGJCPENNFBC": [
+        32
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342301,
+      "LGJCPENNFBC": [
+        101
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342302,
+      "LGJCPENNFBC": [
+        102
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310521101,
+      "LGJCPENNFBC": [
+        139
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310521102,
+      "LGJCPENNFBC": [
+        140,
+        141,
+        142,
+        143,
+        144
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310521103,
+      "LGJCPENNFBC": [
+        145
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 350001101,
+      "LGJCPENNFBC": [
+        39
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 350001102,
+      "LGJCPENNFBC": [
+        40
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 350001103,
+      "LGJCPENNFBC": [
+        41
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310521201,
+      "LGJCPENNFBC": [
+        146
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310009101,
+      "LGJCPENNFBC": [
+        33
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310009102,
+      "LGJCPENNFBC": [
+        34
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310009103,
+      "LGJCPENNFBC": [
+        35
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310009104,
+      "LGJCPENNFBC": [
+        36
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310009105,
+      "LGJCPENNFBC": [
+        37
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310009106,
+      "LGJCPENNFBC": [
+        38
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341301,
+      "LGJCPENNFBC": [
+        84
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341302,
+      "LGJCPENNFBC": [
+        85
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341303,
+      "LGJCPENNFBC": [
+        86,
+        87,
+        88,
+        89
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341401,
+      "LGJCPENNFBC": [
+        90
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341402,
+      "LGJCPENNFBC": [
+        91
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341403,
+      "LGJCPENNFBC": [
+        92
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391301,
+      "LGJCPENNFBC": [
+        114
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391302,
+      "LGJCPENNFBC": [
+        115
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391303,
+      "LGJCPENNFBC": [
+        116
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391304,
+      "LGJCPENNFBC": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392101,
+      "LGJCPENNFBC": [
+        130
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392301,
+      "LGJCPENNFBC": [
+        131
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392302,
+      "LGJCPENNFBC": [
+        132
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392401,
+      "LGJCPENNFBC": [
+        133
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310392402,
+      "LGJCPENNFBC": [
+        134
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310521301,
+      "LGJCPENNFBC": [
+        147
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310521302,
+      "LGJCPENNFBC": [
+        148
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310004101,
+      "LGJCPENNFBC": [
+        18
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310004102,
+      "LGJCPENNFBC": [
+        19
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310004103,
+      "LGJCPENNFBC": [
+        20
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341201,
+      "LGJCPENNFBC": [
+        83
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391501,
+      "LGJCPENNFBC": [
+        129
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310521401,
+      "LGJCPENNFBC": [
+        149
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341101,
+      "LGJCPENNFBC": [
+        82
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342101,
+      "LGJCPENNFBC": [
+        94
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342102,
+      "LGJCPENNFBC": [
+        95
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342103,
+      "LGJCPENNFBC": [
+        96
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342104,
+      "LGJCPENNFBC": [
+        97
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342201,
+      "LGJCPENNFBC": [
+        98
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342202,
+      "LGJCPENNFBC": [
+        99
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310342203,
+      "LGJCPENNFBC": [
+        100
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391101,
+      "LGJCPENNFBC": [
+        109
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391102,
+      "LGJCPENNFBC": [
+        110
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391401,
+      "LGJCPENNFBC": [
+        127
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310391402,
+      "LGJCPENNFBC": [
+        128
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522301,
+      "LGJCPENNFBC": [
+        155
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522302,
+      "LGJCPENNFBC": [
+        156
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310341501,
+      "LGJCPENNFBC": [
+        93
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310521501,
+      "LGJCPENNFBC": [
+        150
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522201,
+      "LGJCPENNFBC": [
+        153
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522202,
+      "LGJCPENNFBC": [
+        154
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522401,
+      "LGJCPENNFBC": [
+        157
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 310522402,
+      "LGJCPENNFBC": [
+        158
+      ]
+    },
+    {
+      "KHAKCFAKBNH": 359991101,
+      "LGJCPENNFBC": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    }
+  ]
+}

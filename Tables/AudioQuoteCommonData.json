@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "BKMLNLGNBNM": "battle",
+      "DNBHBMLJFJH": [
+        "Foley_Common",
+        "EN_Foley_Common",
+        "Common_Bullet",
+        "Gun_Series",
+        "Buff",
+        "Hit",
+        "Scene",
+        "Buff_Temp",
+        "Hit_Temp",
+        "Gun_Series_Temp"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "BKMLNLGNBNM": "darkzone",
+      "DNBHBMLJFJH": [
+        "Foley_Common",
+        "EN_Foley_Common",
+        "Common_Bullet",
+        "Gun_Series",
+        "Buff",
+        "Hit",
+        "Scene",
+        "Buff_Temp",
+        "Hit_Temp",
+        "Gun_Series_Temp"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+UIBattleDetailDialog = CS.UIBattleDetailDialog

@@ -1,0 +1,635 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 110,
+      "HBJAHCGKJJD": "自选配件礼包",
+      "GEOBGNMCGHO": 10000000,
+      "JCICKJAEAKF": 10,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true,
+      "MBGFILEJCNO": 1
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "HBJAHCGKJJD": "活动道具（可堆叠）",
+      "GEOBGNMCGHO": 100000000,
+      "JCICKJAEAKF": 3,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 8001,
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "HBJAHCGKJJD": "活动道具（不可堆叠）",
+      "GEOBGNMCGHO": 100000000,
+      "JCICKJAEAKF": 3,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 8001,
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 113,
+      "HBJAHCGKJJD": "卡牌预组",
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      }
+    },
+    {
+      "LGJCPENNFBC": 115,
+      "HBJAHCGKJJD": "可配置配件随机箱",
+      "GEOBGNMCGHO": 10000000,
+      "JCICKJAEAKF": 10,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true,
+      "MBGFILEJCNO": 1
+    },
+    {
+      "LGJCPENNFBC": 130,
+      "HBJAHCGKJJD": "角色活动门票",
+      "GEOBGNMCGHO": 10000000,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      }
+    },
+    {
+      "LGJCPENNFBC": 131,
+      "HBJAHCGKJJD": "纪念品",
+      "GEOBGNMCGHO": 10000000,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6138"
+      }
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "HBJAHCGKJJD": "战场机器人",
+      "JCICKJAEAKF": 11,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "HBJAHCGKJJD": "战场机器人掉落包",
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 80,
+      "HBJAHCGKJJD": "班组补给",
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "HBJAHCGKJJD": "许愿道具",
+      "GEOBGNMCGHO": 999999,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "HBJAHCGKJJD": "许愿道具材料",
+      "GEOBGNMCGHO": 999999,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "HBJAHCGKJJD": "许愿道具配方",
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "HBJAHCGKJJD": "可使用道具",
+      "GEOBGNMCGHO": 999,
+      "JCICKJAEAKF": 100,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "MBGFILEJCNO": 1
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "HBJAHCGKJJD": "随机礼包",
+      "GEOBGNMCGHO": 999,
+      "JCICKJAEAKF": 100,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "MBGFILEJCNO": 2
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "HBJAHCGKJJD": "月卡（可使用）",
+      "GEOBGNMCGHO": 999,
+      "JCICKJAEAKF": 100,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "MBGFILEJCNO": 1
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "HBJAHCGKJJD": "BP通行证（可使用）",
+      "GEOBGNMCGHO": 999,
+      "JCICKJAEAKF": 100,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "MBGFILEJCNO": 1
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "HBJAHCGKJJD": "地图（实兵演习专用）",
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "HBJAHCGKJJD": "天赋技能道具",
+      "OCIGGMMNEJC": 35,
+      "GEOBGNMCGHO": 999999,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6106"
+      },
+      "COAJNALFPID": 8007,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "HBJAHCGKJJD": "玩法次数",
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "HBJAHCGKJJD": "虚拟资源",
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "HBJAHCGKJJD": "月卡类",
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "HBJAHCGKJJD": "徽章",
+      "JCICKJAEAKF": 2,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "AEHBEOJCHOO": 1,
+      "JOCKENNCAPF": {
+        "2": 10000
+      }
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "HBJAHCGKJJD": "称号",
+      "JCICKJAEAKF": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "AEHBEOJCHOO": 1,
+      "JOCKENNCAPF": {
+        "2": 10000
+      }
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "HBJAHCGKJJD": "武器碎片",
+      "GEOBGNMCGHO": 100000000,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6111"
+      },
+      "COAJNALFPID": 8004,
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "HBJAHCGKJJD": "指挥官头像框",
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "AEHBEOJCHOO": 1,
+      "JOCKENNCAPF": {
+        "2": 10000
+      }
+    },
+    {
+      "LGJCPENNFBC": 60,
+      "HBJAHCGKJJD": "武器皮肤",
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "AEHBEOJCHOO": 1,
+      "JOCKENNCAPF": {
+        "2": 10000
+      }
+    },
+    {
+      "LGJCPENNFBC": 61,
+      "HBJAHCGKJJD": "配件皮肤",
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true,
+      "AEHBEOJCHOO": 1,
+      "JOCKENNCAPF": {
+        "2": 10000
+      }
+    },
+    {
+      "LGJCPENNFBC": 90,
+      "HBJAHCGKJJD": "生长数据（暗区专用）",
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 91,
+      "HBJAHCGKJJD": "续航道具（暗区专用）",
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 92,
+      "HBJAHCGKJJD": "材料（暗区专用）",
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 94,
+      "HBJAHCGKJJD": "功能道具（暗区专用）",
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      }
+    },
+    {
+      "LGJCPENNFBC": 95,
+      "HBJAHCGKJJD": "战令道具1",
+      "GEOBGNMCGHO": 100000000,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 1,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 96,
+      "HBJAHCGKJJD": "战令道具2",
+      "GEOBGNMCGHO": 100000000,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 1,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 97,
+      "HBJAHCGKJJD": "战令道具3",
+      "GEOBGNMCGHO": 100000000,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 1,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 98,
+      "HBJAHCGKJJD": "战令道具4",
+      "GEOBGNMCGHO": 100000000,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 1,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 120,
+      "HBJAHCGKJJD": "红宝石活动道具",
+      "GEOBGNMCGHO": 2000,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      }
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "HBJAHCGKJJD": "月卡折扣券",
+      "GEOBGNMCGHO": 1,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 122,
+      "HBJAHCGKJJD": "好感度礼物",
+      "GEOBGNMCGHO": 100000000,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6138"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "资源",
+      "GEOBGNMCGHO": 100000000,
+      "JCICKJAEAKF": 2,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 8001,
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "体力型资源",
+      "GEOBGNMCGHO": 100000000,
+      "JCICKJAEAKF": 4,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "经验值",
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "普通道具",
+      "GEOBGNMCGHO": 100000000,
+      "JCICKJAEAKF": 3,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 8001,
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "掉落包",
+      "GEOBGNMCGHO": 100000000,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "道具包",
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "玩法券",
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": "自选包",
+      "JCICKJAEAKF": 1,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": "人形整卡",
+      "JCICKJAEAKF": 11,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": "人形核心",
+      "GEOBGNMCGHO": 100000000,
+      "JCICKJAEAKF": 10,
+      "NKNDAOELJJL": 1,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 8004,
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": "指挥官头像",
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "5850"
+      },
+      "CGLODJFGIMH": true,
+      "AEHBEOJCHOO": 1,
+      "JOCKENNCAPF": {
+        "2": 10000
+      }
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": "皮肤",
+      "JCICKJAEAKF": 6,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true,
+      "AEHBEOJCHOO": 1,
+      "JOCKENNCAPF": {
+        "1": 10
+      }
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBJAHCGKJJD": "人形武器",
+      "OCIGGMMNEJC": 5,
+      "JCICKJAEAKF": 9,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "3254"
+      },
+      "COAJNALFPID": 8003,
+      "CGLODJFGIMH": true,
+      "OABEJBMADFA": true,
+      "FIIECANHLLF": true,
+      "MJOEIINOAPI": 5
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBJAHCGKJJD": "武器配件",
+      "OCIGGMMNEJC": 22,
+      "GEOBGNMCGHO": 999999,
+      "JCICKJAEAKF": 8,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6102"
+      },
+      "COAJNALFPID": 8005,
+      "CGLODJFGIMH": true,
+      "OABEJBMADFA": true
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HBJAHCGKJJD": "无人机武装零件",
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "LBMIKNFKEIF": true,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HBJAHCGKJJD": "无人机升级材料",
+      "GEOBGNMCGHO": 100000000,
+      "NKNDAOELJJL": 1,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "COAJNALFPID": 8006,
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "HBJAHCGKJJD": "预设道具（肉鸽用人形）",
+      "GEOBGNMCGHO": 100000000,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "HBJAHCGKJJD": "buff（肉鸽专用）",
+      "GEOBGNMCGHO": 100000000,
+      "ENMJCGDBNHE": true,
+      "FLDBKKNEION": {
+        "DOHLNDIPHAJ": "6103"
+      },
+      "CGLODJFGIMH": true
+    }
+  ]
+}

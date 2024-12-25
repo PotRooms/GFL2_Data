@@ -1,0 +1,2808 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 20001,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1696190400",
+      "FBNGCFFEJEK": "1696791600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20002,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1696795200",
+      "FBNGCFFEJEK": "1697396400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20003,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1697400000",
+      "FBNGCFFEJEK": "1698001200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20004,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1698004800",
+      "FBNGCFFEJEK": "1698606000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20005,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1698609600",
+      "FBNGCFFEJEK": "1699210800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20006,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1699214400",
+      "FBNGCFFEJEK": "1699815600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20007,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1699819200",
+      "FBNGCFFEJEK": "1700420400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20008,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1700424000",
+      "FBNGCFFEJEK": "1701025200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20009,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1701028800",
+      "FBNGCFFEJEK": "1701630000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30010,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1730059200",
+      "FBNGCFFEJEK": "1732651199",
+      "CHBJOIDAFMM": [
+        30010
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30011,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1733083200",
+      "FBNGCFFEJEK": "1735675199",
+      "CHBJOIDAFMM": [
+        30011
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30012,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1736107200",
+      "FBNGCFFEJEK": "1738699199",
+      "CHBJOIDAFMM": [
+        30012
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50030,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1717552800",
+      "FBNGCFFEJEK": "1721635199",
+      "CHBJOIDAFMM": [
+        601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50031,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1721095200",
+      "FBNGCFFEJEK": "1722931199",
+      "CHBJOIDAFMM": [
+        701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50032,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1722931200",
+      "FBNGCFFEJEK": "1723449599",
+      "CHBJOIDAFMM": [
+        702
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50033,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1722909600",
+      "FBNGCFFEJEK": "1724702399",
+      "CHBJOIDAFMM": [
+        801
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50034,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1724702400",
+      "FBNGCFFEJEK": "1725220799",
+      "CHBJOIDAFMM": [
+        802
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50035,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1724702400",
+      "FBNGCFFEJEK": "1728979199",
+      "CHBJOIDAFMM": [
+        901
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50036,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1728428400",
+      "FBNGCFFEJEK": "1730156399",
+      "CHBJOIDAFMM": [
+        1001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50037,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1730156400",
+      "FBNGCFFEJEK": "1730663999",
+      "CHBJOIDAFMM": [
+        1002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50040,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1730156400",
+      "FBNGCFFEJEK": "1731970799",
+      "CHBJOIDAFMM": [
+        1201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50041,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1731970800",
+      "FBNGCFFEJEK": "1732478399",
+      "CHBJOIDAFMM": [
+        1202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20070,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1737921600",
+      "FBNGCFFEJEK": "1738522800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20071,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1738526400",
+      "FBNGCFFEJEK": "1739127600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20072,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1739131200",
+      "FBNGCFFEJEK": "1739732400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20073,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1739736000",
+      "FBNGCFFEJEK": "1740337200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20074,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1740340800",
+      "FBNGCFFEJEK": "1740942000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20075,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1740945600",
+      "FBNGCFFEJEK": "1741546800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20076,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1741550400",
+      "FBNGCFFEJEK": "1742151600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20077,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1742155200",
+      "FBNGCFFEJEK": "1742756400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20078,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1742760000",
+      "FBNGCFFEJEK": "1743361200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20079,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1743364800",
+      "FBNGCFFEJEK": "1743966000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70001,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4089664800",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70002,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4075495200",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70003,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4078173600",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        6
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70004,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4081197600",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        4001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70005,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4083098400",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        5001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70006,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4083098400",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        6001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70007,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4083098400",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        6001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70008,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4083098400",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        7001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70009,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4083098400",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        8001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90010,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1711440000",
+      "FBNGCFFEJEK": "1712606400",
+      "CHBJOIDAFMM": [
+        1105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90011,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1712606400",
+      "FBNGCFFEJEK": "1713816000",
+      "CHBJOIDAFMM": [
+        1106
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90012,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1713816000",
+      "FBNGCFFEJEK": "1715025600",
+      "CHBJOIDAFMM": [
+        1107
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90013,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1715025600",
+      "FBNGCFFEJEK": "1716235200",
+      "CHBJOIDAFMM": [
+        1108
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90014,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1716235200",
+      "FBNGCFFEJEK": "1717444800",
+      "CHBJOIDAFMM": [
+        1109
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90015,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1717444800",
+      "FBNGCFFEJEK": "1718654400",
+      "CHBJOIDAFMM": [
+        1110
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90016,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1718654400",
+      "FBNGCFFEJEK": "1719864000",
+      "CHBJOIDAFMM": [
+        1111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90017,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1719864000",
+      "FBNGCFFEJEK": "1721116800",
+      "CHBJOIDAFMM": [
+        1112
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90018,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1721116800",
+      "FBNGCFFEJEK": "1722326400",
+      "CHBJOIDAFMM": [
+        1114
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90019,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1722326400",
+      "FBNGCFFEJEK": "1723536000",
+      "CHBJOIDAFMM": [
+        1115
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90030,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1735632000",
+      "FBNGCFFEJEK": "1736841600",
+      "CHBJOIDAFMM": [
+        1126
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90031,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1736841600",
+      "FBNGCFFEJEK": "1738051200",
+      "CHBJOIDAFMM": [
+        1127
+      ]
+    },
+    {
+      "LGJCPENNFBC": 500069,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1730156400",
+      "FBNGCFFEJEK": "1731970799",
+      "FGGNPKEGLCB": "1201:11003"
+    },
+    {
+      "LGJCPENNFBC": 20090,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1750017600",
+      "FBNGCFFEJEK": "1750618800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20091,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1750622400",
+      "FBNGCFFEJEK": "1751223600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20092,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1751227200",
+      "FBNGCFFEJEK": "1751828400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20093,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1751832000",
+      "FBNGCFFEJEK": "1752433200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20094,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1752436800",
+      "FBNGCFFEJEK": "1753038000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20095,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1753041600",
+      "FBNGCFFEJEK": "1753642800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20096,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1753646400",
+      "FBNGCFFEJEK": "1754247600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20097,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1754251200",
+      "FBNGCFFEJEK": "1754852400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20098,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1754856000",
+      "FBNGCFFEJEK": "1755457200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20099,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1755460800",
+      "FBNGCFFEJEK": "1756062000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50020,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1708653600",
+      "FBNGCFFEJEK": "1709020799",
+      "CHBJOIDAFMM": [
+        311
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50021,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1709020800",
+      "FBNGCFFEJEK": "1710835199",
+      "CHBJOIDAFMM": [
+        312
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50022,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1710835200",
+      "FBNGCFFEJEK": "1711353599",
+      "CHBJOIDAFMM": [
+        313
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50025,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1714442400",
+      "FBNGCFFEJEK": "1716278399",
+      "CHBJOIDAFMM": [
+        511
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50026,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1716278400",
+      "FBNGCFFEJEK": "1716883199",
+      "CHBJOIDAFMM": [
+        512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90020,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1723536000",
+      "FBNGCFFEJEK": "1724745600",
+      "CHBJOIDAFMM": [
+        1116
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90021,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1724745600",
+      "FBNGCFFEJEK": "1725955200",
+      "CHBJOIDAFMM": [
+        1117
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90022,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1725955200",
+      "FBNGCFFEJEK": "1727164800",
+      "CHBJOIDAFMM": [
+        1118
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90023,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1727164800",
+      "FBNGCFFEJEK": "1728374400",
+      "CHBJOIDAFMM": [
+        1119
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90024,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1728374400",
+      "FBNGCFFEJEK": "1729584000",
+      "CHBJOIDAFMM": [
+        1120
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90025,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1729584000",
+      "FBNGCFFEJEK": "1730793600",
+      "CHBJOIDAFMM": [
+        1121
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90026,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1730793600",
+      "FBNGCFFEJEK": "1732003200",
+      "CHBJOIDAFMM": [
+        1122
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90027,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1732003200",
+      "FBNGCFFEJEK": "1733212800",
+      "CHBJOIDAFMM": [
+        1123
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90028,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1733212800",
+      "FBNGCFFEJEK": "1734422400",
+      "CHBJOIDAFMM": [
+        1124
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90029,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1734422400",
+      "FBNGCFFEJEK": "1735632000",
+      "CHBJOIDAFMM": [
+        1125
+      ]
+    },
+    {
+      "LGJCPENNFBC": 500042,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1718049600",
+      "FBNGCFFEJEK": "1721030399",
+      "FGGNPKEGLCB": "601:20002"
+    },
+    {
+      "LGJCPENNFBC": 500043,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1719280800",
+      "FBNGCFFEJEK": "1721030399",
+      "FGGNPKEGLCB": "601:20005"
+    },
+    {
+      "LGJCPENNFBC": 500044,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1717552800",
+      "FBNGCFFEJEK": "1721030399",
+      "FGGNPKEGLCB": "601:2001"
+    },
+    {
+      "LGJCPENNFBC": 500045,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1718654400",
+      "FBNGCFFEJEK": "1721030399",
+      "FGGNPKEGLCB": "601:2002"
+    },
+    {
+      "LGJCPENNFBC": 500046,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1719280800",
+      "FBNGCFFEJEK": "1721030399",
+      "FGGNPKEGLCB": "601:2005"
+    },
+    {
+      "LGJCPENNFBC": 500047,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1720468800",
+      "FBNGCFFEJEK": "1721030399",
+      "FGGNPKEGLCB": "601:2006"
+    },
+    {
+      "LGJCPENNFBC": 500048,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1719864000",
+      "FBNGCFFEJEK": "1721030399",
+      "FGGNPKEGLCB": "601:20006"
+    },
+    {
+      "LGJCPENNFBC": 500049,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1717552800",
+      "FBNGCFFEJEK": "1721635199",
+      "FGGNPKEGLCB": "601:11001"
+    },
+    {
+      "LGJCPENNFBC": 580011,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1722909600",
+      "FBNGCFFEJEK": "1724702399",
+      "FGGNPKEGLCB": "801:11003"
+    },
+    {
+      "LGJCPENNFBC": 50001,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1606032000",
+      "FBNGCFFEJEK": "1606291199",
+      "CHBJOIDAFMM": [
+        99901
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50002,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1606291200",
+      "FBNGCFFEJEK": "1610697599",
+      "CHBJOIDAFMM": [
+        99902
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50003,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1610697600",
+      "FBNGCFFEJEK": "1611302399",
+      "CHBJOIDAFMM": [
+        99903
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50004,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1705975200",
+      "FBNGCFFEJEK": "1706601599",
+      "CHBJOIDAFMM": [
+        99904
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50005,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1706601600",
+      "FBNGCFFEJEK": "1708394399",
+      "CHBJOIDAFMM": [
+        99905
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50006,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1708394400",
+      "FBNGCFFEJEK": "1708934399",
+      "CHBJOIDAFMM": [
+        99906
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51001,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1706904000",
+      "FBNGCFFEJEK": "1708394399",
+      "CHBJOIDAFMM": [
+        94002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51002,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1707336000",
+      "FBNGCFFEJEK": "1708394399",
+      "CHBJOIDAFMM": [
+        994002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51003,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1709323200",
+      "FBNGCFFEJEK": "1710813599",
+      "CHBJOIDAFMM": [
+        94006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51004,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1709755200",
+      "FBNGCFFEJEK": "1710813599",
+      "CHBJOIDAFMM": [
+        994004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51005,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1711828800",
+      "FBNGCFFEJEK": "1713254399",
+      "CHBJOIDAFMM": [
+        94007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51006,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1712260800",
+      "FBNGCFFEJEK": "1713254399",
+      "CHBJOIDAFMM": [
+        994007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51007,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1714852800",
+      "FBNGCFFEJEK": "1716278399",
+      "CHBJOIDAFMM": [
+        94008
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51008,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1715284800",
+      "FBNGCFFEJEK": "1716278399",
+      "CHBJOIDAFMM": [
+        994008
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51009,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1718049600",
+      "FBNGCFFEJEK": "1721030399",
+      "CHBJOIDAFMM": [
+        94009
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70010,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "1728439200",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        9001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70011,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "1728439200",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        9001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70012,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4083098400",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        10001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70013,
+      "ENCJGJFLNKM": 7,
+      "OFLCKOMJCLM": "plan_function_activity_past",
+      "JJCDAHCLNMM": "4083098400",
+      "FBNGCFFEJEK": "32503647599",
+      "CHBJOIDAFMM": [
+        12001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 590011,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1724702400",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:11003"
+    },
+    {
+      "LGJCPENNFBC": 990001,
+      "ENCJGJFLNKM": 99,
+      "OFLCKOMJCLM": "plan_function_sim_dailyopen",
+      "JJCDAHCLNMM": "1672516800",
+      "FBNGCFFEJEK": "4070962799",
+      "CHBJOIDAFMM": [
+        1,
+        2,
+        3,
+        4,
+        9,
+        16,
+        17,
+        18,
+        30
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20060,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1731873600",
+      "FBNGCFFEJEK": "1732474800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20061,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1732478400",
+      "FBNGCFFEJEK": "1733079600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20062,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1733083200",
+      "FBNGCFFEJEK": "1733684400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20063,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1733688000",
+      "FBNGCFFEJEK": "1734289200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20064,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1734292800",
+      "FBNGCFFEJEK": "1734894000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20065,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1734897600",
+      "FBNGCFFEJEK": "1735498800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20066,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1735502400",
+      "FBNGCFFEJEK": "1736103600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20067,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1736107200",
+      "FBNGCFFEJEK": "1736708400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20068,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1736712000",
+      "FBNGCFFEJEK": "1737313200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20069,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1737316800",
+      "FBNGCFFEJEK": "1737918000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50017,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1711418400",
+      "FBNGCFFEJEK": "1713254399",
+      "CHBJOIDAFMM": [
+        501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50018,
+      "ENCJGJFLNKM": 5,
+      "OFLCKOMJCLM": "plan_function_activity_thematic",
+      "JJCDAHCLNMM": "1713254400",
+      "FBNGCFFEJEK": "1713859199",
+      "CHBJOIDAFMM": [
+        502
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80001,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1696104000",
+      "FBNGCFFEJEK": "1698778800",
+      "CHBJOIDAFMM": [
+        1001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80002,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1698782400",
+      "FBNGCFFEJEK": "1701370800",
+      "CHBJOIDAFMM": [
+        1001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80003,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1701374400",
+      "FBNGCFFEJEK": "1704049200",
+      "CHBJOIDAFMM": [
+        1002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80004,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1704052800",
+      "FBNGCFFEJEK": "1706727600",
+      "CHBJOIDAFMM": [
+        1002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80005,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1706731200",
+      "FBNGCFFEJEK": "1711911600",
+      "CHBJOIDAFMM": [
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80006,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1711915200",
+      "FBNGCFFEJEK": "1714503600",
+      "CHBJOIDAFMM": [
+        1004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80007,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1714507200",
+      "FBNGCFFEJEK": "1717182000",
+      "CHBJOIDAFMM": [
+        1005
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80008,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1717185600",
+      "FBNGCFFEJEK": "1719774000",
+      "CHBJOIDAFMM": [
+        1006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80009,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1719777600",
+      "FBNGCFFEJEK": "1722452400",
+      "CHBJOIDAFMM": [
+        1007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 110001,
+      "ENCJGJFLNKM": 11,
+      "OFLCKOMJCLM": "plan_function_control_fight",
+      "JJCDAHCLNMM": "1713124800",
+      "FBNGCFFEJEK": "1714247999",
+      "CHBJOIDAFMM": [
+        1001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 110002,
+      "ENCJGJFLNKM": 11,
+      "OFLCKOMJCLM": "plan_function_control_fight",
+      "JJCDAHCLNMM": "1716235200",
+      "FBNGCFFEJEK": "1717271999",
+      "CHBJOIDAFMM": [
+        2001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 110003,
+      "ENCJGJFLNKM": 11,
+      "OFLCKOMJCLM": "plan_function_control_fight",
+      "JJCDAHCLNMM": "1719086400",
+      "FBNGCFFEJEK": "1720036800",
+      "CHBJOIDAFMM": [
+        3001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 110004,
+      "ENCJGJFLNKM": 11,
+      "OFLCKOMJCLM": "plan_function_control_fight",
+      "JJCDAHCLNMM": "1728936000",
+      "FBNGCFFEJEK": "1729972799",
+      "CHBJOIDAFMM": [
+        4001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 500050,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1724702400",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:2001"
+    },
+    {
+      "LGJCPENNFBC": 500051,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1725307200",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:2002"
+    },
+    {
+      "LGJCPENNFBC": 500052,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1726711200",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:2005"
+    },
+    {
+      "LGJCPENNFBC": 500053,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1727121600",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:2006"
+    },
+    {
+      "LGJCPENNFBC": 500054,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1725307200",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:21001"
+    },
+    {
+      "LGJCPENNFBC": 500055,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1724702400",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:21002"
+    },
+    {
+      "LGJCPENNFBC": 500056,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1726711200",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:21003"
+    },
+    {
+      "LGJCPENNFBC": 500057,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1727121600",
+      "FBNGCFFEJEK": "1728439199",
+      "FGGNPKEGLCB": "901:21004"
+    },
+    {
+      "LGJCPENNFBC": 500058,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1728428400",
+      "FBNGCFFEJEK": "1730156399",
+      "FGGNPKEGLCB": "1001:11003"
+    },
+    {
+      "LGJCPENNFBC": 51010,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1718654400",
+      "FBNGCFFEJEK": "1721030399",
+      "CHBJOIDAFMM": [
+        994009
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51011,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1719864000",
+      "FBNGCFFEJEK": "1721030399",
+      "CHBJOIDAFMM": [
+        94010
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51012,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1720468800",
+      "FBNGCFFEJEK": "1721030399",
+      "CHBJOIDAFMM": [
+        994010
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51013,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1721095200",
+      "FBNGCFFEJEK": "1722931199",
+      "CHBJOIDAFMM": [
+        94011
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51014,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1721678400",
+      "FBNGCFFEJEK": "1722931199",
+      "CHBJOIDAFMM": [
+        994011
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51015,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1722909600",
+      "FBNGCFFEJEK": "1724702399",
+      "CHBJOIDAFMM": [
+        94012
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51016,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1723492800",
+      "FBNGCFFEJEK": "1724702399",
+      "CHBJOIDAFMM": [
+        994012
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51017,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1724702400",
+      "FBNGCFFEJEK": "1728439199",
+      "CHBJOIDAFMM": [
+        94013
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51018,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1725307200",
+      "FBNGCFFEJEK": "1728439199",
+      "CHBJOIDAFMM": [
+        994013
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51019,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1726711200",
+      "FBNGCFFEJEK": "1728439199",
+      "CHBJOIDAFMM": [
+        94014
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80020,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1748721600",
+      "FBNGCFFEJEK": "1751310000",
+      "CHBJOIDAFMM": [
+        1018
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80021,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1751313600",
+      "FBNGCFFEJEK": "1753988400",
+      "CHBJOIDAFMM": [
+        1019
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80022,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1753992000",
+      "FBNGCFFEJEK": "1756666800",
+      "CHBJOIDAFMM": [
+        1020
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80023,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1756670400",
+      "FBNGCFFEJEK": "1759258800",
+      "CHBJOIDAFMM": [
+        1021
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80024,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1759262400",
+      "FBNGCFFEJEK": "1761937200",
+      "CHBJOIDAFMM": [
+        1022
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100101,
+      "ENCJGJFLNKM": 10,
+      "OFLCKOMJCLM": "plan_function_darkzone_rogue",
+      "JJCDAHCLNMM": "1705435200",
+      "FBNGCFFEJEK": "1722801600",
+      "CHBJOIDAFMM": [
+        101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20010,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1701633600",
+      "FBNGCFFEJEK": "1702234800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20011,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1702238400",
+      "FBNGCFFEJEK": "1702839600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20012,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1702843200",
+      "FBNGCFFEJEK": "1703444400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20013,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1703448000",
+      "FBNGCFFEJEK": "1704049200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20014,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1704052800",
+      "FBNGCFFEJEK": "1704654000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20015,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1704657600",
+      "FBNGCFFEJEK": "1705258800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20016,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1705262400",
+      "FBNGCFFEJEK": "1705863600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20017,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1705867200",
+      "FBNGCFFEJEK": "1706468400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20018,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1706472000",
+      "FBNGCFFEJEK": "1707073200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20019,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1707076800",
+      "FBNGCFFEJEK": "1707678000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20020,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1707681600",
+      "FBNGCFFEJEK": "1708282800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20021,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1708286400",
+      "FBNGCFFEJEK": "1708887600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20022,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1708891200",
+      "FBNGCFFEJEK": "1709492400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20023,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1709496000",
+      "FBNGCFFEJEK": "1710097200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20024,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1710100800",
+      "FBNGCFFEJEK": "1710702000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20025,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1710705600",
+      "FBNGCFFEJEK": "1711306800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20026,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1711310400",
+      "FBNGCFFEJEK": "1711911600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20027,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1711915200",
+      "FBNGCFFEJEK": "1712516400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20028,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1712520000",
+      "FBNGCFFEJEK": "1713121200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20029,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1713124800",
+      "FBNGCFFEJEK": "1713726000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20050,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1725825600",
+      "FBNGCFFEJEK": "1726426800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20051,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1726430400",
+      "FBNGCFFEJEK": "1727031600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20052,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1727035200",
+      "FBNGCFFEJEK": "1727636400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20053,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1727640000",
+      "FBNGCFFEJEK": "1728241200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20054,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1728244800",
+      "FBNGCFFEJEK": "1728846000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20055,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1728849600",
+      "FBNGCFFEJEK": "1729450800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20056,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1729454400",
+      "FBNGCFFEJEK": "1730055600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20057,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1730059200",
+      "FBNGCFFEJEK": "1730660400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20058,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1730664000",
+      "FBNGCFFEJEK": "1731265200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20059,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1731268800",
+      "FBNGCFFEJEK": "1731870000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20110,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1762113600",
+      "FBNGCFFEJEK": "1762714800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20111,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1762718400",
+      "FBNGCFFEJEK": "1763319600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20112,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1763323200",
+      "FBNGCFFEJEK": "1763924400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20113,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1763928000",
+      "FBNGCFFEJEK": "1764529200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20114,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1764532800",
+      "FBNGCFFEJEK": "1765134000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20115,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1765137600",
+      "FBNGCFFEJEK": "1765738800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20116,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1765742400",
+      "FBNGCFFEJEK": "1766343600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20117,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1766347200",
+      "FBNGCFFEJEK": "1766948400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20118,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1766952000",
+      "FBNGCFFEJEK": "1767553200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20119,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1767556800",
+      "FBNGCFFEJEK": "1768158000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30001,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1703120400",
+      "FBNGCFFEJEK": "1705694399",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30002,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1705867200",
+      "FBNGCFFEJEK": "1708459199",
+      "CHBJOIDAFMM": [
+        30002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30003,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1708891200",
+      "FBNGCFFEJEK": "1711483199",
+      "CHBJOIDAFMM": [
+        30003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30004,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1711915200",
+      "FBNGCFFEJEK": "1714507199",
+      "CHBJOIDAFMM": [
+        30004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30005,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1714939200",
+      "FBNGCFFEJEK": "1717531199",
+      "CHBJOIDAFMM": [
+        30005
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30006,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1717963200",
+      "FBNGCFFEJEK": "1720555199",
+      "CHBJOIDAFMM": [
+        30006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30007,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1721095200",
+      "FBNGCFFEJEK": "1723665599",
+      "CHBJOIDAFMM": [
+        30007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30008,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1724011200",
+      "FBNGCFFEJEK": "1726603199",
+      "CHBJOIDAFMM": [
+        30008
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30009,
+      "ENCJGJFLNKM": 3,
+      "OFLCKOMJCLM": "plan_function_battlepass",
+      "JJCDAHCLNMM": "1727035200",
+      "FBNGCFFEJEK": "1729627199",
+      "CHBJOIDAFMM": [
+        30009
+      ]
+    },
+    {
+      "LGJCPENNFBC": 500241,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1717552800",
+      "FBNGCFFEJEK": "1718722799",
+      "FGGNPKEGLCB": "601:20001"
+    },
+    {
+      "LGJCPENNFBC": 10001,
+      "ENCJGJFLNKM": 1,
+      "OFLCKOMJCLM": "plan_function_weekly_cycle",
+      "JJCDAHCLNMM": "1672516800",
+      "FBNGCFFEJEK": "1712519999",
+      "CHBJOIDAFMM": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10002,
+      "ENCJGJFLNKM": 1,
+      "OFLCKOMJCLM": "plan_function_weekly_cycle",
+      "JJCDAHCLNMM": "1712520000",
+      "FBNGCFFEJEK": "1714334399",
+      "CHBJOIDAFMM": [
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10003,
+      "ENCJGJFLNKM": 1,
+      "OFLCKOMJCLM": "plan_function_weekly_cycle",
+      "JJCDAHCLNMM": "1714334400",
+      "FBNGCFFEJEK": "1727035199",
+      "CHBJOIDAFMM": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10004,
+      "ENCJGJFLNKM": 1,
+      "OFLCKOMJCLM": "plan_function_weekly_cycle",
+      "JJCDAHCLNMM": "1727035200",
+      "FBNGCFFEJEK": "4070894399",
+      "CHBJOIDAFMM": [
+        4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51020,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1727121600",
+      "FBNGCFFEJEK": "1728439199",
+      "CHBJOIDAFMM": [
+        994014
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51021,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1728428400",
+      "FBNGCFFEJEK": "1730156399",
+      "CHBJOIDAFMM": [
+        94015
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51022,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1728936000",
+      "FBNGCFFEJEK": "1730156399",
+      "CHBJOIDAFMM": [
+        994015
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51025,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1730156400",
+      "FBNGCFFEJEK": "1731970799",
+      "CHBJOIDAFMM": [
+        94016
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51026,
+      "ENCJGJFLNKM": 13,
+      "OFLCKOMJCLM": "plan_function_activity_story",
+      "JJCDAHCLNMM": "1730750400",
+      "FBNGCFFEJEK": "1731970799",
+      "CHBJOIDAFMM": [
+        994016
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120001,
+      "ENCJGJFLNKM": 12,
+      "OFLCKOMJCLM": "plan_function_mythic",
+      "JJCDAHCLNMM": "1711396800",
+      "FBNGCFFEJEK": "1714442399",
+      "CHBJOIDAFMM": [
+        7
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120002,
+      "ENCJGJFLNKM": 12,
+      "OFLCKOMJCLM": "plan_function_mythic",
+      "JJCDAHCLNMM": "1714442400",
+      "FBNGCFFEJEK": "1717552799",
+      "CHBJOIDAFMM": [
+        8
+      ]
+    },
+    {
+      "LGJCPENNFBC": 570011,
+      "ENCJGJFLNKM": 14,
+      "OFLCKOMJCLM": "plan_function_activity_submodule",
+      "JJCDAHCLNMM": "1721095200",
+      "FBNGCFFEJEK": "1722931199",
+      "FGGNPKEGLCB": "701:11003"
+    },
+    {
+      "LGJCPENNFBC": 80010,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1722456000",
+      "FBNGCFFEJEK": "1725130800",
+      "CHBJOIDAFMM": [
+        1008
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80011,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1725134400",
+      "FBNGCFFEJEK": "1727722800",
+      "CHBJOIDAFMM": [
+        1009
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80012,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1727726400",
+      "FBNGCFFEJEK": "1730401200",
+      "CHBJOIDAFMM": [
+        1010
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80013,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1730404800",
+      "FBNGCFFEJEK": "1732993200",
+      "CHBJOIDAFMM": [
+        1011
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80014,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1732996800",
+      "FBNGCFFEJEK": "1735671600",
+      "CHBJOIDAFMM": [
+        1012
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80015,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1735675200",
+      "FBNGCFFEJEK": "1738350000",
+      "CHBJOIDAFMM": [
+        1013
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80016,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1738353600",
+      "FBNGCFFEJEK": "1740769200",
+      "CHBJOIDAFMM": [
+        1014
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80017,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1740772800",
+      "FBNGCFFEJEK": "1743447600",
+      "CHBJOIDAFMM": [
+        1015
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80018,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1743451200",
+      "FBNGCFFEJEK": "1746039600",
+      "CHBJOIDAFMM": [
+        1016
+      ]
+    },
+    {
+      "LGJCPENNFBC": 80019,
+      "ENCJGJFLNKM": 8,
+      "OFLCKOMJCLM": "plan_function_high_pvp",
+      "JJCDAHCLNMM": "1746043200",
+      "FBNGCFFEJEK": "1748718000",
+      "CHBJOIDAFMM": [
+        1017
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90001,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1701633600",
+      "FBNGCFFEJEK": "1702843200",
+      "CHBJOIDAFMM": [
+        1002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90002,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1702843200",
+      "FBNGCFFEJEK": "1704052800",
+      "CHBJOIDAFMM": [
+        1001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90003,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1702843200",
+      "FBNGCFFEJEK": "1704052800",
+      "CHBJOIDAFMM": [
+        2001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90004,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1704052800",
+      "FBNGCFFEJEK": "1705867200",
+      "CHBJOIDAFMM": [
+        1001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90005,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1704052800",
+      "FBNGCFFEJEK": "1705867200",
+      "CHBJOIDAFMM": [
+        2001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90006,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1705867200",
+      "FBNGCFFEJEK": "1707768000",
+      "CHBJOIDAFMM": [
+        1101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90007,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1707768000",
+      "FBNGCFFEJEK": "1708977600",
+      "CHBJOIDAFMM": [
+        1102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90008,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1708977600",
+      "FBNGCFFEJEK": "1710187200",
+      "CHBJOIDAFMM": [
+        1103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90009,
+      "ENCJGJFLNKM": 9,
+      "OFLCKOMJCLM": "plan_function_unite_battle",
+      "JJCDAHCLNMM": "1710187200",
+      "FBNGCFFEJEK": "1711440000",
+      "CHBJOIDAFMM": [
+        1104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20030,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1713729600",
+      "FBNGCFFEJEK": "1714330800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20031,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1714334400",
+      "FBNGCFFEJEK": "1714935600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20032,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1714939200",
+      "FBNGCFFEJEK": "1715540400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20033,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1715544000",
+      "FBNGCFFEJEK": "1716145200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20034,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1716148800",
+      "FBNGCFFEJEK": "1716750000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20035,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1716753600",
+      "FBNGCFFEJEK": "1717354800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20036,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1717358400",
+      "FBNGCFFEJEK": "1717959600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20037,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1717963200",
+      "FBNGCFFEJEK": "1718564400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20038,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1718568000",
+      "FBNGCFFEJEK": "1719169200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20039,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1719172800",
+      "FBNGCFFEJEK": "1719774000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20040,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1719777600",
+      "FBNGCFFEJEK": "1720378800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20041,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1720382400",
+      "FBNGCFFEJEK": "1720983600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20042,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1720987200",
+      "FBNGCFFEJEK": "1721588400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20043,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1721592000",
+      "FBNGCFFEJEK": "1722193200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20044,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1722196800",
+      "FBNGCFFEJEK": "1722798000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20045,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1722801600",
+      "FBNGCFFEJEK": "1723402800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20046,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1723406400",
+      "FBNGCFFEJEK": "1724007600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20047,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1724011200",
+      "FBNGCFFEJEK": "1724612400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20048,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1724616000",
+      "FBNGCFFEJEK": "1725217200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20049,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1725220800",
+      "FBNGCFFEJEK": "1725822000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20080,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1743969600",
+      "FBNGCFFEJEK": "1744570800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20081,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1744574400",
+      "FBNGCFFEJEK": "1745175600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20082,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1745179200",
+      "FBNGCFFEJEK": "1745780400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20083,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1745784000",
+      "FBNGCFFEJEK": "1746385200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20084,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1746388800",
+      "FBNGCFFEJEK": "1746990000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20085,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1746993600",
+      "FBNGCFFEJEK": "1747594800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20086,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1747598400",
+      "FBNGCFFEJEK": "1748199600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20087,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1748203200",
+      "FBNGCFFEJEK": "1748804400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20088,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1748808000",
+      "FBNGCFFEJEK": "1749409200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20089,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1749412800",
+      "FBNGCFFEJEK": "1750014000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20100,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1756065600",
+      "FBNGCFFEJEK": "1756666800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20101,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1756670400",
+      "FBNGCFFEJEK": "1757271600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20102,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1757275200",
+      "FBNGCFFEJEK": "1757876400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20103,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1757880000",
+      "FBNGCFFEJEK": "1758481200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20104,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1758484800",
+      "FBNGCFFEJEK": "1759086000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20105,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1759089600",
+      "FBNGCFFEJEK": "1759690800",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20106,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1759694400",
+      "FBNGCFFEJEK": "1760295600",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20107,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1760299200",
+      "FBNGCFFEJEK": "1760900400",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20108,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1760904000",
+      "FBNGCFFEJEK": "1761505200",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20109,
+      "ENCJGJFLNKM": 2,
+      "OFLCKOMJCLM": "plan_function_pvp_month_cycle",
+      "JJCDAHCLNMM": "1761508800",
+      "FBNGCFFEJEK": "1762110000",
+      "CHBJOIDAFMM": [
+        30001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 40001,
+      "ENCJGJFLNKM": 4,
+      "OFLCKOMJCLM": "plan_function_darkzone",
+      "JJCDAHCLNMM": "1693425600",
+      "FBNGCFFEJEK": "1703966399",
+      "CHBJOIDAFMM": [
+        1001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 40002,
+      "ENCJGJFLNKM": 4,
+      "OFLCKOMJCLM": "plan_function_darkzone",
+      "JJCDAHCLNMM": "1703966400",
+      "FBNGCFFEJEK": "1711742399",
+      "CHBJOIDAFMM": [
+        1002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 40003,
+      "ENCJGJFLNKM": 4,
+      "OFLCKOMJCLM": "plan_function_darkzone",
+      "JJCDAHCLNMM": "1711742400",
+      "FBNGCFFEJEK": "1719691199",
+      "CHBJOIDAFMM": [
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 40004,
+      "ENCJGJFLNKM": 4,
+      "OFLCKOMJCLM": "plan_function_darkzone",
+      "JJCDAHCLNMM": "1719691200",
+      "FBNGCFFEJEK": "1730231999",
+      "CHBJOIDAFMM": [
+        1004
+      ]
+    }
+  ]
+}

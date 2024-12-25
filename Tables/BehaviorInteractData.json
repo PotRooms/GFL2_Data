@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 211,
+      "EAGCNKJNIMD": 100035,
+      "ALHHDKDDJMA": "s_Lng_simple_Chair_skin",
+      "BGCGOMOBGOB": 200020,
+      "KGNDGBCONGG": [
+        200007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "EAGCNKJNIMD": 1,
+      "BDAIMBLHHEF": "指挥官，你来了"
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "EAGCNKJNIMD": 100011,
+      "ALHHDKDDJMA": "f_Cup_Groza_Lngbe_skin",
+      "BGCGOMOBGOB": 200011,
+      "BDAIMBLHHEF": "指挥官，尝尝甜度怎么样？",
+      "KGNDGBCONGG": [
+        200001,
+        200002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "EAGCNKJNIMD": 100015,
+      "ALHHDKDDJMA": "s_Lng_simple_Notebook_skin",
+      "BGCGOMOBGOB": 200015,
+      "KGNDGBCONGG": [
+        200003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 205,
+      "EAGCNKJNIMD": 100020,
+      "KGNDGBCONGG": [
+        200004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 207,
+      "EAGCNKJNIMD": 100025,
+      "ALHHDKDDJMA": "s_Lng_simple_NailFile_skin",
+      "BGCGOMOBGOB": 200030,
+      "KGNDGBCONGG": [
+        200005
+      ]
+    },
+    {
+      "LGJCPENNFBC": 209,
+      "EAGCNKJNIMD": 100030,
+      "KGNDGBCONGG": [
+        200006
+      ]
+    }
+  ]
+}

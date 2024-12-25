@@ -1,0 +1,126 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "PGBMMDIPEFA": "成功抵达1号任务点后。",
+      "MDBHNLEGLIO": 940,
+      "CGFMAIFHLEO": 1,
+      "NJHGGAGGPGK": 1
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "PGBMMDIPEFA": "成功抵达2号任务点后。",
+      "MDBHNLEGLIO": 940,
+      "CGFMAIFHLEO": 1,
+      "NJHGGAGGPGK": 2
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "PGBMMDIPEFA": "成功抵达3号任务点后。",
+      "MDBHNLEGLIO": 940,
+      "CGFMAIFHLEO": 1,
+      "NJHGGAGGPGK": 3
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "PGBMMDIPEFA": "成功抵达4号任务点后。",
+      "MDBHNLEGLIO": 940,
+      "CGFMAIFHLEO": 1,
+      "NJHGGAGGPGK": 4
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "PGBMMDIPEFA": "4回合内,累计被攻击3次后。",
+      "KCOAFGJGLHB": 4,
+      "MDBHNLEGLIO": 941,
+      "CGFMAIFHLEO": 3
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "PGBMMDIPEFA": "2回合内,累计被攻击2次后。",
+      "KCOAFGJGLHB": 2,
+      "MDBHNLEGLIO": 941,
+      "CGFMAIFHLEO": 2
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "PGBMMDIPEFA": "累计消灭1个敌方",
+      "MDBHNLEGLIO": 942,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "PGBMMDIPEFA": "累计消灭3个敌方",
+      "MDBHNLEGLIO": 942,
+      "CGFMAIFHLEO": 3
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "PGBMMDIPEFA": "累计冲锋1次",
+      "MDBHNLEGLIO": 946,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "PGBMMDIPEFA": "累计冲锋3次",
+      "MDBHNLEGLIO": 946,
+      "CGFMAIFHLEO": 3
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "PGBMMDIPEFA": "累计固守1次",
+      "MDBHNLEGLIO": 945,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "PGBMMDIPEFA": "累计固守3次",
+      "MDBHNLEGLIO": 945,
+      "CGFMAIFHLEO": 3
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "PGBMMDIPEFA": "1回合内累计冲锋2次",
+      "KCOAFGJGLHB": 1,
+      "MDBHNLEGLIO": 946,
+      "CGFMAIFHLEO": 2
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "PGBMMDIPEFA": "1回合内累计冲锋3次",
+      "KCOAFGJGLHB": 1,
+      "MDBHNLEGLIO": 946,
+      "CGFMAIFHLEO": 3
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "PGBMMDIPEFA": "1回合内消灭敌方1个",
+      "KCOAFGJGLHB": 1,
+      "MDBHNLEGLIO": 942,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "PGBMMDIPEFA": "1回合内消灭敌方2次",
+      "KCOAFGJGLHB": 1,
+      "MDBHNLEGLIO": 942,
+      "CGFMAIFHLEO": 2
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "PGBMMDIPEFA": "2回合内，累计造成伤害2次",
+      "FPKJPBFPPMB": 1,
+      "KCOAFGJGLHB": 2,
+      "MDBHNLEGLIO": 947,
+      "CGFMAIFHLEO": 2
+    },
+    {
+      "LGJCPENNFBC": 1018,
+      "PGBMMDIPEFA": "2回合内，累计造成伤害4次",
+      "FPKJPBFPPMB": 1,
+      "KCOAFGJGLHB": 2,
+      "MDBHNLEGLIO": 947,
+      "CGFMAIFHLEO": 4
+    }
+  ]
+}

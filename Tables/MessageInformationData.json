@@ -1,0 +1,2396 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 150,
+      "MCFMLPLIJJP": 149,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711126
+      ]
+    },
+    {
+      "LGJCPENNFBC": 151,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 14,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711127,
+        711128
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        151
+      ]
+    },
+    {
+      "LGJCPENNFBC": 152,
+      "MCFMLPLIJJP": 151,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711129,
+        711130
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        152
+      ]
+    },
+    {
+      "LGJCPENNFBC": 153,
+      "MCFMLPLIJJP": 152,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711031
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        153
+      ]
+    },
+    {
+      "LGJCPENNFBC": 154,
+      "MCFMLPLIJJP": 153,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711132,
+        711133
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        154
+      ]
+    },
+    {
+      "LGJCPENNFBC": 155,
+      "MCFMLPLIJJP": 154,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711134,
+        711135
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        155
+      ]
+    },
+    {
+      "LGJCPENNFBC": 156,
+      "MCFMLPLIJJP": 155,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711136,
+        711137
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        156
+      ]
+    },
+    {
+      "LGJCPENNFBC": 157,
+      "MCFMLPLIJJP": 156,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711038
+      ]
+    },
+    {
+      "LGJCPENNFBC": 158,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 15,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711039
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        158
+      ]
+    },
+    {
+      "LGJCPENNFBC": 159,
+      "MCFMLPLIJJP": 158,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711040
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        159
+      ]
+    },
+    {
+      "LGJCPENNFBC": 170,
+      "MCFMLPLIJJP": 169,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711160,
+        711161
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        170
+      ]
+    },
+    {
+      "LGJCPENNFBC": 171,
+      "MCFMLPLIJJP": 170,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711162,
+        711163
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        171,
+        173
+      ]
+    },
+    {
+      "LGJCPENNFBC": 172,
+      "MCFMLPLIJJP": 171,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711164,
+        711165
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        172
+      ]
+    },
+    {
+      "LGJCPENNFBC": 173,
+      "MCFMLPLIJJP": 172,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711166,
+        711167,
+        711168
+      ]
+    },
+    {
+      "LGJCPENNFBC": 174,
+      "MCFMLPLIJJP": 173,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711169,
+        711170
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        174
+      ]
+    },
+    {
+      "LGJCPENNFBC": 175,
+      "MCFMLPLIJJP": 174,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711171,
+        711172,
+        711173
+      ]
+    },
+    {
+      "LGJCPENNFBC": 176,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 17,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711174
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        176
+      ]
+    },
+    {
+      "LGJCPENNFBC": 177,
+      "MCFMLPLIJJP": 176,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711175,
+        711176
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        177
+      ]
+    },
+    {
+      "LGJCPENNFBC": 178,
+      "MCFMLPLIJJP": 177,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711177,
+        711178
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        178
+      ]
+    },
+    {
+      "LGJCPENNFBC": 179,
+      "MCFMLPLIJJP": 178,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711179,
+        711180
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        179
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "MCFMLPLIJJP": 49,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311088
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 4,
+      "ADBEKGKLEKO": 1,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311089,
+        311090
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        51
+      ]
+    },
+    {
+      "LGJCPENNFBC": 52,
+      "MCFMLPLIJJP": 51,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311091
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        52
+      ]
+    },
+    {
+      "LGJCPENNFBC": 53,
+      "MCFMLPLIJJP": 52,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311092,
+        311093
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        53
+      ]
+    },
+    {
+      "LGJCPENNFBC": 54,
+      "MCFMLPLIJJP": 53,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311094,
+        311095,
+        311096
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        54
+      ]
+    },
+    {
+      "LGJCPENNFBC": 55,
+      "MCFMLPLIJJP": 54,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311097,
+        311098
+      ]
+    },
+    {
+      "LGJCPENNFBC": 56,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 4,
+      "ADBEKGKLEKO": 2,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311099,
+        311100
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 57,
+      "MCFMLPLIJJP": 56,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311101,
+        311102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 58,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 4,
+      "ADBEKGKLEKO": 3,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311103,
+        311104
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        58
+      ]
+    },
+    {
+      "LGJCPENNFBC": 59,
+      "MCFMLPLIJJP": 58,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311105
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        59
+      ]
+    },
+    {
+      "LGJCPENNFBC": 60,
+      "MCFMLPLIJJP": 59,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311106
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        60
+      ]
+    },
+    {
+      "LGJCPENNFBC": 61,
+      "MCFMLPLIJJP": 60,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311107,
+        311108
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        61
+      ]
+    },
+    {
+      "LGJCPENNFBC": 62,
+      "MCFMLPLIJJP": 61,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311109
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        62
+      ]
+    },
+    {
+      "LGJCPENNFBC": 63,
+      "MCFMLPLIJJP": 62,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311110,
+        311111,
+        311112
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        63
+      ]
+    },
+    {
+      "LGJCPENNFBC": 64,
+      "MCFMLPLIJJP": 63,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311113,
+        311114
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        64
+      ]
+    },
+    {
+      "LGJCPENNFBC": 65,
+      "MCFMLPLIJJP": 64,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311115
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        65
+      ]
+    },
+    {
+      "LGJCPENNFBC": 66,
+      "MCFMLPLIJJP": 65,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311116
+      ]
+    },
+    {
+      "LGJCPENNFBC": 67,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 4,
+      "ADBEKGKLEKO": 4,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311117,
+        311118
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        67
+      ]
+    },
+    {
+      "LGJCPENNFBC": 68,
+      "MCFMLPLIJJP": 67,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311119
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        68
+      ]
+    },
+    {
+      "LGJCPENNFBC": 69,
+      "MCFMLPLIJJP": 68,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311120,
+        311121
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        69,
+        74
+      ]
+    },
+    {
+      "LGJCPENNFBC": 70,
+      "MCFMLPLIJJP": 69,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311122,
+        311123
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        70
+      ]
+    },
+    {
+      "LGJCPENNFBC": 71,
+      "MCFMLPLIJJP": 70,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311124,
+        311125,
+        311126
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        71
+      ]
+    },
+    {
+      "LGJCPENNFBC": 72,
+      "MCFMLPLIJJP": 71,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311127,
+        311128
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        72
+      ]
+    },
+    {
+      "LGJCPENNFBC": 73,
+      "MCFMLPLIJJP": 72,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311129,
+        311130,
+        311131
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        73
+      ]
+    },
+    {
+      "LGJCPENNFBC": 74,
+      "MCFMLPLIJJP": 73,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311132
+      ]
+    },
+    {
+      "LGJCPENNFBC": 75,
+      "MCFMLPLIJJP": 74,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311133,
+        311134
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        75
+      ]
+    },
+    {
+      "LGJCPENNFBC": 76,
+      "MCFMLPLIJJP": 75,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311135,
+        311136,
+        311137
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        76
+      ]
+    },
+    {
+      "LGJCPENNFBC": 77,
+      "MCFMLPLIJJP": 76,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311138,
+        311139,
+        311140
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        77
+      ]
+    },
+    {
+      "LGJCPENNFBC": 78,
+      "MCFMLPLIJJP": 77,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311141
+      ]
+    },
+    {
+      "LGJCPENNFBC": 79,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 4,
+      "ADBEKGKLEKO": 5,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311142,
+        311143,
+        311144
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 80,
+      "MCFMLPLIJJP": 79,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311145,
+        311146
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 4,
+      "ADBEKGKLEKO": 6,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311147,
+        311148
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        81
+      ]
+    },
+    {
+      "LGJCPENNFBC": 82,
+      "MCFMLPLIJJP": 81,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311149,
+        311150,
+        311151
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        82
+      ]
+    },
+    {
+      "LGJCPENNFBC": 83,
+      "MCFMLPLIJJP": 82,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311152
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        83
+      ]
+    },
+    {
+      "LGJCPENNFBC": 84,
+      "MCFMLPLIJJP": 83,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311153
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        84
+      ]
+    },
+    {
+      "LGJCPENNFBC": 85,
+      "MCFMLPLIJJP": 84,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311154,
+        311155
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        85
+      ]
+    },
+    {
+      "LGJCPENNFBC": 86,
+      "MCFMLPLIJJP": 85,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311156
+      ]
+    },
+    {
+      "LGJCPENNFBC": 87,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 4,
+      "ADBEKGKLEKO": 7,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311157,
+        311158
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 88,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 1,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711001,
+        711002
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        88
+      ]
+    },
+    {
+      "LGJCPENNFBC": 89,
+      "MCFMLPLIJJP": 88,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711003,
+        711004
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        89
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100,
+      "MCFMLPLIJJP": 99,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711020
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 3,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711021,
+        711022
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 4,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711023
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "MCFMLPLIJJP": 102,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711024
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "MCFMLPLIJJP": 103,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711025,
+        711026
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "MCFMLPLIJJP": 104,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711027
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "MCFMLPLIJJP": 105,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711027
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        106
+      ]
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "MCFMLPLIJJP": 106,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711029,
+        711030
+      ]
+    },
+    {
+      "LGJCPENNFBC": 108,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 5,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711031
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        108
+      ]
+    },
+    {
+      "LGJCPENNFBC": 109,
+      "MCFMLPLIJJP": 108,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711032,
+        711033,
+        711034
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        109
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "MCFMLPLIJJP": 19,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311036
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        20
+      ]
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "MCFMLPLIJJP": 20,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311037
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        21
+      ]
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "MCFMLPLIJJP": 21,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311038
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        22
+      ]
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "MCFMLPLIJJP": 22,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311039,
+        311040
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        23
+      ]
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "MCFMLPLIJJP": 23,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311041,
+        311042
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        24
+      ]
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "MCFMLPLIJJP": 24,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311043,
+        311044,
+        311045
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        25
+      ]
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "MCFMLPLIJJP": 25,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311046
+      ]
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 3,
+      "ADBEKGKLEKO": 1,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311047,
+        311048,
+        311049
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        27
+      ]
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "MCFMLPLIJJP": 27,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311050
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        28
+      ]
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "MCFMLPLIJJP": 28,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311051,
+        311052
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        29,
+        31
+      ]
+    },
+    {
+      "LGJCPENNFBC": 130,
+      "MCFMLPLIJJP": 129,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711086,
+        711087,
+        711088
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        130
+      ]
+    },
+    {
+      "LGJCPENNFBC": 131,
+      "MCFMLPLIJJP": 130,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711089,
+        711090
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        131
+      ]
+    },
+    {
+      "LGJCPENNFBC": 132,
+      "MCFMLPLIJJP": 131,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711091
+      ]
+    },
+    {
+      "LGJCPENNFBC": 133,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 11,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711092,
+        711093
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        133
+      ]
+    },
+    {
+      "LGJCPENNFBC": 134,
+      "MCFMLPLIJJP": 133,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711094,
+        711095,
+        711096,
+        711097
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        134
+      ]
+    },
+    {
+      "LGJCPENNFBC": 135,
+      "MCFMLPLIJJP": 134,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711098,
+        711099,
+        711100
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        135,
+        138
+      ]
+    },
+    {
+      "LGJCPENNFBC": 136,
+      "MCFMLPLIJJP": 135,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711101,
+        711102,
+        711103,
+        711104
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        136
+      ]
+    },
+    {
+      "LGJCPENNFBC": 137,
+      "MCFMLPLIJJP": 136,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711105,
+        711106
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        137
+      ]
+    },
+    {
+      "LGJCPENNFBC": 138,
+      "MCFMLPLIJJP": 137,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711107,
+        711108
+      ]
+    },
+    {
+      "LGJCPENNFBC": 139,
+      "MCFMLPLIJJP": 138,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711109,
+        711110
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        139
+      ]
+    },
+    {
+      "LGJCPENNFBC": 190,
+      "MCFMLPLIJJP": 189,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711198
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        190
+      ]
+    },
+    {
+      "LGJCPENNFBC": 191,
+      "MCFMLPLIJJP": 190,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711199
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        191
+      ]
+    },
+    {
+      "LGJCPENNFBC": 192,
+      "MCFMLPLIJJP": 191,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711200,
+        711201,
+        711202,
+        711203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 193,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 20,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711204,
+        711205
+      ]
+    },
+    {
+      "LGJCPENNFBC": 160,
+      "MCFMLPLIJJP": 159,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711141,
+        711142
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        160
+      ]
+    },
+    {
+      "LGJCPENNFBC": 161,
+      "MCFMLPLIJJP": 160,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711143,
+        711144
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        161
+      ]
+    },
+    {
+      "LGJCPENNFBC": 162,
+      "MCFMLPLIJJP": 161,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711145,
+        711146
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        162
+      ]
+    },
+    {
+      "LGJCPENNFBC": 163,
+      "MCFMLPLIJJP": 162,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711147,
+        711148
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        163
+      ]
+    },
+    {
+      "LGJCPENNFBC": 164,
+      "MCFMLPLIJJP": 163,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711149,
+        711150
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        164
+      ]
+    },
+    {
+      "LGJCPENNFBC": 165,
+      "MCFMLPLIJJP": 164,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711151,
+        711152,
+        711153
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        165
+      ]
+    },
+    {
+      "LGJCPENNFBC": 166,
+      "MCFMLPLIJJP": 165,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711154
+      ]
+    },
+    {
+      "LGJCPENNFBC": 167,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 16,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711155,
+        711156
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        167
+      ]
+    },
+    {
+      "LGJCPENNFBC": 168,
+      "MCFMLPLIJJP": 167,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711157,
+        711158
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        168
+      ]
+    },
+    {
+      "LGJCPENNFBC": 169,
+      "MCFMLPLIJJP": 168,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711159
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        169
+      ]
+    },
+    {
+      "LGJCPENNFBC": 180,
+      "MCFMLPLIJJP": 179,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711181
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        180
+      ]
+    },
+    {
+      "LGJCPENNFBC": 181,
+      "MCFMLPLIJJP": 180,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711182
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        181
+      ]
+    },
+    {
+      "LGJCPENNFBC": 182,
+      "MCFMLPLIJJP": 181,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711183,
+        711184
+      ]
+    },
+    {
+      "LGJCPENNFBC": 183,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 18,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711185
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        183
+      ]
+    },
+    {
+      "LGJCPENNFBC": 184,
+      "MCFMLPLIJJP": 183,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711186,
+        711187
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        184
+      ]
+    },
+    {
+      "LGJCPENNFBC": 185,
+      "MCFMLPLIJJP": 184,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711188,
+        711189,
+        711190
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        185
+      ]
+    },
+    {
+      "LGJCPENNFBC": 186,
+      "MCFMLPLIJJP": 185,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711191,
+        711192,
+        711193
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        186
+      ]
+    },
+    {
+      "LGJCPENNFBC": 187,
+      "MCFMLPLIJJP": 186,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711194
+      ]
+    },
+    {
+      "LGJCPENNFBC": 188,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 19,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711195,
+        711196
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        188
+      ]
+    },
+    {
+      "LGJCPENNFBC": 189,
+      "MCFMLPLIJJP": 188,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711197
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        189
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 2,
+      "ADBEKGKLEKO": 1,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311001,
+        311002
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "MCFMLPLIJJP": 1,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311003,
+        311004,
+        311005,
+        312001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "MCFMLPLIJJP": 2,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311006,
+        312002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "MCFMLPLIJJP": 3,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311007,
+        311008
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 2,
+      "ADBEKGKLEKO": 2,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311009,
+        311010
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        5
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "MCFMLPLIJJP": 5,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311011
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        6
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "MCFMLPLIJJP": 6,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311012,
+        311013
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        7
+      ]
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "MCFMLPLIJJP": 7,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311014,
+        311015,
+        311016
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        8
+      ]
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "MCFMLPLIJJP": 8,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311017
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "MCFMLPLIJJP": 29,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311053
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        30
+      ]
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "MCFMLPLIJJP": 30,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311054
+      ]
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "MCFMLPLIJJP": 31,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311055
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        32
+      ]
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "MCFMLPLIJJP": 32,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311056,
+        311057
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        33
+      ]
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "MCFMLPLIJJP": 33,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311058,
+        311059
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        34
+      ]
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "MCFMLPLIJJP": 34,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311060
+      ]
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 3,
+      "ADBEKGKLEKO": 2,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311061,
+        311062,
+        311063
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "MCFMLPLIJJP": 36,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311064,
+        311065
+      ]
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 3,
+      "ADBEKGKLEKO": 3,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311066,
+        311067
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        38
+      ]
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "MCFMLPLIJJP": 38,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311068,
+        311069
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        39
+      ]
+    },
+    {
+      "LGJCPENNFBC": 90,
+      "MCFMLPLIJJP": 89,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711005,
+        711006
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        90
+      ]
+    },
+    {
+      "LGJCPENNFBC": 91,
+      "MCFMLPLIJJP": 90,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711007,
+        711008
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        91
+      ]
+    },
+    {
+      "LGJCPENNFBC": 92,
+      "MCFMLPLIJJP": 91,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711009,
+        711010
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        92
+      ]
+    },
+    {
+      "LGJCPENNFBC": 93,
+      "MCFMLPLIJJP": 92,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711011
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        93
+      ]
+    },
+    {
+      "LGJCPENNFBC": 94,
+      "MCFMLPLIJJP": 93,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711012
+      ]
+    },
+    {
+      "LGJCPENNFBC": 95,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 2,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711013,
+        711014
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        95
+      ]
+    },
+    {
+      "LGJCPENNFBC": 96,
+      "MCFMLPLIJJP": 95,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711015
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        96
+      ]
+    },
+    {
+      "LGJCPENNFBC": 97,
+      "MCFMLPLIJJP": 96,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711016
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        97
+      ]
+    },
+    {
+      "LGJCPENNFBC": 98,
+      "MCFMLPLIJJP": 97,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711017
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        98
+      ]
+    },
+    {
+      "LGJCPENNFBC": 99,
+      "MCFMLPLIJJP": 98,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711018,
+        711019
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        99
+      ]
+    },
+    {
+      "LGJCPENNFBC": 110,
+      "MCFMLPLIJJP": 109,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711035,
+        711036,
+        711037
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        110
+      ]
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "MCFMLPLIJJP": 110,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711038,
+        711039,
+        711040
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "MCFMLPLIJJP": 111,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711041,
+        711042
+      ]
+    },
+    {
+      "LGJCPENNFBC": 113,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 6,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711043,
+        711044
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        113
+      ]
+    },
+    {
+      "LGJCPENNFBC": 114,
+      "MCFMLPLIJJP": 113,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711045,
+        711046
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        114
+      ]
+    },
+    {
+      "LGJCPENNFBC": 115,
+      "MCFMLPLIJJP": 114,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711047,
+        711048
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        115
+      ]
+    },
+    {
+      "LGJCPENNFBC": 116,
+      "MCFMLPLIJJP": 115,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711049,
+        711050,
+        711051
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        116
+      ]
+    },
+    {
+      "LGJCPENNFBC": 117,
+      "MCFMLPLIJJP": 116,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711052,
+        711053,
+        711054,
+        711055
+      ]
+    },
+    {
+      "LGJCPENNFBC": 118,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 7,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711056,
+        711057,
+        711058
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 119,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 8,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711059
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        119
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120,
+      "MCFMLPLIJJP": 119,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711060,
+        711061,
+        711062
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        120
+      ]
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "MCFMLPLIJJP": 120,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711063,
+        711064,
+        711065
+      ]
+    },
+    {
+      "LGJCPENNFBC": 122,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 9,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711066,
+        711067,
+        711068
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        122
+      ]
+    },
+    {
+      "LGJCPENNFBC": 123,
+      "MCFMLPLIJJP": 122,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711069,
+        711070,
+        711071
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        123
+      ]
+    },
+    {
+      "LGJCPENNFBC": 124,
+      "MCFMLPLIJJP": 123,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711072,
+        711073
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        124
+      ]
+    },
+    {
+      "LGJCPENNFBC": 125,
+      "MCFMLPLIJJP": 124,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711074,
+        711075,
+        711076
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        125
+      ]
+    },
+    {
+      "LGJCPENNFBC": 126,
+      "MCFMLPLIJJP": 125,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711077,
+        711078,
+        711079
+      ]
+    },
+    {
+      "LGJCPENNFBC": 127,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 10,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711080,
+        711081
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        127
+      ]
+    },
+    {
+      "LGJCPENNFBC": 128,
+      "MCFMLPLIJJP": 127,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711082
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        128
+      ]
+    },
+    {
+      "LGJCPENNFBC": 129,
+      "MCFMLPLIJJP": 128,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711083,
+        711084,
+        711085
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        129
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 2,
+      "ADBEKGKLEKO": 3,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311018,
+        311019
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        10
+      ]
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "MCFMLPLIJJP": 10,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311020
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        11
+      ]
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "MCFMLPLIJJP": 11,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311021,
+        311022,
+        311023
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        12
+      ]
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "MCFMLPLIJJP": 12,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311024,
+        311025
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        13
+      ]
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "MCFMLPLIJJP": 13,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311026,
+        311027
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        14
+      ]
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "MCFMLPLIJJP": 14,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311028,
+        311029
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        15
+      ]
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "MCFMLPLIJJP": 15,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311030,
+        311031
+      ]
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 2,
+      "ADBEKGKLEKO": 4,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311032,
+        311033
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 3,
+      "ADBEKGKLEKO": 1,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311034
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        18
+      ]
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "MCFMLPLIJJP": 18,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311035
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        19
+      ]
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "MCFMLPLIJJP": 39,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311070,
+        311071,
+        311072
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        40
+      ]
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "MCFMLPLIJJP": 40,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311073,
+        311074
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        41
+      ]
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "MCFMLPLIJJP": 41,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311075,
+        311076
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        42
+      ]
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "MCFMLPLIJJP": 42,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311077
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        43
+      ]
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "MCFMLPLIJJP": 43,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311078
+      ]
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 3,
+      "ADBEKGKLEKO": 4,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311079,
+        311080
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "MCFMLPLIJJP": 310001,
+      "DFMPAPHANLI": 4,
+      "ADBEKGKLEKO": 1,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311081
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        46
+      ]
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "MCFMLPLIJJP": 46,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311082,
+        311083
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        47
+      ]
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "MCFMLPLIJJP": 47,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311084,
+        311085
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        48
+      ]
+    },
+    {
+      "LGJCPENNFBC": 49,
+      "MCFMLPLIJJP": 48,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        311086,
+        311087
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        49
+      ]
+    },
+    {
+      "LGJCPENNFBC": 140,
+      "MCFMLPLIJJP": 139,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711111,
+        711112
+      ]
+    },
+    {
+      "LGJCPENNFBC": 141,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 12,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711113,
+        711114
+      ],
+      "CGJKGAPNJNJ": "message_information_player"
+    },
+    {
+      "LGJCPENNFBC": 142,
+      "MCFMLPLIJJP": 710001,
+      "DFMPAPHANLI": 1,
+      "ADBEKGKLEKO": 13,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711115
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        142
+      ]
+    },
+    {
+      "LGJCPENNFBC": 143,
+      "MCFMLPLIJJP": 142,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711116,
+        711117
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        143
+      ]
+    },
+    {
+      "LGJCPENNFBC": 144,
+      "MCFMLPLIJJP": 143,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711118
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        144
+      ]
+    },
+    {
+      "LGJCPENNFBC": 145,
+      "MCFMLPLIJJP": 144,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711119
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        145
+      ]
+    },
+    {
+      "LGJCPENNFBC": 146,
+      "MCFMLPLIJJP": 145,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711120
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        146
+      ]
+    },
+    {
+      "LGJCPENNFBC": 147,
+      "MCFMLPLIJJP": 146,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711121
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        147
+      ]
+    },
+    {
+      "LGJCPENNFBC": 148,
+      "MCFMLPLIJJP": 147,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711122,
+        711123
+      ],
+      "CGJKGAPNJNJ": "message_information_player",
+      "MDOPPOOGHCL": [
+        148
+      ]
+    },
+    {
+      "LGJCPENNFBC": 149,
+      "MCFMLPLIJJP": 148,
+      "NKKBLEJIMOI": 50,
+      "GOHEPPMJMJA": [
+        711124,
+        711125
+      ],
+      "CGJKGAPNJNJ": "message_information_npc",
+      "MDOPPOOGHCL": [
+        149
+      ]
+    }
+  ]
+}

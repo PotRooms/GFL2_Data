@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "CGNBCPDGEEK": 1,
+      "GPCMNEMOHJA": [
+        0
+      ],
+      "KGIJFMIPFJA": 2,
+      "JKGMGALNGGK": 4,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51001
+    },
+    {
+      "CGNBCPDGEEK": 2,
+      "EDLELHDIDHC": 2000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 2,
+      "JKGMGALNGGK": 4,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51002
+    },
+    {
+      "CGNBCPDGEEK": 3,
+      "EDLELHDIDHC": 3000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 5,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51003
+    },
+    {
+      "CGNBCPDGEEK": 4,
+      "EDLELHDIDHC": 5000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 5,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51004,
+      "GKGMJHMHBJC": 50
+    },
+    {
+      "CGNBCPDGEEK": 5,
+      "EDLELHDIDHC": 10000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 6,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51005,
+      "GKGMJHMHBJC": 50,
+      "ODONJCFECDJ": 200
+    },
+    {
+      "CGNBCPDGEEK": 6,
+      "EDLELHDIDHC": 15000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 6,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51006,
+      "GKGMJHMHBJC": 100,
+      "ODONJCFECDJ": 200
+    },
+    {
+      "CGNBCPDGEEK": 7,
+      "EDLELHDIDHC": 20000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 7,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51007
+    },
+    {
+      "CGNBCPDGEEK": 8,
+      "EDLELHDIDHC": 25000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 7,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51008
+    },
+    {
+      "CGNBCPDGEEK": 9,
+      "EDLELHDIDHC": 30000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 8,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51009
+    },
+    {
+      "CGNBCPDGEEK": 10,
+      "EDLELHDIDHC": 50000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 8,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51010
+    },
+    {
+      "CGNBCPDGEEK": 11,
+      "EDLELHDIDHC": 80000,
+      "GPCMNEMOHJA": [
+        7100,
+        1
+      ],
+      "KGIJFMIPFJA": 3,
+      "JKGMGALNGGK": 9,
+      "HMIGBGLGJNL": 100,
+      "FINJKEKGLIK": 51011
+    }
+  ]
+}

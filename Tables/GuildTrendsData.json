@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "IHGDOKNBNCO": [
+        1,
+        2
+      ],
+      "PGBMMDIPEFA": "创建班组",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color>创建了<color=#F26C1C>{1}</color>"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "IHGDOKNBNCO": [
+        1,
+        2
+      ],
+      "PGBMMDIPEFA": "改名",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color>将班组名称改为<color=#F26C1C>{1}</color>"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "IHGDOKNBNCO": [
+        1
+      ],
+      "PGBMMDIPEFA": "成员加入",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color>加入了班组"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "IHGDOKNBNCO": [
+        1
+      ],
+      "PGBMMDIPEFA": "成员离开",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color>离开了班组"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "IHGDOKNBNCO": [
+        1,
+        1
+      ],
+      "PGBMMDIPEFA": "成员被移除",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color>将<color=#F26C1C>{1}</color>从班组中请离"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "IHGDOKNBNCO": [
+        1
+      ],
+      "PGBMMDIPEFA": "成员晋升",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color> 已被任命为副班组长"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "IHGDOKNBNCO": [
+        1
+      ],
+      "PGBMMDIPEFA": "成员降职",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color> 不再是副班组长"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "IHGDOKNBNCO": [
+        1
+      ],
+      "PGBMMDIPEFA": "委托触发补给奖励",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color>完成每日要务时触发了要务补给"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "IHGDOKNBNCO": [
+        1
+      ],
+      "PGBMMDIPEFA": "班组长转让",
+      "LMDJKJCPJHF": "<color=#F26C1C>{0}</color>成为了新的班组长"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "KKMCHFAMIBJ": 1,
+      "ELADFCOJCOB": "B",
+      "OKGKIADPLBF": "Icon_MultiDefense_Rated_1",
+      "JHAJDBEPALK": "Icon_MultiDefense_Rated1"
+    },
+    {
+      "KKMCHFAMIBJ": 2,
+      "ELADFCOJCOB": "A",
+      "OKGKIADPLBF": "Icon_MultiDefense_Rated_2",
+      "JHAJDBEPALK": "Icon_MultiDefense_Rated2"
+    },
+    {
+      "KKMCHFAMIBJ": 3,
+      "ELADFCOJCOB": "S",
+      "OKGKIADPLBF": "Icon_MultiDefense_Rated_3",
+      "JHAJDBEPALK": "Icon_MultiDefense_Rated3"
+    },
+    {
+      "KKMCHFAMIBJ": 4,
+      "ELADFCOJCOB": "SS",
+      "OKGKIADPLBF": "Icon_MultiDefense_Rated_4",
+      "JHAJDBEPALK": "Icon_MultiDefense_Rated4"
+    }
+  ]
+}

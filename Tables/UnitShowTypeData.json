@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "FOCNBIKOIIG": 1,
+      "BJLELANDBDG": "AirDrop"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "FOCNBIKOIIG": 2,
+      "BJLELANDBDG": "BossSpawn"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "FOCNBIKOIIG": 2,
+      "BJLELANDBDG": "BossRetreat"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "FOCNBIKOIIG": 2,
+      "BJLELANDBDG": "BossDeath"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "FOCNBIKOIIG": 5
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "FOCNBIKOIIG": 10,
+      "BJLELANDBDG": "NoneEffect"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "FOCNBIKOIIG": 11,
+      "BJLELANDBDG": "OneFrame"
+    }
+  ]
+}

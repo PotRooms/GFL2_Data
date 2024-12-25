@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "闪电的脸",
+      "BKCIGACKEFD": "face",
+      "KHKINCNEIIO": "Groza_Pajama_face",
+      "GFMDILIKGLM": "闪电的脸"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "闪电的头发",
+      "BKCIGACKEFD": "hair",
+      "LOFBMHEIADD": "Pajama",
+      "KHKINCNEIIO": "Groza_Pajama_hair",
+      "GFMDILIKGLM": "头发"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "闪电的身体",
+      "BKCIGACKEFD": "body",
+      "LOFBMHEIADD": "Pajama",
+      "KHKINCNEIIO": "Groza_Pajama_body",
+      "GFMDILIKGLM": "身体"
+    }
+  ]
+}

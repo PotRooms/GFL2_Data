@@ -1,0 +1,385 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 3030,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "收礼物2",
+      "CELJOAKFJEE": "c_Groza_behave_GiftRecieve2"
+    },
+    {
+      "LGJCPENNFBC": 3031,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "说话-不开心",
+      "CELJOAKFJEE": "c_Groza_behave_unhappy",
+      "KBNGDBFIALJ": "悲伤",
+      "MPBCBADLLAK": 2
+    },
+    {
+      "LGJCPENNFBC": 3032,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "说话-疑惑",
+      "CELJOAKFJEE": "c_Groza_behave_doubt",
+      "KBNGDBFIALJ": "惊喜",
+      "MPBCBADLLAK": 5
+    },
+    {
+      "LGJCPENNFBC": 3033,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "说话-叹气",
+      "CELJOAKFJEE": "c_Groza_behave_sigh",
+      "KBNGDBFIALJ": "吃惊",
+      "MPBCBADLLAK": 4
+    },
+    {
+      "LGJCPENNFBC": 3034,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "说话-茫然",
+      "CELJOAKFJEE": "c_Groza_behave_confuse"
+    },
+    {
+      "LGJCPENNFBC": 3035,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "说话-微笑",
+      "CELJOAKFJEE": "c_Groza_behave_smile"
+    },
+    {
+      "LGJCPENNFBC": 3036,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "说话-思考1",
+      "CELJOAKFJEE": "c_Groza_behave_think1"
+    },
+    {
+      "LGJCPENNFBC": 3037,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "说话-思考2",
+      "CELJOAKFJEE": "c_Groza_behave_think2"
+    },
+    {
+      "LGJCPENNFBC": 3038,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床边-床里",
+      "CELJOAKFJEE": "c_Groza_idle_SitInToBed"
+    },
+    {
+      "LGJCPENNFBC": 3039,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床上",
+      "CELJOAKFJEE": "c_Groza_idle_SitOnBed"
+    },
+    {
+      "LGJCPENNFBC": 30051,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "站姿说话1",
+      "CELJOAKFJEE": "c_Groza_StandTalk1"
+    },
+    {
+      "LGJCPENNFBC": 30052,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "跳舞",
+      "CELJOAKFJEE": "c_Groza_Dance"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "脸部表情测试",
+      "CELJOAKFJEE": "c_Groza_idle_Stand1ForBlendTree_Facetest"
+    },
+    {
+      "LGJCPENNFBC": 3000,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "站姿idle-转身用",
+      "CELJOAKFJEE": "c_Groza_idle_Stand1ForBlendTree"
+    },
+    {
+      "LGJCPENNFBC": 3001,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "站姿idle",
+      "CELJOAKFJEE": "c_Groza_idle_stand1",
+      "LBGNNPOCPPI": 2
+    },
+    {
+      "LGJCPENNFBC": 3002,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿椅-idle",
+      "CELJOAKFJEE": "c_Groza_idle_SitbyChair",
+      "KBNGDBFIALJ": "开心",
+      "MPBCBADLLAK": 1,
+      "LBGNNPOCPPI": 2
+    },
+    {
+      "LGJCPENNFBC": 3003,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床-idle",
+      "CELJOAKFJEE": "c_Groza_idle_SitbyBed",
+      "KBNGDBFIALJ": "开心",
+      "MPBCBADLLAK": 1
+    },
+    {
+      "LGJCPENNFBC": 3004,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "站姿idle-2",
+      "CELJOAKFJEE": "c_Groza_idle_stand2"
+    },
+    {
+      "LGJCPENNFBC": 3005,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "站姿1-看镜头",
+      "CELJOAKFJEE": "c_Groza_idle_Stand1LookAtCamera"
+    },
+    {
+      "LGJCPENNFBC": 3006,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "站姿1-看镜头idle",
+      "CELJOAKFJEE": "c_Groza_idle_Stand1LookAtCameraIdle"
+    },
+    {
+      "LGJCPENNFBC": 3011,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿说话-椅",
+      "CELJOAKFJEE": "c_Groza_behave_SitByChairTalk"
+    },
+    {
+      "LGJCPENNFBC": 3012,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿-说话-椅",
+      "CELJOAKFJEE": "c_Groza_behave_SitByChairToTalk"
+    },
+    {
+      "LGJCPENNFBC": 3050,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "邀请上床",
+      "CELJOAKFJEE": "c_Groza_behave_inviteOnbed_1"
+    },
+    {
+      "LGJCPENNFBC": 3051,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床边-邀请上床",
+      "CELJOAKFJEE": "c_Groza_behave_SitOnBedToinviteOnbed"
+    },
+    {
+      "LGJCPENNFBC": 3052,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "邀请上床-坐姿床边",
+      "CELJOAKFJEE": "c_Groza_behave_inviteOnbedToSitOnBed"
+    },
+    {
+      "LGJCPENNFBC": 3053,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "睡觉",
+      "CELJOAKFJEE": "c_Groza_behave_Sleep"
+    },
+    {
+      "LGJCPENNFBC": 3054,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床边-睡觉",
+      "CELJOAKFJEE": "c_Groza_behave_SitOnBedToSleep"
+    },
+    {
+      "LGJCPENNFBC": 3055,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "睡觉-坐姿床边",
+      "CELJOAKFJEE": "c_Groza_behave_SleepToSitOnBed"
+    },
+    {
+      "LGJCPENNFBC": 3056,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "惊醒",
+      "CELJOAKFJEE": "c_Groza_behave_ShockAwake"
+    },
+    {
+      "LGJCPENNFBC": 3101,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿拿书-椅子",
+      "CELJOAKFJEE": "c_Groza_SitByChairGetBook"
+    },
+    {
+      "LGJCPENNFBC": 3102,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿翻书-椅子",
+      "CELJOAKFJEE": "c_Groza_behave_SitByChairPaging",
+      "LBGNNPOCPPI": 3
+    },
+    {
+      "LGJCPENNFBC": 3103,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿合上书本-椅子",
+      "CELJOAKFJEE": "c_Groza_SitByChairCloseBook"
+    },
+    {
+      "LGJCPENNFBC": 3104,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿看书-椅子",
+      "CELJOAKFJEE": "c_Groza_behave_SitByChairReading"
+    },
+    {
+      "LGJCPENNFBC": 3105,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "上床侧躺",
+      "CELJOAKFJEE": "c_Groza_behave_LayDownOnBed"
+    },
+    {
+      "LGJCPENNFBC": 3106,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "睡觉呼吸",
+      "CELJOAKFJEE": "c_Groza_behave_SleepIdle",
+      "LBGNNPOCPPI": 10
+    },
+    {
+      "LGJCPENNFBC": 3107,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "睡醒起床",
+      "CELJOAKFJEE": "c_Groza_behave_GetAwake"
+    },
+    {
+      "LGJCPENNFBC": 3108,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "伸懒腰",
+      "CELJOAKFJEE": "c_Groza_behave_StretchInDream"
+    },
+    {
+      "LGJCPENNFBC": 3109,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿看书-记笔记",
+      "CELJOAKFJEE": "c_Groza_behave_SitByChairTakeNote"
+    },
+    {
+      "LGJCPENNFBC": 3110,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿看书-挠头",
+      "CELJOAKFJEE": "c_Groza_behave_SitByChairReadScratch"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿拿出书",
+      "CELJOAKFJEE": "c_Groza_SitbyChairTakeBookFront"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿阅读",
+      "CELJOAKFJEE": "c_Groza_SitbyChairReadingIdle",
+      "LBGNNPOCPPI": 10
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿收书",
+      "CELJOAKFJEE": "c_Groza_SitbyChairPutDownBookFront"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿看向镜头(椅)",
+      "CELJOAKFJEE": "c_Groza_SitbyChairLookAtCamera"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿看向镜头idle(椅)",
+      "CELJOAKFJEE": "c_Groza_SitbyChairLookAtCameraIdle"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿看离镜头_过渡动作(椅)",
+      "CELJOAKFJEE": "c_Groza_SitbyChairLookOutCamera"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "听音乐",
+      "CELJOAKFJEE": "c_Groza_behave_ListenMusic"
+    },
+    {
+      "LGJCPENNFBC": 3025,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "弯腰",
+      "CELJOAKFJEE": "c_Groza_behave_bow"
+    },
+    {
+      "LGJCPENNFBC": 3026,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "敲窗户",
+      "CELJOAKFJEE": "c_Groza_behave_KonckWindow"
+    },
+    {
+      "LGJCPENNFBC": 3027,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "半弯腰",
+      "CELJOAKFJEE": "c_Groza_behave_bow1"
+    },
+    {
+      "LGJCPENNFBC": 3028,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "撩头发",
+      "CELJOAKFJEE": "c_Groza_behave_HairLift"
+    },
+    {
+      "LGJCPENNFBC": 3029,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "收礼物1",
+      "CELJOAKFJEE": "c_Groza_behave_GiftRecieve1"
+    },
+    {
+      "LGJCPENNFBC": 3040,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床里-床边",
+      "CELJOAKFJEE": "c_Groza_idle_SitOutOnBed"
+    },
+    {
+      "LGJCPENNFBC": 3041,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床边发呆",
+      "CELJOAKFJEE": "c_Groza_behave_MontionlessOnbed_1"
+    },
+    {
+      "LGJCPENNFBC": 3042,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床边-发呆",
+      "CELJOAKFJEE": "c_Groza_behave_SitOnBedToMontionlessOnbed"
+    },
+    {
+      "LGJCPENNFBC": 3043,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "发呆-坐姿床边",
+      "CELJOAKFJEE": "c_Groza_behave_MontionlessOnbedToSitOnBed"
+    },
+    {
+      "LGJCPENNFBC": 3044,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "床上听音乐",
+      "CELJOAKFJEE": "c_Groza_behave_ListentoMusic_1"
+    },
+    {
+      "LGJCPENNFBC": 3045,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床边-听音乐",
+      "CELJOAKFJEE": "c_Groza_behave_SitOnBedToListentoMusic"
+    },
+    {
+      "LGJCPENNFBC": 3046,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "听音乐-坐姿床边",
+      "CELJOAKFJEE": "c_Groza_behave_ListentoMusicToSitOnBed"
+    },
+    {
+      "LGJCPENNFBC": 3047,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "贴海报",
+      "CELJOAKFJEE": "c_Groza_behave_Poster_1"
+    },
+    {
+      "LGJCPENNFBC": 3048,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "坐姿床边-贴海报",
+      "CELJOAKFJEE": "c_Groza_behave_SitOnBedToPoster"
+    },
+    {
+      "LGJCPENNFBC": 3049,
+      "CHEFGIBNLOP": 3,
+      "HBJAHCGKJJD": "贴海报-坐姿床边",
+      "CELJOAKFJEE": "c_Groza_behave_PosterToSitOnBed"
+    }
+  ]
+}

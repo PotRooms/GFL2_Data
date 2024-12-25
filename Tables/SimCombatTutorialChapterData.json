@@ -1,0 +1,291 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 101,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "3154"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic1",
+      "AMBDOFMMINC": "Img_SimCombatTeaching_Pic1",
+      "ONNKGDAHOCC": [
+        41101,
+        41102,
+        41103,
+        41104,
+        41105,
+        41106
+      ],
+      "EBGCELNKALI": 11010,
+      "MBLNJGOJNJJ": "指挥官等级达到13级后解锁",
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5231"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11013
+      ],
+      "DKIPIKLPOGJ": 6
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5232"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic1",
+      "ONNKGDAHOCC": [
+        41107,
+        41108,
+        41109,
+        41110,
+        41111,
+        41112
+      ],
+      "EBGCELNKALI": 11010,
+      "MBLNJGOJNJJ": "通关掩体相关专题后解锁",
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5233"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11013
+      ],
+      "DKIPIKLPOGJ": 6
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5235"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic2",
+      "ONNKGDAHOCC": [
+        41201,
+        41202,
+        41203,
+        41204,
+        41205
+      ],
+      "EBGCELNKALI": 11010,
+      "MBLNJGOJNJJ": "通关基础战斗机制专题后解锁",
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5237"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11104
+      ],
+      "DKIPIKLPOGJ": 5
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5238"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic2",
+      "ONNKGDAHOCC": [
+        41206,
+        41207,
+        41208,
+        41209,
+        41210,
+        41211
+      ],
+      "EBGCELNKALI": 11010,
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5237"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11105
+      ],
+      "DKIPIKLPOGJ": 6
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5239"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic2",
+      "ONNKGDAHOCC": [
+        41212,
+        41213
+      ],
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5240"
+      },
+      "BKAABBNNICO": [
+        11013
+      ]
+    },
+    {
+      "LGJCPENNFBC": 301,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5241"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic3",
+      "ONNKGDAHOCC": [
+        41301,
+        41302,
+        41303,
+        41304
+      ],
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5240"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11105
+      ],
+      "DKIPIKLPOGJ": 4
+    },
+    {
+      "LGJCPENNFBC": 302,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5242"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic3",
+      "ONNKGDAHOCC": [
+        41305,
+        41306,
+        41307,
+        41308,
+        41309
+      ],
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5240"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11106
+      ],
+      "DKIPIKLPOGJ": 5
+    },
+    {
+      "LGJCPENNFBC": 303,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5244"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic3",
+      "ONNKGDAHOCC": [
+        41310,
+        41311,
+        41312,
+        41313,
+        41314,
+        41315,
+        41316
+      ],
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5240"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11013
+      ],
+      "DKIPIKLPOGJ": 7
+    },
+    {
+      "LGJCPENNFBC": 401,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5245"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic4",
+      "ONNKGDAHOCC": [
+        41401,
+        41402,
+        41403
+      ],
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5240"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11013
+      ],
+      "DKIPIKLPOGJ": 3
+    },
+    {
+      "LGJCPENNFBC": 402,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5246"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic4",
+      "ONNKGDAHOCC": [
+        41404,
+        41405,
+        41406
+      ],
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5240"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11013
+      ],
+      "DKIPIKLPOGJ": 3
+    },
+    {
+      "LGJCPENNFBC": 403,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5290"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic4",
+      "ONNKGDAHOCC": [
+        41407,
+        41408,
+        41409,
+        41410
+      ],
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5240"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11013
+      ],
+      "DKIPIKLPOGJ": 4
+    },
+    {
+      "LGJCPENNFBC": 404,
+      "MNEMMGJOGNP": {
+        "DOHLNDIPHAJ": "5293"
+      },
+      "GMOGBOLPLNM": "Icon_SimCombatTeaching_Topic4",
+      "ONNKGDAHOCC": [
+        41411,
+        41412,
+        41413,
+        41414
+      ],
+      "FFMPEPANBDN": {
+        "DOHLNDIPHAJ": "5240"
+      },
+      "CIIEJACINFM": {
+        "1": 50
+      },
+      "BKAABBNNICO": [
+        11013
+      ],
+      "DKIPIKLPOGJ": 4
+    }
+  ]
+}

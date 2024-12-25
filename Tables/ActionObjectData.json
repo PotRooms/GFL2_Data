@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 200010,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_Cup_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_Cup_Groza_Lngbe_CoffeeInteractEnd"
+    },
+    {
+      "LGJCPENNFBC": 200011,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_Cup_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_Cup_Groza_Lngbe_CoffeeInteract01"
+    },
+    {
+      "LGJCPENNFBC": 200012,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Notebook_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Notebook_SearchStart"
+    },
+    {
+      "LGJCPENNFBC": 200013,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Notebook_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Notebook_SearchLoop1_s",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 200014,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Notebook_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Notebook_SearchLoop2"
+    },
+    {
+      "LGJCPENNFBC": 200015,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Notebook_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Notebook_SearchInteract01"
+    },
+    {
+      "LGJCPENNFBC": 200016,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Notebook_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Notebook_SearchEnd"
+    },
+    {
+      "LGJCPENNFBC": 200017,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Chair_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Chair_Looksky_LookskyStart"
+    },
+    {
+      "LGJCPENNFBC": 200018,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Chair_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Chair_Looksky_LookskyLoop1_s",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 200019,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Chair_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Chair_Looksky_LookskyLoop2"
+    },
+    {
+      "LGJCPENNFBC": 200020,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Chair_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Chair_Looksky_LookskyInteract01"
+    },
+    {
+      "LGJCPENNFBC": 200021,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_Chair_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_Chair_Looksky_LookskyEnd"
+    },
+    {
+      "LGJCPENNFBC": 200022,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_MarkingPen_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_MarkingPen_LookskyStart"
+    },
+    {
+      "LGJCPENNFBC": 200023,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_MarkingPen_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_MarkingPen_LookskyLoop1_s",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 200024,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_MarkingPen_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_MarkingPen_LookskyLoop2"
+    },
+    {
+      "LGJCPENNFBC": 200025,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_MarkingPen_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_MarkingPen_LookskyInteract01"
+    },
+    {
+      "LGJCPENNFBC": 200026,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_MarkingPen_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_MarkingPen_Looksky_LookskyEnd"
+    },
+    {
+      "LGJCPENNFBC": 200027,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_NailFile_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_NailFile_CleanStart"
+    },
+    {
+      "LGJCPENNFBC": 200028,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_NailFile_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_NailFile_CleanLoop1",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 200029,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_NailFile_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_NailFile_CleanLoop2"
+    },
+    {
+      "LGJCPENNFBC": 200030,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_NailFile_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_NailFile_CleanInteract01"
+    },
+    {
+      "LGJCPENNFBC": 200031,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "s_Lng_simple_NailFile_skin",
+      "HBJAHCGKJJD": "s_Lng_simple_NailFile_CleanEnd"
+    },
+    {
+      "LGJCPENNFBC": 200001,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_book_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_book_Groza_Lngbe_ReadStart"
+    },
+    {
+      "LGJCPENNFBC": 200002,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_book_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_book_Groza_Lngbe_ReadLoop",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 200003,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_book_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_book_Groza_Lngbe_ReadRandom"
+    },
+    {
+      "LGJCPENNFBC": 200004,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_book_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_book_Groza_Lngbe_ReadEnd"
+    },
+    {
+      "LGJCPENNFBC": 200005,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_Cup_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_Cup_Groza_Lngbe_CoffeeStart"
+    },
+    {
+      "LGJCPENNFBC": 200006,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_Cup_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_Cup_Groza_Lngbe_CoffeeLoop",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 200007,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_Cup_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_Cup_Groza_Lngbe_CoffeeEnd"
+    },
+    {
+      "LGJCPENNFBC": 200008,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_Cup_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_Cup_Groza_Lngbe_CoffeeInteractStart"
+    },
+    {
+      "LGJCPENNFBC": 200009,
+      "BKCIGACKEFD": "action",
+      "BGIEKCGBKFG": "f_Cup_Groza_Lngbe_skin",
+      "HBJAHCGKJJD": "f_Cup_Groza_Lngbe_CoffeeInteractLoop",
+      "EPGKDOPMJCP": true
+    }
+  ]
+}

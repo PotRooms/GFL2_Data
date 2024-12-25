@@ -1,0 +1,423 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 610002101,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "17904"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Pickuprange",
+      "PFNLPNAEIOD": 1.4,
+      "FIJIKBAHMPE": 1.125,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610002101,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1500,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610002102,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "21027"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Pickuprange",
+      "PFNLPNAEIOD": 1.4,
+      "FIJIKBAHMPE": 1.5,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610002102,
+      "MMJOIJOIMJG": 2,
+      "EIMDNEBNPIH": 1500,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610009101,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25401"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Region_Star",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "HBCFGBHIEED": 610009101,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 400,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610009102,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "9942"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Week",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610009102,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 9999,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610341402,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25402"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Outbreak",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610341402,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 3500,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610342301,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "17010"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Region_Ice",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "HBCFGBHIEED": 610342301,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 400,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610342302,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "9930"
+      },
+      "HAKONNHAPBC": "Stsp_BF_Fix_Frozen",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 0.8,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610342302,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1100,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610392301,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5657"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Region_Snow",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1.2,
+      "HBCFGBHIEED": 610392301,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 400
+    },
+    {
+      "LGJCPENNFBC": 610392302,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25390"
+      },
+      "HAKONNHAPBC": "Stsp_BF_Fix_Ski",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610392302,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 2500,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610001101,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8715"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Halo_Repel",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 0.8,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610001101,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 500,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610001102,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25398"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Halo_Repel",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1.2,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610001101,
+      "MMJOIJOIMJG": 2,
+      "EIMDNEBNPIH": 300,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610001103,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8715"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Halo_Repel_2",
+      "PFNLPNAEIOD": 1,
+      "FIJIKBAHMPE": 0.8,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610001103,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 500,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610001104,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25398"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Halo_Repel_2",
+      "PFNLPNAEIOD": 1,
+      "FIJIKBAHMPE": 1.2,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610001103,
+      "MMJOIJOIMJG": 2,
+      "EIMDNEBNPIH": 300,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610521301,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "17019"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Region_Poison",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "HBCFGBHIEED": 610521301,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 400,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610341104,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25399"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_PenetrateBulletHit",
+      "PFNLPNAEIOD": 0.4,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610341104,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1100,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610522501,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25394"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_AllBoom",
+      "PFNLPNAEIOD": 4,
+      "FIJIKBAHMPE": 1,
+      "JEDCLNGOHKM": 2,
+      "HBCFGBHIEED": 610522501,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 9999
+    },
+    {
+      "LGJCPENNFBC": 610342104,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25403"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Shield_blue",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610342104,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 3100,
+      "CAADDKOGKFN": 1
+    },
+    {
+      "LGJCPENNFBC": 610391201,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "24301"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Bullet_Player_Ice",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610391201,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 2000,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610391202,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "24531"
+      },
+      "HAKONNHAPBC": "Stsp_SK_BulletHit_Ice",
+      "PFNLPNAEIOD": 1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610391202,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1100,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610392501,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25400"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Region_AllSnow",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "JEDCLNGOHKM": 2,
+      "HBCFGBHIEED": 610392501,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1100,
+      "CAADDKOGKFN": 1
+    },
+    {
+      "LGJCPENNFBC": 610521102,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "9916"
+      },
+      "HAKONNHAPBC": "Stsp_BF_Fix_Poison",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610521102,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1500,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610521103,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25396"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Bullet_Player_poison",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610521103,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 2000,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610521104,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25397"
+      },
+      "HAKONNHAPBC": "Stsp_SK_BulletHit_Poison",
+      "PFNLPNAEIOD": 1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610521104,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1600,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610522101,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25391"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Boom",
+      "PFNLPNAEIOD": 1,
+      "FIJIKBAHMPE": 1,
+      "HBCFGBHIEED": 610522101,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1500,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610522102,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25392"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Boom",
+      "PFNLPNAEIOD": 1,
+      "FIJIKBAHMPE": 1.5,
+      "HBCFGBHIEED": 610522101,
+      "MMJOIJOIMJG": 2,
+      "EIMDNEBNPIH": 1500,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610522103,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25393"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Boom",
+      "PFNLPNAEIOD": 1,
+      "FIJIKBAHMPE": 2,
+      "HBCFGBHIEED": 610522101,
+      "MMJOIJOIMJG": 3,
+      "EIMDNEBNPIH": 1500,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 650001101,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "19407"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Fix_Heal",
+      "PFNLPNAEIOD": 1,
+      "FIJIKBAHMPE": 1,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 650001101,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 1500,
+      "CAADDKOGKFN": 1,
+      "DBKCEFKOKDD": 1
+    },
+    {
+      "LGJCPENNFBC": 610342201,
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "25395"
+      },
+      "HAKONNHAPBC": "Stsp_SK_Halo_Ice",
+      "BKCIGACKEFD": 1,
+      "PFNLPNAEIOD": -1,
+      "FIJIKBAHMPE": 0.8,
+      "GJJMJDJBLBN": 1,
+      "HBCFGBHIEED": 610342201,
+      "MMJOIJOIMJG": 1,
+      "EIMDNEBNPIH": 400,
+      "CAADDKOGKFN": 1
+    }
+  ]
+}

@@ -1,0 +1,2006 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 11221,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 11251,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 45,
+      "PKBFHBANPDF": 45
+    },
+    {
+      "LGJCPENNFBC": 15641,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 16111,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 16151,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 45,
+      "PKBFHBANPDF": 45
+    },
+    {
+      "LGJCPENNFBC": 12321,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 12631,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 15211,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 55,
+      "PKBFHBANPDF": 55
+    },
+    {
+      "LGJCPENNFBC": 15221,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 65,
+      "PKBFHBANPDF": 65
+    },
+    {
+      "LGJCPENNFBC": 16131,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 16251,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 45,
+      "PKBFHBANPDF": 45
+    },
+    {
+      "LGJCPENNFBC": 16641,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 11111,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 12651,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 13351,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 13421,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 15441,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 16141,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 35,
+      "PKBFHBANPDF": 35
+    },
+    {
+      "LGJCPENNFBC": 16631,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 21610,
+      "CDBCNNMPKNL": "behit_damage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21611,
+      "CDBCNNMPKNL": "release_heal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21612,
+      "CDBCNNMPKNL": "accept_heal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21613,
+      "CDBCNNMPKNL": "life_steal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 13321,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 14151,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 45,
+      "PKBFHBANPDF": 45
+    },
+    {
+      "LGJCPENNFBC": 15131,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 75,
+      "PKBFHBANPDF": 75
+    },
+    {
+      "LGJCPENNFBC": 16331,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 16421,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 12241,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 85,
+      "PKBFHBANPDF": 85
+    },
+    {
+      "LGJCPENNFBC": 13441,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 14211,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 14451,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 15431,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 15631,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 16121,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 12341,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 14251,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 45,
+      "PKBFHBANPDF": 45
+    },
+    {
+      "LGJCPENNFBC": 11141,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 35,
+      "PKBFHBANPDF": 35
+    },
+    {
+      "LGJCPENNFBC": 12221,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 65,
+      "PKBFHBANPDF": 65
+    },
+    {
+      "LGJCPENNFBC": 12331,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 12511,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 14541,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 15231,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 75,
+      "PKBFHBANPDF": 75
+    },
+    {
+      "LGJCPENNFBC": 16541,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 11151,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 45,
+      "PKBFHBANPDF": 45
+    },
+    {
+      "LGJCPENNFBC": 13231,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 13551,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 14111,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 14411,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 14551,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 15111,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 55,
+      "PKBFHBANPDF": 55
+    },
+    {
+      "LGJCPENNFBC": 21510,
+      "CDBCNNMPKNL": "behit_damage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21511,
+      "CDBCNNMPKNL": "release_heal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21512,
+      "CDBCNNMPKNL": "accept_heal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21513,
+      "CDBCNNMPKNL": "life_steal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 11231,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 14311,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 14321,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 15421,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 16431,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 16531,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 21301,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21302,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21303,
+      "CDBCNNMPKNL": "crit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21304,
+      "CDBCNNMPKNL": "crit_mult",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21305,
+      "CDBCNNMPKNL": "hit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21306,
+      "CDBCNNMPKNL": "dodge_percentage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21307,
+      "CDBCNNMPKNL": "scratch",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21308,
+      "CDBCNNMPKNL": "scratch_reduction",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21309,
+      "CDBCNNMPKNL": "hit_damage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 11631,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 13541,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 14521,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 16211,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 11131,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 11311,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 11431,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 15121,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 65,
+      "PKBFHBANPDF": 65
+    },
+    {
+      "LGJCPENNFBC": 15621,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 12121,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 65,
+      "PKBFHBANPDF": 65
+    },
+    {
+      "LGJCPENNFBC": 12531,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 14221,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 15141,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 85,
+      "PKBFHBANPDF": 85
+    },
+    {
+      "LGJCPENNFBC": 16511,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 21401,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21402,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21403,
+      "CDBCNNMPKNL": "crit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21404,
+      "CDBCNNMPKNL": "crit_mult",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21405,
+      "CDBCNNMPKNL": "hit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21406,
+      "CDBCNNMPKNL": "dodge_percentage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21407,
+      "CDBCNNMPKNL": "scratch",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21408,
+      "CDBCNNMPKNL": "scratch_reduction",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21409,
+      "CDBCNNMPKNL": "hit_damage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 12521,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 13431,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 15611,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 16351,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 21101,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 4,
+      "PKBFHBANPDF": 4
+    },
+    {
+      "LGJCPENNFBC": 21102,
+      "CDBCNNMPKNL": "pow_percent",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 10,
+      "PKBFHBANPDF": 10
+    },
+    {
+      "LGJCPENNFBC": 21103,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 7,
+      "PKBFHBANPDF": 7
+    },
+    {
+      "LGJCPENNFBC": 21104,
+      "CDBCNNMPKNL": "max_hp_percent",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 15,
+      "PKBFHBANPDF": 15
+    },
+    {
+      "LGJCPENNFBC": 21105,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 4,
+      "PKBFHBANPDF": 4
+    },
+    {
+      "LGJCPENNFBC": 21106,
+      "CDBCNNMPKNL": "shield_armor_percent",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 21107,
+      "CDBCNNMPKNL": "crit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 10,
+      "PKBFHBANPDF": 10
+    },
+    {
+      "LGJCPENNFBC": 21108,
+      "CDBCNNMPKNL": "crit_mult",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21109,
+      "CDBCNNMPKNL": "element_add_fire",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21701,
+      "CDBCNNMPKNL": "darkzone_visual_day",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 150
+    },
+    {
+      "LGJCPENNFBC": 21702,
+      "CDBCNNMPKNL": "darkzone_cure",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 21703,
+      "CDBCNNMPKNL": "darkzone_speed_normal",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 150
+    },
+    {
+      "LGJCPENNFBC": 14421,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 11121,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 12421,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 12431,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 12551,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 13511,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 13521,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 13621,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 12131,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 75,
+      "PKBFHBANPDF": 75
+    },
+    {
+      "LGJCPENNFBC": 12251,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 110,
+      "PKBFHBANPDF": 110
+    },
+    {
+      "LGJCPENNFBC": 13221,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 14131,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 14341,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 11211,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 13141,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 35,
+      "PKBFHBANPDF": 35
+    },
+    {
+      "LGJCPENNFBC": 15241,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 85,
+      "PKBFHBANPDF": 85
+    },
+    {
+      "LGJCPENNFBC": 16551,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 16611,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 16521,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 11351,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 11741,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 120,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 12311,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 12611,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 13121,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 16231,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 16341,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 21110,
+      "CDBCNNMPKNL": "element_add_electric",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21111,
+      "CDBCNNMPKNL": "element_add_ice",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21112,
+      "CDBCNNMPKNL": "element_add_poison",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21113,
+      "CDBCNNMPKNL": "element_add_physics",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21114,
+      "CDBCNNMPKNL": "element_add_soil",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21115,
+      "CDBCNNMPKNL": "element_add_grass",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21116,
+      "CDBCNNMPKNL": "element_add_water",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21117,
+      "CDBCNNMPKNL": "element_against_fire",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21118,
+      "CDBCNNMPKNL": "element_against_electric",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21119,
+      "CDBCNNMPKNL": "element_against_ice",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21201,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 6,
+      "PKBFHBANPDF": 6
+    },
+    {
+      "LGJCPENNFBC": 21202,
+      "CDBCNNMPKNL": "pow_percent",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 15,
+      "PKBFHBANPDF": 15
+    },
+    {
+      "LGJCPENNFBC": 21203,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 11,
+      "PKBFHBANPDF": 11
+    },
+    {
+      "LGJCPENNFBC": 21204,
+      "CDBCNNMPKNL": "max_hp_percent",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 23,
+      "PKBFHBANPDF": 23
+    },
+    {
+      "LGJCPENNFBC": 21205,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 6,
+      "PKBFHBANPDF": 6
+    },
+    {
+      "LGJCPENNFBC": 21206,
+      "CDBCNNMPKNL": "shield_armor_percent",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 38,
+      "PKBFHBANPDF": 38
+    },
+    {
+      "LGJCPENNFBC": 21207,
+      "CDBCNNMPKNL": "crit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 15,
+      "PKBFHBANPDF": 15
+    },
+    {
+      "LGJCPENNFBC": 21208,
+      "CDBCNNMPKNL": "crit_mult",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21209,
+      "CDBCNNMPKNL": "element_add_fire",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21210,
+      "CDBCNNMPKNL": "element_add_electric",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21211,
+      "CDBCNNMPKNL": "element_add_ice",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21212,
+      "CDBCNNMPKNL": "element_add_poison",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21213,
+      "CDBCNNMPKNL": "element_add_physics",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21214,
+      "CDBCNNMPKNL": "element_add_soil",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21215,
+      "CDBCNNMPKNL": "element_add_grass",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21216,
+      "CDBCNNMPKNL": "element_add_water",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21217,
+      "CDBCNNMPKNL": "element_against_fire",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21218,
+      "CDBCNNMPKNL": "element_against_electric",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21219,
+      "CDBCNNMPKNL": "element_against_ice",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21410,
+      "CDBCNNMPKNL": "behit_damage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21411,
+      "CDBCNNMPKNL": "release_heal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21412,
+      "CDBCNNMPKNL": "accept_heal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 21413,
+      "CDBCNNMPKNL": "life_steal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 60,
+      "PKBFHBANPDF": 90
+    },
+    {
+      "LGJCPENNFBC": 11331,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 12351,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 14641,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 14651,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 15521,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 15531,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 16621,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 14441,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 14511,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 15341,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 21310,
+      "CDBCNNMPKNL": "behit_damage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21311,
+      "CDBCNNMPKNL": "release_heal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21312,
+      "CDBCNNMPKNL": "accept_heal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 21313,
+      "CDBCNNMPKNL": "life_steal",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 40,
+      "PKBFHBANPDF": 60
+    },
+    {
+      "LGJCPENNFBC": 11551,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 13331,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 13451,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 13651,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 11241,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 35,
+      "PKBFHBANPDF": 35
+    },
+    {
+      "LGJCPENNFBC": 11621,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 12211,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 55,
+      "PKBFHBANPDF": 55
+    },
+    {
+      "LGJCPENNFBC": 13251,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 45,
+      "PKBFHBANPDF": 45
+    },
+    {
+      "LGJCPENNFBC": 16651,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 16321,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 11511,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 12111,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 55,
+      "PKBFHBANPDF": 55
+    },
+    {
+      "LGJCPENNFBC": 12411,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 12441,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 14241,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 35,
+      "PKBFHBANPDF": 35
+    },
+    {
+      "LGJCPENNFBC": 15411,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 15451,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 21220,
+      "CDBCNNMPKNL": "element_against_poison",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21221,
+      "CDBCNNMPKNL": "element_against_physics",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21222,
+      "CDBCNNMPKNL": "element_against_soil",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21223,
+      "CDBCNNMPKNL": "element_against_grass",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21224,
+      "CDBCNNMPKNL": "element_against_water",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 11451,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 11651,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 12641,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 13341,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 13531,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 14121,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 14531,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 15511,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 11341,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 11421,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 11521,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 12451,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 13131,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 13411,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 14231,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 30,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 16411,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 16451,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 11531,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 11641,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 15541,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 16441,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 13241,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 35,
+      "PKBFHBANPDF": 35
+    },
+    {
+      "LGJCPENNFBC": 14431,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 21601,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21602,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21603,
+      "CDBCNNMPKNL": "crit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21604,
+      "CDBCNNMPKNL": "crit_mult",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21605,
+      "CDBCNNMPKNL": "hit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21606,
+      "CDBCNNMPKNL": "dodge_percentage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21607,
+      "CDBCNNMPKNL": "scratch",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21608,
+      "CDBCNNMPKNL": "scratch_reduction",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 21609,
+      "CDBCNNMPKNL": "hit_damage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 30
+    },
+    {
+      "LGJCPENNFBC": 14351,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 11321,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 11441,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 12621,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 13111,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 13211,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 14141,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 35,
+      "PKBFHBANPDF": 35
+    },
+    {
+      "LGJCPENNFBC": 14331,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 14611,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 14631,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 15251,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 110,
+      "PKBFHBANPDF": 110
+    },
+    {
+      "LGJCPENNFBC": 21120,
+      "CDBCNNMPKNL": "element_against_poison",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21121,
+      "CDBCNNMPKNL": "element_against_physics",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21122,
+      "CDBCNNMPKNL": "element_against_soil",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21123,
+      "CDBCNNMPKNL": "element_against_grass",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21124,
+      "CDBCNNMPKNL": "element_against_water",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 20,
+      "PKBFHBANPDF": 20
+    },
+    {
+      "LGJCPENNFBC": 21501,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21502,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 2,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21503,
+      "CDBCNNMPKNL": "crit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21504,
+      "CDBCNNMPKNL": "crit_mult",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21505,
+      "CDBCNNMPKNL": "hit",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21506,
+      "CDBCNNMPKNL": "dodge_percentage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21507,
+      "CDBCNNMPKNL": "scratch",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21508,
+      "CDBCNNMPKNL": "scratch_reduction",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 21509,
+      "CDBCNNMPKNL": "hit_damage",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 120
+    },
+    {
+      "LGJCPENNFBC": 11541,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 11731,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 80,
+      "PKBFHBANPDF": 80
+    },
+    {
+      "LGJCPENNFBC": 15651,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 11411,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 300,
+      "PKBFHBANPDF": 300
+    },
+    {
+      "LGJCPENNFBC": 12151,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 110,
+      "PKBFHBANPDF": 110
+    },
+    {
+      "LGJCPENNFBC": 12231,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 75,
+      "PKBFHBANPDF": 75
+    },
+    {
+      "LGJCPENNFBC": 13151,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 45,
+      "PKBFHBANPDF": 45
+    },
+    {
+      "LGJCPENNFBC": 15351,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 16241,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 35,
+      "PKBFHBANPDF": 35
+    },
+    {
+      "LGJCPENNFBC": 11751,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 150,
+      "PKBFHBANPDF": 150
+    },
+    {
+      "LGJCPENNFBC": 12141,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 85,
+      "PKBFHBANPDF": 85
+    },
+    {
+      "LGJCPENNFBC": 13311,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 13631,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 13641,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 14621,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 15551,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 16221,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 25,
+      "PKBFHBANPDF": 25
+    },
+    {
+      "LGJCPENNFBC": 11611,
+      "CDBCNNMPKNL": "pow",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 12541,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 400,
+      "PKBFHBANPDF": 400
+    },
+    {
+      "LGJCPENNFBC": 13611,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 100,
+      "PKBFHBANPDF": 100
+    },
+    {
+      "LGJCPENNFBC": 15151,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 110,
+      "PKBFHBANPDF": 110
+    },
+    {
+      "LGJCPENNFBC": 15311,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 15321,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 15331,
+      "CDBCNNMPKNL": "max_hp",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    },
+    {
+      "LGJCPENNFBC": 16311,
+      "CDBCNNMPKNL": "shield_armor",
+      "ABNNANAJMFJ": 1,
+      "EPNJFKBBBBH": 200,
+      "PKBFHBANPDF": 200
+    }
+  ]
+}

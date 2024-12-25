@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "Scene_Base",
+      "ECJKPDNNHDA": 2,
+      "MGDEDHJEKMO": 1,
+      "JBNFLOAFNAC": 1,
+      "DPMCGMAGOHA": 1,
+      "PJKHFGFOGLG": 3,
+      "KKBJIGMILLC": 3,
+      "KAEFEPLGFLF": 1,
+      "KKBCNMOIPIC": 350,
+      "GPKOFOEDMJF": 1
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "Scene_Battle",
+      "ECJKPDNNHDA": 1,
+      "MGDEDHJEKMO": 1,
+      "JBNFLOAFNAC": 1,
+      "DPMCGMAGOHA": 1,
+      "PJKHFGFOGLG": 3,
+      "KKBJIGMILLC": 3,
+      "KAEFEPLGFLF": 1,
+      "KKBCNMOIPIC": 2500,
+      "GPKOFOEDMJF": 3
+    },
+    {
+      "LGJCPENNFBC": 10001,
+      "HBJAHCGKJJD": "Scene_Camera_Base",
+      "DPMCGMAGOHA": 1,
+      "PJKHFGFOGLG": 3,
+      "KKBJIGMILLC": 3,
+      "KAEFEPLGFLF": 1
+    },
+    {
+      "LGJCPENNFBC": 10003,
+      "HBJAHCGKJJD": "Scene_Camera_Battle",
+      "DPMCGMAGOHA": 1,
+      "PJKHFGFOGLG": 3,
+      "KKBJIGMILLC": 3,
+      "KAEFEPLGFLF": 1
+    }
+  ]
+}

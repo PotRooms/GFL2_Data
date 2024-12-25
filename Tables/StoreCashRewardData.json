@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "FGCFFNEPKKP": {
+        "110012": 1
+      },
+      "JOOGCNDALPI": {
+        "1": 100
+      }
+    },
+    {
+      "BGJLBOBBFOB": 1,
+      "ALLGNABCLAD": 100,
+      "FGCFFNEPKKP": {
+        "110012": 1
+      },
+      "JOOGCNDALPI": {
+        "1": 101
+      }
+    },
+    {
+      "BGJLBOBBFOB": 2,
+      "ALLGNABCLAD": 400,
+      "FGCFFNEPKKP": {
+        "110012": 1
+      },
+      "JOOGCNDALPI": {
+        "1": 102
+      }
+    },
+    {
+      "BGJLBOBBFOB": 3,
+      "ALLGNABCLAD": 1000,
+      "FGCFFNEPKKP": {
+        "110012": 1
+      },
+      "JOOGCNDALPI": {
+        "1": 103
+      }
+    },
+    {
+      "BGJLBOBBFOB": 4,
+      "ALLGNABCLAD": 3000,
+      "FGCFFNEPKKP": {
+        "110012": 1
+      },
+      "JOOGCNDALPI": {
+        "1": 104
+      }
+    },
+    {
+      "BGJLBOBBFOB": 5,
+      "ALLGNABCLAD": 8000,
+      "FGCFFNEPKKP": {
+        "110012": 1
+      },
+      "JOOGCNDALPI": {
+        "1": 105
+      }
+    },
+    {
+      "BGJLBOBBFOB": 6,
+      "ALLGNABCLAD": 20000,
+      "FGCFFNEPKKP": {
+        "110012": 1
+      },
+      "JOOGCNDALPI": {
+        "1": 106
+      }
+    },
+    {
+      "BGJLBOBBFOB": 7,
+      "ALLGNABCLAD": 50000,
+      "FGCFFNEPKKP": {
+        "110012": 1
+      },
+      "JOOGCNDALPI": {
+        "1": 107
+      }
+    }
+  ]
+}

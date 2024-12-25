@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "CKAMJAPDCDL": [
+        100101,
+        100102,
+        100103
+      ],
+      "EFMCPMDCPKG": "敌方单位的生命值提升"
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "CKAMJAPDCDL": [
+        100201,
+        100202,
+        100203
+      ],
+      "EFMCPMDCPKG": "敌方单位的攻击力提升"
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "CKAMJAPDCDL": [
+        100301,
+        100302,
+        100303
+      ],
+      "EFMCPMDCPKG": "敌方单位的防御力提升"
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "CKAMJAPDCDL": [
+        100401,
+        100402,
+        100403
+      ],
+      "EFMCPMDCPKG": "敌方单位未被克制时，受到的稳态伤害降低"
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "CKAMJAPDCDL": [
+        100501,
+        100502,
+        100503
+      ],
+      "EFMCPMDCPKG": "每经过一回合，敌方单位受到的伤害降低"
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "CKAMJAPDCDL": [
+        100601,
+        100602,
+        100603
+      ],
+      "EFMCPMDCPKG": "每经过一回合，敌方单位造成的伤害增加"
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "CKAMJAPDCDL": [
+        100701,
+        100702,
+        100703
+      ],
+      "EFMCPMDCPKG": "喀什玛每有一个触手进入<数据重组>状态，攻击力额外提升"
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "CKAMJAPDCDL": [
+        100801,
+        100802,
+        100803
+      ],
+      "EFMCPMDCPKG": "喀什玛的<不散阴云>状态延长一定的回合数"
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "CKAMJAPDCDL": [
+        100901,
+        100902,
+        100903
+      ],
+      "EFMCPMDCPKG": "喀什玛的触手全部被击破后，喀什玛的防御力额外提升"
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "CKAMJAPDCDL": [
+        101001,
+        101002,
+        101003
+      ],
+      "EFMCPMDCPKG": "每回合开始时，若喀什玛的触手未处于<数据重组>状态，额外回复最大生命值一定比例的生命值"
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "CKAMJAPDCDL": [
+        101101,
+        101102,
+        101103
+      ],
+      "EFMCPMDCPKG": "每经过一回合，敌方单位受到的伤害降低"
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "CKAMJAPDCDL": [
+        101201,
+        101202,
+        101203
+      ],
+      "EFMCPMDCPKG": "每经过一回合，敌方单位造成的伤害增加"
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "CKAMJAPDCDL": [
+        101301,
+        101302,
+        101303
+      ],
+      "EFMCPMDCPKG": "徒士的<双重防御>中的防御力提升效果额外提升"
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "CKAMJAPDCDL": [
+        101401,
+        101402,
+        101403
+      ],
+      "EFMCPMDCPKG": "徒士的<吊桥效应>触发生命值恢复的生命值百分比差值降低"
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "CKAMJAPDCDL": [
+        101501,
+        101502,
+        101503
+      ],
+      "EFMCPMDCPKG": "徒士的<双重防御>最大生效距离提升"
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "CKAMJAPDCDL": [
+        101601,
+        101602,
+        101603
+      ],
+      "EFMCPMDCPKG": "徒士获得<应激>后，下次行动开始时驱散所有减益效果并恢复自身最大生命值一定比例的生命值"
+    }
+  ]
+}

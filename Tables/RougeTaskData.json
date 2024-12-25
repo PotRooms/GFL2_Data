@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "EOGACCIKFBM": 1,
+      "HBCFNDOENFL": "消耗",
+      "GKFPJJIHICB": "消耗货币100",
+      "LNEMNKFCAKC": 2,
+      "CGFMAIFHLEO": 100,
+      "FBPJHJLDELP": {
+        "OBLDLILOOGO": [
+          25
+        ],
+        "NKGEDIMKJHL": [
+          3000
+        ]
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "EOGACCIKFBM": 1,
+      "HBCFNDOENFL": "获得",
+      "GKFPJJIHICB": "获得货币500",
+      "LNEMNKFCAKC": 5,
+      "CGFMAIFHLEO": 500,
+      "FBPJHJLDELP": {
+        "OBLDLILOOGO": [
+          25,
+          8301
+        ],
+        "NKGEDIMKJHL": [
+          3000,
+          3000
+        ]
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "EOGACCIKFBM": 1,
+      "HBCFNDOENFL": "获得",
+      "GKFPJJIHICB": "获得货币1500",
+      "LNEMNKFCAKC": 5,
+      "CGFMAIFHLEO": 1500,
+      "FBPJHJLDELP": {
+        "OBLDLILOOGO": [
+          25,
+          8301
+        ],
+        "NKGEDIMKJHL": [
+          3000,
+          3000
+        ]
+      }
+    }
+  ]
+}

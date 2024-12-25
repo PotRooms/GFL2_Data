@@ -1,0 +1,1372 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1008101,
+      "EICAPFLICKC": [
+        100810101,
+        100810102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1008102,
+      "EICAPFLICKC": [
+        100810201,
+        100810202,
+        100810203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1008103,
+      "EICAPFLICKC": [
+        100810301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1008104,
+      "EICAPFLICKC": [
+        100810401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1008106,
+      "EICAPFLICKC": [
+        100810601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1023201,
+      "EICAPFLICKC": [
+        102320101,
+        102320102,
+        102320103,
+        102320104,
+        102320105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1050101,
+      "EICAPFLICKC": [
+        105010101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1050102,
+      "EICAPFLICKC": [
+        105010201,
+        105010202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1050103,
+      "EICAPFLICKC": [
+        105010301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1050106,
+      "EICAPFLICKC": [
+        105010601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10271510,
+      "EICAPFLICKC": [
+        1027151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10271511,
+      "EICAPFLICKC": [
+        1027151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10341510,
+      "EICAPFLICKC": [
+        1034151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10341511,
+      "EICAPFLICKC": [
+        1034151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1008201,
+      "EICAPFLICKC": [
+        100820101,
+        100820102,
+        100820103,
+        100820104,
+        100820105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1009201,
+      "EICAPFLICKC": [
+        100920101,
+        100920102,
+        100920103,
+        100920104,
+        100920105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1013201,
+      "EICAPFLICKC": [
+        101320101,
+        101320102,
+        101320103,
+        101320104,
+        101320105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1022101,
+      "EICAPFLICKC": [
+        102210101,
+        102210102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1022102,
+      "EICAPFLICKC": [
+        102210201,
+        102210202,
+        102210203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1022104,
+      "EICAPFLICKC": [
+        102210401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1022108,
+      "EICAPFLICKC": [
+        102210801
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1039201,
+      "EICAPFLICKC": [
+        103920101,
+        103920102,
+        103920103,
+        103920104,
+        103920105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1017201,
+      "EICAPFLICKC": [
+        101720101,
+        101720102,
+        101720103,
+        101720104,
+        101720105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024201,
+      "EICAPFLICKC": [
+        102420101,
+        102420102,
+        102420103,
+        102420104,
+        102420105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10281510,
+      "EICAPFLICKC": [
+        1028151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10281511,
+      "EICAPFLICKC": [
+        1028151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1033201,
+      "EICAPFLICKC": [
+        103320101,
+        103320102,
+        103320103,
+        103320104,
+        103320105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1044201,
+      "EICAPFLICKC": [
+        104420101,
+        104420102,
+        104420103,
+        104420104,
+        104420105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10351510,
+      "EICAPFLICKC": [
+        1035151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10351511,
+      "EICAPFLICKC": [
+        1035151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10371510,
+      "EICAPFLICKC": [
+        1037151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10371511,
+      "EICAPFLICKC": [
+        1037151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1001101,
+      "EICAPFLICKC": [
+        100110101,
+        100110102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1001102,
+      "EICAPFLICKC": [
+        100110201,
+        100110202,
+        100110203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1001103,
+      "EICAPFLICKC": [
+        100110303
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1001106,
+      "EICAPFLICKC": [
+        100110601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1001107,
+      "EICAPFLICKC": [
+        100110701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1013101,
+      "EICAPFLICKC": [
+        101310101,
+        101310102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1013102,
+      "EICAPFLICKC": [
+        101310201,
+        101310202,
+        101310203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1013104,
+      "EICAPFLICKC": [
+        101310401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1013106,
+      "EICAPFLICKC": [
+        101310601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1025101,
+      "EICAPFLICKC": [
+        102510101,
+        102510102,
+        102510103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1025102,
+      "EICAPFLICKC": [
+        102510201,
+        102510202,
+        102510203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1025103,
+      "EICAPFLICKC": [
+        102510301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1025106,
+      "EICAPFLICKC": [
+        102510601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1025201,
+      "EICAPFLICKC": [
+        102520101,
+        102520102,
+        102520103,
+        102520104,
+        102520105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1028201,
+      "EICAPFLICKC": [
+        102820101,
+        102820102,
+        102820103,
+        102820104,
+        102820105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1029201,
+      "EICAPFLICKC": [
+        102920101,
+        102920102,
+        102920103,
+        102920104,
+        102920105,
+        102920106
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1038201,
+      "EICAPFLICKC": [
+        103820101,
+        103820102,
+        103820103,
+        103820104,
+        103820105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021201,
+      "EICAPFLICKC": [
+        102120101,
+        102120102,
+        102120103,
+        102120104,
+        102120105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1023101,
+      "EICAPFLICKC": [
+        102310101,
+        102310102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1023102,
+      "EICAPFLICKC": [
+        102310201,
+        102310202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1023104,
+      "EICAPFLICKC": [
+        102310401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024301,
+      "EICAPFLICKC": [
+        102430101,
+        102430102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1032101,
+      "EICAPFLICKC": [
+        103210101,
+        103210102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1032102,
+      "EICAPFLICKC": [
+        103210201,
+        103210202,
+        103210203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1032104,
+      "EICAPFLICKC": [
+        103210401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1032106,
+      "EICAPFLICKC": [
+        103210601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10091510,
+      "EICAPFLICKC": [
+        1009151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10091511,
+      "EICAPFLICKC": [
+        1009151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10331510,
+      "EICAPFLICKC": [
+        1033151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10331511,
+      "EICAPFLICKC": [
+        1033151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10441510,
+      "EICAPFLICKC": [
+        1044151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10441511,
+      "EICAPFLICKC": [
+        1044151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1026201,
+      "EICAPFLICKC": [
+        102620101,
+        102620102,
+        102620103,
+        102620104,
+        102620105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1040201,
+      "EICAPFLICKC": [
+        104020101,
+        104020102,
+        104020103,
+        104020104,
+        104020105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1044101,
+      "EICAPFLICKC": [
+        104410101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1044102,
+      "EICAPFLICKC": [
+        104410201,
+        104410202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1044106,
+      "EICAPFLICKC": [
+        104410601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10131510,
+      "EICAPFLICKC": [
+        1013151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10131511,
+      "EICAPFLICKC": [
+        1013151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10231510,
+      "EICAPFLICKC": [
+        1023151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10231511,
+      "EICAPFLICKC": [
+        1023151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10451510,
+      "EICAPFLICKC": [
+        1045151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10451511,
+      "EICAPFLICKC": [
+        1045151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1015101,
+      "EICAPFLICKC": [
+        101510101,
+        101510102,
+        101510103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1015102,
+      "EICAPFLICKC": [
+        101510201,
+        101510202,
+        101510203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1015106,
+      "EICAPFLICKC": [
+        101510601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1017101,
+      "EICAPFLICKC": [
+        101710101,
+        101710102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1017102,
+      "EICAPFLICKC": [
+        101710201,
+        101710202,
+        101710203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1017103,
+      "EICAPFLICKC": [
+        101710301,
+        101710302
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021101,
+      "EICAPFLICKC": [
+        102110101,
+        102110102,
+        102110103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021102,
+      "EICAPFLICKC": [
+        102110201,
+        102110202,
+        102110203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021103,
+      "EICAPFLICKC": [
+        102110301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021104,
+      "EICAPFLICKC": [
+        102110401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021106,
+      "EICAPFLICKC": [
+        102110601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1034101,
+      "EICAPFLICKC": [
+        103410101,
+        103410102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1034102,
+      "EICAPFLICKC": [
+        103410201,
+        103410202,
+        103410203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1034103,
+      "EICAPFLICKC": [
+        103410301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1034106,
+      "EICAPFLICKC": [
+        103410601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1037101,
+      "EICAPFLICKC": [
+        103710101,
+        103710102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1037102,
+      "EICAPFLICKC": [
+        103710201,
+        103710202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1037106,
+      "EICAPFLICKC": [
+        103710601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1037107,
+      "EICAPFLICKC": [
+        103710701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1051201,
+      "EICAPFLICKC": [
+        105120101,
+        105120102,
+        105120103,
+        105120104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10321510,
+      "EICAPFLICKC": [
+        1032151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10321511,
+      "EICAPFLICKC": [
+        1032151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1001201,
+      "EICAPFLICKC": [
+        100120101,
+        100120102,
+        100120103,
+        100120104,
+        100120105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1028301,
+      "EICAPFLICKC": [
+        102830101,
+        102830102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1029301,
+      "EICAPFLICKC": [
+        102930101,
+        102930102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021301,
+      "EICAPFLICKC": [
+        102130101,
+        102130102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1026101,
+      "EICAPFLICKC": [
+        102610101,
+        102610102,
+        102610103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1026102,
+      "EICAPFLICKC": [
+        102610201,
+        102610202,
+        102610203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1026103,
+      "EICAPFLICKC": [
+        102610301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1026106,
+      "EICAPFLICKC": [
+        102610601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1039101,
+      "EICAPFLICKC": [
+        103910101,
+        103910102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1039102,
+      "EICAPFLICKC": [
+        103910201,
+        103910202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1039103,
+      "EICAPFLICKC": [
+        103910301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1039104,
+      "EICAPFLICKC": [
+        103910401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1052101,
+      "EICAPFLICKC": [
+        105210101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1052102,
+      "EICAPFLICKC": [
+        105210201,
+        105210202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1052103,
+      "EICAPFLICKC": [
+        105210301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1052106,
+      "EICAPFLICKC": [
+        105210601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10391510,
+      "EICAPFLICKC": [
+        1039151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10391511,
+      "EICAPFLICKC": [
+        1039151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1027101,
+      "EICAPFLICKC": [
+        102710101,
+        102710102,
+        102710103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1027102,
+      "EICAPFLICKC": [
+        102710201,
+        102710202,
+        102710203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1027106,
+      "EICAPFLICKC": [
+        102710601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1035201,
+      "EICAPFLICKC": [
+        103520101,
+        103520102,
+        103520103,
+        103520104,
+        103520105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1038101,
+      "EICAPFLICKC": [
+        103810101,
+        103810102,
+        103810103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1038102,
+      "EICAPFLICKC": [
+        103810201,
+        103810202,
+        103810203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1038106,
+      "EICAPFLICKC": [
+        103810601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1038107,
+      "EICAPFLICKC": [
+        103810701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1038108,
+      "EICAPFLICKC": [
+        103810801
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1045101,
+      "EICAPFLICKC": [
+        104510101,
+        104510102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1045102,
+      "EICAPFLICKC": [
+        104510201,
+        104510202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1045103,
+      "EICAPFLICKC": [
+        104510301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1045106,
+      "EICAPFLICKC": [
+        104510601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1050201,
+      "EICAPFLICKC": [
+        105020101,
+        105020102,
+        105020103,
+        105020104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10151510,
+      "EICAPFLICKC": [
+        1015151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10151511,
+      "EICAPFLICKC": [
+        1015151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1028101,
+      "EICAPFLICKC": [
+        102810101,
+        102810102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1028102,
+      "EICAPFLICKC": [
+        102810201,
+        102810202,
+        102810203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1028104,
+      "EICAPFLICKC": [
+        102810401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1028106,
+      "EICAPFLICKC": [
+        102810601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1028107,
+      "EICAPFLICKC": [
+        102810701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1033101,
+      "EICAPFLICKC": [
+        103310101,
+        103310102,
+        103310103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1033102,
+      "EICAPFLICKC": [
+        103310201,
+        103310202,
+        103310203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1033106,
+      "EICAPFLICKC": [
+        103310601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1034201,
+      "EICAPFLICKC": [
+        103420101,
+        103420102,
+        103420103,
+        103420104,
+        103420105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1038301,
+      "EICAPFLICKC": [
+        103830101,
+        103830102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1041201,
+      "EICAPFLICKC": [
+        104120101,
+        104120102,
+        104120103,
+        104120104,
+        104120105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10511510,
+      "EICAPFLICKC": [
+        1051151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10511511,
+      "EICAPFLICKC": [
+        1051151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1009101,
+      "EICAPFLICKC": [
+        100910101,
+        100910102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1009102,
+      "EICAPFLICKC": [
+        100910201,
+        100910202,
+        100910203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1009106,
+      "EICAPFLICKC": [
+        100910601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1009107,
+      "EICAPFLICKC": [
+        100910701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1036201,
+      "EICAPFLICKC": [
+        103620101,
+        103620102,
+        103620103,
+        103620104,
+        103620105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1041101,
+      "EICAPFLICKC": [
+        104110101,
+        104110102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1041102,
+      "EICAPFLICKC": [
+        104110201,
+        104110202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1041103,
+      "EICAPFLICKC": [
+        104110301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1041104,
+      "EICAPFLICKC": [
+        104110401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1051101,
+      "EICAPFLICKC": [
+        105110101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1051102,
+      "EICAPFLICKC": [
+        105110201,
+        105110202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1051103,
+      "EICAPFLICKC": [
+        105110301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10411510,
+      "EICAPFLICKC": [
+        1041151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10411511,
+      "EICAPFLICKC": [
+        1041151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1036101,
+      "EICAPFLICKC": [
+        103610101,
+        103610102,
+        103610103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1036102,
+      "EICAPFLICKC": [
+        103610201,
+        103610202,
+        103610203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1036106,
+      "EICAPFLICKC": [
+        103610601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1036107,
+      "EICAPFLICKC": [
+        103610701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1037201,
+      "EICAPFLICKC": [
+        103720101,
+        103720102,
+        103720103,
+        103720104,
+        103720105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1045201,
+      "EICAPFLICKC": [
+        104520101,
+        104520102,
+        104520103,
+        104520104,
+        104520105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1052201,
+      "EICAPFLICKC": [
+        105220101,
+        105220102,
+        105220103,
+        105220104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10221510,
+      "EICAPFLICKC": [
+        1022151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10221511,
+      "EICAPFLICKC": [
+        1022151101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1015201,
+      "EICAPFLICKC": [
+        101520101,
+        101520102,
+        101520103,
+        101520104,
+        101520105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1022201,
+      "EICAPFLICKC": [
+        102220101,
+        102220102,
+        102220103,
+        102220104,
+        102220105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024101,
+      "EICAPFLICKC": [
+        102410101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024102,
+      "EICAPFLICKC": [
+        102410201,
+        102410202,
+        102410203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024103,
+      "EICAPFLICKC": [
+        102410301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024104,
+      "EICAPFLICKC": [
+        102410401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024106,
+      "EICAPFLICKC": [
+        102410601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024107,
+      "EICAPFLICKC": [
+        102410701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024108,
+      "EICAPFLICKC": [
+        102410801
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1027201,
+      "EICAPFLICKC": [
+        102720101,
+        102720102,
+        102720103,
+        102720104,
+        102720105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1029101,
+      "EICAPFLICKC": [
+        102910101,
+        102910102,
+        102910103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1029102,
+      "EICAPFLICKC": [
+        102910201,
+        102910202,
+        102910203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1029104,
+      "EICAPFLICKC": [
+        102910401,
+        102910402
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1029106,
+      "EICAPFLICKC": [
+        102910601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1029107,
+      "EICAPFLICKC": [
+        102910701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1032201,
+      "EICAPFLICKC": [
+        103220101,
+        103220102,
+        103220103,
+        103220104,
+        103220105
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1035101,
+      "EICAPFLICKC": [
+        103510101,
+        103510102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1035102,
+      "EICAPFLICKC": [
+        103510201,
+        103510202,
+        103510203
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1035103,
+      "EICAPFLICKC": [
+        103510301,
+        103510302
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1040101,
+      "EICAPFLICKC": [
+        104010101,
+        104010102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1040102,
+      "EICAPFLICKC": [
+        104010201,
+        104010202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1040103,
+      "EICAPFLICKC": [
+        104010301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1040104,
+      "EICAPFLICKC": [
+        104010401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1040106,
+      "EICAPFLICKC": [
+        104010602
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10171510,
+      "EICAPFLICKC": [
+        1017151001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10171511,
+      "EICAPFLICKC": [
+        1017151101
+      ]
+    }
+  ]
+}

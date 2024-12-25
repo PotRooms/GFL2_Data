@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "枪口装置",
+      "MLPKAABIHKL": [
+        1
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Muzzle_None",
+      "EHBHOFLNDKO": "WeaponPart_Muzzle_80"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "瞄具",
+      "MLPKAABIHKL": [
+        2
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Scope_None",
+      "EHBHOFLNDKO": "WeaponPart_Scope_80"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "前握把",
+      "MLPKAABIHKL": [
+        3
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Grip_None",
+      "EHBHOFLNDKO": "WeaponPart_Grip_80"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "导轨附件",
+      "MLPKAABIHKL": [
+        4
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Fishbone_None",
+      "EHBHOFLNDKO": "WeaponPart_Fishbone_80"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "弹药",
+      "MLPKAABIHKL": [
+        5
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Bullet_None",
+      "EHBHOFLNDKO": "WeaponPart_Bullet_80"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "锋刃",
+      "MLPKAABIHKL": [
+        6
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Ensharp_None",
+      "EHBHOFLNDKO": "WeaponPart_Ensharp_80"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "持握配件",
+      "MLPKAABIHKL": [
+        7
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Handle_None",
+      "EHBHOFLNDKO": "WeaponPart_Handle_80"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": "特型组件",
+      "MLPKAABIHKL": [
+        8
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Lightweight_None",
+      "EHBHOFLNDKO": "WeaponPart_Lightweight_80"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": "增效装置",
+      "MLPKAABIHKL": [
+        9
+      ],
+      "HCMFKDOFLHE": "WeaponPart_Texture_None",
+      "EHBHOFLNDKO": "WeaponPart_Texture_80"
+    }
+  ]
+}

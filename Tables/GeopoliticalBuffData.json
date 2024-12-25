@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "KHAKCFAKBNH": 101,
+      "PDPFHAEELEA": "增加+1攻的buff，3回合",
+      "KFHCEAABLHG": 1001,
+      "EAJLMKKJNLA": true,
+      "JHLNDNJMJFG": 1
+    },
+    {
+      "KHAKCFAKBNH": 201,
+      "PDPFHAEELEA": "增加-1攻的buff，3回合",
+      "KFHCEAABLHG": 1001,
+      "EAJLMKKJNLA": true,
+      "JHLNDNJMJFG": -1
+    },
+    {
+      "KHAKCFAKBNH": 301,
+      "PDPFHAEELEA": "增加+1防的buff，3回合",
+      "KFHCEAABLHG": 1001,
+      "EAJLMKKJNLA": true,
+      "BJLELANDBDG": 1,
+      "JHLNDNJMJFG": 1
+    },
+    {
+      "KHAKCFAKBNH": 401,
+      "PDPFHAEELEA": "增加-1防的buff，3回合",
+      "KFHCEAABLHG": 1001,
+      "EAJLMKKJNLA": true,
+      "BJLELANDBDG": 1,
+      "JHLNDNJMJFG": -1
+    },
+    {
+      "KHAKCFAKBNH": 501,
+      "PDPFHAEELEA": "增加每回合开始时30%概率获得能量2点的buff",
+      "KFHCEAABLHG": 1005,
+      "BJLELANDBDG": 2,
+      "JHLNDNJMJFG": 300
+    },
+    {
+      "KHAKCFAKBNH": 1001,
+      "PDPFHAEELEA": "获得敌方单位控制权，直至单位死亡为止",
+      "KFHCEAABLHG": 1010,
+      "BJLELANDBDG": 1
+    },
+    {
+      "KHAKCFAKBNH": 2001,
+      "PDPFHAEELEA": "陷阱-1防的buff",
+      "KFHCEAABLHG": 1001,
+      "BJLELANDBDG": 1,
+      "JHLNDNJMJFG": -1
+    },
+    {
+      "KHAKCFAKBNH": 2002,
+      "PDPFHAEELEA": "陷阱+1防的buff",
+      "KFHCEAABLHG": 1001,
+      "BJLELANDBDG": 1,
+      "JHLNDNJMJFG": 1
+    },
+    {
+      "KHAKCFAKBNH": 9999,
+      "PDPFHAEELEA": "被偷属性，程序用勿动",
+      "KFHCEAABLHG": 1008
+    }
+  ]
+}

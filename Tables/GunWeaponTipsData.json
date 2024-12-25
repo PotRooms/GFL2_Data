@@ -1,0 +1,596 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 70,
+      "AKCOFHLALLO": 1051,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10512
+      ]
+    },
+    {
+      "LGJCPENNFBC": 71,
+      "AKCOFHLALLO": 1044,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10443
+      ]
+    },
+    {
+      "LGJCPENNFBC": 72,
+      "AKCOFHLALLO": 1044,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10442
+      ]
+    },
+    {
+      "LGJCPENNFBC": 73,
+      "AKCOFHLALLO": 1045,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10453
+      ]
+    },
+    {
+      "LGJCPENNFBC": 74,
+      "AKCOFHLALLO": 1045,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10452
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "AKCOFHLALLO": 1001,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10005
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "AKCOFHLALLO": 1001,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "AKCOFHLALLO": 1008,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "AKCOFHLALLO": 1008,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11014
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "AKCOFHLALLO": 1009,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "AKCOFHLALLO": 1009,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11015
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "AKCOFHLALLO": 1009,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        10362
+      ]
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "AKCOFHLALLO": 1015,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11016
+      ]
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "AKCOFHLALLO": 1015,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11021
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "AKCOFHLALLO": 1017,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "AKCOFHLALLO": 1017,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11023
+      ]
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "AKCOFHLALLO": 1021,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11020
+      ]
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "AKCOFHLALLO": 1021,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "AKCOFHLALLO": 1021,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        11026
+      ]
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "AKCOFHLALLO": 1013,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10133
+      ]
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "AKCOFHLALLO": 1013,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "AKCOFHLALLO": 1013,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        10132
+      ]
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "AKCOFHLALLO": 1022,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11038
+      ]
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "AKCOFHLALLO": 1022,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11031
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "AKCOFHLALLO": 1022,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        11037
+      ]
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "AKCOFHLALLO": 1024,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "AKCOFHLALLO": 1024,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11040
+      ]
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "AKCOFHLALLO": 1025,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11038
+      ]
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "AKCOFHLALLO": 1025,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11037
+      ]
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "AKCOFHLALLO": 1026,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "AKCOFHLALLO": 1026,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11049
+      ]
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "AKCOFHLALLO": 1027,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11044
+      ]
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "AKCOFHLALLO": 1027,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "AKCOFHLALLO": 1027,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        11043
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "AKCOFHLALLO": 1028,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11056
+      ]
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "AKCOFHLALLO": 1028,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "AKCOFHLALLO": 1028,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        11055
+      ]
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "AKCOFHLALLO": 1029,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11047
+      ]
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "AKCOFHLALLO": 1029,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "AKCOFHLALLO": 1029,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        11046
+      ]
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "AKCOFHLALLO": 1032,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11053
+      ]
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "AKCOFHLALLO": 1032,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        11038
+      ]
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "AKCOFHLALLO": 1032,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        11052
+      ]
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "AKCOFHLALLO": 1033,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10333
+      ]
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "AKCOFHLALLO": 1033,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10332
+      ]
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "AKCOFHLALLO": 1034,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10343
+      ]
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "AKCOFHLALLO": 1034,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10342
+      ]
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "AKCOFHLALLO": 1035,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10353
+      ]
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "AKCOFHLALLO": 1035,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10352
+      ]
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "AKCOFHLALLO": 1036,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "AKCOFHLALLO": 1036,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10362
+      ]
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "AKCOFHLALLO": 1036,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        11015
+      ]
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "AKCOFHLALLO": 1037,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10373
+      ]
+    },
+    {
+      "LGJCPENNFBC": 49,
+      "AKCOFHLALLO": 1037,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10005
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "AKCOFHLALLO": 1037,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        10372
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "AKCOFHLALLO": 1038,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        11020
+      ]
+    },
+    {
+      "LGJCPENNFBC": 52,
+      "AKCOFHLALLO": 1038,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 53,
+      "AKCOFHLALLO": 1038,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        10382
+      ]
+    },
+    {
+      "LGJCPENNFBC": 54,
+      "AKCOFHLALLO": 1041,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 55,
+      "AKCOFHLALLO": 1041,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10412
+      ]
+    },
+    {
+      "LGJCPENNFBC": 56,
+      "AKCOFHLALLO": 1039,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10393
+      ]
+    },
+    {
+      "LGJCPENNFBC": 57,
+      "AKCOFHLALLO": 1039,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10392
+      ]
+    },
+    {
+      "LGJCPENNFBC": 58,
+      "AKCOFHLALLO": 1023,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10233
+      ]
+    },
+    {
+      "LGJCPENNFBC": 59,
+      "AKCOFHLALLO": 1023,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10343
+      ]
+    },
+    {
+      "LGJCPENNFBC": 60,
+      "AKCOFHLALLO": 1023,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        10232
+      ]
+    },
+    {
+      "LGJCPENNFBC": 61,
+      "AKCOFHLALLO": 1050,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10503
+      ]
+    },
+    {
+      "LGJCPENNFBC": 62,
+      "AKCOFHLALLO": 1050,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 63,
+      "AKCOFHLALLO": 1050,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        10502
+      ]
+    },
+    {
+      "LGJCPENNFBC": 64,
+      "AKCOFHLALLO": 1040,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10403
+      ]
+    },
+    {
+      "LGJCPENNFBC": 65,
+      "AKCOFHLALLO": 1040,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10503
+      ]
+    },
+    {
+      "LGJCPENNFBC": 66,
+      "AKCOFHLALLO": 1040,
+      "ADBEKGKLEKO": 3,
+      "CFJIJOINGOL": [
+        10402
+      ]
+    },
+    {
+      "LGJCPENNFBC": 67,
+      "AKCOFHLALLO": 1052,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10523
+      ]
+    },
+    {
+      "LGJCPENNFBC": 68,
+      "AKCOFHLALLO": 1052,
+      "ADBEKGKLEKO": 2,
+      "CFJIJOINGOL": [
+        10522
+      ]
+    },
+    {
+      "LGJCPENNFBC": 69,
+      "AKCOFHLALLO": 1051,
+      "ADBEKGKLEKO": 1,
+      "CFJIJOINGOL": [
+        10513
+      ]
+    }
+  ]
+}

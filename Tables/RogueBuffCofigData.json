@@ -1,0 +1,580 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1101,
+      "DHGBGMBFNPH": 11,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "机体整备lv1",
+      "ECLBGLLAFOD": [
+        34001
+      ],
+      "DOIILOPHMAD": "若两回合内未受到攻击，则回合开始时回复自身最大生命值的12%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_11"
+    },
+    {
+      "LGJCPENNFBC": 1102,
+      "DHGBGMBFNPH": 11,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "机体整备lv2",
+      "ECLBGLLAFOD": [
+        34002
+      ],
+      "DOIILOPHMAD": "若两回合内未受到攻击，则回合开始时回复自身最大生命值的18%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_11"
+    },
+    {
+      "LGJCPENNFBC": 1103,
+      "DHGBGMBFNPH": 11,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "机体整备lv3",
+      "ECLBGLLAFOD": [
+        34003
+      ],
+      "DOIILOPHMAD": "若两回合内未受到攻击，则回合开始时回复自身最大生命值的24%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_11"
+    },
+    {
+      "LGJCPENNFBC": 1301,
+      "DHGBGMBFNPH": 13,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "区域压制lv1",
+      "ECLBGLLAFOD": [
+        34201
+      ],
+      "DOIILOPHMAD": "若攻击造成稳态崩溃，则选取目标周围半径3格区域内所有敌方单位，与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的40%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_13"
+    },
+    {
+      "LGJCPENNFBC": 1302,
+      "DHGBGMBFNPH": 13,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "区域压制lv2",
+      "ECLBGLLAFOD": [
+        34202
+      ],
+      "DOIILOPHMAD": "若攻击造成稳态崩溃，则选取目标周围半径3格区域内所有敌方单位，与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的60%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_13"
+    },
+    {
+      "LGJCPENNFBC": 1303,
+      "DHGBGMBFNPH": 13,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "区域压制lv3",
+      "ECLBGLLAFOD": [
+        34203
+      ],
+      "DOIILOPHMAD": "若攻击造成稳态崩溃，则选取目标周围半径3格区域内所有敌方单位，与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的80%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_13"
+    },
+    {
+      "LGJCPENNFBC": 1501,
+      "DHGBGMBFNPH": 15,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "磁能激增lv1",
+      "ECLBGLLAFOD": [
+        34401
+      ],
+      "DOIILOPHMAD": "攻击稳态指数为满的敌方单位时，与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的30%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_15"
+    },
+    {
+      "LGJCPENNFBC": 1502,
+      "DHGBGMBFNPH": 15,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "磁能激增lv2",
+      "ECLBGLLAFOD": [
+        34402
+      ],
+      "DOIILOPHMAD": "攻击稳态指数为满的敌方单位时，与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的45%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_15"
+    },
+    {
+      "LGJCPENNFBC": 1503,
+      "DHGBGMBFNPH": 15,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "磁能激增lv3",
+      "ECLBGLLAFOD": [
+        34403
+      ],
+      "DOIILOPHMAD": "攻击稳态指数为满的敌方单位时，与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的60%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_15"
+    },
+    {
+      "LGJCPENNFBC": 1201,
+      "DHGBGMBFNPH": 12,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "压制转化lv1",
+      "ECLBGLLAFOD": [
+        34101
+      ],
+      "DOIILOPHMAD": "攻击陷入稳态崩溃的敌方单位时，获得20%的转化。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_12"
+    },
+    {
+      "LGJCPENNFBC": 1202,
+      "DHGBGMBFNPH": 12,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "压制转化lv2",
+      "ECLBGLLAFOD": [
+        34102
+      ],
+      "DOIILOPHMAD": "攻击陷入稳态崩溃的敌方单位时，获得30%的转化。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_12"
+    },
+    {
+      "LGJCPENNFBC": 1203,
+      "DHGBGMBFNPH": 12,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "压制转化lv3",
+      "ECLBGLLAFOD": [
+        34103
+      ],
+      "DOIILOPHMAD": "攻击陷入稳态崩溃的敌方单位时，获得40%的转化。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_12"
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "DHGBGMBFNPH": 1,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "火力压制lv1",
+      "ECLBGLLAFOD": [
+        33001
+      ],
+      "DOIILOPHMAD": "攻击陷入稳态崩溃的敌方单位时，提升自身造成伤害的30%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_1"
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "DHGBGMBFNPH": 1,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "火力压制lv2",
+      "ECLBGLLAFOD": [
+        33002
+      ],
+      "DOIILOPHMAD": "攻击陷入稳态崩溃的敌方单位时，提升自身造成伤害的45%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_1"
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "DHGBGMBFNPH": 1,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "火力压制lv3",
+      "ECLBGLLAFOD": [
+        33003
+      ],
+      "DOIILOPHMAD": "攻击陷入稳态崩溃的敌方单位时，提升自身造成伤害的60%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_1"
+    },
+    {
+      "LGJCPENNFBC": 301,
+      "DHGBGMBFNPH": 3,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "阵地优势lv1",
+      "ECLBGLLAFOD": [
+        33201
+      ],
+      "DOIILOPHMAD": "若回合结束前未移动，则提升自身造成伤害的8%。叠加上限3层，移动后清除该效果。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_3"
+    },
+    {
+      "LGJCPENNFBC": 302,
+      "DHGBGMBFNPH": 3,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "阵地优势lv2",
+      "ECLBGLLAFOD": [
+        33202
+      ],
+      "DOIILOPHMAD": "若回合结束前未移动，则提升自身造成伤害的12%。叠加上限3层，移动后清除该效果。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_3"
+    },
+    {
+      "LGJCPENNFBC": 303,
+      "DHGBGMBFNPH": 3,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "阵地优势lv3",
+      "ECLBGLLAFOD": [
+        33203
+      ],
+      "DOIILOPHMAD": "若回合结束前未移动，则提升自身造成伤害的16%。叠加上限3层，移动后清除该效果。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_3"
+    },
+    {
+      "LGJCPENNFBC": 701,
+      "DHGBGMBFNPH": 7,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "逆境振发lv1",
+      "ECLBGLLAFOD": [
+        33601
+      ],
+      "DOIILOPHMAD": "受到的伤害将随着自身生命值的降低而降低，上限为伤害值的20%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_7"
+    },
+    {
+      "LGJCPENNFBC": 702,
+      "DHGBGMBFNPH": 7,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "逆境振发lv2",
+      "ECLBGLLAFOD": [
+        33602
+      ],
+      "DOIILOPHMAD": "受到的伤害将随着自身生命值的降低而降低，上限为伤害值的30%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_7"
+    },
+    {
+      "LGJCPENNFBC": 703,
+      "DHGBGMBFNPH": 7,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "逆境振发lv3",
+      "ECLBGLLAFOD": [
+        33603
+      ],
+      "DOIILOPHMAD": "受到的伤害将随着自身生命值的降低而降低，上限为伤害值的40%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_7"
+    },
+    {
+      "LGJCPENNFBC": 801,
+      "DHGBGMBFNPH": 8,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "重装突进lv1",
+      "ECLBGLLAFOD": [
+        33701
+      ],
+      "DOIILOPHMAD": "若受击时周围半径4格内不存在友方单位，则降低自身受到伤害的12%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_8"
+    },
+    {
+      "LGJCPENNFBC": 802,
+      "DHGBGMBFNPH": 8,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "重装突进lv2",
+      "ECLBGLLAFOD": [
+        33702
+      ],
+      "DOIILOPHMAD": "若受击时周围半径4格内不存在友方单位，则降低自身受到伤害的18%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_8"
+    },
+    {
+      "LGJCPENNFBC": 803,
+      "DHGBGMBFNPH": 8,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "重装突进lv3",
+      "ECLBGLLAFOD": [
+        33703
+      ],
+      "DOIILOPHMAD": "若受击时周围半径4格内不存在友方单位，则降低自身受到伤害的24%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_8"
+    },
+    {
+      "LGJCPENNFBC": 1401,
+      "DHGBGMBFNPH": 14,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "孤点压制lv1",
+      "ECLBGLLAFOD": [
+        34301
+      ],
+      "DOIILOPHMAD": "攻击敌方目标时，若该目标周围半径4格内不存在其他敌方单位，则与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的30%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_14"
+    },
+    {
+      "LGJCPENNFBC": 1402,
+      "DHGBGMBFNPH": 14,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "孤点压制lv2",
+      "ECLBGLLAFOD": [
+        34302
+      ],
+      "DOIILOPHMAD": "攻击敌方目标时，若该目标周围半径4格内不存在其他敌方单位，则与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的45%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_14"
+    },
+    {
+      "LGJCPENNFBC": 1403,
+      "DHGBGMBFNPH": 14,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "孤点压制lv3",
+      "ECLBGLLAFOD": [
+        34303
+      ],
+      "DOIILOPHMAD": "攻击敌方目标时，若该目标周围半径4格内不存在其他敌方单位，则与其建立压制趋势，并削减其稳态指数。削减量为自身压制强度的60%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_14"
+    },
+    {
+      "LGJCPENNFBC": 401,
+      "DHGBGMBFNPH": 4,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "短兵相接lv1",
+      "ECLBGLLAFOD": [
+        33301
+      ],
+      "DOIILOPHMAD": "攻击周围半径3格内的敌方单位时，提升自身造成伤害的18%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_4"
+    },
+    {
+      "LGJCPENNFBC": 402,
+      "DHGBGMBFNPH": 4,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "短兵相接lv2",
+      "ECLBGLLAFOD": [
+        33302
+      ],
+      "DOIILOPHMAD": "攻击周围半径3格内的敌方单位时，提升自身造成伤害的27%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_4"
+    },
+    {
+      "LGJCPENNFBC": 403,
+      "DHGBGMBFNPH": 4,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "短兵相接lv3",
+      "ECLBGLLAFOD": [
+        33303
+      ],
+      "DOIILOPHMAD": "攻击周围半径3格内的敌方单位时，提升自身造成伤害的36%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_4"
+    },
+    {
+      "LGJCPENNFBC": 501,
+      "DHGBGMBFNPH": 5,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "长距打击lv1",
+      "ECLBGLLAFOD": [
+        33401
+      ],
+      "DOIILOPHMAD": "攻击周围半径4格外的敌方单位时，提升自身造成伤害的18%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_5"
+    },
+    {
+      "LGJCPENNFBC": 502,
+      "DHGBGMBFNPH": 5,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "长距打击lv2",
+      "ECLBGLLAFOD": [
+        33402
+      ],
+      "DOIILOPHMAD": "攻击周围半径4格外的敌方单位时，提升自身造成伤害的27%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_5"
+    },
+    {
+      "LGJCPENNFBC": 503,
+      "DHGBGMBFNPH": 5,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "长距打击lv3",
+      "ECLBGLLAFOD": [
+        33403
+      ],
+      "DOIILOPHMAD": "攻击周围半径4格外的敌方单位时，提升自身造成伤害的36%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_5"
+    },
+    {
+      "LGJCPENNFBC": 601,
+      "DHGBGMBFNPH": 6,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "整装强备lv1",
+      "ECLBGLLAFOD": [
+        33501
+      ],
+      "DOIILOPHMAD": "若自身生命值未减少，则降低自身受到伤害的16%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_6"
+    },
+    {
+      "LGJCPENNFBC": 602,
+      "DHGBGMBFNPH": 6,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "整装强备lv2",
+      "ECLBGLLAFOD": [
+        33502
+      ],
+      "DOIILOPHMAD": "若自身生命值未减少，则降低自身受到伤害的24%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_6"
+    },
+    {
+      "LGJCPENNFBC": 603,
+      "DHGBGMBFNPH": 6,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "整装强备lv3",
+      "ECLBGLLAFOD": [
+        33503
+      ],
+      "DOIILOPHMAD": "若自身生命值未减少，则降低自身受到伤害的32%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_6"
+    },
+    {
+      "LGJCPENNFBC": 1601,
+      "DHGBGMBFNPH": 16,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "压制反攻lv1",
+      "ECLBGLLAFOD": [
+        34501
+      ],
+      "DOIILOPHMAD": "当自身成为承压对象且稳态指数被削减时，与压制源建立压制趋势，并削减其稳态指数。削减量为自身压制强度的20%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_12"
+    },
+    {
+      "LGJCPENNFBC": 1602,
+      "DHGBGMBFNPH": 16,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "压制反攻lv2",
+      "ECLBGLLAFOD": [
+        34502
+      ],
+      "DOIILOPHMAD": "当自身成为承压对象，稳态指数被削减时，与压制源建立压制趋势，并削减其稳态指数。削减量为自身压制强度的30%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_12"
+    },
+    {
+      "LGJCPENNFBC": 1603,
+      "DHGBGMBFNPH": 16,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "压制反攻lv3",
+      "ECLBGLLAFOD": [
+        34503
+      ],
+      "DOIILOPHMAD": "当自身成为承压对象，稳态指数被削减时，与压制源建立压制趋势，并削减其稳态指数。削减量为自身压制强度的40%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_12"
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "DHGBGMBFNPH": 2,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "远程突袭lv1",
+      "ECLBGLLAFOD": [
+        33101
+      ],
+      "DOIILOPHMAD": "主动攻击敌方单位时，每移动1格，提升自身造成伤害的4%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_2"
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "DHGBGMBFNPH": 2,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "远程突袭lv2",
+      "ECLBGLLAFOD": [
+        33102
+      ],
+      "DOIILOPHMAD": "主动攻击敌方单位时，每移动1格，提升自身造成伤害的6%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_2"
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "DHGBGMBFNPH": 2,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "远程突袭lv3",
+      "ECLBGLLAFOD": [
+        33103
+      ],
+      "DOIILOPHMAD": "主动攻击敌方单位时，每移动1格，提升自身造成伤害的8%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_2"
+    },
+    {
+      "LGJCPENNFBC": 901,
+      "DHGBGMBFNPH": 9,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "集团优势lv1",
+      "ECLBGLLAFOD": [
+        33801
+      ],
+      "DOIILOPHMAD": "若受击时周围半径3格内存在友方单位，则降低自身受到伤害的12%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_9"
+    },
+    {
+      "LGJCPENNFBC": 902,
+      "DHGBGMBFNPH": 9,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "集团优势lv2",
+      "ECLBGLLAFOD": [
+        33802
+      ],
+      "DOIILOPHMAD": "若受击时周围半径3格内存在友方单位，则降低自身受到伤害的18%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_9"
+    },
+    {
+      "LGJCPENNFBC": 903,
+      "DHGBGMBFNPH": 9,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "集团优势lv3",
+      "ECLBGLLAFOD": [
+        33803
+      ],
+      "DOIILOPHMAD": "若受击时周围半径3格内存在友方单位，则降低自身受到伤害的24%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_9"
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "DHGBGMBFNPH": 10,
+      "BGJLBOBBFOB": 1,
+      "HPMLJGCOFKN": 3,
+      "HBJAHCGKJJD": "战机稳固lv1",
+      "ECLBGLLAFOD": [
+        33901
+      ],
+      "DOIILOPHMAD": "击杀敌方单位时，回复自身最大生命值的16%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_10"
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "DHGBGMBFNPH": 10,
+      "BGJLBOBBFOB": 2,
+      "HPMLJGCOFKN": 4,
+      "HBJAHCGKJJD": "战机稳固lv2",
+      "ECLBGLLAFOD": [
+        33902
+      ],
+      "DOIILOPHMAD": "击杀敌方单位时，回复自身最大生命值的24%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_10"
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "DHGBGMBFNPH": 10,
+      "BGJLBOBBFOB": 3,
+      "HPMLJGCOFKN": 5,
+      "HBJAHCGKJJD": "战机稳固lv3",
+      "ECLBGLLAFOD": [
+        33903
+      ],
+      "DOIILOPHMAD": "击杀敌方单位时，回复自身最大生命值的32%。",
+      "CPHHOLKBIJA": "Buff_MythicBuff_10"
+    }
+  ]
+}

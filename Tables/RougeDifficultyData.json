@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "FJMFPDEJJBC": 1,
+      "OMJBPIEDJLE": "教学",
+      "OOFPKNDBONJ": "教学模式",
+      "EDDGGIBKPKA": 1,
+      "JEKOEEJPFAG": 50,
+      "JNMJJNKCELO": 80,
+      "LMKGHDIFDDG": 1
+    },
+    {
+      "FJMFPDEJJBC": 2,
+      "OMJBPIEDJLE": "简单",
+      "OOFPKNDBONJ": "简单模式",
+      "EDDGGIBKPKA": 2,
+      "JEKOEEJPFAG": 100,
+      "JNMJJNKCELO": 90,
+      "LEIAKOIGJJA": 1,
+      "IPNMDJPDGOB": 1
+    },
+    {
+      "FJMFPDEJJBC": 3,
+      "OMJBPIEDJLE": "正常",
+      "OOFPKNDBONJ": "正常模式",
+      "EDDGGIBKPKA": 3,
+      "JEKOEEJPFAG": 120,
+      "JNMJJNKCELO": 100,
+      "LEIAKOIGJJA": 2,
+      "IPNMDJPDGOB": 2
+    },
+    {
+      "FJMFPDEJJBC": 4,
+      "OMJBPIEDJLE": "困难",
+      "OOFPKNDBONJ": "困难模式",
+      "EDDGGIBKPKA": 4,
+      "JEKOEEJPFAG": 140,
+      "JNMJJNKCELO": 120,
+      "LEIAKOIGJJA": 3,
+      "IPNMDJPDGOB": 3
+    },
+    {
+      "FJMFPDEJJBC": 5,
+      "OMJBPIEDJLE": "挑战",
+      "OOFPKNDBONJ": "挑战模式",
+      "EDDGGIBKPKA": 5,
+      "JEKOEEJPFAG": 100,
+      "JNMJJNKCELO": 100,
+      "LEIAKOIGJJA": 4,
+      "IPNMDJPDGOB": 5
+    }
+  ]
+}

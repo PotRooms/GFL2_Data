@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": "多功能台",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_FunctionDesk",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 7,
+      "PPBEPFFNDDJ": "vfx_lounge_FunctionDesk",
+      "MAOCENHMFIH": [
+        -5.23,
+        0.7,
+        4.489
+      ],
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": "商城",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_Store",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 8,
+      "PPBEPFFNDDJ": "vfx_lounge_billboard",
+      "MAOCENHMFIH": [
+        -6.06,
+        0.7,
+        4.489
+      ],
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": "植物墙",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_Locker",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 9,
+      "PPBEPFFNDDJ": "vfx_lounge_billboard",
+      "MAOCENHMFIH": [
+        -7.08,
+        1.76,
+        1.64
+      ],
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "礼物赠送",
+      "DNHAGPFHGCE": "Icon_LoungeFunctionDesk_Gift",
+      "LBKAFEKMKMC": 1,
+      "ABDJPOLOOKJ": 1,
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "房间编辑",
+      "DNHAGPFHGCE": "Icon_LoungeFunctionDesk_Furniture",
+      "LBKAFEKMKMC": 1,
+      "ABDJPOLOOKJ": 2,
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "收藏",
+      "DNHAGPFHGCE": "Icon_LoungeFunctionDesk_Remember",
+      "LBKAFEKMKMC": 1,
+      "ABDJPOLOOKJ": 3,
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "简讯",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_Chat",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 1,
+      "PPBEPFFNDDJ": "vfx_lounge_billboard",
+      "MAOCENHMFIH": [
+        -7.853,
+        1.858,
+        1.394
+      ],
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "衣橱",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_Closet",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 2,
+      "PPBEPFFNDDJ": "vfx_lounge_billboard",
+      "MAOCENHMFIH": [
+        -2.4,
+        0.823,
+        7.7
+      ],
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "工作台",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_Desk",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 3,
+      "PPBEPFFNDDJ": "vfx_lounge_Desk",
+      "MAOCENHMFIH": [
+        -1.76,
+        3.32,
+        6.165
+      ],
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "礼物架",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_Shelf",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 4,
+      "PPBEPFFNDDJ": "vfx_lounge_billboard",
+      "MAOCENHMFIH": [
+        1.78,
+        1.07,
+        7.919
+      ],
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": "武器墙",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_WeaponWall",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 5,
+      "PPBEPFFNDDJ": "vfx_lounge_billboard",
+      "MAOCENHMFIH": [
+        -5.08,
+        3.32,
+        7.52
+      ],
+      "NABFKLCGKJA": 15000
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": "照片墙",
+      "ICFALPAMHFJ": "Icon_LoungeFunction_Type_PhotoWall",
+      "BMJIGJHPKDD": 1,
+      "JBHBDJOIJGJ": 6,
+      "PPBEPFFNDDJ": "vfx_lounge_billboard",
+      "MAOCENHMFIH": [
+        -0.1,
+        1.49,
+        7.919
+      ],
+      "NABFKLCGKJA": 15000
+    }
+  ]
+}

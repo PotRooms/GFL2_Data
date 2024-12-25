@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "MGCPIHFPOFD": 4,
+      "DEBCHPGKGCI": 1,
+      "BHKEMEGICLI": 5110239,
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_1",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "3141"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "MGCPIHFPOFD": 6,
+      "DEBCHPGKGCI": 1,
+      "BHKEMEGICLI": 6250301,
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_1",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "6185"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "MGCPIHFPOFD": 4,
+      "DEBCHPGKGCI": 2,
+      "BHKEMEGICLI": 5110239,
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_2",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "3141"
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "MGCPIHFPOFD": 6,
+      "DEBCHPGKGCI": 2,
+      "BHKEMEGICLI": 63143201,
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_2",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "6187"
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "MGCPIHFPOFD": 4,
+      "DEBCHPGKGCI": 3,
+      "BHKEMEGICLI": 5110239,
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_3",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "3141"
+      }
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "MGCPIHFPOFD": 5,
+      "DEBCHPGKGCI": 3,
+      "BHKEMEGICLI": 7007500,
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_4",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "6966"
+      }
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "MGCPIHFPOFD": 6,
+      "DEBCHPGKGCI": 3,
+      "BHKEMEGICLI": 5100016,
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_5",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "7372"
+      }
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "MGCPIHFPOFD": 2,
+      "DEBCHPGKGCI": 4,
+      "BHKEMEGICLI": 5110239,
+      "DNHAGPFHGCE": "Skill_AegisWallSWAP_Active_1",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "3141"
+      }
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "MGCPIHFPOFD": 4,
+      "DEBCHPGKGCI": 4,
+      "BHKEMEGICLI": 5110265,
+      "DNHAGPFHGCE": "Skill_AegisWallSWAP_Active_1",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "7551"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "MGCPIHFPOFD": 4,
+      "DEBCHPGKGCI": 5,
+      "BHKEMEGICLI": 5110239,
+      "DNHAGPFHGCE": "Skill_AegisWallSWAP_Active_2",
+      "CMINDFLCMED": {
+        "DOHLNDIPHAJ": "3141"
+      }
+    }
+  ]
+}

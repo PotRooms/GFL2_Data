@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "HBJAHCGKJJD": "束流",
+      "IINAEFFCJFH": "Special"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "动能",
+      "IINAEFFCJFH": "Physical"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "离子",
+      "IINAEFFCJFH": "Magical"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "稳态",
+      "IINAEFFCJFH": "Suppress"
+    }
+  ]
+}

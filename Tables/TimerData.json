@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBCFNDOENFL": "系统刷新(助战，体力)",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBCFNDOENFL": "休息室刷新",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBCFNDOENFL": "任务每日刷新(日常)",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBCFNDOENFL": "任务每周刷新(周常)",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBCFNDOENFL": "战斗刷新(金币本，爬塔本，扫荡)",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBCFNDOENFL": "玩法次数每日刷新",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBCFNDOENFL": "玩法次数每周刷新",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBCFNDOENFL": "暗区功能每日刷新",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "354": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBCFNDOENFL": "暗区功能每周刷新",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBCFNDOENFL": "签到每日更新时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBCFNDOENFL": "商城（黑市手动刷新次数，商城好感)",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBCFNDOENFL": "实兵演习每日刷新",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "102": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBCFNDOENFL": "实兵演习每周刷新",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HBCFNDOENFL": "battlepass每日任务",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBCFNDOENFL": "battlepass每周任务",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "HBCFNDOENFL": "battlepass添加任务",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "HBCFNDOENFL": "battlepass协作任务",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "HBCFNDOENFL": "秘境每周刷新",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBCFNDOENFL": "计数系统每日刷新",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBCFNDOENFL": "计数系统每周刷新",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HBCFNDOENFL": "暗区任务模式每日可完成次数",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "311": 9999
+      }
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "HBCFNDOENFL": "艾莫号活动刷新时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "HBCFNDOENFL": "周常本重置时间",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1",
+      "GJIMAKGNGJP": {
+        "304": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HBCFNDOENFL": "经验日常副本挑战次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "300": 4
+      }
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HBCFNDOENFL": "心智日常副本挑战次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "302": 2
+      }
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "HBCFNDOENFL": "武器经验日常副本挑战次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "305": 4
+      }
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "HBCFNDOENFL": "金币日常副本挑战次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "301": 4
+      }
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "HBCFNDOENFL": "新手7日活动刷新时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "HBCFNDOENFL": "累计登录天",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "HBCFNDOENFL": "心智防卫日常副本次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "355": 2
+      }
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "HBCFNDOENFL": "心智尖兵日常副本次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "356": 2
+      }
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "HBCFNDOENFL": "心智支援日常副本次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "357": 2
+      }
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "HBCFNDOENFL": "心智火力日常副本次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "358": 2
+      }
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "HBCFNDOENFL": "配件本日常副本次数重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "359": 2
+      }
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "HBCFNDOENFL": "扩编战轮换模式-每周刷新",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "HBCFNDOENFL": "连战塔无尽塔每日刷新时间（解锁、次数回复）",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "HBCFNDOENFL": "峰值推定进度奖励重置时间",
+      "BKCIGACKEFD": 2,
+      "KEHHGFADMPB": "5:0",
+      "AGAKFBPHBPJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "HBCFNDOENFL": "班组每日重置时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0",
+      "GJIMAKGNGJP": {
+        "800002": 2
+      }
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "HBCFNDOENFL": "主题活动门票刷新时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "HBCFNDOENFL": "新pvp门票刷新时间",
+      "BKCIGACKEFD": 1,
+      "KEHHGFADMPB": "5:0"
+    }
+  ]
+}

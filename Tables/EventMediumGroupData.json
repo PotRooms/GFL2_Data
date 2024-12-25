@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "DNHAGPFHGCE": "Icon_Guiding_Vx",
+      "FBPJHJLDELP": {
+        "1": 100
+      },
+      "BNMBDPFMKFI": "微信"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "DNHAGPFHGCE": "Icon_Guiding_Wb",
+      "JDBNJHBEPLD": "sinaweibo://userinfo?luicode=10000360&lfid=OP_573585794&uid=7367502517&launchid=10000360-OP_573585794",
+      "ACCFKPEGDOD": "https://weibo.com/u/7367502517",
+      "FBPJHJLDELP": {
+        "1": 100
+      },
+      "BNMBDPFMKFI": "微博"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": "1",
+      "CPDCEMHELII": "กำลังดาวน์โหลด"
+    },
+    {
+      "LGJCPENNFBC": "2",
+      "CPDCEMHELII": "กำลังแตกข้อมูล"
+    },
+    {
+      "LGJCPENNFBC": "3",
+      "CPDCEMHELII": "กำลังจะเสร็จสมบูรณ์"
+    },
+    {
+      "LGJCPENNFBC": "4",
+      "CPDCEMHELII": "กำลังโหลด"
+    },
+    {
+      "LGJCPENNFBC": "5",
+      "CPDCEMHELII": "ตรวจสอบข้อมูล"
+    },
+    {
+      "LGJCPENNFBC": "6",
+      "CPDCEMHELII": "ต้องการตรวจสอบความสมบูรณ์ของข้อมูลหรือไม่"
+    },
+    {
+      "LGJCPENNFBC": "7",
+      "CPDCEMHELII": "ประกาศเกี่ยวกับอายุผู้ใช้งาน"
+    },
+    {
+      "LGJCPENNFBC": "8",
+      "CPDCEMHELII": "Girl Frontline 2: Exilium is an original full 3D strategy game. Players will collect different types of dolls in the game and form their own teams to challenge different levels, ultimately driving the development of the story."
+    },
+    {
+      "LGJCPENNFBC": "9",
+      "CPDCEMHELII": "ขณะนี้ไม่ได้กำลังใช้ WiFi ต้องดาวน์โหลดข้อมูลที่มีขนาด <color=#f0af14>{0}</color> ยืนยันทำต่อหรือไม่?"
+    },
+    {
+      "LGJCPENNFBC": "10",
+      "CPDCEMHELII": "ขณะนี้มีแอปเวอร์ชัน<color=#f0af14>ใหม่กว่า</color> โปรดดาวน์โหลดแอปเวอร์ชันล่าสุด"
+    },
+    {
+      "LGJCPENNFBC": "11",
+      "CPDCEMHELII": "ยกเลิก"
+    },
+    {
+      "LGJCPENNFBC": "12",
+      "CPDCEMHELII": "ยืนยัน"
+    },
+    {
+      "LGJCPENNFBC": "13",
+      "CPDCEMHELII": "โปรดทราบ"
+    },
+    {
+      "LGJCPENNFBC": "14",
+      "CPDCEMHELII": "{0}MB"
+    },
+    {
+      "LGJCPENNFBC": "15",
+      "CPDCEMHELII": "ร้องขอเซิร์ฟเวอร์"
+    },
+    {
+      "LGJCPENNFBC": "16",
+      "CPDCEMHELII": "เปรียบเทียบข้อมูลเวอร์ชัน"
+    },
+    {
+      "LGJCPENNFBC": "17",
+      "CPDCEMHELII": "ดาวน์โหลดตาราง"
+    },
+    {
+      "LGJCPENNFBC": "18",
+      "CPDCEMHELII": "แตกข้อมูลตาราง"
+    },
+    {
+      "LGJCPENNFBC": "19",
+      "CPDCEMHELII": "ดาวน์โหลดข้อมูล"
+    },
+    {
+      "LGJCPENNFBC": "20",
+      "CPDCEMHELII": "แตกข้อมูล"
+    },
+    {
+      "LGJCPENNFBC": "21",
+      "CPDCEMHELII": "รวมข้อมูล"
+    },
+    {
+      "LGJCPENNFBC": "101",
+      "CPDCEMHELII": "ผิดพลาด"
+    },
+    {
+      "LGJCPENNFBC": "102",
+      "CPDCEMHELII": "ผู้บัญชาการที่รัก ขณะนี้เกิดความผิดพลาดบางอย่าง\n<color=#f0af14> (โปรดตรวจสอบหน่วยความจำว่ามีพื้นที่ว่างเพียงพอหรือไม่)</color>"
+    },
+    {
+      "LGJCPENNFBC": "103",
+      "CPDCEMHELII": "วิเคราะห์ข้อมูลผิดพลาด"
+    },
+    {
+      "LGJCPENNFBC": "104",
+      "CPDCEMHELII": "ผู้ใช้งานยกเลิกการดาวน์โหลด!"
+    },
+    {
+      "LGJCPENNFBC": "105",
+      "CPDCEMHELII": "การเชื่อมต่อขัดข้อง โปรดตรวจสอบการเชื่อมต่อ"
+    },
+    {
+      "LGJCPENNFBC": "106",
+      "CPDCEMHELII": "เกิดข้อผิดพลาดวิเคราะห์การล็อกอิน:"
+    },
+    {
+      "LGJCPENNFBC": "107",
+      "CPDCEMHELII": "เกิดข้อผิดพลาดขณะดาวน์โหลด โปรดลองอีกครั้ง"
+    },
+    {
+      "LGJCPENNFBC": "108",
+      "CPDCEMHELII": "เกิดข้อผิดพลาดขณะดาวน์โหลด โปรดลองอีกครั้ง"
+    },
+    {
+      "LGJCPENNFBC": "109",
+      "CPDCEMHELII": "เนื่องจากนโยบายป้องกันการหมกมุ่น บัญชีจึงล็อกเอาท์"
+    },
+    {
+      "LGJCPENNFBC": "110",
+      "CPDCEMHELII": "บัญชีล็อกเอาท์"
+    },
+    {
+      "LGJCPENNFBC": "111",
+      "CPDCEMHELII": "แตะเพื่อลองอีกครั้ง"
+    },
+    {
+      "LGJCPENNFBC": "112",
+      "CPDCEMHELII": "โปรดทราบ"
+    },
+    {
+      "LGJCPENNFBC": "113",
+      "CPDCEMHELII": "เชื่อมต่อใหม่ล้มเหลว กำลังกลับสู่หน้าล็อกอิน"
+    },
+    {
+      "LGJCPENNFBC": "114",
+      "CPDCEMHELII": "กำลังเชื่อมต่อใหม่..."
+    },
+    {
+      "LGJCPENNFBC": "115",
+      "CPDCEMHELII": "อัปเดตทรัพยากรเสร็จสิ้น ต้องทำการรีสตาร์ทเกม"
+    },
+    {
+      "LGJCPENNFBC": "116",
+      "CPDCEMHELII": "เกิดข้อผิดพลาดขณะแตกข้อมูล โปรดลองอีกครั้ง"
+    },
+    {
+      "LGJCPENNFBC": "117",
+      "CPDCEMHELII": "ระบบตรวจพบว่าอุปกรณ์ของท่านเหลือหน่วยความจำไม่เพียงพอ การดาวน์โหลดครั้งนี้ต้องใช้: {0} โปรดเคลียร์หน่วยความจำเพิ่มเติมแล้วลองใหม่"
+    },
+    {
+      "LGJCPENNFBC": "118",
+      "CPDCEMHELII": "ขณะนี้ไม่ได้ใช้ WiFi หากดาวน์โหลดต่อต้องใช้ดาต้า: {0} ยืนยันดาวน์โหลดต่อหรือไม่?"
+    },
+    {
+      "LGJCPENNFBC": "119",
+      "CPDCEMHELII": "ตรวจสอบแอป"
+    },
+    {
+      "LGJCPENNFBC": "120",
+      "CPDCEMHELII": "ท่านต้องการซ่อมบำรุงและตรวจสอบความสมบูรณ์ของแอปหรือไม่?"
+    },
+    {
+      "LGJCPENNFBC": "121",
+      "CPDCEMHELII": "ต้องอัปเดตข้อมูลที่ดาวน์โหลดทั้งหมด"
+    },
+    {
+      "LGJCPENNFBC": "123",
+      "CPDCEMHELII": "ยืนยัน"
+    },
+    {
+      "LGJCPENNFBC": "124",
+      "CPDCEMHELII": "ยกเลิก"
+    },
+    {
+      "LGJCPENNFBC": "125",
+      "CPDCEMHELII": "เลือกภาษา"
+    },
+    {
+      "LGJCPENNFBC": "126",
+      "CPDCEMHELII": "โปรดเลือกภาษาของเสียงภายในเกม\\nหลังจากเลือก สามารถแก้ไขได้ในการตั้งค่า"
+    },
+    {
+      "LGJCPENNFBC": "127",
+      "CPDCEMHELII": "จีน"
+    },
+    {
+      "LGJCPENNFBC": "128",
+      "CPDCEMHELII": "ญี่ปุ่น"
+    },
+    {
+      "LGJCPENNFBC": "129",
+      "CPDCEMHELII": "ยืนยัน"
+    },
+    {
+      "LGJCPENNFBC": "130",
+      "CPDCEMHELII": "เกาหลี"
+    },
+    {
+      "LGJCPENNFBC": "131",
+      "CPDCEMHELII": "เลือกเซิร์ฟเวอร์"
+    },
+    {
+      "LGJCPENNFBC": "132",
+      "CPDCEMHELII": "แตะเพื่อเริ่มต้น"
+    },
+    {
+      "LGJCPENNFBC": "133",
+      "CPDCEMHELII": "ระบบพบว่าการอัปเดตข้อมูล (ขนาด {0}) ครั้งนี้ ไม่ได้เชื่อมต่อด้วย WiFi ยืนยันดาวน์โหลดต่อหรือไม่?"
+    },
+    {
+      "LGJCPENNFBC": "134",
+      "CPDCEMHELII": "ยืนยันดาวน์โหลดข้อมูลการอัปเดต (ขนาด {0}) ครั้งนี้ต่อหรือไม่?"
+    },
+    {
+      "LGJCPENNFBC": "135",
+      "CPDCEMHELII": "การเปลี่ยนเซิร์ฟเวอร์อาจเกิดการดาวน์โหลดข้อมูล ยืนยันเปลี่ยนเซิร์ฟเวอร์หรือไม่?"
+    },
+    {
+      "LGJCPENNFBC": "136",
+      "CPDCEMHELII": "ไม่สามารถล็อกอินเซิร์ฟเวอร์ได้ในขณะนี้ โปรดตรวจสอบประกาศหรือติดต่อฝ่ายบริการลูกค้า"
+    },
+    {
+      "LGJCPENNFBC": "137",
+      "CPDCEMHELII": "เชื่อมต่อใหม่"
+    },
+    {
+      "LGJCPENNFBC": "138",
+      "CPDCEMHELII": "เชื่อมต่อเซิร์ฟเวอร์"
+    },
+    {
+      "LGJCPENNFBC": "139",
+      "CPDCEMHELII": "จีน"
+    },
+    {
+      "LGJCPENNFBC": "140",
+      "CPDCEMHELII": "อเมริกาเหนือ"
+    },
+    {
+      "LGJCPENNFBC": "141",
+      "CPDCEMHELII": "ทั่วโลก"
+    },
+    {
+      "LGJCPENNFBC": "142",
+      "CPDCEMHELII": "ญี่ปุ่น"
+    },
+    {
+      "LGJCPENNFBC": "143",
+      "CPDCEMHELII": "เกาหลีใต้"
+    },
+    {
+      "LGJCPENNFBC": "144",
+      "CPDCEMHELII": "เอเชีย"
+    },
+    {
+      "LGJCPENNFBC": "145",
+      "CPDCEMHELII": "โปรดล็อกอินบัญชีแล้วลองอีกครั้ง"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HNBNNLKOHGG": 1,
+      "DKAJDJJFELC": 3,
+      "FBPJHJLDELP": {}
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HNBNNLKOHGG": 4,
+      "DKAJDJJFELC": 10,
+      "FBPJHJLDELP": {}
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HNBNNLKOHGG": 11,
+      "DKAJDJJFELC": 20,
+      "FBPJHJLDELP": {}
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HNBNNLKOHGG": 21,
+      "DKAJDJJFELC": 50,
+      "FBPJHJLDELP": {}
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HNBNNLKOHGG": 51,
+      "DKAJDJJFELC": 100,
+      "FBPJHJLDELP": {}
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HNBNNLKOHGG": 101,
+      "DKAJDJJFELC": 500,
+      "FBPJHJLDELP": {}
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HNBNNLKOHGG": 501,
+      "DKAJDJJFELC": 1000,
+      "FBPJHJLDELP": {}
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HNBNNLKOHGG": 1001,
+      "DKAJDJJFELC": 999999,
+      "FBPJHJLDELP": {}
+    }
+  ]
+}

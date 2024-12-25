@@ -1,0 +1,53 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 990101,
+      "AGGGHKFNKKL": "Ots14_B",
+      "IHLOLOAENAK": 101,
+      "AGNKNPJNPIB": "B_Root/Bip001/Weapon_L_Hand_Point"
+    },
+    {
+      "LGJCPENNFBC": 990102,
+      "AGGGHKFNKKL": "Ots14_B",
+      "IHLOLOAENAK": 102,
+      "AGNKNPJNPIB": "B_Root/Bip001/Weapon_R_Hand_Point"
+    },
+    {
+      "LGJCPENNFBC": 990103,
+      "AGGGHKFNKKL": "Ots14_B",
+      "IHLOLOAENAK": 103,
+      "AGNKNPJNPIB": "B_Root/Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Neck/Bip001 Head"
+    },
+    {
+      "LGJCPENNFBC": 990104,
+      "AGGGHKFNKKL": "Ots14_B",
+      "HHODNONMMIG": 2,
+      "IHLOLOAENAK": 104,
+      "AGNKNPJNPIB": "lgp_Chest"
+    },
+    {
+      "LGJCPENNFBC": 990105,
+      "AGGGHKFNKKL": "Ots14_B",
+      "IHLOLOAENAK": 108,
+      "AGNKNPJNPIB": "B_Root/Bip001/Weapon_R_Hand_Point/Weapon/lgp_muzzle"
+    },
+    {
+      "LGJCPENNFBC": 990106,
+      "AGGGHKFNKKL": "Ots14_B",
+      "IHLOLOAENAK": 109,
+      "AGNKNPJNPIB": "lgp_Root"
+    },
+    {
+      "LGJCPENNFBC": 990107,
+      "AGGGHKFNKKL": "Ots14_B",
+      "IHLOLOAENAK": 111,
+      "AGNKNPJNPIB": "body"
+    },
+    {
+      "LGJCPENNFBC": 990108,
+      "AGGGHKFNKKL": "Ots14_B",
+      "IHLOLOAENAK": 114,
+      "AGNKNPJNPIB": "HPPoint"
+    }
+  ]
+}

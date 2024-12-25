@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "MAMMIGCEECG": 10,
+      "JEFDCNCNCKK": 6950
+    },
+    {
+      "MAMMIGCEECG": 11,
+      "JEFDCNCNCKK": 8850
+    },
+    {
+      "MAMMIGCEECG": 1
+    },
+    {
+      "MAMMIGCEECG": 2,
+      "JEFDCNCNCKK": 10
+    },
+    {
+      "MAMMIGCEECG": 3,
+      "JEFDCNCNCKK": 500
+    },
+    {
+      "MAMMIGCEECG": 4,
+      "JEFDCNCNCKK": 1000
+    },
+    {
+      "MAMMIGCEECG": 5,
+      "JEFDCNCNCKK": 1350
+    },
+    {
+      "MAMMIGCEECG": 6,
+      "JEFDCNCNCKK": 1750
+    },
+    {
+      "MAMMIGCEECG": 7,
+      "JEFDCNCNCKK": 2550
+    },
+    {
+      "MAMMIGCEECG": 8,
+      "JEFDCNCNCKK": 3650
+    },
+    {
+      "MAMMIGCEECG": 9,
+      "JEFDCNCNCKK": 5100
+    }
+  ]
+}

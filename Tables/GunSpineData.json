@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "EALJEIIAEGE": 1001,
+      "BPDOEBBFMGI": "Mishty",
+      "FJDOOJMEEEL": "MishtySSR",
+      "OIPKFDPOPJC": "Avatar_Head_MishtySSR_Spine",
+      "EOHLLAFNAHL": 209,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1963"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "EALJEIIAEGE": 1001,
+      "BPDOEBBFMGI": "Clukay",
+      "FJDOOJMEEEL": "ClukaySSR",
+      "OIPKFDPOPJC": "Avatar_Head_ClukaySSR_Spine",
+      "EOHLLAFNAHL": 211,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1967"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "EALJEIIAEGE": 1001,
+      "BPDOEBBFMGI": "Groza",
+      "FJDOOJMEEEL": "GrozaSR",
+      "OIPKFDPOPJC": "Avatar_Head_GrozaSR_Spine",
+      "EOHLLAFNAHL": 218,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1806"
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "EALJEIIAEGE": 1001,
+      "BPDOEBBFMGI": "Vepley",
+      "FJDOOJMEEEL": "VepleySSR",
+      "OIPKFDPOPJC": "Avatar_Head_VepleySSR_Spine",
+      "EOHLLAFNAHL": 210,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1817"
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "EALJEIIAEGE": 2001,
+      "BPDOEBBFMGI": "Groza",
+      "FJDOOJMEEEL": "GrozaSR",
+      "OIPKFDPOPJC": "Avatar_Head_GrozaSR_Spine",
+      "EOHLLAFNAHL": 20218,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1806"
+      }
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "EALJEIIAEGE": 2001,
+      "BPDOEBBFMGI": "Vepley",
+      "FJDOOJMEEEL": "VepleySSR",
+      "OIPKFDPOPJC": "Avatar_Head_VepleySSR_Spine",
+      "EOHLLAFNAHL": 20210,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1817"
+      }
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "EALJEIIAEGE": 2001,
+      "BPDOEBBFMGI": "Daiyan",
+      "FJDOOJMEEEL": "DaiyanSSR",
+      "OIPKFDPOPJC": "Avatar_Head_DaiyanSSR_Spine",
+      "EOHLLAFNAHL": 20209,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1895"
+      }
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "EALJEIIAEGE": 2001,
+      "BPDOEBBFMGI": "Centaureissi",
+      "FJDOOJMEEEL": "CentaureissiSSR",
+      "OIPKFDPOPJC": "Avatar_Head_CentaureissiSSR_Spine",
+      "EOHLLAFNAHL": 20211,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1890"
+      }
+    }
+  ]
+}

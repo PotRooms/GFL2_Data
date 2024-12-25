@@ -1,0 +1,1136 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 210,
+      "HBJAHCGKJJD": "大礼包",
+      "DKDFKGOOJJI": {
+        "100": 5,
+        "101": 5
+      },
+      "MPPJDABPGHN": "建造卷轴×5，快建卷轴×5"
+    },
+    {
+      "LGJCPENNFBC": 211,
+      "HBJAHCGKJJD": "大礼包2",
+      "DKDFKGOOJJI": {
+        "100": 10,
+        "101": 10
+      },
+      "MPPJDABPGHN": "建造卷轴×10，快建卷轴×10"
+    },
+    {
+      "LGJCPENNFBC": 212,
+      "HBJAHCGKJJD": "装备仓库格x5",
+      "DKDFKGOOJJI": {
+        "90": 5
+      },
+      "MPPJDABPGHN": "装备仓库格x5"
+    },
+    {
+      "LGJCPENNFBC": 213,
+      "HBJAHCGKJJD": "芯片仓库格x5",
+      "DKDFKGOOJJI": {
+        "91": 5
+      },
+      "MPPJDABPGHN": "芯片仓库格x5"
+    },
+    {
+      "LGJCPENNFBC": 214,
+      "HBJAHCGKJJD": "道具兑换体力",
+      "DKDFKGOOJJI": {
+        "7": 50
+      },
+      "MPPJDABPGHN": "50体力"
+    },
+    {
+      "LGJCPENNFBC": 215,
+      "HBJAHCGKJJD": "爬塔本次数",
+      "DKDFKGOOJJI": {
+        "9": 1
+      },
+      "MPPJDABPGHN": "单次获得1个次数"
+    },
+    {
+      "LGJCPENNFBC": 6001,
+      "HBJAHCGKJJD": "测试大礼包",
+      "DKDFKGOOJJI": {
+        "1": 50,
+        "2": 1000,
+        "124": 2,
+        "2000001": 1
+      },
+      "MPPJDABPGHN": "50钻，1000金币，经验书x2，人形416x1，光学瞄具x1"
+    },
+    {
+      "LGJCPENNFBC": 6002,
+      "HBJAHCGKJJD": "测试大礼包2",
+      "DKDFKGOOJJI": {
+        "1": 50,
+        "2": 1000,
+        "124": 2
+      },
+      "MPPJDABPGHN": "50钻，1000金币，经验书x2"
+    },
+    {
+      "LGJCPENNFBC": 6003,
+      "HBJAHCGKJJD": "1-1通关后送尖兵和歼灭",
+      "DKDFKGOOJJI": {
+        "1001001": 1,
+        "1001003": 1
+      },
+      "MPPJDABPGHN": "尖兵(前排)，歼灭(输出)"
+    },
+    {
+      "LGJCPENNFBC": 150,
+      "HBJAHCGKJJD": "专家装备材料赤x10",
+      "DKDFKGOOJJI": {
+        "110": 10
+      },
+      "MPPJDABPGHN": "专家装备材料赤x10"
+    },
+    {
+      "LGJCPENNFBC": 151,
+      "HBJAHCGKJJD": "专家装备材料赤x15",
+      "DKDFKGOOJJI": {
+        "110": 15
+      },
+      "MPPJDABPGHN": "专家装备材料赤x15"
+    },
+    {
+      "LGJCPENNFBC": 152,
+      "HBJAHCGKJJD": "专家装备材料赤x20",
+      "DKDFKGOOJJI": {
+        "110": 20
+      },
+      "MPPJDABPGHN": "专家装备材料赤x20"
+    },
+    {
+      "LGJCPENNFBC": 153,
+      "HBJAHCGKJJD": "普通装备材料翠x5",
+      "DKDFKGOOJJI": {
+        "112": 5
+      },
+      "MPPJDABPGHN": "普通装备材料翠x5"
+    },
+    {
+      "LGJCPENNFBC": 154,
+      "HBJAHCGKJJD": "普通装备材料翠x10",
+      "DKDFKGOOJJI": {
+        "112": 10
+      },
+      "MPPJDABPGHN": "普通装备材料翠x10"
+    },
+    {
+      "LGJCPENNFBC": 155,
+      "HBJAHCGKJJD": "普通装备材料翠x15",
+      "DKDFKGOOJJI": {
+        "112": 15
+      },
+      "MPPJDABPGHN": "普通装备材料翠x15"
+    },
+    {
+      "LGJCPENNFBC": 156,
+      "HBJAHCGKJJD": "普通装备材料翠x20",
+      "DKDFKGOOJJI": {
+        "112": 20
+      },
+      "MPPJDABPGHN": "普通装备材料翠x20"
+    },
+    {
+      "LGJCPENNFBC": 157,
+      "HBJAHCGKJJD": "高级装备材料翠x5",
+      "DKDFKGOOJJI": {
+        "113": 5
+      },
+      "MPPJDABPGHN": "高级装备材料翠x5"
+    },
+    {
+      "LGJCPENNFBC": 158,
+      "HBJAHCGKJJD": "高级装备材料翠x10",
+      "DKDFKGOOJJI": {
+        "113": 10
+      },
+      "MPPJDABPGHN": "高级装备材料翠x10"
+    },
+    {
+      "LGJCPENNFBC": 159,
+      "HBJAHCGKJJD": "高级装备材料翠x15",
+      "DKDFKGOOJJI": {
+        "113": 15
+      },
+      "MPPJDABPGHN": "高级装备材料翠x15"
+    },
+    {
+      "LGJCPENNFBC": 160,
+      "HBJAHCGKJJD": "高级装备材料翠x20",
+      "DKDFKGOOJJI": {
+        "113": 20
+      },
+      "MPPJDABPGHN": "高级装备材料翠x20"
+    },
+    {
+      "LGJCPENNFBC": 161,
+      "HBJAHCGKJJD": "专家装备材料翠x5",
+      "DKDFKGOOJJI": {
+        "114": 5
+      },
+      "MPPJDABPGHN": "专家装备材料翠x5"
+    },
+    {
+      "LGJCPENNFBC": 162,
+      "HBJAHCGKJJD": "专家装备材料翠x10",
+      "DKDFKGOOJJI": {
+        "114": 10
+      },
+      "MPPJDABPGHN": "专家装备材料翠x10"
+    },
+    {
+      "LGJCPENNFBC": 163,
+      "HBJAHCGKJJD": "专家装备材料翠x15",
+      "DKDFKGOOJJI": {
+        "114": 15
+      },
+      "MPPJDABPGHN": "专家装备材料翠x15"
+    },
+    {
+      "LGJCPENNFBC": 164,
+      "HBJAHCGKJJD": "专家装备材料翠x20",
+      "DKDFKGOOJJI": {
+        "114": 20
+      },
+      "MPPJDABPGHN": "专家装备材料翠x20"
+    },
+    {
+      "LGJCPENNFBC": 165,
+      "HBJAHCGKJJD": "普通装备材料白x5",
+      "DKDFKGOOJJI": {
+        "115": 5
+      },
+      "MPPJDABPGHN": "普通装备材料白x5"
+    },
+    {
+      "LGJCPENNFBC": 166,
+      "HBJAHCGKJJD": "普通装备材料白x10",
+      "DKDFKGOOJJI": {
+        "115": 10
+      },
+      "MPPJDABPGHN": "普通装备材料白x10"
+    },
+    {
+      "LGJCPENNFBC": 167,
+      "HBJAHCGKJJD": "普通装备材料白x15",
+      "DKDFKGOOJJI": {
+        "115": 15
+      },
+      "MPPJDABPGHN": "普通装备材料白x15"
+    },
+    {
+      "LGJCPENNFBC": 168,
+      "HBJAHCGKJJD": "普通装备材料白x20",
+      "DKDFKGOOJJI": {
+        "115": 20
+      },
+      "MPPJDABPGHN": "普通装备材料白x20"
+    },
+    {
+      "LGJCPENNFBC": 169,
+      "HBJAHCGKJJD": "高级装备材料白x5",
+      "DKDFKGOOJJI": {
+        "116": 5
+      },
+      "MPPJDABPGHN": "高级装备材料白x5"
+    },
+    {
+      "LGJCPENNFBC": 200,
+      "HBJAHCGKJJD": "建造卷轴",
+      "DKDFKGOOJJI": {
+        "100": 1
+      },
+      "MPPJDABPGHN": "建造卷轴"
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "HBJAHCGKJJD": "快建卷轴",
+      "DKDFKGOOJJI": {
+        "101": 1
+      },
+      "MPPJDABPGHN": "快建卷轴"
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "HBJAHCGKJJD": "快修卷轴",
+      "DKDFKGOOJJI": {
+        "102": 1
+      },
+      "MPPJDABPGHN": "快修卷轴"
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "HBJAHCGKJJD": "装备卷轴",
+      "DKDFKGOOJJI": {
+        "103": 1
+      },
+      "MPPJDABPGHN": "装备卷轴"
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "HBJAHCGKJJD": "载具零件x100",
+      "DKDFKGOOJJI": {
+        "104": 100
+      },
+      "MPPJDABPGHN": "载具零件，自动载具战掉落"
+    },
+    {
+      "LGJCPENNFBC": 205,
+      "HBJAHCGKJJD": "载具零件x200",
+      "DKDFKGOOJJI": {
+        "104": 200
+      },
+      "MPPJDABPGHN": "载具零件，自动载具战掉落"
+    },
+    {
+      "LGJCPENNFBC": 206,
+      "HBJAHCGKJJD": "请假条",
+      "DKDFKGOOJJI": {
+        "114": 1
+      },
+      "MPPJDABPGHN": "请假条×1"
+    },
+    {
+      "LGJCPENNFBC": 207,
+      "HBJAHCGKJJD": "额外体力",
+      "DKDFKGOOJJI": {
+        "7": 100
+      },
+      "MPPJDABPGHN": "体力×100"
+    },
+    {
+      "LGJCPENNFBC": 208,
+      "HBJAHCGKJJD": "扭蛋券",
+      "DKDFKGOOJJI": {
+        "111": 1
+      },
+      "MPPJDABPGHN": "扭蛋券×1"
+    },
+    {
+      "LGJCPENNFBC": 209,
+      "HBJAHCGKJJD": "扭蛋券10",
+      "DKDFKGOOJJI": {
+        "111": 10
+      },
+      "MPPJDABPGHN": "扭蛋券×10"
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "HBJAHCGKJJD": "一级经验书x5",
+      "DKDFKGOOJJI": {
+        "121": 5
+      },
+      "MPPJDABPGHN": "一级经验书x5"
+    },
+    {
+      "LGJCPENNFBC": 122,
+      "HBJAHCGKJJD": "二级经验书x5",
+      "DKDFKGOOJJI": {
+        "122": 5
+      },
+      "MPPJDABPGHN": "二级经验书x5"
+    },
+    {
+      "LGJCPENNFBC": 123,
+      "HBJAHCGKJJD": "三级经验书x5",
+      "DKDFKGOOJJI": {
+        "123": 5
+      },
+      "MPPJDABPGHN": "三级经验书x5"
+    },
+    {
+      "LGJCPENNFBC": 124,
+      "HBJAHCGKJJD": "四级经验书x5",
+      "DKDFKGOOJJI": {
+        "124": 5
+      },
+      "MPPJDABPGHN": "四级经验书x5"
+    },
+    {
+      "LGJCPENNFBC": 125,
+      "HBJAHCGKJJD": "一级经验书x4",
+      "DKDFKGOOJJI": {
+        "121": 4
+      },
+      "MPPJDABPGHN": "一级经验书x4"
+    },
+    {
+      "LGJCPENNFBC": 126,
+      "HBJAHCGKJJD": "二级经验书x4",
+      "DKDFKGOOJJI": {
+        "122": 4
+      },
+      "MPPJDABPGHN": "二级经验书x4"
+    },
+    {
+      "LGJCPENNFBC": 127,
+      "HBJAHCGKJJD": "三级经验书x4",
+      "DKDFKGOOJJI": {
+        "123": 4
+      },
+      "MPPJDABPGHN": "三级经验书x4"
+    },
+    {
+      "LGJCPENNFBC": 128,
+      "HBJAHCGKJJD": "四级经验书x4",
+      "DKDFKGOOJJI": {
+        "124": 4
+      },
+      "MPPJDABPGHN": "四级经验书x4"
+    },
+    {
+      "LGJCPENNFBC": 129,
+      "HBJAHCGKJJD": "一级经验书x3",
+      "DKDFKGOOJJI": {
+        "121": 3
+      },
+      "MPPJDABPGHN": "一级经验书x3"
+    },
+    {
+      "LGJCPENNFBC": 301,
+      "HBJAHCGKJJD": "直男礼品套装",
+      "DKDFKGOOJJI": {
+        "8000001": 10,
+        "8000002": 10,
+        "8000003": 10
+      },
+      "MPPJDABPGHN": "巧克力×10，拉菲×10，钻石×10"
+    },
+    {
+      "LGJCPENNFBC": 1089,
+      "HBJAHCGKJJD": "布伦",
+      "DKDFKGOOJJI": {
+        "1001008": 1
+      },
+      "MPPJDABPGHN": "R"
+    },
+    {
+      "LGJCPENNFBC": 1114,
+      "HBJAHCGKJJD": "维尔德MkⅡ",
+      "DKDFKGOOJJI": {
+        "1001010": 1
+      },
+      "MPPJDABPGHN": "UR"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": "钻石×60",
+      "DKDFKGOOJJI": {
+        "1": 60
+      }
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": "钻石×30",
+      "DKDFKGOOJJI": {
+        "1": 30
+      }
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": "钻石×300",
+      "DKDFKGOOJJI": {
+        "1": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": "钻石×120",
+      "DKDFKGOOJJI": {
+        "1": 120
+      }
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBJAHCGKJJD": "钻石×680",
+      "DKDFKGOOJJI": {
+        "1": 680
+      }
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HBJAHCGKJJD": "钻石×320",
+      "DKDFKGOOJJI": {
+        "1": 320
+      }
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBJAHCGKJJD": "钻石×1680",
+      "DKDFKGOOJJI": {
+        "1": 1680
+      }
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "HBJAHCGKJJD": "钻石×720",
+      "DKDFKGOOJJI": {
+        "1": 720
+      }
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "HBJAHCGKJJD": "钻石×3280",
+      "DKDFKGOOJJI": {
+        "1": 3280
+      }
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "HBJAHCGKJJD": "钻石×1520",
+      "DKDFKGOOJJI": {
+        "1": 1520
+      }
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "HBJAHCGKJJD": "金币x1000",
+      "DKDFKGOOJJI": {
+        "2": 1000
+      },
+      "MPPJDABPGHN": "1000金币"
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "HBJAHCGKJJD": "装备强化大礼包",
+      "DKDFKGOOJJI": {
+        "2": 9999999,
+        "2010001": 10,
+        "2010002": 9,
+        "2010003": 9
+      },
+      "MPPJDABPGHN": "很多金币和装备强化件"
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "HBJAHCGKJJD": "金币x3000",
+      "DKDFKGOOJJI": {
+        "2": 3000
+      },
+      "MPPJDABPGHN": "3000金币"
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "HBJAHCGKJJD": "金币x6000",
+      "DKDFKGOOJJI": {
+        "2": 6000
+      },
+      "MPPJDABPGHN": "6000金币"
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "HBJAHCGKJJD": "金币x8000",
+      "DKDFKGOOJJI": {
+        "2": 8000
+      },
+      "MPPJDABPGHN": "8000金币"
+    },
+    {
+      "LGJCPENNFBC": 100,
+      "HBJAHCGKJJD": "资源各500",
+      "DKDFKGOOJJI": {
+        "3": 500,
+        "4": 500,
+        "5": 500
+      },
+      "MPPJDABPGHN": "每项资源奖励500"
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "HBJAHCGKJJD": "资源各800",
+      "DKDFKGOOJJI": {
+        "3": 800,
+        "4": 800,
+        "5": 800
+      },
+      "MPPJDABPGHN": "每项资源奖励800"
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "HBJAHCGKJJD": "资源各1000",
+      "DKDFKGOOJJI": {
+        "3": 1000,
+        "4": 1000,
+        "5": 1000
+      },
+      "MPPJDABPGHN": "每项资源奖励1000"
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "HBJAHCGKJJD": "资源各1500",
+      "DKDFKGOOJJI": {
+        "3": 1500,
+        "4": 1500,
+        "5": 1500
+      },
+      "MPPJDABPGHN": "每项资源奖励1500"
+    },
+    {
+      "LGJCPENNFBC": 1000,
+      "HBJAHCGKJJD": "初始奖励",
+      "DKDFKGOOJJI": {
+        "1": 50,
+        "2": 100000,
+        "3": 10000,
+        "4": 10000,
+        "5": 10000,
+        "90": 150,
+        "91": 100,
+        "100": 10000,
+        "101": 10000,
+        "102": 10000,
+        "103": 10000,
+        "104": 100000,
+        "105": 10000,
+        "106": 10000,
+        "107": 10000,
+        "108": 10000,
+        "109": 10000,
+        "110": 1000,
+        "111": 15,
+        "112": 1000,
+        "113": 1000,
+        "115": 1000,
+        "116": 1000,
+        "117": 1000,
+        "118": 1000,
+        "119": 1000,
+        "120": 1000,
+        "121": 800,
+        "122": 700,
+        "123": 600,
+        "124": 500,
+        "1001004": 1,
+        "1001005": 1,
+        "2000001": 5,
+        "2000002": 5,
+        "2000003": 5,
+        "2000004": 5,
+        "2000005": 5,
+        "2000006": 5,
+        "2000007": 5,
+        "2000008": 5,
+        "2000009": 5,
+        "2000010": 5,
+        "2000011": 5,
+        "2000012": 5,
+        "2000013": 5,
+        "2000014": 5,
+        "2000015": 5,
+        "3010003": 5,
+        "3010004": 5,
+        "3010005": 5,
+        "3010007": 5,
+        "3010008": 5,
+        "4020001": 5,
+        "4020002": 5,
+        "4020003": 5,
+        "4020004": 5,
+        "4020005": 5,
+        "4020006": 5,
+        "5000001": 5,
+        "5000002": 5,
+        "5000003": 5,
+        "5000004": 5,
+        "5000005": 5,
+        "5010001": 5,
+        "5010002": 5,
+        "5010003": 5,
+        "5011001": 5
+      },
+      "MPPJDABPGHN": "642"
+    },
+    {
+      "LGJCPENNFBC": 1036,
+      "HBJAHCGKJJD": "春田",
+      "DKDFKGOOJJI": {
+        "1001004": 1
+      },
+      "MPPJDABPGHN": "SSR"
+    },
+    {
+      "LGJCPENNFBC": 1037,
+      "HBJAHCGKJJD": "M14",
+      "DKDFKGOOJJI": {
+        "1001005": 1
+      },
+      "MPPJDABPGHN": "R"
+    },
+    {
+      "LGJCPENNFBC": 5101,
+      "HBJAHCGKJJD": "手榴弹_核心",
+      "DKDFKGOOJJI": {
+        "5010001": 1
+      },
+      "MPPJDABPGHN": "手榴弹_核心"
+    },
+    {
+      "LGJCPENNFBC": 5102,
+      "HBJAHCGKJJD": "燃烧瓶_核心",
+      "DKDFKGOOJJI": {
+        "5010002": 1
+      },
+      "MPPJDABPGHN": "燃烧瓶_核心"
+    },
+    {
+      "LGJCPENNFBC": 5103,
+      "HBJAHCGKJJD": "闪光弹_核心",
+      "DKDFKGOOJJI": {
+        "5010003": 1
+      },
+      "MPPJDABPGHN": "闪光弹_核心"
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBJAHCGKJJD": "钻石×6480",
+      "DKDFKGOOJJI": {
+        "1": 6480
+      }
+    },
+    {
+      "LGJCPENNFBC": 140,
+      "HBJAHCGKJJD": "四级经验书x10",
+      "DKDFKGOOJJI": {
+        "124": 10
+      },
+      "MPPJDABPGHN": "四级经验书x10"
+    },
+    {
+      "LGJCPENNFBC": 141,
+      "HBJAHCGKJJD": "普通装备材料赤x5",
+      "DKDFKGOOJJI": {
+        "108": 5
+      },
+      "MPPJDABPGHN": "普通装备材料赤x5"
+    },
+    {
+      "LGJCPENNFBC": 142,
+      "HBJAHCGKJJD": "普通装备材料赤x10",
+      "DKDFKGOOJJI": {
+        "108": 10
+      },
+      "MPPJDABPGHN": "普通装备材料赤x10"
+    },
+    {
+      "LGJCPENNFBC": 143,
+      "HBJAHCGKJJD": "普通装备材料赤x15",
+      "DKDFKGOOJJI": {
+        "108": 15
+      },
+      "MPPJDABPGHN": "普通装备材料赤x15"
+    },
+    {
+      "LGJCPENNFBC": 144,
+      "HBJAHCGKJJD": "普通装备材料赤x20",
+      "DKDFKGOOJJI": {
+        "108": 20
+      },
+      "MPPJDABPGHN": "普通装备材料赤x20"
+    },
+    {
+      "LGJCPENNFBC": 145,
+      "HBJAHCGKJJD": "高级装备材料赤x5",
+      "DKDFKGOOJJI": {
+        "109": 5
+      },
+      "MPPJDABPGHN": "高级装备材料赤x5"
+    },
+    {
+      "LGJCPENNFBC": 146,
+      "HBJAHCGKJJD": "高级装备材料赤x10",
+      "DKDFKGOOJJI": {
+        "109": 10
+      },
+      "MPPJDABPGHN": "高级装备材料赤x10"
+    },
+    {
+      "LGJCPENNFBC": 147,
+      "HBJAHCGKJJD": "高级装备材料赤x15",
+      "DKDFKGOOJJI": {
+        "109": 15
+      },
+      "MPPJDABPGHN": "高级装备材料赤x15"
+    },
+    {
+      "LGJCPENNFBC": 148,
+      "HBJAHCGKJJD": "高级装备材料赤x20",
+      "DKDFKGOOJJI": {
+        "109": 20
+      },
+      "MPPJDABPGHN": "高级装备材料赤x20"
+    },
+    {
+      "LGJCPENNFBC": 149,
+      "HBJAHCGKJJD": "专家装备材料赤x5",
+      "DKDFKGOOJJI": {
+        "110": 5
+      },
+      "MPPJDABPGHN": "专家装备材料赤x5"
+    },
+    {
+      "LGJCPENNFBC": 170,
+      "HBJAHCGKJJD": "高级装备材料白x10",
+      "DKDFKGOOJJI": {
+        "116": 10
+      },
+      "MPPJDABPGHN": "高级装备材料白x10"
+    },
+    {
+      "LGJCPENNFBC": 171,
+      "HBJAHCGKJJD": "高级装备材料白x15",
+      "DKDFKGOOJJI": {
+        "116": 15
+      },
+      "MPPJDABPGHN": "高级装备材料白x15"
+    },
+    {
+      "LGJCPENNFBC": 172,
+      "HBJAHCGKJJD": "高级装备材料白x20",
+      "DKDFKGOOJJI": {
+        "116": 20
+      },
+      "MPPJDABPGHN": "高级装备材料白x20"
+    },
+    {
+      "LGJCPENNFBC": 173,
+      "HBJAHCGKJJD": "专家装备材料白x5",
+      "DKDFKGOOJJI": {
+        "117": 5
+      },
+      "MPPJDABPGHN": "专家装备材料白x5"
+    },
+    {
+      "LGJCPENNFBC": 174,
+      "HBJAHCGKJJD": "专家装备材料白x10",
+      "DKDFKGOOJJI": {
+        "117": 10
+      },
+      "MPPJDABPGHN": "专家装备材料白x10"
+    },
+    {
+      "LGJCPENNFBC": 175,
+      "HBJAHCGKJJD": "专家装备材料白x15",
+      "DKDFKGOOJJI": {
+        "117": 15
+      },
+      "MPPJDABPGHN": "专家装备材料白x15"
+    },
+    {
+      "LGJCPENNFBC": 176,
+      "HBJAHCGKJJD": "专家装备材料白x20",
+      "DKDFKGOOJJI": {
+        "117": 20
+      },
+      "MPPJDABPGHN": "专家装备材料白x20"
+    },
+    {
+      "LGJCPENNFBC": 177,
+      "HBJAHCGKJJD": "普通装备材料青x5",
+      "DKDFKGOOJJI": {
+        "118": 5
+      },
+      "MPPJDABPGHN": "普通装备材料青x5"
+    },
+    {
+      "LGJCPENNFBC": 178,
+      "HBJAHCGKJJD": "普通装备材料青x10",
+      "DKDFKGOOJJI": {
+        "118": 10
+      },
+      "MPPJDABPGHN": "普通装备材料青x10"
+    },
+    {
+      "LGJCPENNFBC": 179,
+      "HBJAHCGKJJD": "普通装备材料青x15",
+      "DKDFKGOOJJI": {
+        "118": 15
+      },
+      "MPPJDABPGHN": "普通装备材料青x15"
+    },
+    {
+      "LGJCPENNFBC": 1020,
+      "HBJAHCGKJJD": "Vector",
+      "DKDFKGOOJJI": {
+        "1001001": 1
+      },
+      "MPPJDABPGHN": "SSR"
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "HBJAHCGKJJD": "PPSh-41",
+      "DKDFKGOOJJI": {
+        "1001002": 1
+      },
+      "MPPJDABPGHN": "R"
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "HBJAHCGKJJD": "PP-90",
+      "DKDFKGOOJJI": {
+        "1001003": 1
+      },
+      "MPPJDABPGHN": "SSR"
+    },
+    {
+      "LGJCPENNFBC": 1065,
+      "HBJAHCGKJJD": "HK416",
+      "DKDFKGOOJJI": {
+        "1001006": 1
+      },
+      "MPPJDABPGHN": "SSR"
+    },
+    {
+      "LGJCPENNFBC": 1066,
+      "HBJAHCGKJJD": "56-1式",
+      "DKDFKGOOJJI": {
+        "1001007": 1
+      },
+      "MPPJDABPGHN": "SR"
+    },
+    {
+      "LGJCPENNFBC": 1109,
+      "HBJAHCGKJJD": "MG5",
+      "DKDFKGOOJJI": {
+        "1001009": 1
+      },
+      "MPPJDABPGHN": "UR"
+    },
+    {
+      "LGJCPENNFBC": 9100101,
+      "HBJAHCGKJJD": "格林娜第一个皮肤",
+      "DKDFKGOOJJI": {
+        "9100101": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "钻石×100",
+      "DKDFKGOOJJI": {
+        "1": 100
+      },
+      "MPPJDABPGHN": "奖励100钻石"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "钻石×200",
+      "DKDFKGOOJJI": {
+        "1": 200
+      },
+      "MPPJDABPGHN": "奖励200钻石"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "钻石×300",
+      "DKDFKGOOJJI": {
+        "1": 300
+      },
+      "MPPJDABPGHN": "奖励300钻石"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "钻石×400",
+      "DKDFKGOOJJI": {
+        "1": 400
+      },
+      "MPPJDABPGHN": "奖励400钻石"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "钻石×500",
+      "DKDFKGOOJJI": {
+        "1": 500
+      },
+      "MPPJDABPGHN": "奖励500钻石"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "钻石×600",
+      "DKDFKGOOJJI": {
+        "1": 600
+      },
+      "MPPJDABPGHN": "奖励600钻石"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "钻石×700",
+      "DKDFKGOOJJI": {
+        "1": 700
+      },
+      "MPPJDABPGHN": "奖励700钻石"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": "钻石×800",
+      "DKDFKGOOJJI": {
+        "1": 800
+      },
+      "MPPJDABPGHN": "奖励800钻石"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": "钻石×900",
+      "DKDFKGOOJJI": {
+        "1": 900
+      },
+      "MPPJDABPGHN": "奖励900钻石"
+    },
+    {
+      "LGJCPENNFBC": 130,
+      "HBJAHCGKJJD": "二级经验书x3",
+      "DKDFKGOOJJI": {
+        "122": 3
+      },
+      "MPPJDABPGHN": "二级经验书x3"
+    },
+    {
+      "LGJCPENNFBC": 131,
+      "HBJAHCGKJJD": "三级经验书x3",
+      "DKDFKGOOJJI": {
+        "123": 3
+      },
+      "MPPJDABPGHN": "三级经验书x3"
+    },
+    {
+      "LGJCPENNFBC": 132,
+      "HBJAHCGKJJD": "四级经验书x3",
+      "DKDFKGOOJJI": {
+        "124": 3
+      },
+      "MPPJDABPGHN": "四级经验书x3"
+    },
+    {
+      "LGJCPENNFBC": 133,
+      "HBJAHCGKJJD": "一级经验书x8",
+      "DKDFKGOOJJI": {
+        "121": 8
+      },
+      "MPPJDABPGHN": "一级经验书x8"
+    },
+    {
+      "LGJCPENNFBC": 134,
+      "HBJAHCGKJJD": "二级经验书x8",
+      "DKDFKGOOJJI": {
+        "122": 8
+      },
+      "MPPJDABPGHN": "二级经验书x8"
+    },
+    {
+      "LGJCPENNFBC": 135,
+      "HBJAHCGKJJD": "三级经验书x8",
+      "DKDFKGOOJJI": {
+        "123": 8
+      },
+      "MPPJDABPGHN": "三级经验书x8"
+    },
+    {
+      "LGJCPENNFBC": 136,
+      "HBJAHCGKJJD": "四级经验书x8",
+      "DKDFKGOOJJI": {
+        "124": 8
+      },
+      "MPPJDABPGHN": "四级经验书x8"
+    },
+    {
+      "LGJCPENNFBC": 137,
+      "HBJAHCGKJJD": "一级经验书x10",
+      "DKDFKGOOJJI": {
+        "121": 10
+      },
+      "MPPJDABPGHN": "一级经验书x10"
+    },
+    {
+      "LGJCPENNFBC": 138,
+      "HBJAHCGKJJD": "二级经验书x10",
+      "DKDFKGOOJJI": {
+        "122": 10
+      },
+      "MPPJDABPGHN": "二级经验书x10"
+    },
+    {
+      "LGJCPENNFBC": 139,
+      "HBJAHCGKJJD": "三级经验书x10",
+      "DKDFKGOOJJI": {
+        "123": 10
+      },
+      "MPPJDABPGHN": "三级经验书x10"
+    },
+    {
+      "LGJCPENNFBC": 180,
+      "HBJAHCGKJJD": "普通装备材料青x20",
+      "DKDFKGOOJJI": {
+        "118": 20
+      },
+      "MPPJDABPGHN": "普通装备材料青x20"
+    },
+    {
+      "LGJCPENNFBC": 181,
+      "HBJAHCGKJJD": "高级装备材料青x5",
+      "DKDFKGOOJJI": {
+        "119": 5
+      },
+      "MPPJDABPGHN": "高级装备材料青x5"
+    },
+    {
+      "LGJCPENNFBC": 182,
+      "HBJAHCGKJJD": "高级装备材料青x10",
+      "DKDFKGOOJJI": {
+        "119": 10
+      },
+      "MPPJDABPGHN": "高级装备材料青x10"
+    },
+    {
+      "LGJCPENNFBC": 183,
+      "HBJAHCGKJJD": "高级装备材料青x15",
+      "DKDFKGOOJJI": {
+        "119": 15
+      },
+      "MPPJDABPGHN": "高级装备材料青x15"
+    },
+    {
+      "LGJCPENNFBC": 184,
+      "HBJAHCGKJJD": "高级装备材料青x20",
+      "DKDFKGOOJJI": {
+        "119": 20
+      },
+      "MPPJDABPGHN": "高级装备材料青x20"
+    },
+    {
+      "LGJCPENNFBC": 185,
+      "HBJAHCGKJJD": "专家装备材料青x5",
+      "DKDFKGOOJJI": {
+        "120": 5
+      },
+      "MPPJDABPGHN": "专家装备材料青x5"
+    },
+    {
+      "LGJCPENNFBC": 186,
+      "HBJAHCGKJJD": "专家装备材料青x10",
+      "DKDFKGOOJJI": {
+        "120": 10
+      },
+      "MPPJDABPGHN": "专家装备材料青x10"
+    },
+    {
+      "LGJCPENNFBC": 187,
+      "HBJAHCGKJJD": "专家装备材料青x15",
+      "DKDFKGOOJJI": {
+        "120": 15
+      },
+      "MPPJDABPGHN": "专家装备材料青x15"
+    },
+    {
+      "LGJCPENNFBC": 188,
+      "HBJAHCGKJJD": "专家装备材料青x20",
+      "DKDFKGOOJJI": {
+        "120": 20
+      },
+      "MPPJDABPGHN": "专家装备材料青x20"
+    }
+  ]
+}

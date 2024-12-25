@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "INJANDGHDJJ": 1001,
+      "HPCJCHGDICM": 1001,
+      "BEGPKJFCCIO": "UIRes/Atlas/Icon/Item/Item_Icon_Activity_Richman_Gold01",
+      "MFCMKFDBNPK": "UIRes/Atlas/Icon/Item/Item_Icon_Activity_Richman_Score01",
+      "OCCMNLDHKAH": [
+        2
+      ],
+      "HIBPELBIEKI": [
+        1
+      ],
+      "DKNIHKFMKPD": "327BDE",
+      "FIFOJDPBGKB": "D75454",
+      "CMDDEFFAEKB": "EFEFEF",
+      "OIPIJMEPHPL": "ActivityTourOthers/Clukay/",
+      "MPLPPHCDMEO": "38,30,0",
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.5,-0.95,0",
+      "HFKLHEMOMBB": "-0.2,-0.8,0",
+      "FNBCBMFGPKF": 1.1,
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.2
+      ],
+      "ILMLCEGLNIE": 2.5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1009"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "1011"
+      },
+      "ILMHCKBDKBC": "Aegis-Dominator_SWAP"
+    },
+    {
+      "LGJCPENNFBC": 2001,
+      "INJANDGHDJJ": 2001,
+      "HPCJCHGDICM": 2001,
+      "BEGPKJFCCIO": "UIRes/Atlas/Icon/Item/Item_Icon_Activity_Richman_Gold01",
+      "MFCMKFDBNPK": "UIRes/Atlas/Icon/Item/Item_Icon_Activity_Richman_Score01",
+      "OCCMNLDHKAH": [
+        2002
+      ],
+      "HIBPELBIEKI": [
+        2001
+      ],
+      "DKNIHKFMKPD": "0BA195",
+      "FIFOJDPBGKB": "D8BF74",
+      "CMDDEFFAEKB": "F1EFD5",
+      "OIPIJMEPHPL": "ActivityTourOthers/Daiyan/",
+      "MPLPPHCDMEO": "38,30,0",
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.5,-0.95,0",
+      "HFKLHEMOMBB": "-0.2,-0.8,0",
+      "FNBCBMFGPKF": 1.1,
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.2
+      ],
+      "ILMLCEGLNIE": 2.5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1009"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "1012"
+      },
+      "ILMHCKBDKBC": "Aegis-Dominator_SWAP"
+    }
+  ]
+}

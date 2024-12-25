@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "ABDJPOLOOKJ": 1,
+      "DCFICDPOKFN": "FZ-001",
+      "HBJAHCGKJJD": "平安喜乐",
+      "KMLGPMFOMKF": [
+        100101,
+        100102,
+        100103
+      ],
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD1"
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "ABDJPOLOOKJ": 2,
+      "DCFICDPOKFN": "PZ-001",
+      "HBJAHCGKJJD": "04S-2行动记录",
+      "KMLGPMFOMKF": [
+        100201,
+        100202,
+        100203,
+        100204,
+        100205,
+        100206
+      ],
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD2"
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "ABDJPOLOOKJ": 3,
+      "DCFICDPOKFN": "CZ-001",
+      "HBJAHCGKJJD": "Graz-08B工作日志",
+      "KMLGPMFOMKF": [
+        100801,
+        100802,
+        100803,
+        100804,
+        100805,
+        100806
+      ],
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD4"
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "ABDJPOLOOKJ": 4,
+      "DCFICDPOKFN": "PZ-002",
+      "HBJAHCGKJJD": "《开拓协议》封存档案",
+      "KMLGPMFOMKF": [
+        101301
+      ],
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD1"
+    },
+    {
+      "LGJCPENNFBC": 1020,
+      "ABDJPOLOOKJ": 5,
+      "DCFICDPOKFN": "FZ-011",
+      "HBJAHCGKJJD": "守望者",
+      "KMLGPMFOMKF": [
+        102001,
+        102002,
+        102003,
+        102004,
+        102005,
+        102006
+      ],
+      "DNHAGPFHGCE": "Img_ArchivesCenter_CD3"
+    }
+  ]
+}

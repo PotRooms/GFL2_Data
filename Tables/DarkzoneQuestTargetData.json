@@ -1,0 +1,375 @@
+{
+  "data": [
+    {
+      "HOBEFFDKAAK": 10030101,
+      "DNOBHDAIBAP": "击杀10030101",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 19,
+      "EBCONJIGAGI": [
+        54641
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10030102,
+      "DNOBHDAIBAP": "击杀10030102",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 20,
+      "EBCONJIGAGI": [
+        55641
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10030103,
+      "DNOBHDAIBAP": "击杀10030103",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 21,
+      "EBCONJIGAGI": [
+        51651
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10030201,
+      "DNOBHDAIBAP": "击杀10030201",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 22,
+      "EBCONJIGAGI": [
+        52651
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10030202,
+      "DNOBHDAIBAP": "击杀10030202",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 23,
+      "EBCONJIGAGI": [
+        53651
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10030203,
+      "DNOBHDAIBAP": "击杀10030203",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 24,
+      "EBCONJIGAGI": [
+        54651
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010201,
+      "DNOBHDAIBAP": "击杀4只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 4,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010202,
+      "DNOBHDAIBAP": "击杀5只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 5,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010203,
+      "DNOBHDAIBAP": "击杀6只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 6,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010301,
+      "DNOBHDAIBAP": "击杀7只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 7,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010302,
+      "DNOBHDAIBAP": "击杀8只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 8,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010303,
+      "DNOBHDAIBAP": "击杀9只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 9,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10070401,
+      "DNOBHDAIBAP": "击杀10070401",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 43,
+      "EBCONJIGAGI": [
+        70151
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10020101,
+      "DNOBHDAIBAP": "击杀10020101",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 10,
+      "EBCONJIGAGI": [
+        55621
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10020102,
+      "DNOBHDAIBAP": "击杀10020102",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 11,
+      "EBCONJIGAGI": [
+        51631
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10020103,
+      "DNOBHDAIBAP": "击杀10020103",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 12,
+      "EBCONJIGAGI": [
+        52631
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10070301,
+      "DNOBHDAIBAP": "击杀10070301",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 40,
+      "EBCONJIGAGI": [
+        70121
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10070302,
+      "DNOBHDAIBAP": "击杀10070302",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 41,
+      "EBCONJIGAGI": [
+        70131
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10040101,
+      "DNOBHDAIBAP": "击杀10040101",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 28,
+      "EBCONJIGAGI": [
+        53661
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10040102,
+      "DNOBHDAIBAP": "击杀10040102",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 29,
+      "EBCONJIGAGI": [
+        54661
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10040103,
+      "DNOBHDAIBAP": "击杀10040103",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 30,
+      "EBCONJIGAGI": [
+        55661
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10060101,
+      "DNOBHDAIBAP": "击杀10060101",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 32,
+      "EBCONJIGAGI": [
+        60102
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10060102,
+      "DNOBHDAIBAP": "击杀10060102",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 33,
+      "EBCONJIGAGI": [
+        60103
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10070101,
+      "DNOBHDAIBAP": "击杀10070101",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 34,
+      "EBCONJIGAGI": [
+        60201
+      ],
+      "NLNNDCPCNPP": 100702
+    },
+    {
+      "HOBEFFDKAAK": 10070102,
+      "DNOBHDAIBAP": "击杀10070102",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 35,
+      "EBCONJIGAGI": [
+        60202
+      ],
+      "NLNNDCPCNPP": 100703
+    },
+    {
+      "HOBEFFDKAAK": 10020201,
+      "DNOBHDAIBAP": "击杀10020201",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 13,
+      "EBCONJIGAGI": [
+        53631
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10020202,
+      "DNOBHDAIBAP": "击杀10020202",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 14,
+      "EBCONJIGAGI": [
+        54631
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10020203,
+      "DNOBHDAIBAP": "击杀10020203",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 15,
+      "EBCONJIGAGI": [
+        55631
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10030301,
+      "DNOBHDAIBAP": "击杀10030301",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 25,
+      "EBCONJIGAGI": [
+        55651
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10030302,
+      "DNOBHDAIBAP": "击杀10030302",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 26,
+      "EBCONJIGAGI": [
+        51661
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10030303,
+      "DNOBHDAIBAP": "击杀10030303",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 27,
+      "EBCONJIGAGI": [
+        52661
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10050101,
+      "DNOBHDAIBAP": "击杀10050101",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 31,
+      "EBCONJIGAGI": [
+        60101
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10070201,
+      "DNOBHDAIBAP": "击杀10070201",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 37,
+      "EBCONJIGAGI": [
+        60301
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10070202,
+      "DNOBHDAIBAP": "击杀10070202",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 38,
+      "EBCONJIGAGI": [
+        62000
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10080101,
+      "DNOBHDAIBAP": "击杀10080101",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 2,
+      "EBCONJIGAGI": [
+        10002
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010101,
+      "DNOBHDAIBAP": "击杀1只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 1,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010102,
+      "DNOBHDAIBAP": "击杀2只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 2,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10010103,
+      "DNOBHDAIBAP": "击杀3只AI测试怪物（无视野），去201这张图可以测，其他地方找不到这只怪",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_kill",
+      "IHOJGOJBPJA": 3,
+      "EBCONJIGAGI": [
+        900007
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10020301,
+      "DNOBHDAIBAP": "击杀10020301",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 16,
+      "EBCONJIGAGI": [
+        51641
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10020302,
+      "DNOBHDAIBAP": "击杀10020302",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 17,
+      "EBCONJIGAGI": [
+        52641
+      ]
+    },
+    {
+      "HOBEFFDKAAK": 10020303,
+      "DNOBHDAIBAP": "击杀10020303",
+      "MJEEMCJDEJO": "darkzone_quest_target_type_collect",
+      "IHOJGOJBPJA": 18,
+      "EBCONJIGAGI": [
+        53641
+      ]
+    }
+  ]
+}

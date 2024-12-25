@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10001,
+      "BKCIGACKEFD": 101,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3152"
+      },
+      "DBMGEGMGIEG": "ChrBlessingPanelBg_Birthday",
+      "NGPAGEGNFOE": "CommandCenterChrBlessingtem_Birthday",
+      "AFNDOHLIFAJ": 1017,
+      "KAMNMDHBAPH": "ChrBlessing/Enter/Birthday/Img_ChrBlessing_RightBg",
+      "EOMDIKGCCCE": "ChrBlessing/Enter/Birthday/Img_ChrBlessing_RightDeco",
+      "MOBNEEKFIGG": "ChrBlessing/Enter/Birthday/Img_ChrBlessing_LeftBg",
+      "EBHIIKPIODL": "ChrBlessingEnterDialogBg_Birthday"
+    },
+    {
+      "LGJCPENNFBC": 10002,
+      "BKCIGACKEFD": 102,
+      "MPLEOEHBIDM": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3791"
+      },
+      "AFNDOHLIFAJ": 1017
+    },
+    {
+      "LGJCPENNFBC": 10003,
+      "BKCIGACKEFD": 102,
+      "MPLEOEHBIDM": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3792"
+      },
+      "AFNDOHLIFAJ": 1017
+    },
+    {
+      "LGJCPENNFBC": 10004,
+      "BKCIGACKEFD": 102,
+      "MPLEOEHBIDM": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3793"
+      },
+      "AFNDOHLIFAJ": 1017
+    },
+    {
+      "LGJCPENNFBC": 10005,
+      "BKCIGACKEFD": 102,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3789"
+      },
+      "DBMGEGMGIEG": "ChrBlessingPanelBg_MidAutumn",
+      "NGPAGEGNFOE": "CommandCenterChrBlessingtem_MidAutumn",
+      "AFNDOHLIFAJ": 1017,
+      "KAMNMDHBAPH": "ChrBlessing/Enter/Festival/MidAutumn/Img_ChrBlessing_RightBg",
+      "EOMDIKGCCCE": "ChrBlessing/Enter/Festival/MidAutumn/Img_ChrBlessing_RightDeco",
+      "MOBNEEKFIGG": "ChrBlessing/Enter/Festival/MidAutumn/Img_ChrBlessing_LeftBg",
+      "EBHIIKPIODL": "ChrBlessingEnterDialogBg_MidAutumn"
+    },
+    {
+      "LGJCPENNFBC": 10006,
+      "BKCIGACKEFD": 102,
+      "MPLEOEHBIDM": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3790"
+      },
+      "AFNDOHLIFAJ": 1017
+    }
+  ]
+}

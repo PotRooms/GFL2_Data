@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 99,
+      "HBCFNDOENFL": "纯文本"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBCFNDOENFL": "剧情战役"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBCFNDOENFL": "购置"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBCFNDOENFL": "黑市"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBCFNDOENFL": "仓库"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBCFNDOENFL": "情报拼图购买"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBCFNDOENFL": "邮件"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBCFNDOENFL": "战役"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBCFNDOENFL": "指挥室"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBCFNDOENFL": "战役掉落"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBCFNDOENFL": "模拟作战-决策构象"
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "HBCFNDOENFL": "模拟作战-实兵演习"
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "HBCFNDOENFL": "易物所"
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBCFNDOENFL": "整备室"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBCFNDOENFL": "模拟作战-深度搜索"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HBCFNDOENFL": "模拟作战-标准同调"
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "HBCFNDOENFL": "模拟作战-战术评估"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "HBCFNDOENFL": "模拟作战-训段采集"
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HBCFNDOENFL": "考核订单"
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HBCFNDOENFL": "通讯"
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "HBCFNDOENFL": "机库"
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "HBCFNDOENFL": "困难本"
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "HBCFNDOENFL": "暗区"
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "HBCFNDOENFL": "远航巡录"
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "HBCFNDOENFL": "模拟作战-军备解析"
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "HBCFNDOENFL": "主题活动"
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "HBCFNDOENFL": "扩编实练"
+    }
+  ]
+}

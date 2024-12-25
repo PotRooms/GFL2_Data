@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": "1",
+      "CPDCEMHELII": "Téléchargement"
+    },
+    {
+      "LGJCPENNFBC": "2",
+      "CPDCEMHELII": "Extraction"
+    },
+    {
+      "LGJCPENNFBC": "3",
+      "CPDCEMHELII": "Presque terminé"
+    },
+    {
+      "LGJCPENNFBC": "4",
+      "CPDCEMHELII": "Chargement"
+    },
+    {
+      "LGJCPENNFBC": "5",
+      "CPDCEMHELII": "Vérification des ressources"
+    },
+    {
+      "LGJCPENNFBC": "6",
+      "CPDCEMHELII": "Vérifier l'intégrité des ressources ?"
+    },
+    {
+      "LGJCPENNFBC": "7",
+      "CPDCEMHELII": "Avis sur la classification par âge"
+    },
+    {
+      "LGJCPENNFBC": "8",
+      "CPDCEMHELII": "Girl Frontline 2: Exilium is an original full 3D strategy game. Players will collect different types of dolls in the game and form their own teams to challenge different levels, ultimately driving the development of the story."
+    },
+    {
+      "LGJCPENNFBC": "9",
+      "CPDCEMHELII": "Actuellement dans un environnement sans Wi-Fi, vous devrez télécharger un fichier de taille <color=#f0af14>{0}</color>. Voulez-vous continuer ?"
+    },
+    {
+      "LGJCPENNFBC": "10",
+      "CPDCEMHELII": "La version actuelle du client est <color=#f0af14>obsolète</color>. Veuillez télécharger la dernière version du client."
+    },
+    {
+      "LGJCPENNFBC": "11",
+      "CPDCEMHELII": "Annuler"
+    },
+    {
+      "LGJCPENNFBC": "12",
+      "CPDCEMHELII": "Confirmer"
+    },
+    {
+      "LGJCPENNFBC": "13",
+      "CPDCEMHELII": "Remarque"
+    },
+    {
+      "LGJCPENNFBC": "14",
+      "CPDCEMHELII": "{0}MB"
+    },
+    {
+      "LGJCPENNFBC": "15",
+      "CPDCEMHELII": "Demande au serveur"
+    },
+    {
+      "LGJCPENNFBC": "16",
+      "CPDCEMHELII": "Comparer les informations de version"
+    },
+    {
+      "LGJCPENNFBC": "17",
+      "CPDCEMHELII": "Télécharger le tableau"
+    },
+    {
+      "LGJCPENNFBC": "18",
+      "CPDCEMHELII": "Extraire le tableau"
+    },
+    {
+      "LGJCPENNFBC": "19",
+      "CPDCEMHELII": "Télécharger les ressources"
+    },
+    {
+      "LGJCPENNFBC": "20",
+      "CPDCEMHELII": "Extraire des ressources"
+    },
+    {
+      "LGJCPENNFBC": "21",
+      "CPDCEMHELII": "Consolidation des ressources"
+    },
+    {
+      "LGJCPENNFBC": "101",
+      "CPDCEMHELII": "Erreur"
+    },
+    {
+      "LGJCPENNFBC": "102",
+      "CPDCEMHELII": "Cher commandant, une erreur inconnue s'est produite. \n\n<color=#f0af14>(Veuillez vérifier si l'espace de stockage est suffisant)</color>"
+    },
+    {
+      "LGJCPENNFBC": "103",
+      "CPDCEMHELII": "Remarque d’erreur d’analyse"
+    },
+    {
+      "LGJCPENNFBC": "104",
+      "CPDCEMHELII": "L'utilisateur a annulé le téléchargement !"
+    },
+    {
+      "LGJCPENNFBC": "105",
+      "CPDCEMHELII": "Anomalie de réseau, veuillez vérifier la connexion réseau"
+    },
+    {
+      "LGJCPENNFBC": "106",
+      "CPDCEMHELII": "Erreur d'analyse de connexion :"
+    },
+    {
+      "LGJCPENNFBC": "107",
+      "CPDCEMHELII": "Une erreur inconnue s'est produite pendant le téléchargement, veuillez réessayer."
+    },
+    {
+      "LGJCPENNFBC": "108",
+      "CPDCEMHELII": "Une erreur inconnue s'est produite pendant le téléchargement, veuillez réessayer."
+    },
+    {
+      "LGJCPENNFBC": "109",
+      "CPDCEMHELII": "En raison de la politique anti-dépendance, le compte a été déconnecté."
+    },
+    {
+      "LGJCPENNFBC": "110",
+      "CPDCEMHELII": "Quitter le compte"
+    },
+    {
+      "LGJCPENNFBC": "111",
+      "CPDCEMHELII": "Cliquer pour réessayer"
+    },
+    {
+      "LGJCPENNFBC": "112",
+      "CPDCEMHELII": "Remarque"
+    },
+    {
+      "LGJCPENNFBC": "113",
+      "CPDCEMHELII": "Échec de la reconnexion, retour à l'interface de connexion"
+    },
+    {
+      "LGJCPENNFBC": "114",
+      "CPDCEMHELII": "Déconnecté, tentative de reconnexion..."
+    },
+    {
+      "LGJCPENNFBC": "115",
+      "CPDCEMHELII": "Mise à jour des ressources terminée, veuillez redémarrer le jeu"
+    },
+    {
+      "LGJCPENNFBC": "116",
+      "CPDCEMHELII": "Une erreur inconnue s'est produite pendant la décompression, veuillez réessayer."
+    },
+    {
+      "LGJCPENNFBC": "117",
+      "CPDCEMHELII": "Stockage insuffisant détecté sur votre appareil. Ce téléchargement nécessite {0}. Veuillez libérer de l'espace et réessayer..."
+    },
+    {
+      "LGJCPENNFBC": "118",
+      "CPDCEMHELII": "Vous utilisez actuellement des données mobiles, la poursuite du téléchargement consommera {0} de données. Veuillez confirmer si vous souhaitez continuer..."
+    },
+    {
+      "LGJCPENNFBC": "119",
+      "CPDCEMHELII": "Vérification du client"
+    },
+    {
+      "LGJCPENNFBC": "120",
+      "CPDCEMHELII": "Souhaitez-vous réparer et vérifier l'intégrité du client ?"
+    },
+    {
+      "LGJCPENNFBC": "121",
+      "CPDCEMHELII": "Forcer la mise à jour de toutes les ressources téléchargées"
+    },
+    {
+      "LGJCPENNFBC": "123",
+      "CPDCEMHELII": "Confirmer"
+    },
+    {
+      "LGJCPENNFBC": "124",
+      "CPDCEMHELII": "Annuler"
+    },
+    {
+      "LGJCPENNFBC": "125",
+      "CPDCEMHELII": "Sélection de la langue"
+    },
+    {
+      "LGJCPENNFBC": "126",
+      "CPDCEMHELII": "Veuillez sélectionner la langue de la voix du jeu. \\n Vous pouvez modifier cette langue ultérieurement dans les paramètres."
+    },
+    {
+      "LGJCPENNFBC": "127",
+      "CPDCEMHELII": "Chinois"
+    },
+    {
+      "LGJCPENNFBC": "128",
+      "CPDCEMHELII": "Japonais"
+    },
+    {
+      "LGJCPENNFBC": "129",
+      "CPDCEMHELII": "Confirmer"
+    },
+    {
+      "LGJCPENNFBC": "130",
+      "CPDCEMHELII": "Coréen"
+    },
+    {
+      "LGJCPENNFBC": "131",
+      "CPDCEMHELII": "Sélection du Serveur"
+    },
+    {
+      "LGJCPENNFBC": "132",
+      "CPDCEMHELII": "Appuyez sur Démarrer"
+    },
+    {
+      "LGJCPENNFBC": "133",
+      "CPDCEMHELII": "Cette mise à jour (taille du fichier {0}) a été détectée en dehors d'un réseau sans fil. Souhaitez-vous poursuivre le téléchargement ?"
+    },
+    {
+      "LGJCPENNFBC": "134",
+      "CPDCEMHELII": "Cette mise à jour (taille du fichier {0}), souhaitez-vous poursuivre le téléchargement ?"
+    },
+    {
+      "LGJCPENNFBC": "135",
+      "CPDCEMHELII": "Le changement de serveur peut nécessiter le téléchargement de ressources supplémentaires. Souhaitez-vous procéder au changement de serveur ?"
+    },
+    {
+      "LGJCPENNFBC": "136",
+      "CPDCEMHELII": "Le serveur est temporairement indisponible, veuillez vérifier l'annonce ou contacter le centre de service clientèle."
+    },
+    {
+      "LGJCPENNFBC": "137",
+      "CPDCEMHELII": "Reconnecter"
+    },
+    {
+      "LGJCPENNFBC": "138",
+      "CPDCEMHELII": "Connexion au serveur"
+    },
+    {
+      "LGJCPENNFBC": "139",
+      "CPDCEMHELII": "Chine"
+    },
+    {
+      "LGJCPENNFBC": "140",
+      "CPDCEMHELII": "Amérique du Nord"
+    },
+    {
+      "LGJCPENNFBC": "141",
+      "CPDCEMHELII": "Monde"
+    },
+    {
+      "LGJCPENNFBC": "142",
+      "CPDCEMHELII": "Japon"
+    },
+    {
+      "LGJCPENNFBC": "143",
+      "CPDCEMHELII": "Corée du Sud"
+    },
+    {
+      "LGJCPENNFBC": "144",
+      "CPDCEMHELII": "Asie"
+    },
+    {
+      "LGJCPENNFBC": "145",
+      "CPDCEMHELII": "Veuillez réessayer après la connexion"
+    }
+  ]
+}

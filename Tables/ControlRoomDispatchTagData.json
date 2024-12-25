@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3151"
+      },
+      "CPMMFIEIMJF": [
+        1022,
+        1027,
+        1032,
+        1038,
+        1041,
+        1052,
+        1044
+      ],
+      "DNHAGPFHGCE": "Icon_ControlRoomKind_5",
+      "GFIDMDFAJFM": "Img_ControlRoomKindBg_5"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5139"
+      },
+      "CPMMFIEIMJF": [
+        1026,
+        1033,
+        1035,
+        1036,
+        1045
+      ],
+      "DNHAGPFHGCE": "Icon_ControlRoomKind_3",
+      "GFIDMDFAJFM": "Img_ControlRoomKindBg_3"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5141"
+      },
+      "CPMMFIEIMJF": [
+        1001,
+        1017,
+        1028,
+        1034,
+        1037,
+        1050
+      ],
+      "DNHAGPFHGCE": "Icon_ControlRoomKind_2",
+      "GFIDMDFAJFM": "Img_ControlRoomKindBg_2"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5143"
+      },
+      "CPMMFIEIMJF": [
+        1009,
+        1015,
+        1013,
+        1029,
+        1039,
+        1040
+      ],
+      "DNHAGPFHGCE": "Icon_ControlRoomKind_4",
+      "GFIDMDFAJFM": "Img_ControlRoomKindBg_4"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5145"
+      },
+      "CPMMFIEIMJF": [
+        1008,
+        1021,
+        1023,
+        1024,
+        1025,
+        1051
+      ],
+      "DNHAGPFHGCE": "Icon_ControlRoomKind_1",
+      "GFIDMDFAJFM": "Img_ControlRoomKindBg_1"
+    }
+  ]
+}

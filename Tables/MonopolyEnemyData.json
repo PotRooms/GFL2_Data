@@ -1,0 +1,1404 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 110101,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1518"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5972"
+      },
+      "LKCFKPANFOB": "Monster_Head_Golyat",
+      "BPDOEBBFMGI": "Golyat",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30601,
+      "ODOKFHAEOOG": 10,
+      "OBKPOBJOJBI": {
+        "1": 2001
+      },
+      "CNNEIDJEOMN": {
+        "1": 2001
+      },
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "-0.3,-0.9,0",
+      "HFKLHEMOMBB": "0.4,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Daiyan_Golyat2",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.15,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 110102,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5976"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5977"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisBlade",
+      "BPDOEBBFMGI": "Aegis",
+      "PKEJPMMLGNJ": 2,
+      "IMHNBGDCGND": 30602,
+      "ODOKFHAEOOG": 20,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 4,
+      "PLPMMICFBAA": 2,
+      "OBKPOBJOJBI": {
+        "1": 2002
+      },
+      "CNNEIDJEOMN": {
+        "1": 2002
+      },
+      "NGPKHDKAFFK": 110102,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "-0.3,-0.5,0",
+      "HFKLHEMOMBB": "0.4,-0.5,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Daiyan_Golyat1",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 110103,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5976"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5977"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisBlade",
+      "BPDOEBBFMGI": "Aegis",
+      "PKEJPMMLGNJ": 2,
+      "IMHNBGDCGND": 30602,
+      "ODOKFHAEOOG": 20,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 4,
+      "PLPMMICFBAA": 2,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "CNNEIDJEOMN": {
+        "1": 2003
+      },
+      "NGPKHDKAFFK": 110103,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "-0.3,-0.5,0",
+      "HFKLHEMOMBB": "0.4,-0.5,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Daiyan_Golyat1",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 110104,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6002"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6003"
+      },
+      "LKCFKPANFOB": "Monster_Head_Eber",
+      "BPDOEBBFMGI": "Kuiper",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30603,
+      "ODOKFHAEOOG": 30,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 5,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2004
+      },
+      "LIHJOAEODIN": 10082,
+      "POAEBACIGPH": 10,
+      "CNNEIDJEOMN": {
+        "1": 2004
+      },
+      "NGPKHDKAFFK": 110104,
+      "FNBCBMFGPKF": 1.5,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.6,-0.6,0",
+      "HFKLHEMOMBB": "0,-1,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Daiyan_Eber1",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120101,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6028"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30602,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1.1,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.6,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120102,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6031"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6973"
+      },
+      "LKCFKPANFOB": "Monster_Head_Oljefat",
+      "BPDOEBBFMGI": "Oljefat",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30603,
+      "ODOKFHAEOOG": 20,
+      "POAEBACIGPH": 10,
+      "NGPKHDKAFFK": 120102,
+      "FNBCBMFGPKF": 1.5,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.6,-0.6,0",
+      "HFKLHEMOMBB": "-0.6,-0.6,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Oljefat",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.1,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120201,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7495"
+      },
+      "LKCFKPANFOB": "Monster_Head_ScophinxMoths",
+      "BPDOEBBFMGI": "Scourge Moth",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30605,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120201,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0.15,0,0",
+      "FIJOBHNAIPL": "0.4,-0.9,0",
+      "HFKLHEMOMBB": "-0.1,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_ScourgeMoth",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120202,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7846"
+      },
+      "LKCFKPANFOB": "Monster_Head_Nemertea",
+      "BPDOEBBFMGI": "Nemertea",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30606,
+      "ODOKFHAEOOG": 20,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "POAEBACIGPH": 300,
+      "NGPKHDKAFFK": 120202,
+      "FNBCBMFGPKF": 2,
+      "MGHBDIBBHNB": "0.25,-0.6,0",
+      "FIJOBHNAIPL": "0.9,-0.8,0",
+      "HFKLHEMOMBB": "-0.4,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Nemertea",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120305,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7848"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30608,
+      "ODOKFHAEOOG": 10,
+      "HMBCPPCFCIN": [
+        204,
+        219,
+        220,
+        187,
+        201,
+        217
+      ],
+      "CNNEIDJEOMN": {
+        "1": 2003
+      },
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120306,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7848"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30608,
+      "ODOKFHAEOOG": 20,
+      "HMBCPPCFCIN": [
+        185,
+        186,
+        199,
+        196,
+        212,
+        213
+      ],
+      "CNNEIDJEOMN": {
+        "1": 2003
+      },
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120311,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7849"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30608,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120301,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120313,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7850"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30608,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120303,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120314,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7851"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30608,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120304,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120322,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6031"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6973"
+      },
+      "LKCFKPANFOB": "Monster_Head_Oljefat",
+      "BPDOEBBFMGI": "Oljefat",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30609,
+      "ODOKFHAEOOG": 30,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "POAEBACIGPH": 300,
+      "NGPKHDKAFFK": 120302,
+      "FNBCBMFGPKF": 1.5,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.6,-0.6,0",
+      "HFKLHEMOMBB": "-0.6,-0.6,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Oljefat",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.1,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120401,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7852"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30611,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120401,
+      "FNBCBMFGPKF": 1.1,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.6,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120403,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7853"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30611,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1.1,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.6,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120410,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7854"
+      },
+      "LKCFKPANFOB": "Monster_Head_Nemertea",
+      "BPDOEBBFMGI": "Nemertea",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30612,
+      "ODOKFHAEOOG": 20,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "POAEBACIGPH": 10,
+      "NGPKHDKAFFK": 120410,
+      "FNBCBMFGPKF": 2,
+      "MGHBDIBBHNB": "0.25,-0.6,0",
+      "FIJOBHNAIPL": "0.9,-0.8,0",
+      "HFKLHEMOMBB": "-0.4,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Nemertea",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120501,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8654"
+      },
+      "LKCFKPANFOB": "Monster_Head_ScophinxMoths",
+      "BPDOEBBFMGI": "Scourge Moth",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30614,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120501,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0.15,0,0",
+      "FIJOBHNAIPL": "0.4,-0.9,0",
+      "HFKLHEMOMBB": "-0.1,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_ScourgeMoth",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120502,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8460"
+      },
+      "LKCFKPANFOB": "Monster_Head_ScophinxMoths",
+      "BPDOEBBFMGI": "Scourge Moth",
+      "PKEJPMMLGNJ": 2,
+      "IMHNBGDCGND": 30614,
+      "ODOKFHAEOOG": 20,
+      "POAEBACIGPH": 10,
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0.15,0,0",
+      "FIJOBHNAIPL": "0.4,-0.9,0",
+      "HFKLHEMOMBB": "-0.1,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_ScourgeMoth",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120503,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6031"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6973"
+      },
+      "LKCFKPANFOB": "Monster_Head_Oljefat",
+      "BPDOEBBFMGI": "Oljefat",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30615,
+      "ODOKFHAEOOG": 20,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "POAEBACIGPH": 10,
+      "NGPKHDKAFFK": 120503,
+      "FNBCBMFGPKF": 1.5,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.6,-0.6,0",
+      "HFKLHEMOMBB": "-0.6,-0.6,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Oljefat",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.1,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120601,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13310"
+      },
+      "LKCFKPANFOB": "Monster_Head_Nemertea",
+      "BPDOEBBFMGI": "Nemertea",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30618,
+      "ODOKFHAEOOG": 20,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "POAEBACIGPH": 10,
+      "NGPKHDKAFFK": 120601,
+      "FNBCBMFGPKF": 2,
+      "MGHBDIBBHNB": "0.25,-0.6,0",
+      "FIJOBHNAIPL": "0.9,-0.8,0",
+      "HFKLHEMOMBB": "-0.4,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Nemertea",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120703,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7853"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30619,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "-0.3,-0.9,0",
+      "HFKLHEMOMBB": "0.4,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.15,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120704,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7853"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30619,
+      "ODOKFHAEOOG": 10,
+      "HMBCPPCFCIN": [
+        128,
+        143,
+        144,
+        145,
+        175,
+        161
+      ],
+      "CNNEIDJEOMN": {
+        "1": 2003
+      },
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "-0.3,-0.9,0",
+      "HFKLHEMOMBB": "0.4,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.15,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120705,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7853"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30619,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "-0.3,-0.9,0",
+      "HFKLHEMOMBB": "0.4,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.15,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120708,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13311"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30620,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120704,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "-0.3,-0.9,0",
+      "HFKLHEMOMBB": "0.4,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.15,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120709,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13312"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30620,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120705,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "-0.3,-0.9,0",
+      "HFKLHEMOMBB": "0.4,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.15,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120710,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13313"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30620,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120706,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "-0.3,-0.9,0",
+      "HFKLHEMOMBB": "0.4,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.15,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120716,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13314"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30620,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120702,
+      "FNBCBMFGPKF": 1.1,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.6,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120717,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13315"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30620,
+      "ODOKFHAEOOG": 20,
+      "HMBCPPCFCIN": [
+        35,
+        36,
+        37,
+        64,
+        49
+      ],
+      "CNNEIDJEOMN": {
+        "1": 2003
+      },
+      "NGPKHDKAFFK": 120703,
+      "FNBCBMFGPKF": 1.1,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.6,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120721,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13316"
+      },
+      "LKCFKPANFOB": "Monster_Head_Imbiber",
+      "BPDOEBBFMGI": "Urokrake",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30620,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 1207021,
+      "FNBCBMFGPKF": 1.1,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.6,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_lmbiber",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120722,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6031"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6973"
+      },
+      "LKCFKPANFOB": "Monster_Head_Oljefat",
+      "BPDOEBBFMGI": "Oljefat",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30621,
+      "ODOKFHAEOOG": 30,
+      "HMBCPPCFCIN": [
+        199,
+        215,
+        216
+      ],
+      "CNNEIDJEOMN": {
+        "1": 2003
+      },
+      "NGPKHDKAFFK": 120701,
+      "FNBCBMFGPKF": 1.5,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.6,-0.6,0",
+      "HFKLHEMOMBB": "-0.6,-0.6,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Oljefat",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.1,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120807,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13317"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13318"
+      },
+      "LKCFKPANFOB": "Monster_Head_Obshare",
+      "BPDOEBBFMGI": "Obshare",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30622,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120807,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.4,-1.1,0",
+      "HFKLHEMOMBB": "0,-1.1,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Obshare",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.2,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120808,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13317"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13318"
+      },
+      "LKCFKPANFOB": "Monster_Head_Obshare",
+      "BPDOEBBFMGI": "Obshare",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30622,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120807,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.4,-1.1,0",
+      "HFKLHEMOMBB": "0,-1.1,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Obshare",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.2,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120809,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13317"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13319"
+      },
+      "LKCFKPANFOB": "Monster_Head_Obshare",
+      "BPDOEBBFMGI": "Obshare",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30622,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120809,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.4,-1.1,0",
+      "HFKLHEMOMBB": "0,-1.1,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Obshare",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.2,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120810,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "13317"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13320"
+      },
+      "LKCFKPANFOB": "Monster_Head_Obshare",
+      "BPDOEBBFMGI": "Obshare",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30622,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120810,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.4,-1.1,0",
+      "HFKLHEMOMBB": "0,-1.1,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Obshare",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.2,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120813,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13321"
+      },
+      "LKCFKPANFOB": "Monster_Head_ScophinxMoths",
+      "BPDOEBBFMGI": "Scourge Moth",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30623,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120803,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0.15,0,0",
+      "FIJOBHNAIPL": "0.4,-0.9,0",
+      "HFKLHEMOMBB": "-0.1,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_ScourgeMoth",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120814,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13322"
+      },
+      "LKCFKPANFOB": "Monster_Head_ScophinxMoths",
+      "BPDOEBBFMGI": "Scourge Moth",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30623,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120804,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0.15,0,0",
+      "FIJOBHNAIPL": "0.4,-0.9,0",
+      "HFKLHEMOMBB": "-0.1,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_ScourgeMoth",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120815,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13323"
+      },
+      "LKCFKPANFOB": "Monster_Head_ScophinxMoths",
+      "BPDOEBBFMGI": "Scourge Moth",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30623,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120805,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0.15,0,0",
+      "FIJOBHNAIPL": "0.4,-0.9,0",
+      "HFKLHEMOMBB": "-0.1,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_ScourgeMoth",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120816,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13324"
+      },
+      "LKCFKPANFOB": "Monster_Head_ScophinxMoths",
+      "BPDOEBBFMGI": "Scourge Moth",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30623,
+      "ODOKFHAEOOG": 20,
+      "NGPKHDKAFFK": 120816,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0.15,0,0",
+      "FIJOBHNAIPL": "0.4,-0.9,0",
+      "HFKLHEMOMBB": "-0.1,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_ScourgeMoth",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120821,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13325"
+      },
+      "LKCFKPANFOB": "Monster_Head_Nemertea",
+      "BPDOEBBFMGI": "Nemertea",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30624,
+      "ODOKFHAEOOG": 30,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "NGPKHDKAFFK": 120801,
+      "FNBCBMFGPKF": 2,
+      "MGHBDIBBHNB": "0.25,-0.6,0",
+      "FIJOBHNAIPL": "0.9,-0.8,0",
+      "HFKLHEMOMBB": "-0.4,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Nemertea",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120822,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13325"
+      },
+      "LKCFKPANFOB": "Monster_Head_Nemertea",
+      "BPDOEBBFMGI": "Nemertea",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30624,
+      "ODOKFHAEOOG": 30,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "NGPKHDKAFFK": 120802,
+      "FNBCBMFGPKF": 2,
+      "MGHBDIBBHNB": "0.25,-0.6,0",
+      "FIJOBHNAIPL": "0.9,-0.8,0",
+      "HFKLHEMOMBB": "-0.4,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Nemertea",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120901,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13326"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30626,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120901,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120902,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13327"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30626,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120902,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120903,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13328"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30626,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120903,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120904,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13329"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30626,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120904,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120905,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13330"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30626,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120905,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120906,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7847"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13331"
+      },
+      "LKCFKPANFOB": "Monster_Head_AegisLeah",
+      "BPDOEBBFMGI": "Aegis-Dominator_SWAP",
+      "PKEJPMMLGNJ": 1,
+      "IMHNBGDCGND": 30626,
+      "ODOKFHAEOOG": 10,
+      "NGPKHDKAFFK": 120906,
+      "FNBCBMFGPKF": 1.15,
+      "MGHBDIBBHNB": "0,-0.2,0",
+      "FIJOBHNAIPL": "0.4,-0.8,0",
+      "HFKLHEMOMBB": "-0.5,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_AegisDominator_SWAP",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 120907,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6031"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6973"
+      },
+      "LKCFKPANFOB": "Monster_Head_Oljefat",
+      "BPDOEBBFMGI": "Oljefat",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30627,
+      "ODOKFHAEOOG": 20,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "POAEBACIGPH": 10,
+      "NGPKHDKAFFK": 1001,
+      "FNBCBMFGPKF": 1.5,
+      "MGHBDIBBHNB": "0,-0.4,0",
+      "FIJOBHNAIPL": "0.6,-0.6,0",
+      "HFKLHEMOMBB": "-0.6,-0.6,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Oljefat",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0.1,
+        -0.4
+      ]
+    },
+    {
+      "LGJCPENNFBC": 121001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13332"
+      },
+      "LKCFKPANFOB": "Monster_Head_ScophinxMoths",
+      "BPDOEBBFMGI": "Scourge Moth",
+      "PKEJPMMLGNJ": 2,
+      "IMHNBGDCGND": 30629,
+      "ODOKFHAEOOG": 20,
+      "POAEBACIGPH": 10,
+      "NGPKHDKAFFK": 121001,
+      "FNBCBMFGPKF": 1,
+      "MGHBDIBBHNB": "0.15,0,0",
+      "FIJOBHNAIPL": "0.4,-0.9,0",
+      "HFKLHEMOMBB": "-0.1,-0.9,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_ScourgeMoth",
+      "DGDNHPAKDFJ": [
+        -0.1,
+        0.15,
+        -0.3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 121002,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "13333"
+      },
+      "LKCFKPANFOB": "Monster_Head_Nemertea",
+      "BPDOEBBFMGI": "Nemertea",
+      "PKEJPMMLGNJ": 3,
+      "IMHNBGDCGND": 30630,
+      "ODOKFHAEOOG": 10,
+      "KIMGHAIFBCE": 3,
+      "MCABBGLBGDE": 3,
+      "PLPMMICFBAA": 3,
+      "OBKPOBJOJBI": {
+        "1": 2003
+      },
+      "POAEBACIGPH": 10,
+      "NGPKHDKAFFK": 121002,
+      "FNBCBMFGPKF": 2,
+      "MGHBDIBBHNB": "0.25,-0.6,0",
+      "FIJOBHNAIPL": "0.9,-0.8,0",
+      "HFKLHEMOMBB": "-0.4,-0.8,0",
+      "PHLDCGOBOHI": "Img_ActivityTourBattle_Lenna_Nemertea",
+      "DGDNHPAKDFJ": [
+        -0.2,
+        0,
+        -0.4
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "DHGBGMBFNPH": 1001,
+      "MDIGJDINCHO": "darkzone_quest_type_main",
+      "MFJGENHKPND": "主线-默认解锁-",
+      "DGEECAKFBBN": 401,
+      "ANJCGFHHFJH": 100101
+    },
+    {
+      "DHGBGMBFNPH": 1002,
+      "MDIGJDINCHO": "darkzone_quest_type_main",
+      "MFJGENHKPND": "主线-前置解锁-",
+      "GMHENLBDCDB": "darkzone_quest_unlock_type_quest_group",
+      "GLECEAKEJBF": [
+        1001
+      ],
+      "DGEECAKFBBN": 402,
+      "ANJCGFHHFJH": 100201
+    },
+    {
+      "DHGBGMBFNPH": 1003,
+      "MDIGJDINCHO": "darkzone_quest_type_main",
+      "MFJGENHKPND": "主线-好感度解锁-",
+      "GMHENLBDCDB": "darkzone_quest_unlock_type_npc_favor",
+      "GLECEAKEJBF": [
+        401,
+        500
+      ],
+      "DGEECAKFBBN": 403,
+      "ANJCGFHHFJH": 100301
+    },
+    {
+      "DHGBGMBFNPH": 1004,
+      "MDIGJDINCHO": "darkzone_quest_type_main",
+      "MFJGENHKPND": "主线-暗区等级解锁-",
+      "GMHENLBDCDB": "darkzone_quest_unlock_type_level",
+      "GLECEAKEJBF": [
+        5
+      ],
+      "DGEECAKFBBN": 404,
+      "ANJCGFHHFJH": 100401
+    },
+    {
+      "DHGBGMBFNPH": 1005,
+      "MDIGJDINCHO": "darkzone_quest_type_daily",
+      "MFJGENHKPND": "每日-默认解锁-好感要求500",
+      "DGEECAKFBBN": 401,
+      "ANJCGFHHFJH": 100501
+    },
+    {
+      "DHGBGMBFNPH": 1006,
+      "MDIGJDINCHO": "darkzone_quest_type_daily",
+      "MFJGENHKPND": "每日-默认解锁-好感要求1000",
+      "DGEECAKFBBN": 401,
+      "ANJCGFHHFJH": 100601
+    },
+    {
+      "DHGBGMBFNPH": 1007,
+      "MDIGJDINCHO": "darkzone_quest_type_daily",
+      "MFJGENHKPND": "每日-默认解锁-好感要求1000",
+      "DGEECAKFBBN": 401,
+      "ANJCGFHHFJH": 100701
+    },
+    {
+      "DHGBGMBFNPH": 1008,
+      "MDIGJDINCHO": "darkzone_quest_type_main",
+      "MFJGENHKPND": "主线-好感度解锁-",
+      "GMHENLBDCDB": "darkzone_quest_unlock_type_npc_favor",
+      "GLECEAKEJBF": [
+        401,
+        500
+      ],
+      "DGEECAKFBBN": 401,
+      "ANJCGFHHFJH": 100801
+    }
+  ]
+}

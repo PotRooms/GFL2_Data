@@ -1,0 +1,111 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 401,
+      "BKCIGACKEFD": 2,
+      "COHEODNLLHF": 5000,
+      "PLHGGNKPJED": 1,
+      "OPCMOPAMFDF": [
+        50
+      ],
+      "CMINDFLCMED": "每5秒后，下一次攻击造成伤害*（1+x)%"
+    },
+    {
+      "LGJCPENNFBC": 402,
+      "BKCIGACKEFD": 2,
+      "COHEODNLLHF": 10000,
+      "PLHGGNKPJED": 1,
+      "OPCMOPAMFDF": [
+        50
+      ],
+      "CMINDFLCMED": "每10秒后，下一次攻击造成伤害*（1+x)%"
+    },
+    {
+      "LGJCPENNFBC": 501,
+      "BKCIGACKEFD": 2,
+      "PLHGGNKPJED": 2,
+      "OPCMOPAMFDF": [
+        1
+      ],
+      "CMINDFLCMED": "受到非核心攻击，将对玩家人形造成x点伤害"
+    },
+    {
+      "LGJCPENNFBC": 601,
+      "BKCIGACKEFD": 2,
+      "COHEODNLLHF": 20000,
+      "PLHGGNKPJED": 3,
+      "OPCMOPAMFDF": [
+        6,
+        6
+      ],
+      "CMINDFLCMED": "每20秒召唤2个id-6的怪物"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "BKCIGACKEFD": 1,
+      "KHAKCFAKBNH": [
+        201,
+        202
+      ],
+      "DCCEKKIBIDJ": "精英领域",
+      "CMINDFLCMED": "10秒内，武器射击后座力消失，同时自身伤害提高100%",
+      "HNNNNBLCJEI": "UIRes/Atlas/ActivityMiniGame/TpsShoot/3dshoot_Icon_ClukaySSR_Skill",
+      "JIJMGJBOPND": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Effect_Skill_Attack",
+      "MAADCMAANOC": 10000
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BKCIGACKEFD": 1,
+      "KHAKCFAKBNH": [
+        301,
+        302
+      ],
+      "IOOOEAILAMN": [
+        0
+      ],
+      "KDKOIHLAJCG": 1000,
+      "DCCEKKIBIDJ": "灼热孤心",
+      "CMINDFLCMED": "会心一击，对全体敌人造成1000点伤害，同时10秒内狙击蓄力时间和换弹时间减少20%",
+      "HNNNNBLCJEI": "UIRes/Atlas/ActivityMiniGame/TpsShoot/3dshoot_Icon_MacqiatoSSR_Skill"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BKCIGACKEFD": 1,
+      "KHAKCFAKBNH": [
+        401,
+        402,
+        403
+      ],
+      "DCCEKKIBIDJ": "盛宴邀请",
+      "CMINDFLCMED": "10秒内，每次射击子弹数量增加3，弹容量提高20，同时每发子弹伤害提高10%",
+      "HNNNNBLCJEI": "UIRes/Atlas/ActivityMiniGame/TpsShoot/3dshoot_Icon_SabrinaSSR_Skill",
+      "JIJMGJBOPND": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Effect_Skill_Up",
+      "MAADCMAANOC": 10000
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BKCIGACKEFD": 1,
+      "KHAKCFAKBNH": [
+        501,
+        502
+      ],
+      "DCCEKKIBIDJ": "摇滚时间",
+      "CMINDFLCMED": "10秒内，无限子弹，同时基础伤害提高50%",
+      "HNNNNBLCJEI": "UIRes/Atlas/ActivityMiniGame/TpsShoot/3dshoot_Icon_SuomiSSR_Skill",
+      "JIJMGJBOPND": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Effect_Skill_Attack"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "BKCIGACKEFD": 2,
+      "COHEODNLLHF": 10000,
+      "PLHGGNKPJED": 4,
+      "OPCMOPAMFDF": [
+        2
+      ],
+      "KPOPFBPGIDG": [
+        5
+      ],
+      "CMINDFLCMED": "每10秒回复自身及周围5%生命值"
+    }
+  ]
+}

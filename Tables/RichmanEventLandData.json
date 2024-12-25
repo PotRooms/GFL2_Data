@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "EALJEIIAEGE": 1,
+      "BGJLBOBBFOB": 1,
+      "NDLGGMKAHHP": 200,
+      "AIGBBJIAANC": 3
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "EALJEIIAEGE": 1,
+      "BGJLBOBBFOB": 2,
+      "NDLGGMKAHHP": 400,
+      "AIGBBJIAANC": 5
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "EALJEIIAEGE": 1,
+      "BGJLBOBBFOB": 3,
+      "NDLGGMKAHHP": 1000,
+      "AIGBBJIAANC": 10
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "EALJEIIAEGE": 2,
+      "BGJLBOBBFOB": 1,
+      "NDLGGMKAHHP": 200,
+      "AIGBBJIAANC": 4
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "EALJEIIAEGE": 2,
+      "BGJLBOBBFOB": 2,
+      "NDLGGMKAHHP": 300,
+      "AIGBBJIAANC": 5
+    }
+  ]
+}

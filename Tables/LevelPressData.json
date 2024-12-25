@@ -1,0 +1,354 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-999,-20",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-19,-15",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-14,-10",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-9,-9",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-8,-8",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-7,-7",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-6,-6",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-5,-5",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-4,-4",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-3,-3",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-2,-2",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "-1,-1",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "0,0",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "1,1",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "2,2",
+      "ECKFMPDIIAO": 11500,
+      "DIAJCNGNMNM": 8500
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "3,3",
+      "ECKFMPDIIAO": 11500,
+      "DIAJCNGNMNM": 8500
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "4,4",
+      "ECKFMPDIIAO": 12000,
+      "DIAJCNGNMNM": 8000
+    },
+    {
+      "LGJCPENNFBC": 1018,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "5,5",
+      "ECKFMPDIIAO": 12000,
+      "DIAJCNGNMNM": 8000
+    },
+    {
+      "LGJCPENNFBC": 1019,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "6,6",
+      "ECKFMPDIIAO": 12500,
+      "DIAJCNGNMNM": 7500
+    },
+    {
+      "LGJCPENNFBC": 1020,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "7,7",
+      "ECKFMPDIIAO": 12500,
+      "DIAJCNGNMNM": 7500
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "8,8",
+      "ECKFMPDIIAO": 12500,
+      "DIAJCNGNMNM": 7500
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "9,9",
+      "ECKFMPDIIAO": 12500,
+      "DIAJCNGNMNM": 7500
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "10,14",
+      "ECKFMPDIIAO": 13000,
+      "DIAJCNGNMNM": 7000
+    },
+    {
+      "LGJCPENNFBC": 1025,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "15,19",
+      "ECKFMPDIIAO": 13500,
+      "DIAJCNGNMNM": 6000
+    },
+    {
+      "LGJCPENNFBC": 1026,
+      "BKCIGACKEFD": 1,
+      "GEDHFFALGPN": "20,999",
+      "ECKFMPDIIAO": 15000,
+      "DIAJCNGNMNM": 5000
+    },
+    {
+      "LGJCPENNFBC": 1027,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-999,-20",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1028,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-19,-15",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1029,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-14,-10",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1030,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-9,-9",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1031,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-8,-8",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1032,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-7,-7",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1033,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-6,-6",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1034,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-5,-5",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1035,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-4,-4",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1036,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-3,-3",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1037,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-2,-2",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1038,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "-1,-1",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1039,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "0,0",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1040,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "1,1",
+      "ECKFMPDIIAO": 10000,
+      "DIAJCNGNMNM": 10000
+    },
+    {
+      "LGJCPENNFBC": 1041,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "2,2",
+      "ECKFMPDIIAO": 12000,
+      "DIAJCNGNMNM": 8000
+    },
+    {
+      "LGJCPENNFBC": 1042,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "3,3",
+      "ECKFMPDIIAO": 12000,
+      "DIAJCNGNMNM": 8000
+    },
+    {
+      "LGJCPENNFBC": 1043,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "4,4",
+      "ECKFMPDIIAO": 12500,
+      "DIAJCNGNMNM": 7500
+    },
+    {
+      "LGJCPENNFBC": 1044,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "5,5",
+      "ECKFMPDIIAO": 12500,
+      "DIAJCNGNMNM": 7500
+    },
+    {
+      "LGJCPENNFBC": 1045,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "6,6",
+      "ECKFMPDIIAO": 13000,
+      "DIAJCNGNMNM": 7000
+    },
+    {
+      "LGJCPENNFBC": 1046,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "7,7",
+      "ECKFMPDIIAO": 13000,
+      "DIAJCNGNMNM": 7000
+    },
+    {
+      "LGJCPENNFBC": 1047,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "8,8",
+      "ECKFMPDIIAO": 13500,
+      "DIAJCNGNMNM": 6500
+    },
+    {
+      "LGJCPENNFBC": 1048,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "9,9",
+      "ECKFMPDIIAO": 13500,
+      "DIAJCNGNMNM": 6500
+    },
+    {
+      "LGJCPENNFBC": 1049,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "10,14",
+      "ECKFMPDIIAO": 14000,
+      "DIAJCNGNMNM": 6000
+    },
+    {
+      "LGJCPENNFBC": 1050,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "15,19",
+      "ECKFMPDIIAO": 15000,
+      "DIAJCNGNMNM": 5500
+    },
+    {
+      "LGJCPENNFBC": 1051,
+      "BKCIGACKEFD": 2,
+      "GEDHFFALGPN": "20,999",
+      "ECKFMPDIIAO": 16000,
+      "DIAJCNGNMNM": 5000
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "DHGBGMBFNPH": 101,
+      "LGJCPENNFBC": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "DHGBGMBFNPH": 102,
+      "LGJCPENNFBC": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "DHGBGMBFNPH": 103,
+      "LGJCPENNFBC": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "DHGBGMBFNPH": 104,
+      "LGJCPENNFBC": [
+        13,
+        14,
+        15,
+        16
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "喝咖啡分支1",
+      "HJNJCOMILCA": "GrozaSQ1_dorm_CoffeeMachine_branch01",
+      "INHKKGLAAME": 3
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "喝咖啡分支2",
+      "HJNJCOMILCA": "GrozaSQ1_dorm_CoffeeMachine_branch02",
+      "INHKKGLAAME": 3
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "喝咖啡分支3",
+      "HJNJCOMILCA": "GrozaSQ1_dorm_CoffeeMachine_branch03",
+      "INHKKGLAAME": 3
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "喝咖啡回应",
+      "HJNJCOMILCA": "GrozaSQ1_dorm_CoffeeMachine_response",
+      "INHKKGLAAME": 3
+    }
+  ]
+}

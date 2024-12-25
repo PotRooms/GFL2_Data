@@ -1,0 +1,721 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 102601,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "NagantSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 109,
+      "DNBHBMLJFJH": [
+        "C_SR01_Nagant",
+        "Gun_HG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102901,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "SabrinaSSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 105,
+      "DNBHBMLJFJH": [
+        "C_SSR0101_Sabrina",
+        "Gun_SG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103201,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "DaiyanSSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 101,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Daiyan",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103203,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "DaiyanSSR0103",
+      "MNGKBLGIIGL": 204,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 101,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Daiyan",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103401,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "MacqiatoSSR0101",
+      "MNGKBLGIIGL": 204,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 120,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Macqiato",
+        "Gun_RF",
+        "C_MacqiatoSSR0101"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103901,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "SuomiSSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 123,
+      "DNBHBMLJFJH": [
+        "C_SuomiSSR0101",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 104501,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "BiyocaSSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 130,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Biyoca",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105001,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "ZhaoHuiSSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 125,
+      "DNBHBMLJFJH": [
+        "C_SSR01_ZhaoHui",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105101,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "MishtySSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 128,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Mishty",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105201,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "ClukaySSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 127,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Clukay",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 105202,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "ClukaySSR0102",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 127,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Clukay",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "CharolicSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 114,
+      "DNBHBMLJFJH": [
+        "C_SR01_Charolic"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "NemesisSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 113,
+      "DNBHBMLJFJH": [
+        "C_SR01_Nemesis",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "ColphneSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 102,
+      "DNBHBMLJFJH": [
+        "C_SR01_Colphne",
+        "Gun_HG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "LennaSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 118,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Lenna",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "VepleySSR01",
+      "MNGKBLGIIGL": 203,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 107,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Vepley",
+        "Gun_SG",
+        "C_SR01_Groza"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 112,
+      "DNBHBMLJFJH": [
+        "C_SR01_Groza",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "PerityaSSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 1,
+      "GPGIMPIBOAJ": 106,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Peritya",
+        "Gun_MG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "SharkrySR01",
+      "GPGIMPIBOAJ": 104,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Sharkry",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "DusevnyjSSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 4,
+      "GPGIMPIBOAJ": 124,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Dusevnyj",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1024,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "CheetaSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 1,
+      "GPGIMPIBOAJ": 110,
+      "DNBHBMLJFJH": [
+        "C_SR01_Cheeta",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1025,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "TololoSSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 108,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Tololo",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1026,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "NagantSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 109,
+      "DNBHBMLJFJH": [
+        "C_SR01_Nagant",
+        "Gun_HG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1027,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "QiongjiuSSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 111,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Qiongjiu",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1028,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "CentaureissiSSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 103,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Centaureissi",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1029,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "SabrinaSSR01",
+      "MNGKBLGIIGL": 205,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 105,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Sabrina",
+        "Gun_SG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1032,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "DaiyanSSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 101,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Daiyan",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1033,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "MosinnagantSSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 117,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Mosinnagant",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1034,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "MacqiatoSSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 120,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Macqiato",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1035,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "JiangyuSSR01",
+      "MNGKBLGIIGL": 204,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 119,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Jiangyu",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1036,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "KseniaSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 115,
+      "DNBHBMLJFJH": [
+        "C_SR01_Kesina",
+        "Gun_HG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1037,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "UllridSSR",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 121,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Ullrid"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1038,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "LittaraSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 116,
+      "DNBHBMLJFJH": [
+        "C_SR01_Littara",
+        "Gun_MG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1039,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "SuomiSSR01",
+      "MNGKBLGIIGL": 203,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 123,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Suomi",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1040,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "PapashaSSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 126,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Papasha",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1041,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "LottaSR",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 122,
+      "DNBHBMLJFJH": [
+        "C_SR01_Lotta",
+        "Gun_SG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1042,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR01"
+    },
+    {
+      "LGJCPENNFBC": 1043,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR01"
+    },
+    {
+      "LGJCPENNFBC": 1044,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "VectorSSR01",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 129,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Vector",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1045,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "BiyocaSSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 130,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Biyoca",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1046,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR01"
+    },
+    {
+      "LGJCPENNFBC": 1047,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR01"
+    },
+    {
+      "LGJCPENNFBC": 1048,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR01"
+    },
+    {
+      "LGJCPENNFBC": 1049,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR01"
+    },
+    {
+      "LGJCPENNFBC": 1050,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "ZhaoHuiSSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 125,
+      "DNBHBMLJFJH": [
+        "C_SSR01_ZhaoHui",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1051,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "MishtySSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 128,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Mishty",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1052,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "ClukaySSR01",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 127,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Clukay",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100901,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "ColphneSR0103",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 113,
+      "DNBHBMLJFJH": [
+        "C_SR01_Nemesis",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100903,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "ColphneSR0103",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 102,
+      "DNBHBMLJFJH": [
+        "C_SR01_Colphne",
+        "Gun_HG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101301,
+      "OGOGBEELNGG": 1
+    },
+    {
+      "LGJCPENNFBC": 101305,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "LennaSSR0105",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 118,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Lenna",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101501,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "VepleySSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 107,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Vepley",
+        "Gun_SG",
+        "C_SR01_Groza"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101502,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "VepleySSR0102",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 107,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Vepley",
+        "Gun_SG",
+        "C_SR01_Groza"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102401,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "CheetaSR0101",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 1,
+      "GPGIMPIBOAJ": 110,
+      "DNBHBMLJFJH": [
+        "C_SR01_Cheeta",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102501,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "TololoSSR0101",
+      "MNGKBLGIIGL": 201,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 108,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Tololo",
+        "C_TololoSSR0101",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100101,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "CharolicSR0101",
+      "MNGKBLGIIGL": 206,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 114,
+      "DNBHBMLJFJH": [
+        "C_SR01_Charolic"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100103,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "CharolicSR0103",
+      "MNGKBLGIIGL": 206,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 114,
+      "DNBHBMLJFJH": [
+        "C_SR01_Charolic"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100803,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "NemesisSR0103",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 113,
+      "DNBHBMLJFJH": [
+        "C_SR01_Nemesis",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100804,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "NemesisSR0103",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 113,
+      "DNBHBMLJFJH": [
+        "C_SR01_Nemesis",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100805,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "NemesisSR0103",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 113,
+      "DNBHBMLJFJH": [
+        "C_SR01_Nemesis",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101701,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR0101",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 112,
+      "DNBHBMLJFJH": [
+        "C_SR01_Groza",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101703,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR0103",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 112,
+      "DNBHBMLJFJH": [
+        "C_SR01_Groza",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101704,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR0104",
+      "MNGKBLGIIGL": 202,
+      "AMEFIHDMCIH": 3,
+      "GPGIMPIBOAJ": 112,
+      "DNBHBMLJFJH": [
+        "C_SR01_Groza",
+        "Gun_AR"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 101705,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "GrozaSR0105",
+      "MNGKBLGIIGL": 204,
+      "AMEFIHDMCIH": 2,
+      "GPGIMPIBOAJ": 112,
+      "DNBHBMLJFJH": [
+        "C_SR01_Groza",
+        "Gun_AR"
+      ]
+    }
+  ]
+}

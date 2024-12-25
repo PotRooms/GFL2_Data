@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": "1",
+      "CPDCEMHELII": "ダウンロード中"
+    },
+    {
+      "LGJCPENNFBC": "2",
+      "CPDCEMHELII": "解凍中"
+    },
+    {
+      "LGJCPENNFBC": "3",
+      "CPDCEMHELII": "間もなく完了"
+    },
+    {
+      "LGJCPENNFBC": "4",
+      "CPDCEMHELII": "読み込み中"
+    },
+    {
+      "LGJCPENNFBC": "5",
+      "CPDCEMHELII": "リソースチェック"
+    },
+    {
+      "LGJCPENNFBC": "6",
+      "CPDCEMHELII": "リソースの整合性をチェックしますか？"
+    },
+    {
+      "LGJCPENNFBC": "7",
+      "CPDCEMHELII": "対象年齢"
+    },
+    {
+      "LGJCPENNFBC": "8",
+      "CPDCEMHELII": "『ドールズフロントライン2：エクシリウム』はオリジナル3Dストラテジーゲームです。プレイヤーは性能の異なる人形でチームを組み、様々なステージに挑みながらストーリーを進めていきます。"
+    },
+    {
+      "LGJCPENNFBC": "9",
+      "CPDCEMHELII": "Wi-Fiに接続していません。<color=#f0af14>{0}</color>のファイルをダウンロードします、続けますか？"
+    },
+    {
+      "LGJCPENNFBC": "10",
+      "CPDCEMHELII": "クライアントのバージョンが<color=#f0af14>最新版</color>ではありません。最新のクライアントをダウンロードしてください。"
+    },
+    {
+      "LGJCPENNFBC": "11",
+      "CPDCEMHELII": "キャンセル"
+    },
+    {
+      "LGJCPENNFBC": "12",
+      "CPDCEMHELII": "確認"
+    },
+    {
+      "LGJCPENNFBC": "13",
+      "CPDCEMHELII": "通知"
+    },
+    {
+      "LGJCPENNFBC": "14",
+      "CPDCEMHELII": "{0}MB"
+    },
+    {
+      "LGJCPENNFBC": "15",
+      "CPDCEMHELII": "サーバー接続"
+    },
+    {
+      "LGJCPENNFBC": "16",
+      "CPDCEMHELII": "バージョン情報確認"
+    },
+    {
+      "LGJCPENNFBC": "17",
+      "CPDCEMHELII": "フォームダウンロード"
+    },
+    {
+      "LGJCPENNFBC": "18",
+      "CPDCEMHELII": "フォーム解凍"
+    },
+    {
+      "LGJCPENNFBC": "19",
+      "CPDCEMHELII": "リソースダウンロード"
+    },
+    {
+      "LGJCPENNFBC": "20",
+      "CPDCEMHELII": "リソース解凍"
+    },
+    {
+      "LGJCPENNFBC": "21",
+      "CPDCEMHELII": "リソース整理"
+    },
+    {
+      "LGJCPENNFBC": "101",
+      "CPDCEMHELII": "エラー"
+    },
+    {
+      "LGJCPENNFBC": "102",
+      "CPDCEMHELII": "親愛なる指揮官、予期せぬエラーが発生しました。\n<color=#f0af14>（空き容量が十分かをご確認ください）</color>"
+    },
+    {
+      "LGJCPENNFBC": "103",
+      "CPDCEMHELII": "解析エラー通知"
+    },
+    {
+      "LGJCPENNFBC": "104",
+      "CPDCEMHELII": "ユーザーによりダウンロードがキャンセルされました。"
+    },
+    {
+      "LGJCPENNFBC": "105",
+      "CPDCEMHELII": "通信エラー。通信環境をご確認ください。"
+    },
+    {
+      "LGJCPENNFBC": "106",
+      "CPDCEMHELII": "ログイン解析エラー："
+    },
+    {
+      "LGJCPENNFBC": "107",
+      "CPDCEMHELII": "ダウンロード時に予期せぬエラーが発生しました。再度お試しください。"
+    },
+    {
+      "LGJCPENNFBC": "108",
+      "CPDCEMHELII": "ダウンロード時に予期せぬエラーが発生しました。再度お試しください。"
+    },
+    {
+      "LGJCPENNFBC": "109",
+      "CPDCEMHELII": "エラーにより、アカウントがログアウトされました。"
+    },
+    {
+      "LGJCPENNFBC": "110",
+      "CPDCEMHELII": "ログアウト"
+    },
+    {
+      "LGJCPENNFBC": "111",
+      "CPDCEMHELII": "再試行"
+    },
+    {
+      "LGJCPENNFBC": "112",
+      "CPDCEMHELII": "通知"
+    },
+    {
+      "LGJCPENNFBC": "113",
+      "CPDCEMHELII": "再接続に失敗しました。ログイン画面に戻ります。"
+    },
+    {
+      "LGJCPENNFBC": "114",
+      "CPDCEMHELII": "再接続中……"
+    },
+    {
+      "LGJCPENNFBC": "115",
+      "CPDCEMHELII": "リソースの更新が完了しました。ゲームを再起動してください。"
+    },
+    {
+      "LGJCPENNFBC": "116",
+      "CPDCEMHELII": "解凍時に予期せぬエラーが発生しました。再度お試しください。"
+    },
+    {
+      "LGJCPENNFBC": "117",
+      "CPDCEMHELII": "デバイスの空き容量が不足しています。今回のダウンロードサイズ：{0}、容量を空けてから再度お試しください。"
+    },
+    {
+      "LGJCPENNFBC": "118",
+      "CPDCEMHELII": "現在モバイルデータ通信を利用中です。残りダウンロードサイズ：{0}、ダウンロードを続けますか？"
+    },
+    {
+      "LGJCPENNFBC": "119",
+      "CPDCEMHELII": "整合性チェック"
+    },
+    {
+      "LGJCPENNFBC": "120",
+      "CPDCEMHELII": "クライアントの整合性チェック＆修復を行いますか？"
+    },
+    {
+      "LGJCPENNFBC": "121",
+      "CPDCEMHELII": "リソースを再ダウンロード"
+    },
+    {
+      "LGJCPENNFBC": "123",
+      "CPDCEMHELII": "確認"
+    },
+    {
+      "LGJCPENNFBC": "124",
+      "CPDCEMHELII": "キャンセル"
+    },
+    {
+      "LGJCPENNFBC": "125",
+      "CPDCEMHELII": "言語選択"
+    },
+    {
+      "LGJCPENNFBC": "126",
+      "CPDCEMHELII": "ボイス言語を選択してください\\n選択後は設定で変更できます"
+    },
+    {
+      "LGJCPENNFBC": "127",
+      "CPDCEMHELII": "中国語"
+    },
+    {
+      "LGJCPENNFBC": "128",
+      "CPDCEMHELII": "日本語"
+    },
+    {
+      "LGJCPENNFBC": "129",
+      "CPDCEMHELII": "確認"
+    },
+    {
+      "LGJCPENNFBC": "130",
+      "CPDCEMHELII": "韓国語"
+    },
+    {
+      "LGJCPENNFBC": "131",
+      "CPDCEMHELII": "サーバー選択"
+    },
+    {
+      "LGJCPENNFBC": "132",
+      "CPDCEMHELII": "スタート"
+    },
+    {
+      "LGJCPENNFBC": "133",
+      "CPDCEMHELII": "Wi-Fiに接続していません。アップデート(ファイルサイズ{0})を続けますか？"
+    },
+    {
+      "LGJCPENNFBC": "134",
+      "CPDCEMHELII": "アップデート(ファイルサイズ{0})を続けますか？"
+    },
+    {
+      "LGJCPENNFBC": "135",
+      "CPDCEMHELII": "サーバーを切り替えると、リソースのダウンロードが必要な場合があります。サーバーを切り替えますか？"
+    },
+    {
+      "LGJCPENNFBC": "136",
+      "CPDCEMHELII": "サーバーにログインできません。お知らせを確認するか、カスタマーサポートにお問い合わせください。"
+    },
+    {
+      "LGJCPENNFBC": "137",
+      "CPDCEMHELII": "再接続"
+    },
+    {
+      "LGJCPENNFBC": "138",
+      "CPDCEMHELII": "サーバー接続"
+    },
+    {
+      "LGJCPENNFBC": "139",
+      "CPDCEMHELII": "中国サーバー"
+    },
+    {
+      "LGJCPENNFBC": "140",
+      "CPDCEMHELII": "アメリカサーバー"
+    },
+    {
+      "LGJCPENNFBC": "141",
+      "CPDCEMHELII": "グローバル"
+    },
+    {
+      "LGJCPENNFBC": "142",
+      "CPDCEMHELII": "日本"
+    },
+    {
+      "LGJCPENNFBC": "143",
+      "CPDCEMHELII": "韓国"
+    },
+    {
+      "LGJCPENNFBC": "144",
+      "CPDCEMHELII": "アジア"
+    },
+    {
+      "LGJCPENNFBC": "145",
+      "CPDCEMHELII": "ログインしてから再度お試しください"
+    }
+  ]
+}

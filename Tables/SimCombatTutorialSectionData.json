@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HDEEJIIMPBF": {
+        "DOHLNDIPHAJ": "3145"
+      },
+      "CAPKGDANGED": [
+        101,
+        102
+      ],
+      "FMEGDDEFCOJ": 11101,
+      "MBLNJGOJNJJ": "完成剧情战役普通1-8后解锁",
+      "KJEEAKFIKAA": [
+        101,
+        102
+      ],
+      "FGCMJMNPANJ": [
+        11013
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HDEEJIIMPBF": {
+        "DOHLNDIPHAJ": "5023"
+      },
+      "CAPKGDANGED": [
+        201,
+        202,
+        203
+      ],
+      "KJEEAKFIKAA": [
+        201,
+        202
+      ],
+      "CEOFOGODHMB": 1
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HDEEJIIMPBF": {
+        "DOHLNDIPHAJ": "5024"
+      },
+      "CAPKGDANGED": [
+        301,
+        302,
+        303
+      ],
+      "KJEEAKFIKAA": [
+        301,
+        302,
+        303
+      ],
+      "CEOFOGODHMB": 2
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HDEEJIIMPBF": {
+        "DOHLNDIPHAJ": "5025"
+      },
+      "CAPKGDANGED": [
+        401,
+        402,
+        403,
+        404
+      ],
+      "KJEEAKFIKAA": [
+        401,
+        402,
+        403,
+        404
+      ],
+      "CEOFOGODHMB": 3
+    }
+  ]
+}

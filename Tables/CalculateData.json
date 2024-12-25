@@ -1,0 +1,2425 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10320990,
+      "AALBNGIAFAK": "({0}+{1}+{2})>5?6:4",
+      "FAJKNDPBLNE": "2:1:10320981;2:1:10320991;2:1:10320992"
+    },
+    {
+      "LGJCPENNFBC": 68536191,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6853619"
+    },
+    {
+      "LGJCPENNFBC": 301411,
+      "AALBNGIAFAK": "(1-{0}/{1})*400",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 51103144,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103144"
+    },
+    {
+      "LGJCPENNFBC": 62000501,
+      "AALBNGIAFAK": "{0}*(25)",
+      "FAJKNDPBLNE": "2:1:620005011"
+    },
+    {
+      "LGJCPENNFBC": 62000502,
+      "AALBNGIAFAK": "{0}*(50)",
+      "FAJKNDPBLNE": "2:1:620005021"
+    },
+    {
+      "LGJCPENNFBC": 62000503,
+      "AALBNGIAFAK": "{0}*(100)",
+      "FAJKNDPBLNE": "2:1:620005031"
+    },
+    {
+      "LGJCPENNFBC": 68536091,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6853609"
+    },
+    {
+      "LGJCPENNFBC": 101707025,
+      "AALBNGIAFAK": "{0}*0.75",
+      "PBNOEDBPIJC": "1:shield_armor,1"
+    },
+    {
+      "LGJCPENNFBC": 110,
+      "AALBNGIAFAK": "(({0}=={1})?2000*{0}:{0})+{2}*35000000",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,1",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 301121,
+      "AALBNGIAFAK": "({0}/{1})*200",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 6247301,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "1:1:6247301"
+    },
+    {
+      "LGJCPENNFBC": 6971810,
+      "AALBNGIAFAK": "{0}*0.3",
+      "PBNOEDBPIJC": "2:hp,0"
+    },
+    {
+      "LGJCPENNFBC": 10110901,
+      "AALBNGIAFAK": "{1}-{0}",
+      "PBNOEDBPIJC": "1:hp,1;1:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 51035351,
+      "AALBNGIAFAK": "({0}>3?3:{0})*120",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 51038211,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?50:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 51038212,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?100:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 102309011,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:102309011"
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "AALBNGIAFAK": "({0}+{1})/4",
+      "PBNOEDBPIJC": "1:hp,1;1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "AALBNGIAFAK": "({0}*1.0d/{1})*1000",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "AALBNGIAFAK": "100+{0}*2",
+      "ILNKNACOFCN": "1"
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "2:hp,1"
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "AALBNGIAFAK": "{0}*10000-({1}-{0})*1000",
+      "PBNOEDBPIJC": "2:will_value,1;:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "AALBNGIAFAK": "({0}=={1})?0:1000-{0}",
+      "PBNOEDBPIJC": "2:will_value,1;2:max_will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 109,
+      "AALBNGIAFAK": "({0}=={1})?2000*{0}:{0}",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,1"
+    },
+    {
+      "LGJCPENNFBC": 1005071201,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "1:1:10050713"
+    },
+    {
+      "LGJCPENNFBC": 1005071202,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:10050713"
+    },
+    {
+      "LGJCPENNFBC": 102408031,
+      "AALBNGIAFAK": "{0}>3?900:({0}*100+600)",
+      "FAJKNDPBLNE": "2:3:1"
+    },
+    {
+      "LGJCPENNFBC": 351602,
+      "AALBNGIAFAK": "{0}*80",
+      "FAJKNDPBLNE": "2:1:3516020"
+    },
+    {
+      "LGJCPENNFBC": 6172401,
+      "AALBNGIAFAK": "{0}/5*100-{0}%5*50",
+      "FAJKNDPBLNE": "2:1:6171401"
+    },
+    {
+      "LGJCPENNFBC": 6414301,
+      "AALBNGIAFAK": "({0}-{1})*50",
+      "PBNOEDBPIJC": "2:max_will_value,1;2:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 6442401,
+      "AALBNGIAFAK": "{0}*200",
+      "FAJKNDPBLNE": "2:1,6442401"
+    },
+    {
+      "LGJCPENNFBC": 6900003,
+      "AALBNGIAFAK": "(99-{0})/{0}*1000",
+      "PBNOEDBPIJC": "2:physical_shield,0"
+    },
+    {
+      "LGJCPENNFBC": 6900004,
+      "AALBNGIAFAK": "0",
+      "PBNOEDBPIJC": "2:physical_shield,0"
+    },
+    {
+      "LGJCPENNFBC": 6900005,
+      "AALBNGIAFAK": "(99-{0})/{0}*1000",
+      "PBNOEDBPIJC": "2:magical_shield,0"
+    },
+    {
+      "LGJCPENNFBC": 6900006,
+      "AALBNGIAFAK": "0",
+      "PBNOEDBPIJC": "2:magical_shield,0"
+    },
+    {
+      "LGJCPENNFBC": 6900007,
+      "AALBNGIAFAK": "100-{0}",
+      "PBNOEDBPIJC": "2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 6900008,
+      "AALBNGIAFAK": "150-{0}",
+      "PBNOEDBPIJC": "2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 6900009,
+      "AALBNGIAFAK": "0-{0}",
+      "PBNOEDBPIJC": "2:suppress_value,0"
+    },
+    {
+      "LGJCPENNFBC": 10140801,
+      "AALBNGIAFAK": "({0}+{1})*50",
+      "FAJKNDPBLNE": "2:1:10140821;2:1:10140822"
+    },
+    {
+      "LGJCPENNFBC": 10140802,
+      "AALBNGIAFAK": "({0}+{1})*100",
+      "FAJKNDPBLNE": "2:1:10140821;2:1:10140822"
+    },
+    {
+      "LGJCPENNFBC": 51102055,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51102053"
+    },
+    {
+      "LGJCPENNFBC": 310702,
+      "AALBNGIAFAK": "{0}*300",
+      "FAJKNDPBLNE": "3:1:310702"
+    },
+    {
+      "LGJCPENNFBC": 62818022,
+      "AALBNGIAFAK": "{0}+{1}+{2}+{3}+{4}",
+      "FAJKNDPBLNE": "1:1:6279411;1:1:6279412;1:1:6279413;1:1:6279414;1:1:6279415"
+    },
+    {
+      "LGJCPENNFBC": 62818023,
+      "AALBNGIAFAK": "{0}+{1}+{2}+{3}+{4}",
+      "FAJKNDPBLNE": "1:1:51020;1:1:51030;1:1:51040;1:1:51060;1:1:51070"
+    },
+    {
+      "LGJCPENNFBC": 10160411,
+      "AALBNGIAFAK": "{0}*0.8",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10160412,
+      "AALBNGIAFAK": "{0}*0.9",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10160413,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10440403,
+      "AALBNGIAFAK": "50*{0}",
+      "FAJKNDPBLNE": "3:3:549755822081"
+    },
+    {
+      "LGJCPENNFBC": 103804032,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103804032"
+    },
+    {
+      "LGJCPENNFBC": 511031241,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103114"
+    },
+    {
+      "LGJCPENNFBC": 10050701,
+      "AALBNGIAFAK": "{0}*80",
+      "FAJKNDPBLNE": "2:1:10050401"
+    },
+    {
+      "LGJCPENNFBC": 10050702,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "2:1:10050401"
+    },
+    {
+      "LGJCPENNFBC": 631120315,
+      "AALBNGIAFAK": "({1}-{0})/{1}*1000*1/2-1000*1/2",
+      "PBNOEDBPIJC": "1:will_value,1;1:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 631120316,
+      "AALBNGIAFAK": "({1}-{0})/{1}*1000*0.8-800",
+      "PBNOEDBPIJC": "1:will_value,1;1:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 631120317,
+      "AALBNGIAFAK": "1000*1/2-({1}-{0})/{1}*1000*1/2",
+      "PBNOEDBPIJC": "1:will_value,1;1:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 51102035,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51102033"
+    },
+    {
+      "LGJCPENNFBC": 10370400,
+      "AALBNGIAFAK": "{0}+{1}*100000",
+      "PBNOEDBPIJC": "2:hp,1",
+      "FAJKNDPBLNE": "1:1:103704001"
+    },
+    {
+      "LGJCPENNFBC": 10370401,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103708011"
+    },
+    {
+      "LGJCPENNFBC": 10370402,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103708022"
+    },
+    {
+      "LGJCPENNFBC": 10370403,
+      "AALBNGIAFAK": "(1000-({0}*1.0d/{1})*1000)/2",
+      "PBNOEDBPIJC": "1:hp,1;1:max_hp,1"
+    },
+    {
+      "LGJCPENNFBC": 60004102,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "2:1:60004103"
+    },
+    {
+      "LGJCPENNFBC": 60004103,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:60004103"
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "AALBNGIAFAK": "{0}*1*F3+{1}*10*F2+{2}*1*F1",
+      "PBNOEDBPIJC": "1:hp,1;1:will_value,1",
+      "FAJKNDPBLNE": "2:1:10008"
+    },
+    {
+      "LGJCPENNFBC": 30105,
+      "AALBNGIAFAK": "({0}>7?7:{0})*50",
+      "FAJKNDPBLNE": "3:3:1"
+    },
+    {
+      "LGJCPENNFBC": 340601,
+      "AALBNGIAFAK": "{0}*120",
+      "FAJKNDPBLNE": "1:2:340600"
+    },
+    {
+      "LGJCPENNFBC": 6279203,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:62792020"
+    },
+    {
+      "LGJCPENNFBC": 6901501,
+      "AALBNGIAFAK": "0-{0}*30",
+      "PBNOEDBPIJC": "1:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 10140401,
+      "AALBNGIAFAK": "({0}+{1})*100+500",
+      "FAJKNDPBLNE": "2:1:10140821;2:1:10140822"
+    },
+    {
+      "LGJCPENNFBC": 10140402,
+      "AALBNGIAFAK": "({0}+{1})*100+750",
+      "FAJKNDPBLNE": "2:1:10140821;2:1:10140822"
+    },
+    {
+      "LGJCPENNFBC": 10140403,
+      "AALBNGIAFAK": "({0}+{1})*150+750",
+      "FAJKNDPBLNE": "2:1:10140821;2:1:10140822"
+    },
+    {
+      "LGJCPENNFBC": 51103164,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103164"
+    },
+    {
+      "LGJCPENNFBC": 68556011,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:6855601"
+    },
+    {
+      "LGJCPENNFBC": 342,
+      "AALBNGIAFAK": "{0}*1000",
+      "KFODDMPGHFC": "1:Dynamicoverflowdamage"
+    },
+    {
+      "LGJCPENNFBC": 343,
+      "AALBNGIAFAK": "{0}*1000",
+      "KFODDMPGHFC": "1:Dynamicmakeoverflowdamage"
+    },
+    {
+      "LGJCPENNFBC": 103509081,
+      "AALBNGIAFAK": "{0}*2",
+      "FAJKNDPBLNE": "2:1:103509082"
+    },
+    {
+      "LGJCPENNFBC": 103509082,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103509082"
+    },
+    {
+      "LGJCPENNFBC": 5110471,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104712"
+    },
+    {
+      "LGJCPENNFBC": 5110472,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104722"
+    },
+    {
+      "LGJCPENNFBC": 5110473,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104732"
+    },
+    {
+      "LGJCPENNFBC": 5110474,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104742"
+    },
+    {
+      "LGJCPENNFBC": 5110475,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104752"
+    },
+    {
+      "LGJCPENNFBC": 5110476,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104762"
+    },
+    {
+      "LGJCPENNFBC": 5110521,
+      "AALBNGIAFAK": "{0}/100",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 5110522,
+      "AALBNGIAFAK": "{0}/100",
+      "PBNOEDBPIJC": "1:max_ap,1"
+    },
+    {
+      "LGJCPENNFBC": 5110523,
+      "AALBNGIAFAK": "({0}-{1})<0?2:1",
+      "FAJKNDPBLNE": "2:1:51105212;2:1:51105215"
+    },
+    {
+      "LGJCPENNFBC": 10030711,
+      "AALBNGIAFAK": "{0}*0.15",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 51103811,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103811"
+    },
+    {
+      "LGJCPENNFBC": 910120402,
+      "AALBNGIAFAK": "1000/{0}",
+      "PBNOEDBPIJC": "2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 910120403,
+      "AALBNGIAFAK": "{0}*0.5",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 910120404,
+      "AALBNGIAFAK": "{0}*0.5",
+      "PBNOEDBPIJC": "1:physical_shield,0"
+    },
+    {
+      "LGJCPENNFBC": 910120405,
+      "AALBNGIAFAK": "{0}*0.5",
+      "PBNOEDBPIJC": "1:magical_shield,0"
+    },
+    {
+      "LGJCPENNFBC": 5100021,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:5100020"
+    },
+    {
+      "LGJCPENNFBC": 10320982,
+      "AALBNGIAFAK": "({0}+{1}+{2})>5?200:0",
+      "FAJKNDPBLNE": "2:1:10320981;2:1:10320991;2:1:10320992"
+    },
+    {
+      "LGJCPENNFBC": 10320983,
+      "AALBNGIAFAK": "{0}+{1}+{2}",
+      "FAJKNDPBLNE": "2:1:10320981;2:1:10320991;2:1:10320992"
+    },
+    {
+      "LGJCPENNFBC": 10320984,
+      "AALBNGIAFAK": "({0}+{1}+{2})>2?100:0",
+      "FAJKNDPBLNE": "2:1:10320981;2:1:10320991;2:1:10320992"
+    },
+    {
+      "LGJCPENNFBC": 10320985,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:1032040113"
+    },
+    {
+      "LGJCPENNFBC": 10320986,
+      "AALBNGIAFAK": "({0}+{1}+{2})/3",
+      "FAJKNDPBLNE": "2:1:10320981;2:1:10320991;2:1:10320992"
+    },
+    {
+      "LGJCPENNFBC": 10320987,
+      "AALBNGIAFAK": "({0}+{1}+{2})>0?100:0",
+      "FAJKNDPBLNE": "2:1:10320981;2:1:10320991;2:1:10320992"
+    },
+    {
+      "LGJCPENNFBC": 10320988,
+      "AALBNGIAFAK": "({0}+{1}+{2})>3?200:0",
+      "FAJKNDPBLNE": "2:1:10320981;2:1:10320991;2:1:10320992"
+    },
+    {
+      "LGJCPENNFBC": 10320989,
+      "AALBNGIAFAK": "({0}+{1}+{2})>5?1800:1500",
+      "FAJKNDPBLNE": "2:1:10320981;2:1:10320991;2:1:10320992"
+    },
+    {
+      "LGJCPENNFBC": 51104011,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "1:1:51104011"
+    },
+    {
+      "LGJCPENNFBC": 51104012,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "1:1:51104012"
+    },
+    {
+      "LGJCPENNFBC": 51104013,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104013"
+    },
+    {
+      "LGJCPENNFBC": 51104014,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104014"
+    },
+    {
+      "LGJCPENNFBC": 51104015,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51104015"
+    },
+    {
+      "LGJCPENNFBC": 51104016,
+      "AALBNGIAFAK": "{0}*200",
+      "FAJKNDPBLNE": "1:1:51104016"
+    },
+    {
+      "LGJCPENNFBC": 63443021,
+      "AALBNGIAFAK": "{0}/{1}*300",
+      "PBNOEDBPIJC": "2:physical_shield,0;2:max_physical_shield,0"
+    },
+    {
+      "LGJCPENNFBC": 68555011,
+      "AALBNGIAFAK": "({0}-1)*1000+750",
+      "FAJKNDPBLNE": "2:1:6853502"
+    },
+    {
+      "LGJCPENNFBC": 6000471,
+      "AALBNGIAFAK": "{0}*200",
+      "FAJKNDPBLNE": "2:3:2"
+    },
+    {
+      "LGJCPENNFBC": 6855501,
+      "AALBNGIAFAK": "{0}*300",
+      "FAJKNDPBLNE": "1:1:6855501"
+    },
+    {
+      "LGJCPENNFBC": 10220401,
+      "AALBNGIAFAK": "({0}+{1})*400+1800",
+      "FAJKNDPBLNE": "2:1:10220801;2:1:10220802"
+    },
+    {
+      "LGJCPENNFBC": 10220402,
+      "AALBNGIAFAK": "({0}+{1})*500+1800",
+      "FAJKNDPBLNE": "2:1:10220801;2:1:10220802"
+    },
+    {
+      "LGJCPENNFBC": 51035361,
+      "AALBNGIAFAK": "({0}>2?2:{0})*200",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 68556091,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6855609"
+    },
+    {
+      "LGJCPENNFBC": 101708015,
+      "AALBNGIAFAK": "({0}>3?3:{0})*50",
+      "FAJKNDPBLNE": "1:1:301300"
+    },
+    {
+      "LGJCPENNFBC": 6853401,
+      "AALBNGIAFAK": "{0}*800",
+      "FAJKNDPBLNE": "1:1:6853401"
+    },
+    {
+      "LGJCPENNFBC": 10160101,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "2:3:1"
+    },
+    {
+      "LGJCPENNFBC": 10160511,
+      "AALBNGIAFAK": "{0}*0.8",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10160512,
+      "AALBNGIAFAK": "{0}*0.9",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 51104955,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51104953"
+    },
+    {
+      "LGJCPENNFBC": 68536011,
+      "AALBNGIAFAK": "{0}*150",
+      "FAJKNDPBLNE": "1:1:6853601"
+    },
+    {
+      "LGJCPENNFBC": 103508031,
+      "AALBNGIAFAK": "({0}>20?20:{0})*50",
+      "FAJKNDPBLNE": "1:1:103508031"
+    },
+    {
+      "LGJCPENNFBC": 103508032
+    },
+    {
+      "LGJCPENNFBC": 103707023,
+      "AALBNGIAFAK": "{0}*300",
+      "FAJKNDPBLNE": "2:1:103707023"
+    },
+    {
+      "LGJCPENNFBC": 627959,
+      "AALBNGIAFAK": "3000+{0}*50",
+      "FAJKNDPBLNE": "1:1:627959"
+    },
+    {
+      "LGJCPENNFBC": 10090701,
+      "AALBNGIAFAK": "{0}*2000*{1}+{0}",
+      "PBNOEDBPIJC": "2:hp,1",
+      "FAJKNDPBLNE": "1:1:100907012"
+    },
+    {
+      "LGJCPENNFBC": 10220501,
+      "AALBNGIAFAK": "3+{0}",
+      "FAJKNDPBLNE": "2:1:10220411;2:1:10220412"
+    },
+    {
+      "LGJCPENNFBC": 340202,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:340202"
+    },
+    {
+      "LGJCPENNFBC": 6858401,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:6858401"
+    },
+    {
+      "LGJCPENNFBC": 6858402,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "1:1:6858402"
+    },
+    {
+      "LGJCPENNFBC": 10120401,
+      "AALBNGIAFAK": "100+{0}*1.5",
+      "ILNKNACOFCN": "1"
+    },
+    {
+      "LGJCPENNFBC": 10120402,
+      "AALBNGIAFAK": "100+{0}*2",
+      "ILNKNACOFCN": "1"
+    },
+    {
+      "LGJCPENNFBC": 10240903,
+      "AALBNGIAFAK": "({0}>5?5:{0})*30",
+      "FAJKNDPBLNE": "1:3:1"
+    },
+    {
+      "LGJCPENNFBC": 10400411,
+      "AALBNGIAFAK": "({0}*1.0d/{1}*1000)<(600*1.0d)?({0}*1.0d/{1}*1000):(600*1.0d)",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,1"
+    },
+    {
+      "LGJCPENNFBC": 10400412,
+      "AALBNGIAFAK": "({0}*1.0d/{1}*1000)<(800*1.0d)?({0}*1.0d/{1}*1000):(800*1.0d)",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,1"
+    },
+    {
+      "LGJCPENNFBC": 10400413,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:10400413"
+    },
+    {
+      "LGJCPENNFBC": 336111,
+      "AALBNGIAFAK": "({0}/{1}-1)*200",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 51035341,
+      "AALBNGIAFAK": "({0}>3?3:{0})*100",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 51103114,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103114"
+    },
+    {
+      "LGJCPENNFBC": 10040701,
+      "AALBNGIAFAK": "{0}*700/300",
+      "KFODDMPGHFC": "1:DynamicPreDamage,1"
+    },
+    {
+      "LGJCPENNFBC": 10090401,
+      "AALBNGIAFAK": "100+{0}*1",
+      "ILNKNACOFCN": "1"
+    },
+    {
+      "LGJCPENNFBC": 10090402,
+      "AALBNGIAFAK": "300+{0}*1",
+      "ILNKNACOFCN": "1"
+    },
+    {
+      "LGJCPENNFBC": 51035321,
+      "AALBNGIAFAK": "({0}>4?4:{0})*60",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 51100711,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "2:1:5110070"
+    },
+    {
+      "LGJCPENNFBC": 51100712,
+      "AALBNGIAFAK": "{0}*60",
+      "FAJKNDPBLNE": "2:1:5110070"
+    },
+    {
+      "LGJCPENNFBC": 51100713,
+      "AALBNGIAFAK": "{0}*70",
+      "FAJKNDPBLNE": "2:1:5110070"
+    },
+    {
+      "LGJCPENNFBC": 51100714,
+      "AALBNGIAFAK": "{0}*80",
+      "FAJKNDPBLNE": "2:1:5110070"
+    },
+    {
+      "LGJCPENNFBC": 51100715,
+      "AALBNGIAFAK": "{0}*90",
+      "FAJKNDPBLNE": "2:1:5110070"
+    },
+    {
+      "LGJCPENNFBC": 51100716,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "2:1:5110070"
+    },
+    {
+      "LGJCPENNFBC": 80020102,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "2:1:80020102"
+    },
+    {
+      "LGJCPENNFBC": 80020103,
+      "AALBNGIAFAK": "({0}/2)*{1}",
+      "PBNOEDBPIJC": "2:max_will_value,0",
+      "FAJKNDPBLNE": "1:1:80020102"
+    },
+    {
+      "LGJCPENNFBC": 511037,
+      "AALBNGIAFAK": "{0}/100",
+      "PBNOEDBPIJC": "1:ap,1"
+    },
+    {
+      "LGJCPENNFBC": 100804,
+      "AALBNGIAFAK": "{0}>2?(-2):({0}>0?(-{0}):0)",
+      "PBNOEDBPIJC": "2:suppress_defend,1"
+    },
+    {
+      "LGJCPENNFBC": 5110021,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:5100020"
+    },
+    {
+      "LGJCPENNFBC": 51035331,
+      "AALBNGIAFAK": "({0}>4?4:{0})*70",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 60005803,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "2:1:60005803"
+    },
+    {
+      "LGJCPENNFBC": 230,
+      "AALBNGIAFAK": "{0}*1",
+      "KFODDMPGHFC": "1:Dynamicmakesuppressdamage"
+    },
+    {
+      "LGJCPENNFBC": 310502,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "3:1:310502"
+    },
+    {
+      "LGJCPENNFBC": 5110491,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "2:1:51104915"
+    },
+    {
+      "LGJCPENNFBC": 5110493,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "2:1:51104915"
+    },
+    {
+      "LGJCPENNFBC": 5110495,
+      "AALBNGIAFAK": "{0}*120",
+      "FAJKNDPBLNE": "2:1:51104915"
+    },
+    {
+      "LGJCPENNFBC": 5110496,
+      "AALBNGIAFAK": "{0}*150",
+      "FAJKNDPBLNE": "2:1:51104965"
+    },
+    {
+      "LGJCPENNFBC": 6214411,
+      "AALBNGIAFAK": "1+{0}",
+      "FAJKNDPBLNE": "2:1:6214411"
+    },
+    {
+      "LGJCPENNFBC": 30140901,
+      "AALBNGIAFAK": "{0}/{2}*{1}",
+      "PBNOEDBPIJC": "2:will_value,0;2:potential_gain,0;2:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 68535011,
+      "AALBNGIAFAK": "({0}-1)*1000+500",
+      "FAJKNDPBLNE": "2:1:6853502"
+    },
+    {
+      "LGJCPENNFBC": 100804011,
+      "AALBNGIAFAK": "{0}*100",
+      "PBNOEDBPIJC": "1:potential,1;"
+    },
+    {
+      "LGJCPENNFBC": 321,
+      "AALBNGIAFAK": "{0}*0.4",
+      "PBNOEDBPIJC": "2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 10020801,
+      "AALBNGIAFAK": "100+{0}*0.5",
+      "ILNKNACOFCN": "1"
+    },
+    {
+      "LGJCPENNFBC": 10020802,
+      "AALBNGIAFAK": "50+{0}*0.25",
+      "ILNKNACOFCN": "1"
+    },
+    {
+      "LGJCPENNFBC": 6852601,
+      "AALBNGIAFAK": "{0}*200",
+      "FAJKNDPBLNE": "1:1:6852601"
+    },
+    {
+      "LGJCPENNFBC": 6852602,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:6852602"
+    },
+    {
+      "LGJCPENNFBC": 102108011,
+      "AALBNGIAFAK": "{0}/100",
+      "PBNOEDBPIJC": "1:ap,1"
+    },
+    {
+      "LGJCPENNFBC": 1035070231,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103507023"
+    },
+    {
+      "LGJCPENNFBC": 10050511,
+      "AALBNGIAFAK": "{0}*0.8",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10050512,
+      "AALBNGIAFAK": "{0}*0.9",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10050513,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 1005073201,
+      "AALBNGIAFAK": "{0}*80",
+      "FAJKNDPBLNE": "1:1:10050733"
+    },
+    {
+      "LGJCPENNFBC": 1005073202,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:10050733"
+    },
+    {
+      "LGJCPENNFBC": 51038261,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?150:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 51038262,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?200:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 5110371,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:1:51103711"
+    },
+    {
+      "LGJCPENNFBC": 51103134,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103134"
+    },
+    {
+      "LGJCPENNFBC": 63454030,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:63454030"
+    },
+    {
+      "LGJCPENNFBC": 187,
+      "AALBNGIAFAK": "{0}/2",
+      "PBNOEDBPIJC": "2:potential,1"
+    },
+    {
+      "LGJCPENNFBC": 6247401,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 100101,
+      "AALBNGIAFAK": "50*{0}",
+      "FAJKNDPBLNE": "2:1:10012"
+    },
+    {
+      "LGJCPENNFBC": 6281802,
+      "AALBNGIAFAK": "300+({0}+{1}+{2}+{3}+{4})*200",
+      "FAJKNDPBLNE": "1:1:628180251;1:1:628180261;1:1:628180271;1:1:628180281;1:1:628180291"
+    },
+    {
+      "LGJCPENNFBC": 6900010,
+      "AALBNGIAFAK": "50-{0}",
+      "PBNOEDBPIJC": "2:suppress_value,0"
+    },
+    {
+      "LGJCPENNFBC": 6900011,
+      "AALBNGIAFAK": "800-{0}",
+      "PBNOEDBPIJC": "2:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 6900012,
+      "AALBNGIAFAK": "100-{0}",
+      "PBNOEDBPIJC": "2:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 6900013,
+      "AALBNGIAFAK": "50-{0}",
+      "PBNOEDBPIJC": "2:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 6900014,
+      "AALBNGIAFAK": "220-{0}",
+      "PBNOEDBPIJC": "2:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 6900015,
+      "AALBNGIAFAK": "120-{0}",
+      "PBNOEDBPIJC": "2:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 6900017,
+      "AALBNGIAFAK": "100-{0}",
+      "PBNOEDBPIJC": "2:suppress_value,0"
+    },
+    {
+      "LGJCPENNFBC": 10080402,
+      "AALBNGIAFAK": "{0}>0?1800:1700",
+      "FAJKNDPBLNE": "2:2:301500"
+    },
+    {
+      "LGJCPENNFBC": 10080403,
+      "AALBNGIAFAK": "-({0}*200>1000?1000:({0}*200))",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 51102015,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51102013"
+    },
+    {
+      "LGJCPENNFBC": 168,
+      "AALBNGIAFAK": "{0}*1",
+      "KFODDMPGHFC": "1:Dynamicpostsuppressdamage"
+    },
+    {
+      "LGJCPENNFBC": 351712,
+      "AALBNGIAFAK": "{0}*0.3",
+      "KFODDMPGHFC": "1:Dynamicmakepostdamage"
+    },
+    {
+      "LGJCPENNFBC": 351713,
+      "AALBNGIAFAK": "{0}*0.4",
+      "KFODDMPGHFC": "1:Dynamicmakepostdamage"
+    },
+    {
+      "LGJCPENNFBC": 51038231,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?90:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 51038232,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?140:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 51104935,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51104933"
+    },
+    {
+      "LGJCPENNFBC": 63444011,
+      "AALBNGIAFAK": "{0}*400+800",
+      "FAJKNDPBLNE": "2:1:63444012"
+    },
+    {
+      "LGJCPENNFBC": 301421,
+      "AALBNGIAFAK": "(1-{0}/{1})*800",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 6709201,
+      "AALBNGIAFAK": "{0}*10000+{1}",
+      "NKPCCONBEEJ": "1",
+      "FAJKNDPBLNE": "1:1:67092001"
+    },
+    {
+      "LGJCPENNFBC": 10210801,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:1:10210800"
+    },
+    {
+      "LGJCPENNFBC": 10440701,
+      "AALBNGIAFAK": "400+100*{0}",
+      "FAJKNDPBLNE": "3:3:549755822082"
+    },
+    {
+      "LGJCPENNFBC": 10440702,
+      "AALBNGIAFAK": "30*{0}",
+      "FAJKNDPBLNE": "3:3:549755822082"
+    },
+    {
+      "LGJCPENNFBC": 300002,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:1:300002"
+    },
+    {
+      "LGJCPENNFBC": 300003,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:1:300003"
+    },
+    {
+      "LGJCPENNFBC": 10520502,
+      "AALBNGIAFAK": "600+{0}*50",
+      "FAJKNDPBLNE": "1:2:340600"
+    },
+    {
+      "LGJCPENNFBC": 51103124,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103124"
+    },
+    {
+      "LGJCPENNFBC": 62000401,
+      "AALBNGIAFAK": "{0}*(-25)",
+      "FAJKNDPBLNE": "2:1:620004011"
+    },
+    {
+      "LGJCPENNFBC": 62000402,
+      "AALBNGIAFAK": "{0}*(-50)",
+      "FAJKNDPBLNE": "2:1:620004021"
+    },
+    {
+      "LGJCPENNFBC": 62000403,
+      "AALBNGIAFAK": "{0}*(-100)",
+      "FAJKNDPBLNE": "2:1:620004031"
+    },
+    {
+      "LGJCPENNFBC": 6145102,
+      "AALBNGIAFAK": "({0})<4?({0}):4",
+      "PBNOEDBPIJC": "2:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 6145103,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:6145102"
+    },
+    {
+      "LGJCPENNFBC": 10090801,
+      "AALBNGIAFAK": "{0}*200",
+      "PBNOEDBPIJC": "1:potential,1;"
+    },
+    {
+      "LGJCPENNFBC": 510155,
+      "AALBNGIAFAK": "50*(1+0.1*{0})",
+      "FAJKNDPBLNE": "3:1:10440800"
+    },
+    {
+      "LGJCPENNFBC": 6890501,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:68903011"
+    },
+    {
+      "LGJCPENNFBC": 6890502,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:68905023"
+    },
+    {
+      "LGJCPENNFBC": 102905012,
+      "AALBNGIAFAK": "{0}*50+200",
+      "FAJKNDPBLNE": "2:1:102904034"
+    },
+    {
+      "LGJCPENNFBC": 200103011,
+      "AALBNGIAFAK": "{0}*1.5",
+      "NKPCCONBEEJ": "0:dis"
+    },
+    {
+      "LGJCPENNFBC": 10081,
+      "AALBNGIAFAK": "{0}*2000*{1}+{0}",
+      "PBNOEDBPIJC": "2:hp,1",
+      "FAJKNDPBLNE": "1:1:10083"
+    },
+    {
+      "LGJCPENNFBC": 6282101,
+      "AALBNGIAFAK": "{0}*10000+{1}",
+      "NKPCCONBEEJ": "1",
+      "FAJKNDPBLNE": "1:2:6282300"
+    },
+    {
+      "LGJCPENNFBC": 6412201,
+      "AALBNGIAFAK": "({0}-{0}%3)*1/3",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10010721,
+      "AALBNGIAFAK": "100+({0}-1)*50",
+      "FAJKNDPBLNE": "1:1:10010711"
+    },
+    {
+      "LGJCPENNFBC": 10010722,
+      "AALBNGIAFAK": "100+({0}-1)*75",
+      "FAJKNDPBLNE": "1:1:10010712"
+    },
+    {
+      "LGJCPENNFBC": 10010723,
+      "AALBNGIAFAK": "150+({0}-1)*75",
+      "FAJKNDPBLNE": "1:1:10010713"
+    },
+    {
+      "LGJCPENNFBC": 101707015,
+      "AALBNGIAFAK": "{0}*0.5",
+      "PBNOEDBPIJC": "1:shield_armor,1"
+    },
+    {
+      "LGJCPENNFBC": 330703,
+      "AALBNGIAFAK": "({0}*650)>({1}*600)?({1}*600):({0}*650)",
+      "PBNOEDBPIJC": "1:pow,0;1:max_hp,1"
+    },
+    {
+      "LGJCPENNFBC": 351701,
+      "AALBNGIAFAK": "{0}*1000",
+      "FAJKNDPBLNE": "2:1:3517121"
+    },
+    {
+      "LGJCPENNFBC": 6145401,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:6145402"
+    },
+    {
+      "LGJCPENNFBC": 6145402,
+      "AALBNGIAFAK": "({0}-{1})",
+      "PBNOEDBPIJC": "1:will_value,1;2:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 10070401,
+      "AALBNGIAFAK": "2000+{0}*500+{1}*750+{2}*1000",
+      "FAJKNDPBLNE": "2:1:10070751;2:1:10070752;2:1:10070753"
+    },
+    {
+      "LGJCPENNFBC": 10280902,
+      "AALBNGIAFAK": "{0}*0.03",
+      "PBNOEDBPIJC": "1:max_hp,1",
+      "FAJKNDPBLNE": "2:1:10280903"
+    },
+    {
+      "LGJCPENNFBC": 68556061,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6855606"
+    },
+    {
+      "LGJCPENNFBC": 1000,
+      "AALBNGIAFAK": "{0}+{1}",
+      "GEJIPINBKJI": "0;1"
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "AALBNGIAFAK": "{0}*{1}",
+      "PBNOEDBPIJC": "1:will_value,1",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "AALBNGIAFAK": "{0}",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "AALBNGIAFAK": "{0}",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "AALBNGIAFAK": "{0}",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "AALBNGIAFAK": "{0}",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "AALBNGIAFAK": "{0}",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "AALBNGIAFAK": "{1}*{0}*500",
+      "FAJKNDPBLNE": "2:1:10071",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "AALBNGIAFAK": "{0}",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "AALBNGIAFAK": "{0}",
+      "GEJIPINBKJI": "0"
+    },
+    {
+      "LGJCPENNFBC": 6903601,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:6901302"
+    },
+    {
+      "LGJCPENNFBC": 10060111,
+      "AALBNGIAFAK": "1000+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10060112,
+      "AALBNGIAFAK": "1000+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10060113,
+      "AALBNGIAFAK": "1000+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10240801,
+      "AALBNGIAFAK": "{0}*2000*{1}+{0}",
+      "PBNOEDBPIJC": "2:hp,1",
+      "FAJKNDPBLNE": "1:1:910000017"
+    },
+    {
+      "LGJCPENNFBC": 51038251,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?130:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 51038252,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?180:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 51102065,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51102063"
+    },
+    {
+      "LGJCPENNFBC": 6000321,
+      "AALBNGIAFAK": "(1*1.0d-{0}*1.0d/{1}*1.0d)*1000",
+      "PBNOEDBPIJC": "1:hp,1;1:max_hp,1"
+    },
+    {
+      "LGJCPENNFBC": 301102,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:301102"
+    },
+    {
+      "LGJCPENNFBC": 310602,
+      "AALBNGIAFAK": "{0}*200",
+      "FAJKNDPBLNE": "3:1:310602"
+    },
+    {
+      "LGJCPENNFBC": 10010903,
+      "AALBNGIAFAK": "{0}*40",
+      "FAJKNDPBLNE": "2:1:10010913"
+    },
+    {
+      "LGJCPENNFBC": 61163011,
+      "AALBNGIAFAK": "{0}*300",
+      "PBNOEDBPIJC": "1:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 255,
+      "AALBNGIAFAK": "{0}*1",
+      "KFODDMPGHFC": "1:Dynamicpotentialconsume"
+    },
+    {
+      "LGJCPENNFBC": 258,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:258"
+    },
+    {
+      "LGJCPENNFBC": 6345401,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:6345401"
+    },
+    {
+      "LGJCPENNFBC": 63462011,
+      "AALBNGIAFAK": "{0}*1000+1000",
+      "FAJKNDPBLNE": "1:1:63462011"
+    },
+    {
+      "LGJCPENNFBC": 5101329,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 6166301,
+      "AALBNGIAFAK": "{0}+1",
+      "FAJKNDPBLNE": "2:1:6166304"
+    },
+    {
+      "LGJCPENNFBC": 10050711,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:10050711"
+    },
+    {
+      "LGJCPENNFBC": 10060121,
+      "AALBNGIAFAK": "500+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10060122,
+      "AALBNGIAFAK": "500+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10060123,
+      "AALBNGIAFAK": "750+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 68536161,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6853616"
+    },
+    {
+      "LGJCPENNFBC": 68556291,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6855629"
+    },
+    {
+      "LGJCPENNFBC": 101708025,
+      "AALBNGIAFAK": "({0}>3?3:{0})*50",
+      "FAJKNDPBLNE": "1:1:301300"
+    },
+    {
+      "LGJCPENNFBC": 101708028,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "2:pow,1;"
+    },
+    {
+      "LGJCPENNFBC": 102208026,
+      "AALBNGIAFAK": "({0}>5?5:{0})*30",
+      "FAJKNDPBLNE": "1:3:1"
+    },
+    {
+      "LGJCPENNFBC": 5110201,
+      "AALBNGIAFAK": "{0}*80",
+      "FAJKNDPBLNE": "2:1:51102015"
+    },
+    {
+      "LGJCPENNFBC": 5110202,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "2:1:51102025"
+    },
+    {
+      "LGJCPENNFBC": 5110203,
+      "AALBNGIAFAK": "{0}*130",
+      "FAJKNDPBLNE": "2:1:51102035"
+    },
+    {
+      "LGJCPENNFBC": 5110204,
+      "AALBNGIAFAK": "{0}*150",
+      "FAJKNDPBLNE": "2:1:51102045"
+    },
+    {
+      "LGJCPENNFBC": 5110205,
+      "AALBNGIAFAK": "{0}*180",
+      "FAJKNDPBLNE": "2:1:51102055"
+    },
+    {
+      "LGJCPENNFBC": 5110206,
+      "AALBNGIAFAK": "{0}*200",
+      "FAJKNDPBLNE": "2:1:51102065"
+    },
+    {
+      "LGJCPENNFBC": 10180411,
+      "AALBNGIAFAK": "{0}*0.8",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10180412,
+      "AALBNGIAFAK": "{0}*0.9",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10180413,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 68556161,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6855616"
+    },
+    {
+      "LGJCPENNFBC": 102405112,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:3:1"
+    },
+    {
+      "LGJCPENNFBC": 51080,
+      "AALBNGIAFAK": "300*{0}+300",
+      "FAJKNDPBLNE": "1:1:910000002"
+    },
+    {
+      "LGJCPENNFBC": 51081,
+      "AALBNGIAFAK": "600*{0}+600",
+      "FAJKNDPBLNE": "1:1:910000002"
+    },
+    {
+      "LGJCPENNFBC": 10520901,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 103608015,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "3:3:8193"
+    },
+    {
+      "LGJCPENNFBC": 336131,
+      "AALBNGIAFAK": "({0}/{1}-1)*400",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 510512,
+      "AALBNGIAFAK": "{0}+1",
+      "FAJKNDPBLNE": "2:1:510512"
+    },
+    {
+      "LGJCPENNFBC": 6900108,
+      "AALBNGIAFAK": "180-{0}",
+      "PBNOEDBPIJC": "2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 10290401,
+      "AALBNGIAFAK": "{0}*15*F2",
+      "PBNOEDBPIJC": "1:shield_armor,1;"
+    },
+    {
+      "LGJCPENNFBC": 10290402,
+      "AALBNGIAFAK": "{0}*25*F2",
+      "PBNOEDBPIJC": "1:shield_armor,1;"
+    },
+    {
+      "LGJCPENNFBC": 10290403,
+      "AALBNGIAFAK": "{0}*25*F2",
+      "PBNOEDBPIJC": "1:shield_armor,1;"
+    },
+    {
+      "LGJCPENNFBC": 940001001,
+      "AALBNGIAFAK": "400/{0}*100",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 310452,
+      "AALBNGIAFAK": "200*(1+0.1*{0})",
+      "FAJKNDPBLNE": "3:1:10440800"
+    },
+    {
+      "LGJCPENNFBC": 511031251,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103115"
+    },
+    {
+      "LGJCPENNFBC": 51104965,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51104963"
+    },
+    {
+      "LGJCPENNFBC": 63412011,
+      "AALBNGIAFAK": "{0}*1000+1000",
+      "FAJKNDPBLNE": "1:1:63412011"
+    },
+    {
+      "LGJCPENNFBC": 104008021,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "1:pow,1"
+    },
+    {
+      "LGJCPENNFBC": 104008022,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "3:1:104008022"
+    },
+    {
+      "LGJCPENNFBC": 104008023,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "2:pow,1"
+    },
+    {
+      "LGJCPENNFBC": 104008024,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "3:1:104008024"
+    },
+    {
+      "LGJCPENNFBC": 62791,
+      "AALBNGIAFAK": "99999000/{0}",
+      "PBNOEDBPIJC": "1:pow,1;"
+    },
+    {
+      "LGJCPENNFBC": 6900112,
+      "AALBNGIAFAK": "(99-{0})/{0}*1000",
+      "PBNOEDBPIJC": "2:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 6900113,
+      "AALBNGIAFAK": "(60-{0})/{0}*1000",
+      "PBNOEDBPIJC": "2:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 6952201,
+      "AALBNGIAFAK": "800+({0}-1)*200",
+      "FAJKNDPBLNE": "2:1:6952202"
+    },
+    {
+      "LGJCPENNFBC": 102408011,
+      "AALBNGIAFAK": "{0}>3?600:({0}*50+450)",
+      "FAJKNDPBLNE": "2:3:1"
+    },
+    {
+      "LGJCPENNFBC": 102408015,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "1:3:1"
+    },
+    {
+      "LGJCPENNFBC": 336121,
+      "AALBNGIAFAK": "({0}/{1}-1)*300",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 6279601,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6279602"
+    },
+    {
+      "LGJCPENNFBC": 6971801,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "2:hp,0"
+    },
+    {
+      "LGJCPENNFBC": 6971806,
+      "AALBNGIAFAK": "{0}*0.6",
+      "PBNOEDBPIJC": "2:hp,0"
+    },
+    {
+      "LGJCPENNFBC": 6279532,
+      "AALBNGIAFAK": "{0}*1",
+      "PBNOEDBPIJC": "1:max_will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 33201,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "1:1:33201"
+    },
+    {
+      "LGJCPENNFBC": 33206,
+      "AALBNGIAFAK": "{0}*4",
+      "FAJKNDPBLNE": "1:1:33206"
+    },
+    {
+      "LGJCPENNFBC": 51015,
+      "AALBNGIAFAK": "300*(1+0.1*{0})",
+      "FAJKNDPBLNE": "3:1:10440800"
+    },
+    {
+      "LGJCPENNFBC": 6116301,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:1:6116201"
+    },
+    {
+      "LGJCPENNFBC": 223,
+      "AALBNGIAFAK": "{0}*{1}",
+      "PBNOEDBPIJC": "1:shield_armor,1;",
+      "FAJKNDPBLNE": "3:1:223"
+    },
+    {
+      "LGJCPENNFBC": 224,
+      "AALBNGIAFAK": "{0}*{1}",
+      "PBNOEDBPIJC": "1:shield_armor,1;",
+      "FAJKNDPBLNE": "3:1:224"
+    },
+    {
+      "LGJCPENNFBC": 301111,
+      "AALBNGIAFAK": "({0}/{1})*100",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 6963401,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "2:max_hp,1"
+    },
+    {
+      "LGJCPENNFBC": 10380801,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103808013"
+    },
+    {
+      "LGJCPENNFBC": 10410701,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "1:max_potential,1"
+    },
+    {
+      "LGJCPENNFBC": 68556191,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6855619"
+    },
+    {
+      "LGJCPENNFBC": 99991,
+      "AALBNGIAFAK": "{0}*1",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10290501,
+      "AALBNGIAFAK": "{0}*2",
+      "FAJKNDPBLNE": "2:1:102905014"
+    },
+    {
+      "LGJCPENNFBC": 10290502,
+      "AALBNGIAFAK": "({0}>1?{0}:3)*2",
+      "FAJKNDPBLNE": "2:1:102905024"
+    },
+    {
+      "LGJCPENNFBC": 10320903,
+      "AALBNGIAFAK": "{0}>900?({0}-900):0",
+      "PBNOEDBPIJC": "1:max_ap,1"
+    },
+    {
+      "LGJCPENNFBC": 10320904,
+      "AALBNGIAFAK": "({0}-900)/100",
+      "PBNOEDBPIJC": "1:max_ap,1"
+    },
+    {
+      "LGJCPENNFBC": 10320905,
+      "AALBNGIAFAK": "({0}-900)>0?({0}-900):0",
+      "PBNOEDBPIJC": "1:max_ap,1"
+    },
+    {
+      "LGJCPENNFBC": 10350801,
+      "AALBNGIAFAK": "{0}+1",
+      "FAJKNDPBLNE": "2:1:103508011"
+    },
+    {
+      "LGJCPENNFBC": 10350803,
+      "AALBNGIAFAK": "{0}+2",
+      "FAJKNDPBLNE": "2:1:103508011"
+    },
+    {
+      "LGJCPENNFBC": 10450701,
+      "AALBNGIAFAK": "1300+{0}*50",
+      "FAJKNDPBLNE": "2:1:104507131"
+    },
+    {
+      "LGJCPENNFBC": 10450702,
+      "AALBNGIAFAK": "1300+{0}*80",
+      "FAJKNDPBLNE": "2:1:104507131"
+    },
+    {
+      "LGJCPENNFBC": 51040312,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51040312"
+    },
+    {
+      "LGJCPENNFBC": 51103861,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103861"
+    },
+    {
+      "LGJCPENNFBC": 6705302,
+      "AALBNGIAFAK": "{0}*(-30)",
+      "PBNOEDBPIJC": "1:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 10440800,
+      "AALBNGIAFAK": "{0}-6",
+      "FAJKNDPBLNE": "2:1:104408001"
+    },
+    {
+      "LGJCPENNFBC": 10440801,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "1:potential,1"
+    },
+    {
+      "LGJCPENNFBC": 51103831,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103831"
+    },
+    {
+      "LGJCPENNFBC": 63182011,
+      "AALBNGIAFAK": "{0}*500+1000",
+      "FAJKNDPBLNE": "2:1:63182012"
+    },
+    {
+      "LGJCPENNFBC": 10401405,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:10401445"
+    },
+    {
+      "LGJCPENNFBC": 6311313,
+      "AALBNGIAFAK": "0-{0}*50",
+      "PBNOEDBPIJC": "1:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 65043300,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "1:1:6504201"
+    },
+    {
+      "LGJCPENNFBC": 101708035,
+      "AALBNGIAFAK": "({0}>3?3:{0})*50",
+      "FAJKNDPBLNE": "1:1:301300"
+    },
+    {
+      "LGJCPENNFBC": 6279301,
+      "AALBNGIAFAK": "2+{0}+{1}",
+      "FAJKNDPBLNE": "2:1:627930;2:1:627960"
+    },
+    {
+      "LGJCPENNFBC": 6279302,
+      "AALBNGIAFAK": "{0}*1",
+      "KFODDMPGHFC": "2:Dynamicpostsuppressdamage"
+    },
+    {
+      "LGJCPENNFBC": 6279303,
+      "AALBNGIAFAK": "{0}*1000+{1}",
+      "FAJKNDPBLNE": "1:1:627931;1:1:6279611"
+    },
+    {
+      "LGJCPENNFBC": 6900208,
+      "AALBNGIAFAK": "250-{0}",
+      "PBNOEDBPIJC": "2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 10030721,
+      "AALBNGIAFAK": "{0}*0.25",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 10060141,
+      "AALBNGIAFAK": "4000+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10060142,
+      "AALBNGIAFAK": "4000+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10060143,
+      "AALBNGIAFAK": "4000+{0}*0.5",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10380902,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103809022"
+    },
+    {
+      "LGJCPENNFBC": 51035311,
+      "AALBNGIAFAK": "({0}>4?4:{0})*50",
+      "FAJKNDPBLNE": "1:3:2"
+    },
+    {
+      "LGJCPENNFBC": 51103154,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103154"
+    },
+    {
+      "LGJCPENNFBC": 68556261,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6855626"
+    },
+    {
+      "LGJCPENNFBC": 301131,
+      "AALBNGIAFAK": "({0}/{1})*300",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 511031221,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103112"
+    },
+    {
+      "LGJCPENNFBC": 62105054,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "1:1:62105054"
+    },
+    {
+      "LGJCPENNFBC": 102209031,
+      "AALBNGIAFAK": "({0}>5?5:{0}",
+      "FAJKNDPBLNE": "1:3:1"
+    },
+    {
+      "LGJCPENNFBC": 10450401,
+      "AALBNGIAFAK": "1600+{0}*50",
+      "FAJKNDPBLNE": "2:1:104507131"
+    },
+    {
+      "LGJCPENNFBC": 10450403,
+      "AALBNGIAFAK": "1600+{0}*100",
+      "FAJKNDPBLNE": "2:1:104507131"
+    },
+    {
+      "LGJCPENNFBC": 10400421,
+      "AALBNGIAFAK": "{0}>2?2:{0}",
+      "FAJKNDPBLNE": "2:3:1"
+    },
+    {
+      "LGJCPENNFBC": 10400422,
+      "AALBNGIAFAK": "({0}+{1})>3?3:({0}+{1})",
+      "FAJKNDPBLNE": "2:3:1;2:1:10400803"
+    },
+    {
+      "LGJCPENNFBC": 51038221,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?70:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 51038222,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?120:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 102408021,
+      "AALBNGIAFAK": "{0}>3?750:({0}*100+450)",
+      "FAJKNDPBLNE": "2:3:1"
+    },
+    {
+      "LGJCPENNFBC": 511031231,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103113"
+    },
+    {
+      "LGJCPENNFBC": 6169501,
+      "AALBNGIAFAK": "{0}*200",
+      "PBNOEDBPIJC": "1:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 10130501,
+      "AALBNGIAFAK": "{0}*80",
+      "PBNOEDBPIJC": "1:potential,1;"
+    },
+    {
+      "LGJCPENNFBC": 10130502,
+      "AALBNGIAFAK": "{0}*120",
+      "PBNOEDBPIJC": "1:potential,1;"
+    },
+    {
+      "LGJCPENNFBC": 10500502,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:105005023"
+    },
+    {
+      "LGJCPENNFBC": 51038241,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?110:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 51038242,
+      "AALBNGIAFAK": "({0}-{1}*100)>300?160:0",
+      "PBNOEDBPIJC": "1:max_ap,1",
+      "FAJKNDPBLNE": "2:1:5103821"
+    },
+    {
+      "LGJCPENNFBC": 6705201,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "2:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 6171401,
+      "AALBNGIAFAK": "{0}/2*50-{0}%2*25",
+      "FAJKNDPBLNE": "2:1:6171401"
+    },
+    {
+      "LGJCPENNFBC": 6171403,
+      "AALBNGIAFAK": "{0}*0.1",
+      "PBNOEDBPIJC": "1:max_will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 20530013,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "2:1:205300131"
+    },
+    {
+      "LGJCPENNFBC": 51103841,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103841"
+    },
+    {
+      "LGJCPENNFBC": 6000120,
+      "AALBNGIAFAK": "{0}*1",
+      "KFODDMPGHFC": "1:Dynamicmakesuppressdamage"
+    },
+    {
+      "LGJCPENNFBC": 10450501,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "2:1:104505012"
+    },
+    {
+      "LGJCPENNFBC": 10520403,
+      "AALBNGIAFAK": "{0}>0?100:0",
+      "PBNOEDBPIJC": "2:max_ap,1"
+    },
+    {
+      "LGJCPENNFBC": 6000200,
+      "AALBNGIAFAK": "{0}*1",
+      "KFODDMPGHFC": "1:Dynamicmakesuppressdamage"
+    },
+    {
+      "LGJCPENNFBC": 6914605,
+      "AALBNGIAFAK": "0-{0}*20",
+      "PBNOEDBPIJC": "1:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 10050411,
+      "AALBNGIAFAK": "{0}*0.8",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10050412,
+      "AALBNGIAFAK": "{0}*0.9",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10050413,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10220101,
+      "AALBNGIAFAK": "2+{0}",
+      "FAJKNDPBLNE": "2:1:10220411;2:1:10220412"
+    },
+    {
+      "LGJCPENNFBC": 91000001,
+      "AALBNGIAFAK": "{0}*300",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 91000002,
+      "AALBNGIAFAK": "9998*1000/{0}",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 6443301,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "1:1:6443202"
+    },
+    {
+      "LGJCPENNFBC": 6859602,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:6858402"
+    },
+    {
+      "LGJCPENNFBC": 6859603,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:6859602"
+    },
+    {
+      "LGJCPENNFBC": 10220411,
+      "AALBNGIAFAK": "300*{0}",
+      "FAJKNDPBLNE": "1:1:10220411"
+    },
+    {
+      "LGJCPENNFBC": 10220412,
+      "AALBNGIAFAK": "300*{0}",
+      "FAJKNDPBLNE": "1:1:10220412"
+    },
+    {
+      "LGJCPENNFBC": 10401821,
+      "AALBNGIAFAK": "{0}",
+      "PBNOEDBPIJC": "1:max_will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 51105214,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51105212"
+    },
+    {
+      "LGJCPENNFBC": 68536061,
+      "AALBNGIAFAK": "{0}*500",
+      "FAJKNDPBLNE": "1:1:6853606"
+    },
+    {
+      "LGJCPENNFBC": 6000360,
+      "AALBNGIAFAK": "({0}*1.0d/{1})*1000",
+      "PBNOEDBPIJC": "2:will_value,1;2:max_will_value,0;"
+    },
+    {
+      "LGJCPENNFBC": 10030101,
+      "AALBNGIAFAK": "{0}*30",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 10030901,
+      "AALBNGIAFAK": "{0}*0.3",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 10030902,
+      "AALBNGIAFAK": "{0}*0.5",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 10290902,
+      "AALBNGIAFAK": "{0}*15*F2",
+      "PBNOEDBPIJC": "1:pow,1;"
+    },
+    {
+      "LGJCPENNFBC": 10290903,
+      "AALBNGIAFAK": "{0}*2",
+      "FAJKNDPBLNE": "2:1:102909031"
+    },
+    {
+      "LGJCPENNFBC": 10330402,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "2:1:103304022"
+    },
+    {
+      "LGJCPENNFBC": 10330403,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103304024"
+    },
+    {
+      "LGJCPENNFBC": 6859401,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:6859401"
+    },
+    {
+      "LGJCPENNFBC": 5105231,
+      "AALBNGIAFAK": "{0}*10",
+      "FAJKNDPBLNE": "2:1:51052311"
+    },
+    {
+      "LGJCPENNFBC": 5105232,
+      "AALBNGIAFAK": "{0}*12",
+      "FAJKNDPBLNE": "2:1:51052321"
+    },
+    {
+      "LGJCPENNFBC": 5105233,
+      "AALBNGIAFAK": "{0}*14",
+      "FAJKNDPBLNE": "2:1:51052331"
+    },
+    {
+      "LGJCPENNFBC": 5105234,
+      "AALBNGIAFAK": "{0}*16",
+      "FAJKNDPBLNE": "2:1:51052341"
+    },
+    {
+      "LGJCPENNFBC": 5105235,
+      "AALBNGIAFAK": "{0}*18",
+      "FAJKNDPBLNE": "2:1:51052351"
+    },
+    {
+      "LGJCPENNFBC": 5105236,
+      "AALBNGIAFAK": "{0}*20",
+      "FAJKNDPBLNE": "2:1:51052361"
+    },
+    {
+      "LGJCPENNFBC": 103907012,
+      "AALBNGIAFAK": "{0}*0.3*{1}",
+      "PBNOEDBPIJC": "1:shield_armor,0",
+      "FAJKNDPBLNE": "3:1:103907012"
+    },
+    {
+      "LGJCPENNFBC": 103907014,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:103907013"
+    },
+    {
+      "LGJCPENNFBC": 511031211,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103111"
+    },
+    {
+      "LGJCPENNFBC": 330803,
+      "AALBNGIAFAK": "({0}*800)>({1}*800)?({1}*800):({0}*800)",
+      "PBNOEDBPIJC": "1:pow,0;1:max_hp,1"
+    },
+    {
+      "LGJCPENNFBC": 6281502,
+      "AALBNGIAFAK": "500+700*{0}",
+      "FAJKNDPBLNE": "2:1:6281503"
+    },
+    {
+      "LGJCPENNFBC": 10050801,
+      "AALBNGIAFAK": "150+{0}*150",
+      "FAJKNDPBLNE": "1:1:10050701"
+    },
+    {
+      "LGJCPENNFBC": 10050802,
+      "AALBNGIAFAK": "300+{0}*300",
+      "FAJKNDPBLNE": "1:1:10050702"
+    },
+    {
+      "LGJCPENNFBC": 10220701,
+      "AALBNGIAFAK": "4+{0}",
+      "FAJKNDPBLNE": "2:1:10220411;2:1:10220412"
+    },
+    {
+      "LGJCPENNFBC": 611020115,
+      "AALBNGIAFAK": "({1}-{0})/{1}*1000",
+      "PBNOEDBPIJC": "2:will_value,1;2:max_will_value,0"
+    },
+    {
+      "LGJCPENNFBC": 340402,
+      "AALBNGIAFAK": "{0}*300",
+      "FAJKNDPBLNE": "1:1:340402"
+    },
+    {
+      "LGJCPENNFBC": 330721,
+      "AALBNGIAFAK": "{0}*1300",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 330722,
+      "AALBNGIAFAK": "{0}*1000",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 330724,
+      "AALBNGIAFAK": "{0}*600",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 330725,
+      "AALBNGIAFAK": "{0}*1000",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 6871811,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:6871811"
+    },
+    {
+      "LGJCPENNFBC": 64122201,
+      "AALBNGIAFAK": "({0}-{0}%2)*1/2",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 101704025,
+      "AALBNGIAFAK": "{0}*10",
+      "FAJKNDPBLNE": "1:1:10170402"
+    },
+    {
+      "LGJCPENNFBC": 310402,
+      "AALBNGIAFAK": "100*(1+0.1*{0})",
+      "FAJKNDPBLNE": "3:1:10440800"
+    },
+    {
+      "LGJCPENNFBC": 6311303,
+      "AALBNGIAFAK": "{0}*50",
+      "PBNOEDBPIJC": "1:will_value,1"
+    },
+    {
+      "LGJCPENNFBC": 6334201,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "1:1:63342011"
+    },
+    {
+      "LGJCPENNFBC": 10280401,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:10280401"
+    },
+    {
+      "LGJCPENNFBC": 10280402,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:10280402"
+    },
+    {
+      "LGJCPENNFBC": 10280403,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "2:1:10280403"
+    },
+    {
+      "LGJCPENNFBC": 6145201,
+      "AALBNGIAFAK": "{0}",
+      "KFODDMPGHFC": "1:Dynamicpostsuppressdamage"
+    },
+    {
+      "LGJCPENNFBC": 51102045,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51102043"
+    },
+    {
+      "LGJCPENNFBC": 62001201,
+      "AALBNGIAFAK": "{0}*(-25)",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 62001202,
+      "AALBNGIAFAK": "{0}*(-50)",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 62001203,
+      "AALBNGIAFAK": "{0}*(-100)",
+      "NKPCCONBEEJ": "1"
+    },
+    {
+      "LGJCPENNFBC": 102508014,
+      "AALBNGIAFAK": "{0}/2",
+      "PBNOEDBPIJC": "1:potential,1"
+    },
+    {
+      "LGJCPENNFBC": 10180511,
+      "AALBNGIAFAK": "{0}*0.8",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10180512,
+      "AALBNGIAFAK": "{0}*0.9",
+      "PBNOEDBPIJC": "1:max_ap,0"
+    },
+    {
+      "LGJCPENNFBC": 10030999,
+      "AALBNGIAFAK": "{0}*1",
+      "PBNOEDBPIJC": "1:pow,0"
+    },
+    {
+      "LGJCPENNFBC": 20540013,
+      "AALBNGIAFAK": "{0}*150",
+      "FAJKNDPBLNE": "2:1:205400131"
+    },
+    {
+      "LGJCPENNFBC": 51104915,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51104913"
+    },
+    {
+      "LGJCPENNFBC": 5110231,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "1:1:51102312"
+    },
+    {
+      "LGJCPENNFBC": 5110232,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "1:1:51102322"
+    },
+    {
+      "LGJCPENNFBC": 5110233,
+      "AALBNGIAFAK": "{0}*50",
+      "FAJKNDPBLNE": "1:1:51102332"
+    },
+    {
+      "LGJCPENNFBC": 5110234,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51102342"
+    },
+    {
+      "LGJCPENNFBC": 5110235,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51102352"
+    },
+    {
+      "LGJCPENNFBC": 5110236,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:51102362"
+    },
+    {
+      "LGJCPENNFBC": 340302,
+      "AALBNGIAFAK": "{0}*200",
+      "FAJKNDPBLNE": "1:1:340302"
+    },
+    {
+      "LGJCPENNFBC": 51102025,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51102023"
+    },
+    {
+      "LGJCPENNFBC": 51103821,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103821"
+    },
+    {
+      "LGJCPENNFBC": 51103851,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103851"
+    },
+    {
+      "LGJCPENNFBC": 51105201,
+      "AALBNGIAFAK": "({0}-{1})<0?100:0",
+      "FAJKNDPBLNE": "2:1:51105212;2:1:51105215"
+    },
+    {
+      "LGJCPENNFBC": 51105202,
+      "AALBNGIAFAK": "({0}-{1})<0?120:0",
+      "FAJKNDPBLNE": "2:1:51105212;2:1:51105215"
+    },
+    {
+      "LGJCPENNFBC": 51105203,
+      "AALBNGIAFAK": "({0}-{1})<0?140:0",
+      "FAJKNDPBLNE": "2:1:51105212;2:1:51105215"
+    },
+    {
+      "LGJCPENNFBC": 51105204,
+      "AALBNGIAFAK": "({0}-{1})<0?160:0",
+      "FAJKNDPBLNE": "2:1:51105212;2:1:51105215"
+    },
+    {
+      "LGJCPENNFBC": 51105205,
+      "AALBNGIAFAK": "({0}-{1})<0?180:0",
+      "FAJKNDPBLNE": "2:1:51105212;2:1:51105215"
+    },
+    {
+      "LGJCPENNFBC": 51105206,
+      "AALBNGIAFAK": "({0}-{1})<0?200:0",
+      "FAJKNDPBLNE": "2:1:51105212;2:1:51105215"
+    },
+    {
+      "LGJCPENNFBC": 69360256,
+      "AALBNGIAFAK": "100*{0}",
+      "FAJKNDPBLNE": "2:1:69360256"
+    },
+    {
+      "LGJCPENNFBC": 511031261,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "2:1:51103116"
+    },
+    {
+      "LGJCPENNFBC": 301431,
+      "AALBNGIAFAK": "(1-{0}/{1})*1200",
+      "PBNOEDBPIJC": "2:hp,1;2:max_hp,0"
+    },
+    {
+      "LGJCPENNFBC": 61151201,
+      "AALBNGIAFAK": "{0}*1",
+      "FAJKNDPBLNE": "1:1:6115220"
+    },
+    {
+      "LGJCPENNFBC": 103404031,
+      "AALBNGIAFAK": "{0}*200",
+      "FAJKNDPBLNE": "2:1:103404031"
+    },
+    {
+      "LGJCPENNFBC": 1005072201,
+      "AALBNGIAFAK": "{0}*60",
+      "FAJKNDPBLNE": "1:1:10050723"
+    },
+    {
+      "LGJCPENNFBC": 1005072202,
+      "AALBNGIAFAK": "{0}*100",
+      "FAJKNDPBLNE": "1:1:10050723"
+    },
+    {
+      "LGJCPENNFBC": 1039080315,
+      "AALBNGIAFAK": "{0}",
+      "FAJKNDPBLNE": "3:1:1039080313"
+    },
+    {
+      "LGJCPENNFBC": 10080802,
+      "AALBNGIAFAK": "{0}*10000+{1}",
+      "NKPCCONBEEJ": "1",
+      "FAJKNDPBLNE": "1:2:10080800"
+    }
+  ]
+}

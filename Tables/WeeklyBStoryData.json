@@ -1,0 +1,494 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 171,
+      "PKCFEDDNIIO": 72701,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72401006
+      ],
+      "GDJEAJBLIJM": [
+        6901905,
+        6901302
+      ],
+      "ENGMBAPFMFD": [
+        8,
+        12
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 172,
+      "PKCFEDDNIIO": 72702,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72502007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 181,
+      "PKCFEDDNIIO": 72802,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72602007
+      ],
+      "GDJEAJBLIJM": [
+        6902900,
+        6902501
+      ],
+      "ENGMBAPFMFD": [
+        2,
+        8
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 182,
+      "PKCFEDDNIIO": 72803,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72503002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 211,
+      "PKCFEDDNIIO": 72901,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72901006
+      ],
+      "GDJEAJBLIJM": [
+        6901905,
+        6901302
+      ],
+      "ENGMBAPFMFD": [
+        8,
+        12
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 212,
+      "PKCFEDDNIIO": 72902,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72902007
+      ],
+      "GDJEAJBLIJM": [
+        6901905,
+        6901302,
+        6902900,
+        6902501
+      ],
+      "ENGMBAPFMFD": [
+        8,
+        12,
+        2,
+        8
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 213,
+      "PKCFEDDNIIO": 72903,
+      "DCCAOGJMNMH": 3,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72903002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 241,
+      "PKCFEDDNIIO": 72931,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72911001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 242,
+      "PKCFEDDNIIO": 72932,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72912002,
+        72912003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 243,
+      "PKCFEDDNIIO": 72933,
+      "DCCAOGJMNMH": 3,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72913002,
+        72913003,
+        72913004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "PKCFEDDNIIO": 72101,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72102006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 131,
+      "PKCFEDDNIIO": 72301,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72104006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 161,
+      "PKCFEDDNIIO": 72601,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72301006
+      ],
+      "GDJEAJBLIJM": [
+        6901905,
+        6901302
+      ],
+      "ENGMBAPFMFD": [
+        8,
+        12
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 162,
+      "PKCFEDDNIIO": 72602,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72402007
+      ]
+    },
+    {
+      "LGJCPENNFBC": 221,
+      "PKCFEDDNIIO": 72911,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72911001
+      ],
+      "GDJEAJBLIJM": [
+        69310151,
+        69310156
+      ],
+      "ENGMBAPFMFD": [
+        3,
+        10
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 222,
+      "PKCFEDDNIIO": 72912,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72912002,
+        72912003
+      ],
+      "GDJEAJBLIJM": [
+        69310151,
+        69310156,
+        69360251,
+        69360256
+      ],
+      "ENGMBAPFMFD": [
+        3,
+        10,
+        2,
+        10
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 223,
+      "PKCFEDDNIIO": 72913,
+      "DCCAOGJMNMH": 3,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72913002,
+        72913003,
+        72913004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "PKCFEDDNIIO": 72911,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72911001
+      ],
+      "GDJEAJBLIJM": [
+        69310151,
+        69310156
+      ],
+      "ENGMBAPFMFD": [
+        3,
+        10
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "PKCFEDDNIIO": 72912,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72912002,
+        72912003
+      ],
+      "GDJEAJBLIJM": [
+        69310151,
+        69310156,
+        69360251,
+        69360256
+      ],
+      "ENGMBAPFMFD": [
+        3,
+        10,
+        2,
+        10
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "PKCFEDDNIIO": 72913,
+      "DCCAOGJMNMH": 3,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72913002,
+        72913003,
+        72913004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 231,
+      "PKCFEDDNIIO": 72921,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72911001
+      ],
+      "GDJEAJBLIJM": [
+        69715022,
+        69715021
+      ],
+      "ENGMBAPFMFD": [
+        4,
+        4
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 232,
+      "PKCFEDDNIIO": 72922,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72912002,
+        72912003
+      ],
+      "GDJEAJBLIJM": [
+        69715022,
+        69715021,
+        6976905,
+        6976902
+      ],
+      "ENGMBAPFMFD": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 233,
+      "PKCFEDDNIIO": 72923,
+      "DCCAOGJMNMH": 3,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72913002,
+        72913003,
+        72913004
+      ]
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "PKCFEDDNIIO": 72201,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72103006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 151,
+      "PKCFEDDNIIO": 72501,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72201006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1091,
+      "PKCFEDDNIIO": 72804,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72804001
+      ],
+      "GDJEAJBLIJM": [
+        69340151,
+        69340156
+      ],
+      "ENGMBAPFMFD": [
+        3,
+        99
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1092,
+      "PKCFEDDNIIO": 72805,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72805002,
+        72805003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 141,
+      "PKCFEDDNIIO": 72401,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72105006
+      ]
+    },
+    {
+      "LGJCPENNFBC": 191,
+      "PKCFEDDNIIO": 72901,
+      "DCCAOGJMNMH": 1,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72901006
+      ],
+      "GDJEAJBLIJM": [
+        6901905,
+        6901302
+      ],
+      "ENGMBAPFMFD": [
+        8,
+        12
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 192,
+      "PKCFEDDNIIO": 72902,
+      "DCCAOGJMNMH": 2,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72902007
+      ],
+      "GDJEAJBLIJM": [
+        6901905,
+        6901302,
+        6902900,
+        6902501
+      ],
+      "ENGMBAPFMFD": [
+        8,
+        12,
+        2,
+        8
+      ],
+      "PKMENHKMAGK": [
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 193,
+      "PKCFEDDNIIO": 72903,
+      "DCCAOGJMNMH": 3,
+      "HBBGOFKOOJM": 1,
+      "MDFPMEMEKBP": [
+        72903002
+      ]
+    }
+  ]
+}

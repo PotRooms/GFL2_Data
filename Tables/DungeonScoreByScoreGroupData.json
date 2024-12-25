@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "ALDMDPDKCHK": 2001,
+      "LGJCPENNFBC": [
+        1,
+        2
+      ]
+    },
+    {
+      "ALDMDPDKCHK": 2002,
+      "LGJCPENNFBC": [
+        3,
+        4
+      ]
+    },
+    {
+      "ALDMDPDKCHK": 2003,
+      "LGJCPENNFBC": [
+        5,
+        6
+      ]
+    }
+  ]
+}

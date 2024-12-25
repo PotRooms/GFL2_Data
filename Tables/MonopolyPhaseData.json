@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BPIIBICAFCF": [
+        101,
+        102
+      ],
+      "CJENONHBCJH": {
+        "DOHLNDIPHAJ": "3115"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BPIIBICAFCF": [
+        201
+      ],
+      "CJENONHBCJH": {
+        "DOHLNDIPHAJ": "4941"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BPIIBICAFCF": [
+        301
+      ],
+      "CJENONHBCJH": {
+        "DOHLNDIPHAJ": "4942"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10201,
+      "BPIIBICAFCF": [
+        102011,
+        102012,
+        102013
+      ],
+      "CJENONHBCJH": {
+        "DOHLNDIPHAJ": "5028"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10202,
+      "BPIIBICAFCF": [
+        102021,
+        102022,
+        102023
+      ],
+      "CJENONHBCJH": {
+        "DOHLNDIPHAJ": "5029"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10203,
+      "BPIIBICAFCF": [
+        102031,
+        102032,
+        102033,
+        102034
+      ],
+      "CJENONHBCJH": {
+        "DOHLNDIPHAJ": "5030"
+      }
+    }
+  ]
+}

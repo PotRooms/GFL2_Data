@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 654201,
+      "ALKLPCDOOHM": "Children/Transform_child_01/Bolidao_PhantomCannon_Poison",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 654202,
+      "ALKLPCDOOHM": "Children/Transform_child_02/Bolidao_PhantomCannon_Water",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 693101,
+      "ALKLPCDOOHM": "Children/Transform_child_01/MISC_deepWarshipCannon_y02",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 693102,
+      "ALKLPCDOOHM": "Children/Transform_child_02/MISC_deepWarshipCannon_y03",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 693103,
+      "ALKLPCDOOHM": "Children/Transform_child_03/MISC_deepWarshipCannon_y06",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 693601,
+      "ALKLPCDOOHM": "Children/Transform_child_01/MISC_deepWarshipCannon_y01",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 693602,
+      "ALKLPCDOOHM": "Children/Transform_child_02/MISC_deepWarshipCannon_y10",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 693603,
+      "ALKLPCDOOHM": "Children/Transform_child_03/MISC_deepWarshipCannon_y08",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 693604,
+      "ALKLPCDOOHM": "Children/Transform_child_04/MISC_deepWarshipCannon_y04",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 694101,
+      "ALKLPCDOOHM": "Children/Transform_child_01/MISC_deepWarshipCannon_y08",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 694102,
+      "ALKLPCDOOHM": "Children/Transform_child_02/MISC_deepWarshipCannon_y07",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 694103,
+      "ALKLPCDOOHM": "Children/Transform_child_03/MISC_deepWarshipCannon_y08_2",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 696301,
+      "ALKLPCDOOHM": "Children/Transform_child_01/NONE_KoshmarSummon_Clukay",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 696302,
+      "ALKLPCDOOHM": "Children/Transform_child_02/NONE_KoshmarSummon_Biyoca",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 696303,
+      "ALKLPCDOOHM": "Children/Transform_child_03/NONE_KoshmarSummon_Uchii",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 696304,
+      "ALKLPCDOOHM": "Children/Transform_child_04/NONE_KoshmarSummon_Vector",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 696305,
+      "ALKLPCDOOHM": "Children/Transform_child_05/NONE_KoshmarSummon_Mishty",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 696306,
+      "ALKLPCDOOHM": "Children/Transform_child_06/NONE_KoshmarSummon_Andoris",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 696307,
+      "ALKLPCDOOHM": "Children/Transform_child_07/NONE_KoshmarSummon_Welrod",
+      "FGJOFBKCOPK": true
+    },
+    {
+      "LGJCPENNFBC": 696308,
+      "ALKLPCDOOHM": "Children/Transform_child_08/NONE_KoshmarSummon_Harpsy",
+      "FGJOFBKCOPK": true
+    }
+  ]
+}

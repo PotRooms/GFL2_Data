@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "经验补给箱",
+      "HBCDOGDIKNK": "经验",
+      "JHAJDBEPALK": "Img_Mental_number_1",
+      "MINHDEFMGIG": 1,
+      "CIEMAHPJCEC": 1,
+      "MGEPIFPDAIM": "Stsp_Item_Fix_Exp",
+      "MNNLJNAGCGP": "经验1"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "维修工具箱",
+      "HBCDOGDIKNK": "治疗球",
+      "JHAJDBEPALK": "Img_Mental_number_2",
+      "MINHDEFMGIG": 2,
+      "CIEMAHPJCEC": 1,
+      "MGEPIFPDAIM": "Stsp_Item_Fix_Heal",
+      "MNNLJNAGCGP": "血球1"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "增幅元件",
+      "HBCDOGDIKNK": "芯片",
+      "JHAJDBEPALK": "Img_Mental_number_3",
+      "MINHDEFMGIG": 3,
+      "CIEMAHPJCEC": 1,
+      "MGEPIFPDAIM": "Stsp_Item_Fix_Chip",
+      "MNNLJNAGCGP": "芯片1"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": "经验补给箱",
+      "HBCDOGDIKNK": "经验",
+      "JHAJDBEPALK": "Img_Mental_number_1",
+      "MINHDEFMGIG": 1,
+      "CIEMAHPJCEC": 10,
+      "MGEPIFPDAIM": "Stsp_Item_Fix_Exp_2",
+      "MNNLJNAGCGP": "经验10"
+    }
+  ]
+}

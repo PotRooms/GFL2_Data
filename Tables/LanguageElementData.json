@@ -1,0 +1,99 @@
+{
+  "data": [
+    {
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1653"
+      },
+      "OPOCDFFKJAL": "Physical",
+      "DNHAGPFHGCE": "Icon_BulletHit_Physical",
+      "EGPIAFNFKEJ": "c9c8ceFF",
+      "NDHFCJAIFGE": 1,
+      "JIKNJNDANEP": 40,
+      "FMLNJOOGBEE": 48
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1654"
+      },
+      "OPOCDFFKJAL": "Fire",
+      "DNHAGPFHGCE": "Icon_BulletHit_Fire",
+      "EGPIAFNFKEJ": "e56829FF",
+      "NDHFCJAIFGE": 1,
+      "JIKNJNDANEP": 36,
+      "FMLNJOOGBEE": 44
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1655"
+      },
+      "OPOCDFFKJAL": "Electric",
+      "DNHAGPFHGCE": "Icon_BulletHit_Electric",
+      "EGPIAFNFKEJ": "ebbf21FF",
+      "NDHFCJAIFGE": 1,
+      "JIKNJNDANEP": 37,
+      "FMLNJOOGBEE": 45
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1656"
+      },
+      "OPOCDFFKJAL": "Ice",
+      "DNHAGPFHGCE": "Icon_BulletHit_Ice",
+      "EGPIAFNFKEJ": "42cce0FF",
+      "NDHFCJAIFGE": 1,
+      "JIKNJNDANEP": 38,
+      "FMLNJOOGBEE": 46
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1657"
+      },
+      "OPOCDFFKJAL": "Poison",
+      "DNHAGPFHGCE": "Icon_BulletHit_Poison",
+      "EGPIAFNFKEJ": "877aebFF",
+      "NDHFCJAIFGE": 1,
+      "JIKNJNDANEP": 39,
+      "FMLNJOOGBEE": 47
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7413"
+      },
+      "OPOCDFFKJAL": "Water",
+      "DNHAGPFHGCE": "Icon_BulletHit_Water",
+      "EGPIAFNFKEJ": "2caadbFF",
+      "NDHFCJAIFGE": 1,
+      "JIKNJNDANEP": 43,
+      "FMLNJOOGBEE": 51
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7414"
+      },
+      "OPOCDFFKJAL": "Soil",
+      "DNHAGPFHGCE": "Icon_BulletHit_Soil",
+      "EGPIAFNFKEJ": "a57833FF",
+      "NDHFCJAIFGE": 1,
+      "JIKNJNDANEP": 41,
+      "FMLNJOOGBEE": 49
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7415"
+      },
+      "OPOCDFFKJAL": "Grass",
+      "DNHAGPFHGCE": "Icon_BulletHit_Grass",
+      "EGPIAFNFKEJ": "95cc43FF",
+      "NDHFCJAIFGE": 1,
+      "JIKNJNDANEP": 42,
+      "FMLNJOOGBEE": 50
+    }
+  ]
+}

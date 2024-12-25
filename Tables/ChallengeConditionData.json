@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "PGBMMDIPEFA": "击败首领",
+      "FBPJHJLDELP": {
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 1,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "PGBMMDIPEFA": "击败全部敌方单位并通关",
+      "FBPJHJLDELP": {
+        "25": 2000,
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 2,
+      "CGFMAIFHLEO": 4
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "PGBMMDIPEFA": "移动格数不大于20并通关",
+      "FBPJHJLDELP": {
+        "8301": 2000,
+        "173003": 1
+      },
+      "MDBHNLEGLIO": 3,
+      "CGFMAIFHLEO": 20
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "PGBMMDIPEFA": "击败首领",
+      "FBPJHJLDELP": {
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 1,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "PGBMMDIPEFA": "击败全部敌方单位并通关",
+      "FBPJHJLDELP": {
+        "25": 2000,
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 2,
+      "CGFMAIFHLEO": 4
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "PGBMMDIPEFA": "移动格数不大于15并通关",
+      "FBPJHJLDELP": {
+        "8301": 2000,
+        "173003": 1
+      },
+      "MDBHNLEGLIO": 3,
+      "CGFMAIFHLEO": 15
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "PGBMMDIPEFA": "击败首领",
+      "FBPJHJLDELP": {
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 1,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "PGBMMDIPEFA": "击败全部敌方单位并通关",
+      "FBPJHJLDELP": {
+        "25": 2000,
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 2,
+      "CGFMAIFHLEO": 4
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "PGBMMDIPEFA": "移动格数不大于15并通关",
+      "FBPJHJLDELP": {
+        "8301": 2000,
+        "173003": 1
+      },
+      "MDBHNLEGLIO": 3,
+      "CGFMAIFHLEO": 15
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "PGBMMDIPEFA": "击败首领",
+      "FBPJHJLDELP": {
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 1,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "PGBMMDIPEFA": "击败全部敌方单位并通关",
+      "FBPJHJLDELP": {
+        "25": 2000,
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 2,
+      "CGFMAIFHLEO": 5
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "PGBMMDIPEFA": "移动格数不大于17并通关",
+      "FBPJHJLDELP": {
+        "8301": 2000,
+        "173003": 1
+      },
+      "MDBHNLEGLIO": 3,
+      "CGFMAIFHLEO": 17
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "PGBMMDIPEFA": "击败首领",
+      "FBPJHJLDELP": {
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 1,
+      "CGFMAIFHLEO": 1
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "PGBMMDIPEFA": "击败全部敌方单位并通关",
+      "FBPJHJLDELP": {
+        "25": 2000,
+        "173001": 100
+      },
+      "MDBHNLEGLIO": 2,
+      "CGFMAIFHLEO": 5
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "PGBMMDIPEFA": "移动格数不大于15并通关",
+      "FBPJHJLDELP": {
+        "8301": 2000,
+        "173003": 1
+      },
+      "MDBHNLEGLIO": 3,
+      "CGFMAIFHLEO": 15
+    }
+  ]
+}

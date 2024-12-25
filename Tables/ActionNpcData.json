@@ -1,0 +1,410 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 200010,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle10",
+      "HGCLLJHPJOD": 300011,
+      "BDAIMBLHHEF": {
+        "100046": 100071
+      }
+    },
+    {
+      "LGJCPENNFBC": 200011,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle11",
+      "HGCLLJHPJOD": 300012,
+      "BDAIMBLHHEF": {
+        "0": 100048
+      }
+    },
+    {
+      "LGJCPENNFBC": 200012,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle12",
+      "HGCLLJHPJOD": 300013,
+      "BDAIMBLHHEF": {
+        "0": 100053
+      }
+    },
+    {
+      "LGJCPENNFBC": 200013,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle13",
+      "HGCLLJHPJOD": 300014,
+      "BDAIMBLHHEF": {
+        "100056": 100069
+      }
+    },
+    {
+      "LGJCPENNFBC": 200015,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle15",
+      "HGCLLJHPJOD": 300016,
+      "BDAIMBLHHEF": {
+        "0": 100063
+      }
+    },
+    {
+      "LGJCPENNFBC": 200016,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle16",
+      "HGCLLJHPJOD": 300017,
+      "BDAIMBLHHEF": {
+        "100064": 100070
+      }
+    },
+    {
+      "LGJCPENNFBC": 600001,
+      "BKCIGACKEFD": "room",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lng_switch_room",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 100001,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_ReadStart"
+    },
+    {
+      "LGJCPENNFBC": 100002,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_ReadLoop",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 100003,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_ReadRandom"
+    },
+    {
+      "LGJCPENNFBC": 100004,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_ReadEnd"
+    },
+    {
+      "LGJCPENNFBC": 100005,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_CoffeeStart"
+    },
+    {
+      "LGJCPENNFBC": 100006,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_CoffeeLoop",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 100007,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_CoffeeEnd"
+    },
+    {
+      "LGJCPENNFBC": 100008,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_CoffeeInteractStart"
+    },
+    {
+      "LGJCPENNFBC": 100009,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_CoffeeInteractLoop",
+      "EPGKDOPMJCP": true
+    },
+    {
+      "LGJCPENNFBC": 100010,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_CoffeeInteractEnd"
+    },
+    {
+      "LGJCPENNFBC": 100011,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngbe_CoffeeInteract01"
+    },
+    {
+      "LGJCPENNFBC": 100012,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_SearchStart",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary"
+    },
+    {
+      "LGJCPENNFBC": 100013,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_SearchLoop1_s",
+      "EPGKDOPMJCP": true,
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary"
+    },
+    {
+      "LGJCPENNFBC": 100014,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_SearchLoop2",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary"
+    },
+    {
+      "LGJCPENNFBC": 100015,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_SearchInteract01",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary"
+    },
+    {
+      "LGJCPENNFBC": 100016,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_SearchEnd",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\05_Diary"
+    },
+    {
+      "LGJCPENNFBC": 100017,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StareblanklyStart",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly"
+    },
+    {
+      "LGJCPENNFBC": 100018,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StareblanklyLoop1_s",
+      "EPGKDOPMJCP": true,
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly"
+    },
+    {
+      "LGJCPENNFBC": 100019,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StareblanklyLoop2",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly"
+    },
+    {
+      "LGJCPENNFBC": 100020,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StareblanklyInteract01",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly"
+    },
+    {
+      "LGJCPENNFBC": 100021,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StareblanklyEnd",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\01_Stareblankly"
+    },
+    {
+      "LGJCPENNFBC": 100022,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_CleanStart",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean"
+    },
+    {
+      "LGJCPENNFBC": 100023,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_CleanLoop1",
+      "EPGKDOPMJCP": true,
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean"
+    },
+    {
+      "LGJCPENNFBC": 100024,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_CleanLoop2",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean"
+    },
+    {
+      "LGJCPENNFBC": 100025,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_CleanInteract01",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean"
+    },
+    {
+      "LGJCPENNFBC": 100026,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_CleanEnd",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\02_Clean"
+    },
+    {
+      "LGJCPENNFBC": 100027,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StarebedStart",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed"
+    },
+    {
+      "LGJCPENNFBC": 100028,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StarebedLoop1_s",
+      "EPGKDOPMJCP": true,
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed"
+    },
+    {
+      "LGJCPENNFBC": 100029,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StarebedLoop2",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed"
+    },
+    {
+      "LGJCPENNFBC": 100030,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StarebedInteract01",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed"
+    },
+    {
+      "LGJCPENNFBC": 100031,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_StarebedEnd",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\03_Starebed"
+    },
+    {
+      "LGJCPENNFBC": 100032,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_LookskyStart",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky"
+    },
+    {
+      "LGJCPENNFBC": 100033,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_LookskyLoop1_s",
+      "EPGKDOPMJCP": true,
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky"
+    },
+    {
+      "LGJCPENNFBC": 100034,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_LookskyLoop2",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky"
+    },
+    {
+      "LGJCPENNFBC": 100035,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_LookskyInteract01",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky"
+    },
+    {
+      "LGJCPENNFBC": 100036,
+      "BKCIGACKEFD": "action",
+      "KKEEJKEMCDH": 7,
+      "HBJAHCGKJJD": "c_Peritya_Lngbe_LookskyEnd",
+      "PGOPMAHOPLI": "PlayerLounge\\Peritya\\Peritya_Base\\AnimationClips\\Behavior\\04_Looksky"
+    },
+    {
+      "LGJCPENNFBC": 200001,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle01",
+      "HGCLLJHPJOD": 300002,
+      "BDAIMBLHHEF": {
+        "0": 100015
+      }
+    },
+    {
+      "LGJCPENNFBC": 200002,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle02",
+      "HGCLLJHPJOD": 300003,
+      "BDAIMBLHHEF": {
+        "100017": 100066
+      }
+    },
+    {
+      "LGJCPENNFBC": 200003,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle03",
+      "HGCLLJHPJOD": 300004,
+      "BDAIMBLHHEF": {
+        "100019": 100067
+      }
+    },
+    {
+      "LGJCPENNFBC": 200004,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle04",
+      "HGCLLJHPJOD": 300005,
+      "BDAIMBLHHEF": {
+        "100021": 100068
+      }
+    },
+    {
+      "LGJCPENNFBC": 200005,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle05",
+      "HGCLLJHPJOD": 300006,
+      "BDAIMBLHHEF": {
+        "100025": 100026
+      }
+    },
+    {
+      "LGJCPENNFBC": 200006,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle06",
+      "HGCLLJHPJOD": 300007,
+      "BDAIMBLHHEF": {
+        "100030": 100069
+      }
+    },
+    {
+      "LGJCPENNFBC": 200007,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle07",
+      "HGCLLJHPJOD": 300008,
+      "BDAIMBLHHEF": {
+        "0": 100032
+      }
+    },
+    {
+      "LGJCPENNFBC": 200008,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle08",
+      "HGCLLJHPJOD": 300009,
+      "BDAIMBLHHEF": {
+        "100036": 100070
+      }
+    },
+    {
+      "LGJCPENNFBC": 200009,
+      "BKCIGACKEFD": "appointment",
+      "KKEEJKEMCDH": 3,
+      "HBJAHCGKJJD": "c_Groza_Lngap_lv4_test_idle09",
+      "HGCLLJHPJOD": 300019,
+      "BDAIMBLHHEF": {
+        "0": 100041
+      }
+    }
+  ]
+}

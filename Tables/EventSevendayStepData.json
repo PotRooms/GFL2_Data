@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "CPHJIJAOBGO": 120,
+      "FBPJHJLDELP": {
+        "190011": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CPHJIJAOBGO": 240,
+      "FBPJHJLDELP": {
+        "190013": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CPHJIJAOBGO": 360,
+      "FBPJHJLDELP": {
+        "190014": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "CPHJIJAOBGO": 480,
+      "FBPJHJLDELP": {
+        "190015": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "CPHJIJAOBGO": 600,
+      "FBPJHJLDELP": {
+        "190016": 1
+      }
+    }
+  ]
+}

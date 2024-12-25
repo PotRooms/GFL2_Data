@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 101,
+      "DBDAKJKJKDC": 10101,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 101,
+      "DBDAKJKJKDC": 10102,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_2"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 101,
+      "DBDAKJKJKDC": 10103,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_2"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 101,
+      "DBDAKJKJKDC": 10104,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_1"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "BKCIGACKEFD": 2,
+      "EALJEIIAEGE": 101,
+      "DBDAKJKJKDC": 10105,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 102,
+      "DBDAKJKJKDC": 10201,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 102,
+      "DBDAKJKJKDC": 10202,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_2"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 102,
+      "DBDAKJKJKDC": 10203,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_2"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 102,
+      "DBDAKJKJKDC": 10204,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_1"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "BKCIGACKEFD": 2,
+      "EALJEIIAEGE": 102,
+      "DBDAKJKJKDC": 10205,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 103,
+      "DBDAKJKJKDC": 10301,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 103,
+      "DBDAKJKJKDC": 10302,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_2"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 103,
+      "DBDAKJKJKDC": 10303,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_2"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 103,
+      "DBDAKJKJKDC": 10304,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_1"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "BKCIGACKEFD": 2,
+      "EALJEIIAEGE": 103,
+      "DBDAKJKJKDC": 10305,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 104,
+      "DBDAKJKJKDC": 10401,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 104,
+      "DBDAKJKJKDC": 10402,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_2"
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 104,
+      "DBDAKJKJKDC": 10403,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_2"
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 104,
+      "DBDAKJKJKDC": 10404,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_1"
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "BKCIGACKEFD": 2,
+      "EALJEIIAEGE": 104,
+      "DBDAKJKJKDC": 10405,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 105,
+      "DBDAKJKJKDC": 10501,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 105,
+      "DBDAKJKJKDC": 10502,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_2"
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 105,
+      "DBDAKJKJKDC": 10503,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_2"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 105,
+      "DBDAKJKJKDC": 10504,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_1"
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "BKCIGACKEFD": 2,
+      "EALJEIIAEGE": 105,
+      "DBDAKJKJKDC": 10505,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 106,
+      "DBDAKJKJKDC": 10601,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 106,
+      "DBDAKJKJKDC": 10602,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_2"
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 106,
+      "DBDAKJKJKDC": 10603,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_2"
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 106,
+      "DBDAKJKJKDC": 10604,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_1"
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "BKCIGACKEFD": 2,
+      "EALJEIIAEGE": 106,
+      "DBDAKJKJKDC": 10605,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 107,
+      "DBDAKJKJKDC": 10701,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 107,
+      "DBDAKJKJKDC": 10702,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_2"
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 107,
+      "DBDAKJKJKDC": 10703,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_2"
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "BKCIGACKEFD": 1,
+      "EALJEIIAEGE": 107,
+      "DBDAKJKJKDC": 10704,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_W_1"
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "BKCIGACKEFD": 2,
+      "EALJEIIAEGE": 107,
+      "DBDAKJKJKDC": 10705,
+      "ODPKNHKKOLC": [
+        10,
+        20,
+        50
+      ],
+      "EKPKHBAEGML": "Img_GashaponPic_C_3"
+    }
+  ]
+}

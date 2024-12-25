@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 510342501,
+      "PGBMMDIPEFA": "8方向发射飞行道具1",
+      "PBMIKLEBCFH": 1,
+      "HEMAKLBIEPC": [
+        "0"
+      ],
+      "AAAHHPOIACG": "12",
+      "DHEOECPOPBC": "#210342501",
+      "FBHELEDCEDI": "#210342502",
+      "BNKNOCCIJIN": "#210342503",
+      "NPHPOJFNFEP": "0",
+      "NCPLNFGBLEF": "Stsp_SK_Bullet_Player",
+      "BMNOCADKDAB": [
+        "Stsp_SK_BulletHit"
+      ],
+      "LFFMIMKANNP": [
+        210342509
+      ]
+    },
+    {
+      "LGJCPENNFBC": 510342502,
+      "PGBMMDIPEFA": "8方向发射飞行道具2",
+      "PBMIKLEBCFH": 1,
+      "HEMAKLBIEPC": [
+        "90"
+      ],
+      "AAAHHPOIACG": "12",
+      "DHEOECPOPBC": "#210342501",
+      "FBHELEDCEDI": "#210342502",
+      "BNKNOCCIJIN": "#210342503",
+      "NPHPOJFNFEP": "0",
+      "NCPLNFGBLEF": "Stsp_SK_Bullet_Player",
+      "BMNOCADKDAB": [
+        "Stsp_SK_BulletHit"
+      ],
+      "LFFMIMKANNP": [
+        210342509
+      ]
+    },
+    {
+      "LGJCPENNFBC": 510342503,
+      "PGBMMDIPEFA": "8方向发射飞行道具3",
+      "PBMIKLEBCFH": 1,
+      "HEMAKLBIEPC": [
+        "180"
+      ],
+      "AAAHHPOIACG": "12",
+      "DHEOECPOPBC": "#210342501",
+      "FBHELEDCEDI": "#210342502",
+      "BNKNOCCIJIN": "#210342503",
+      "NPHPOJFNFEP": "0",
+      "NCPLNFGBLEF": "Stsp_SK_Bullet_Player",
+      "BMNOCADKDAB": [
+        "Stsp_SK_BulletHit"
+      ],
+      "LFFMIMKANNP": [
+        210342509
+      ]
+    },
+    {
+      "LGJCPENNFBC": 510342504,
+      "PGBMMDIPEFA": "8方向发射飞行道具4",
+      "PBMIKLEBCFH": 1,
+      "HEMAKLBIEPC": [
+        "270"
+      ],
+      "AAAHHPOIACG": "12",
+      "DHEOECPOPBC": "#210342501",
+      "FBHELEDCEDI": "#210342502",
+      "BNKNOCCIJIN": "#210342503",
+      "NPHPOJFNFEP": "0",
+      "NCPLNFGBLEF": "Stsp_SK_Bullet_Player",
+      "BMNOCADKDAB": [
+        "Stsp_SK_BulletHit"
+      ],
+      "LFFMIMKANNP": [
+        210342509
+      ]
+    },
+    {
+      "LGJCPENNFBC": 510342505,
+      "PGBMMDIPEFA": "8方向发射飞行道具5",
+      "PBMIKLEBCFH": 1,
+      "HEMAKLBIEPC": [
+        "45"
+      ],
+      "AAAHHPOIACG": "12",
+      "DHEOECPOPBC": "#210342501",
+      "FBHELEDCEDI": "#210342502",
+      "BNKNOCCIJIN": "#210342503",
+      "NPHPOJFNFEP": "0",
+      "NCPLNFGBLEF": "Stsp_SK_Bullet_Player",
+      "BMNOCADKDAB": [
+        "Stsp_SK_BulletHit"
+      ],
+      "LFFMIMKANNP": [
+        210342509
+      ]
+    },
+    {
+      "LGJCPENNFBC": 510342506,
+      "PGBMMDIPEFA": "8方向发射飞行道具6",
+      "PBMIKLEBCFH": 1,
+      "HEMAKLBIEPC": [
+        "135"
+      ],
+      "AAAHHPOIACG": "12",
+      "DHEOECPOPBC": "#210342501",
+      "FBHELEDCEDI": "#210342502",
+      "BNKNOCCIJIN": "#210342503",
+      "NPHPOJFNFEP": "0",
+      "NCPLNFGBLEF": "Stsp_SK_Bullet_Player",
+      "BMNOCADKDAB": [
+        "Stsp_SK_BulletHit"
+      ],
+      "LFFMIMKANNP": [
+        210342509
+      ]
+    },
+    {
+      "LGJCPENNFBC": 510342507,
+      "PGBMMDIPEFA": "8方向发射飞行道具7",
+      "PBMIKLEBCFH": 1,
+      "HEMAKLBIEPC": [
+        "225"
+      ],
+      "AAAHHPOIACG": "12",
+      "DHEOECPOPBC": "#210342501",
+      "FBHELEDCEDI": "#210342502",
+      "BNKNOCCIJIN": "#210342503",
+      "NPHPOJFNFEP": "0",
+      "NCPLNFGBLEF": "Stsp_SK_Bullet_Player",
+      "BMNOCADKDAB": [
+        "Stsp_SK_BulletHit"
+      ],
+      "LFFMIMKANNP": [
+        210342509
+      ]
+    },
+    {
+      "LGJCPENNFBC": 510342508,
+      "PGBMMDIPEFA": "8方向发射飞行道具8",
+      "PBMIKLEBCFH": 1,
+      "HEMAKLBIEPC": [
+        "305"
+      ],
+      "AAAHHPOIACG": "12",
+      "DHEOECPOPBC": "#210342501",
+      "FBHELEDCEDI": "#210342502",
+      "BNKNOCCIJIN": "#210342503",
+      "NPHPOJFNFEP": "0",
+      "NCPLNFGBLEF": "Stsp_SK_Bullet_Player",
+      "BMNOCADKDAB": [
+        "Stsp_SK_BulletHit"
+      ],
+      "LFFMIMKANNP": [
+        210342509
+      ]
+    }
+  ]
+}

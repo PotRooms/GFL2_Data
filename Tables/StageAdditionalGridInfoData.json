@@ -1,0 +1,450 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 141,
+      "HBJAHCGKJJD": "变线传送带",
+      "GFMDILIKGLM": "<color=#ec8a32>启动开关</color>后，处于传送带上的单位，将会被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/RotateBelt_main.prefab,Assets/Level/LevelItem/InteractItem/RotateBelt_intersect_main.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_main.prefab,Assets/Level/LevelItem/InteractItem/RotateBeltLeft_main.prefab,Assets/Level/LevelItem/InteractItem/RotateBeltRight_main.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 301,
+      "HBJAHCGKJJD": "遥控推杆",
+      "GFMDILIKGLM": "<color=#ec8a33>启动开关</color>后，处于遥控推杆作用地格上的单位，将会立刻被推向指定方向。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/PushRod.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 302,
+      "HBJAHCGKJJD": "自动推杆",
+      "GFMDILIKGLM": "行动结束时，处于自动推杆作用地格上的单位，将立刻被推向指定方向。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/PushRod.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 321,
+      "HBJAHCGKJJD": "遥控推杆",
+      "GFMDILIKGLM": "<color=#ec8a33>启动开关</color>后，处于遥控推杆作用地格上的单位，将会立刻被推向指定方向。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/PushRod.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 322,
+      "HBJAHCGKJJD": "自动推杆",
+      "GFMDILIKGLM": "行动结束时，处于自动推杆作用地格上的单位，将立刻被推向指定方向。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/PushRod.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 601,
+      "HBJAHCGKJJD": "传送装置",
+      "GFMDILIKGLM": "<color=#ec8a33>点击启动</color>后，处于传送装置上的单位，将会立刻被传送到另一个链接点。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/Teleporter_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 602,
+      "HBJAHCGKJJD": "传送装置",
+      "GFMDILIKGLM": "<color=#ec8a33>回合开始</color>时，处于传送装置上的单位，将会立刻被传送到另一个链接点。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/Teleporter_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 611,
+      "HBJAHCGKJJD": "传送装置",
+      "GFMDILIKGLM": "<color=#ec8a33>点击启动</color>后，处于传送装置上的单位，将会立刻被传送到另一个链接点。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/Teleporter_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 612,
+      "HBJAHCGKJJD": "传送装置",
+      "GFMDILIKGLM": "<color=#ec8a33>回合开始</color>时，处于传送装置上的单位，将会立刻被传送到另一个链接点。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/Teleporter_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "HBJAHCGKJJD": "传送带",
+      "GFMDILIKGLM": "<color=#ec8a33>启动开关</color>后，处于传送带上的单位，将会被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_sim.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltLeft_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltRight_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "HBJAHCGKJJD": "传送带",
+      "GFMDILIKGLM": "处于传送带上的单位，在<color=#ec8a33>回合开始</color>时，将被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_sim.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltLeft_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltRight_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "HBJAHCGKJJD": "传送带",
+      "GFMDILIKGLM": "<color=#ec8a33>启动开关</color>后，处于传送带上的单位，将会被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_sim.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltLeft_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltRight_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 122,
+      "HBJAHCGKJJD": "传送带",
+      "GFMDILIKGLM": "处于传送带上的单位，在<color=#ec8a33>回合开始</color>时，将被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_sim.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltLeft_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltRight_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "HBJAHCGKJJD": "升降梯",
+      "GFMDILIKGLM": "<color=#ec8a33>启动</color>后，处于升降梯上的单位，所处高度将发生改变。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "CHBJOIDAFMM": "10",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/LadderStraight_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      }
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "HBJAHCGKJJD": "开关限定升降梯",
+      "GFMDILIKGLM": "<color=#ec8a33>启动</color>后，处于升降梯上的单位，所处高度将发生改变。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "CHBJOIDAFMM": "10",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/LadderStraight_switch.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      }
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "HBJAHCGKJJD": "交互限定升降梯",
+      "GFMDILIKGLM": "<color=#ec8a33>启动</color>后，处于升降梯上的单位，所处高度将发生改变。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "CHBJOIDAFMM": "10",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/LadderStraight_interact.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      }
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "HBJAHCGKJJD": "升降梯",
+      "GFMDILIKGLM": "<color=#ec8a33>启动</color>后，处于升降梯上的单位，所处高度将发生改变。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "CHBJOIDAFMM": "10",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/LadderStraight_main.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      }
+    },
+    {
+      "LGJCPENNFBC": 205,
+      "HBJAHCGKJJD": "镂空升降梯",
+      "GFMDILIKGLM": "<color=#ec8a33>启动</color>后，处于升降梯上的单位，所处高度将发生改变。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "CHBJOIDAFMM": "10",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/hollowlift_mesh_main01.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      }
+    },
+    {
+      "LGJCPENNFBC": 206,
+      "HBJAHCGKJJD": "镂空升降梯",
+      "GFMDILIKGLM": "<color=#ec8a33>启动</color>后，处于升降梯上的单位，所处高度将发生改变。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "CHBJOIDAFMM": "10",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/hollowlift_mesh_sim01.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "7462"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "7463"
+      }
+    },
+    {
+      "LGJCPENNFBC": 311,
+      "HBJAHCGKJJD": "遥控推杆",
+      "GFMDILIKGLM": "<color=#ec8a33>启动开关</color>后，处于遥控推杆作用地格上的单位，将会立刻被推向指定方向。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/PushRod.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 312,
+      "HBJAHCGKJJD": "自动推杆",
+      "GFMDILIKGLM": "行动结束时，处于自动推杆作用地格上的单位，将立刻被推向指定方向。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/PushRod.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 331,
+      "HBJAHCGKJJD": "遥控推杆",
+      "GFMDILIKGLM": "<color=#ec8a33>启动开关</color>后，处于遥控推杆作用地格上的单位，将会立刻被推向指定方向。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/PushRod.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 332,
+      "HBJAHCGKJJD": "自动推杆",
+      "GFMDILIKGLM": "行动结束时，处于自动推杆作用地格上的单位，将立刻被推向指定方向。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/PushRod.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/pushrod_effect.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 401,
+      "HBJAHCGKJJD": "风化结构",
+      "GFMDILIKGLM": "<color=#ec8a33>选择推动方向</color>后，风化结构会向所选方向倒塌，对倒塌区域地格造成伤害后生成掩体。风化结构仅可交互一次。交互后，作战单位可凭借剩余移动力继续行动。",
+      "FOCNBIKOIIG": "可交互掩体",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/CoverItem/slg_Giant_FragileStructures.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/sfx_obj_break_FragileStructures_02.prefab,Assets/ArtsResource/Effect/Effect_sum/Scene/sfx_obj_break_FragileStructures_03.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/fragile_effect.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/CoverItem/slg_FragileStructures_CollapseCover_1.prefab,Assets/Level/LevelItem/CoverItem/slg_FragileStructures_CollapseCover_2.prefab,Assets/Level/LevelItem/CoverItem/slg_FragileStructures_CollapseCover_3.prefab,Assets/Level/LevelItem/CoverItem/slg_FragileStructures_CollapseCover_4.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "23720"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 402,
+      "HBJAHCGKJJD": "风化结构",
+      "GFMDILIKGLM": "<color=#ec8a33>选择推动方向</color>后，风化结构会向所选方向倒塌，对倒塌区域地格造成伤害后生成掩体。风化结构仅可交互一次。交互后，作战单位可凭借剩余移动力继续行动。",
+      "FOCNBIKOIIG": "可交互掩体",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/CoverItem/slg_sim_Giant_FragileStructures.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/sfx_obj_break_FragileStructures_02.prefab,Assets/ArtsResource/Effect/Effect_sum/Scene/sfx_obj_break_FragileStructures_01.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/fragile_effect.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/CoverItem/slg_sim_FragileStructures_CollapseCover_1.prefab,Assets/Level/LevelItem/CoverItem/slg_sim_FragileStructures_CollapseCover_2.prefab,Assets/Level/LevelItem/CoverItem/slg_sim_FragileStructures_CollapseCover_3.prefab,Assets/Level/LevelItem/CoverItem/slg_sim_FragileStructures_CollapseCover_4.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "23720"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 403,
+      "HBJAHCGKJJD": "风化结构",
+      "GFMDILIKGLM": "<color=#ec8a33>与遥控开关</color>交互后，风化结构会向特定方向倒塌，对倒塌区域地格造成伤害后生成掩体。",
+      "FOCNBIKOIIG": "可交互掩体",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/CoverItem/slg_Giant_FragileStructures.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/sfx_obj_break_FragileStructures_02.prefab,Assets/ArtsResource/Effect/Effect_sum/Scene/sfx_obj_break_FragileStructures_03.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/fragile_effect.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/CoverItem/slg_FragileStructures_CollapseCover_1.prefab,Assets/Level/LevelItem/CoverItem/slg_FragileStructures_CollapseCover_2.prefab,Assets/Level/LevelItem/CoverItem/slg_FragileStructures_CollapseCover_3.prefab,Assets/Level/LevelItem/CoverItem/slg_FragileStructures_CollapseCover_4.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "23720"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 404,
+      "HBJAHCGKJJD": "风化结构",
+      "GFMDILIKGLM": "<color=#ec8a33>与遥控开关</color>交互后，风化结构会向特定方向倒塌，对倒塌区域地格造成伤害后生成掩体。",
+      "FOCNBIKOIIG": "可交互掩体",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/CoverItem/slg_sim_Giant_FragileStructures.prefab",
+      "ALLHIBPKKFH": "Assets/ArtsResource/Effect/Effect_sum/Scene/sfx_obj_break_FragileStructures_02.prefab,Assets/ArtsResource/Effect/Effect_sum/Scene/sfx_obj_break_FragileStructures_01.prefab",
+      "KJOKPLLNBEC": "Assets/ArtsResource/Effect/Effect_sum/Scene/fragile_effect.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/CoverItem/slg_sim_FragileStructures_CollapseCover_1.prefab,Assets/Level/LevelItem/CoverItem/slg_sim_FragileStructures_CollapseCover_2.prefab,Assets/Level/LevelItem/CoverItem/slg_sim_FragileStructures_CollapseCover_3.prefab,Assets/Level/LevelItem/CoverItem/slg_sim_FragileStructures_CollapseCover_4.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "23720"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "HBJAHCGKJJD": "传送带",
+      "GFMDILIKGLM": "<color=#ec8a33>启动开关</color>后，处于传送带上的单位，将会被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_main.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_main.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltLeft_main.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltRight_main.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "HBJAHCGKJJD": "传送带",
+      "GFMDILIKGLM": "处于传送带上的单位，在<color=#ec8a32>回合开始</color>时，将被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_main.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_main.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltLeft_main.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltRight_main.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 131,
+      "HBJAHCGKJJD": "传送带",
+      "GFMDILIKGLM": "<color=#ec8a33>启动开关</color>后，处于传送带上的单位，将会被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_sim.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltLeft_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltRight_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    },
+    {
+      "LGJCPENNFBC": 132,
+      "HBJAHCGKJJD": "传送带",
+      "GFMDILIKGLM": "处于传送带上的单位，在<color=#ec8a33>回合开始</color>时，将被传送至出口位置。",
+      "FOCNBIKOIIG": "强制位移地形",
+      "EPDHJGKMJGD": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_sim.prefab",
+      "MDGMGBKICLO": "Assets/Level/LevelItem/InteractItem/ConveyerBelt_exit_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltLeft_sim.prefab,Assets/Level/LevelItem/InteractItem/ConveyerBeltRight_sim.prefab",
+      "HALDEPBKLJF": {
+        "DOHLNDIPHAJ": "3140"
+      },
+      "EPNJFKBBBBH": {
+        "DOHLNDIPHAJ": "3140"
+      }
+    }
+  ]
+}

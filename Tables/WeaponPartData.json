@@ -1,0 +1,1102 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 12001,
+      "HBJAHCGKJJD": "消音器",
+      "GFMDILIKGLM": "附加在枪械上通过有效降低射击产生的声音而达到隐蔽效果的配件。值得注意的是，消音并非完全的静音，所以保持安全距离寻找掩体依然是有必要的，一定不要被影视作品误导。",
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_1",
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12002,
+      "HBJAHCGKJJD": "红点瞄准镜",
+      "GFMDILIKGLM": "一种无放大效果的光学瞄准镜。因有通常设置为红色的瞄准点而得名，其瞄准点只有射击者可见。虽然可以一定程度上提高近距离射击的精准度，但研发人员还是建议描边大师们配合辅助瞄准系统使用。",
+      "DNHAGPFHGCE": "WeaponPart_Scope_1",
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12003,
+      "HBJAHCGKJJD": "垂直握把",
+      "GFMDILIKGLM": "造型传统的垂直握把，采用轻质高新材料制成。可以有效降低射击后坐力所带来的的影响。“握把只是辅助配件，请不要把射击不精准归因到握把质量上。”",
+      "DNHAGPFHGCE": "WeaponPart_Grip_1",
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12004,
+      "HBJAHCGKJJD": "激光指示器",
+      "GFMDILIKGLM": "安装在导轨部分可以投射激光光束的瞄准辅助类配件。其激光束会在被瞄准对象身上投射出光亮瞄准点，因而也会变相成为一种威慑装置。合理利用这一特点配合信息差的话，即使火力不足或许也能依靠威慑度过难关。",
+      "DNHAGPFHGCE": "WeaponPart_Fishbone_1",
+      "BKCIGACKEFD": 4,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12005,
+      "HBJAHCGKJJD": "钢制枪弹",
+      "GFMDILIKGLM": "材料成本相对低廉的子弹类型，质轻便于携带。然而由于材质特性问题，容易引发枪械炸膛。因为价格便宜意外拥有不错的销量，不少赏金猎人和瓦良格帮的人都在使用这种类型的子弹。",
+      "DNHAGPFHGCE": "WeaponPart_Bullet_1",
+      "BKCIGACKEFD": 5,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12006,
+      "HBJAHCGKJJD": "熔断光刃",
+      "GFMDILIKGLM": "利用逆向坍塌技术拟态的光刃。通过粒子碰撞产生高温的利刃，在切割的同时可以快速熔断切口的周围结构，有效防止再生与快速修复。除了战斗之外，还是野外生存的好帮手，一刀插下去鱼就会变熟，只是一定不要用它来切蛋糕，会糊的。",
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_1",
+      "BKCIGACKEFD": 6,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12007,
+      "HBJAHCGKJJD": "碳纤刀握",
+      "GFMDILIKGLM": "碳纤制成的握把，轻质且坚韧。流线型的设计诉说着工业社会的发展。但是初代设计因为过于追求美观而忽略了实用性——光滑的外装导致极易脱手。“战斗没开始，先缴械了算怎么回事？！”",
+      "DNHAGPFHGCE": "WeaponPart_Handle_5",
+      "BKCIGACKEFD": 7,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12008,
+      "HBJAHCGKJJD": "钛钢目钉",
+      "GFMDILIKGLM": "由钛钢材料制作的固定用零件，因其外形与过去刀剑上所使用的目钉而得名。“这和螺丝钉有区别吗？真不是奸商为了骗钱瞎编的名字吗？“克罗丽科对此总是充满了质疑。",
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_2",
+      "BKCIGACKEFD": 8,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12009,
+      "HBJAHCGKJJD": "单分子覆膜",
+      "GFMDILIKGLM": "单个大分子经由特殊排序形成的膜状涂层，这种排序结构极为稳定，可以长时间有效保护其附着对象。虽然确实可以减少金属的磨损，但涂在脸上不会有任何好处，希望每一位少女都能明白。",
+      "DNHAGPFHGCE": "WeaponPart_Texture_2",
+      "BKCIGACKEFD": 9,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12010,
+      "HBJAHCGKJJD": "消焰器",
+      "GFMDILIKGLM": "附加在枪械上，消减由射击产生的火焰的小型配件。除了提供隐蔽性之外，对于射击者的视力也会起到一定的保护作用。研发人员提醒，加装了消焰器的枪械在射击时依然存在硝烟，不要过于依赖其隐蔽作用。",
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_2",
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12011,
+      "HBJAHCGKJJD": "高倍瞄准镜",
+      "GFMDILIKGLM": "拥有多重光学透镜的高倍率瞄准镜，倍率可根据使用者需要进行实时调整。“即使视力再差也能让您看得清清楚楚。”",
+      "DNHAGPFHGCE": "WeaponPart_Scope_2",
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12012,
+      "HBJAHCGKJJD": "直角前握把",
+      "GFMDILIKGLM": "呈三角形的前握把，除却一般前握把的功能外，因其造型特点，它还有着可以辅助特殊射击姿势的优势。",
+      "DNHAGPFHGCE": "WeaponPart_Grip_2",
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12013,
+      "HBJAHCGKJJD": "战术灯",
+      "GFMDILIKGLM": "安装在导轨部分，适用于低亮度作战环境的辅助类配件。除了提升视野亮度的作用外，其发出的强烈光线还可以令敌人陷入短暂的失明状态，从而丰富战术。战术灯与枪口平行，所以当你被照射时，其实也等同于被瞄准了。“这束光，并非是希望。”",
+      "DNHAGPFHGCE": "WeaponPart_Fishbone_2",
+      "BKCIGACKEFD": 4,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12014,
+      "HBJAHCGKJJD": "黄铜枪弹",
+      "GFMDILIKGLM": "最常见材质打造的子弹类型。因其材质特点，有着良好的延展性和润滑性，可以为射击者带来丝滑流畅的战斗体验。虽然价格相对昂贵一些，但是出于安全性考虑，大部分的队伍都会选用这一类子弹。毕竟比起钱，还是命更重要。",
+      "DNHAGPFHGCE": "WeaponPart_Bullet_2",
+      "BKCIGACKEFD": 5,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12015,
+      "HBJAHCGKJJD": "离子切割刃",
+      "GFMDILIKGLM": "利用粒子间的强互作用力形成的光刃，其坚硬程度远超想象。因为通体由惰性粒子构成，所以不存在利刃易折的隐患。挥动时粒子在作用力之下会散发出耀眼的光辉，帅气程度让隔壁的小孩都羡慕哭了。",
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_2",
+      "BKCIGACKEFD": 6,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12016,
+      "HBJAHCGKJJD": "合金刀握",
+      "GFMDILIKGLM": "特殊合金制成的握把，配重较重，适合于喜欢利用惯性进行作战的使用者。由于手感和造型相对古典，很多设计者也为此津津乐道，认为这是文化与科技的融合，是真正的两开花。",
+      "DNHAGPFHGCE": "WeaponPart_Handle_6",
+      "BKCIGACKEFD": 7,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12017,
+      "HBJAHCGKJJD": "贯接二重鎺",
+      "GFMDILIKGLM": "置于武器贯接处起到缓冲和链接作用的小型组件。因样式与过去刀剑上所使用的鎺金类似而得名。普普通通的样子普普通通的材质普普通通的价格，但是名字却很特别呢。",
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_1",
+      "BKCIGACKEFD": 8,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 12018,
+      "HBJAHCGKJJD": "离散粒子发生器",
+      "GFMDILIKGLM": "提供具有催化性质粒子的小型发生器，在释放出催化粒子后，可以有效刺激用周围环境中的坍塌粒子活性，从而对战斗产生增益效果。工作人员为区分不同类型的催化粒子而为其标记了专属颜色。“哇，这个东西释放出来比应援棒看着还厉害呢。指挥官，替维普蕾选一个应援色吧。”",
+      "DNHAGPFHGCE": "WeaponPart_Texture_1",
+      "BKCIGACKEFD": 9,
+      "JCICKJAEAKF": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 5,
+      "AHLCHALJENL": 5,
+      "OLGMOCBAHJI": {
+        "13": 100
+      }
+    },
+    {
+      "LGJCPENNFBC": 13001,
+      "HBJAHCGKJJD": "消音器",
+      "GFMDILIKGLM": "附加在枪械上通过有效降低射击产生的声音而达到隐蔽效果的配件。值得注意的是，消音并非完全的静音，所以保持安全距离寻找掩体依然是有必要的，一定不要被影视作品误导。",
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_1",
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13002,
+      "HBJAHCGKJJD": "红点瞄准镜",
+      "GFMDILIKGLM": "一种无放大效果的光学瞄准镜。因有通常设置为红色的瞄准点而得名，其瞄准点只有射击者可见。虽然可以一定程度上提高近距离射击的精准度，但研发人员还是建议描边大师们配合辅助瞄准系统使用。",
+      "DNHAGPFHGCE": "WeaponPart_Scope_1",
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13003,
+      "HBJAHCGKJJD": "垂直握把",
+      "GFMDILIKGLM": "造型传统的垂直握把，采用轻质高新材料制成。可以有效降低射击后坐力所带来的的影响。“握把只是辅助配件，请不要把射击不精准归因到握把质量上。”",
+      "DNHAGPFHGCE": "WeaponPart_Grip_1",
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13004,
+      "HBJAHCGKJJD": "激光指示器",
+      "GFMDILIKGLM": "安装在导轨部分可以投射激光光束的瞄准辅助类配件。其激光束会在被瞄准对象身上投射出光亮瞄准点，因而也会变相成为一种威慑装置。合理利用这一特点配合信息差的话，即使火力不足或许也能依靠威慑度过难关。",
+      "DNHAGPFHGCE": "WeaponPart_Fishbone_1",
+      "BKCIGACKEFD": 4,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13005,
+      "HBJAHCGKJJD": "钢制枪弹",
+      "GFMDILIKGLM": "材料成本相对低廉的子弹类型，质轻便于携带。然而由于材质特性问题，容易引发枪械炸膛。因为价格便宜意外拥有不错的销量，不少赏金猎人和瓦良格帮的人都在使用这种类型的子弹。",
+      "DNHAGPFHGCE": "WeaponPart_Bullet_1",
+      "BKCIGACKEFD": 5,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13006,
+      "HBJAHCGKJJD": "熔断光刃",
+      "GFMDILIKGLM": "利用逆向坍塌技术拟态的光刃。通过粒子碰撞产生高温的利刃，在切割的同时可以快速熔断切口的周围结构，有效防止再生与快速修复。除了战斗之外，还是野外生存的好帮手，一刀插下去鱼就会变熟，只是一定不要用它来切蛋糕，会糊的。",
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_1",
+      "BKCIGACKEFD": 6,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13007,
+      "HBJAHCGKJJD": "碳纤刀握",
+      "GFMDILIKGLM": "碳纤制成的握把，轻质且坚韧。流线型的设计诉说着工业社会的发展。但是初代设计因为过于追求美观而忽略了实用性——光滑的外装导致极易脱手。“战斗没开始，先缴械了算怎么回事？！”",
+      "DNHAGPFHGCE": "WeaponPart_Handle_5",
+      "BKCIGACKEFD": 7,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13008,
+      "HBJAHCGKJJD": "钛钢目钉",
+      "GFMDILIKGLM": "由钛钢材料制作的固定用零件，因其外形与过去刀剑上所使用的目钉而得名。“这和螺丝钉有区别吗？真不是奸商为了骗钱瞎编的名字吗？“克罗丽科对此总是充满了质疑。",
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_2",
+      "BKCIGACKEFD": 8,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13009,
+      "HBJAHCGKJJD": "单分子覆膜",
+      "GFMDILIKGLM": "单个大分子经由特殊排序形成的膜状涂层，这种排序结构极为稳定，可以长时间有效保护其附着对象。虽然确实可以减少金属的磨损，但涂在脸上不会有任何好处，希望每一位少女都能明白。",
+      "DNHAGPFHGCE": "WeaponPart_Texture_2",
+      "BKCIGACKEFD": 9,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13010,
+      "HBJAHCGKJJD": "消焰器",
+      "GFMDILIKGLM": "附加在枪械上，消减由射击产生的火焰的小型配件。除了提供隐蔽性之外，对于射击者的视力也会起到一定的保护作用。研发人员提醒，加装了消焰器的枪械在射击时依然存在硝烟，不要过于依赖其隐蔽作用。",
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_2",
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13011,
+      "HBJAHCGKJJD": "高倍瞄准镜",
+      "GFMDILIKGLM": "拥有多重光学透镜的高倍率瞄准镜，倍率可根据使用者需要进行实时调整。“即使视力再差也能让您看得清清楚楚。”",
+      "DNHAGPFHGCE": "WeaponPart_Scope_2",
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13012,
+      "HBJAHCGKJJD": "直角前握把",
+      "GFMDILIKGLM": "呈三角形的前握把，除却一般前握把的功能外，因其造型特点，它还有着可以辅助特殊射击姿势的优势。",
+      "DNHAGPFHGCE": "WeaponPart_Grip_2",
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13013,
+      "HBJAHCGKJJD": "战术灯",
+      "GFMDILIKGLM": "安装在导轨部分，适用于低亮度作战环境的辅助类配件。除了提升视野亮度的作用外，其发出的强烈光线还可以令敌人陷入短暂的失明状态，从而丰富战术。战术灯与枪口平行，所以当你被照射时，其实也等同于被瞄准了。“这束光，并非是希望。”",
+      "DNHAGPFHGCE": "WeaponPart_Fishbone_2",
+      "BKCIGACKEFD": 4,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13014,
+      "HBJAHCGKJJD": "黄铜枪弹",
+      "GFMDILIKGLM": "最常见材质打造的子弹类型。因其材质特点，有着良好的延展性和润滑性，可以为射击者带来丝滑流畅的战斗体验。虽然价格相对昂贵一些，但是出于安全性考虑，大部分的队伍都会选用这一类子弹。毕竟比起钱，还是命更重要。",
+      "DNHAGPFHGCE": "WeaponPart_Bullet_2",
+      "BKCIGACKEFD": 5,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13015,
+      "HBJAHCGKJJD": "离子切割刃",
+      "GFMDILIKGLM": "利用粒子间的强互作用力形成的光刃，其坚硬程度远超想象。因为通体由惰性粒子构成，所以不存在利刃易折的隐患。挥动时粒子在作用力之下会散发出耀眼的光辉，帅气程度让隔壁的小孩都羡慕哭了。",
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_2",
+      "BKCIGACKEFD": 6,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13016,
+      "HBJAHCGKJJD": "合金刀握",
+      "GFMDILIKGLM": "特殊合金制成的握把，配重较重，适合于喜欢利用惯性进行作战的使用者。由于手感和造型相对古典，很多设计者也为此津津乐道，认为这是文化与科技的融合，是真正的两开花。",
+      "DNHAGPFHGCE": "WeaponPart_Handle_6",
+      "BKCIGACKEFD": 7,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13017,
+      "HBJAHCGKJJD": "贯接二重鎺",
+      "GFMDILIKGLM": "置于武器贯接处起到缓冲和链接作用的小型组件。因样式与过去刀剑上所使用的鎺金类似而得名。普普通通的样子普普通通的材质普普通通的价格，但是名字却很特别呢。",
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_1",
+      "BKCIGACKEFD": 8,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 13018,
+      "HBJAHCGKJJD": "离散粒子发生器",
+      "GFMDILIKGLM": "提供具有催化性质粒子的小型发生器，在释放出催化粒子后，可以有效刺激用周围环境中的坍塌粒子活性，从而对战斗产生增益效果。工作人员为区分不同类型的催化粒子而为其标记了专属颜色。“哇，这个东西释放出来比应援棒看着还厉害呢。指挥官，替维普蕾选一个应援色吧。”",
+      "DNHAGPFHGCE": "WeaponPart_Texture_1",
+      "BKCIGACKEFD": 9,
+      "JCICKJAEAKF": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 8,
+      "AHLCHALJENL": 8,
+      "OLGMOCBAHJI": {
+        "13": 300
+      }
+    },
+    {
+      "LGJCPENNFBC": 14001,
+      "HBJAHCGKJJD": "消音器",
+      "GFMDILIKGLM": "附加在枪械上通过有效降低射击产生的声音而达到隐蔽效果的配件。值得注意的是，消音并非完全的静音，所以保持安全距离寻找掩体依然是有必要的，一定不要被影视作品误导。",
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_1",
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14002,
+      "HBJAHCGKJJD": "红点瞄准镜",
+      "GFMDILIKGLM": "一种无放大效果的光学瞄准镜。因有通常设置为红色的瞄准点而得名，其瞄准点只有射击者可见。虽然可以一定程度上提高近距离射击的精准度，但研发人员还是建议描边大师们配合辅助瞄准系统使用。",
+      "DNHAGPFHGCE": "WeaponPart_Scope_1",
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14003,
+      "HBJAHCGKJJD": "垂直握把",
+      "GFMDILIKGLM": "造型传统的垂直握把，采用轻质高新材料制成。可以有效降低射击后坐力所带来的的影响。“握把只是辅助配件，请不要把射击不精准归因到握把质量上。”",
+      "DNHAGPFHGCE": "WeaponPart_Grip_1",
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14004,
+      "HBJAHCGKJJD": "激光指示器",
+      "GFMDILIKGLM": "安装在导轨部分可以投射激光光束的瞄准辅助类配件。其激光束会在被瞄准对象身上投射出光亮瞄准点，因而也会变相成为一种威慑装置。合理利用这一特点配合信息差的话，即使火力不足或许也能依靠威慑度过难关。",
+      "DNHAGPFHGCE": "WeaponPart_Fishbone_1",
+      "BKCIGACKEFD": 4,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14005,
+      "HBJAHCGKJJD": "钢制枪弹",
+      "GFMDILIKGLM": "材料成本相对低廉的子弹类型，质轻便于携带。然而由于材质特性问题，容易引发枪械炸膛。因为价格便宜意外拥有不错的销量，不少赏金猎人和瓦良格帮的人都在使用这种类型的子弹。",
+      "DNHAGPFHGCE": "WeaponPart_Bullet_1",
+      "BKCIGACKEFD": 5,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14006,
+      "HBJAHCGKJJD": "熔断光刃",
+      "GFMDILIKGLM": "利用逆向坍塌技术拟态的光刃。通过粒子碰撞产生高温的利刃，在切割的同时可以快速熔断切口的周围结构，有效防止再生与快速修复。除了战斗之外，还是野外生存的好帮手，一刀插下去鱼就会变熟，只是一定不要用它来切蛋糕，会糊的。",
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_1",
+      "BKCIGACKEFD": 6,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14007,
+      "HBJAHCGKJJD": "碳纤刀握",
+      "GFMDILIKGLM": "碳纤制成的握把，轻质且坚韧。流线型的设计诉说着工业社会的发展。但是初代设计因为过于追求美观而忽略了实用性——光滑的外装导致极易脱手。“战斗没开始，先缴械了算怎么回事？！”",
+      "DNHAGPFHGCE": "WeaponPart_Handle_5",
+      "BKCIGACKEFD": 7,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14008,
+      "HBJAHCGKJJD": "钛钢目钉",
+      "GFMDILIKGLM": "由钛钢材料制作的固定用零件，因其外形与过去刀剑上所使用的目钉而得名。“这和螺丝钉有区别吗？真不是奸商为了骗钱瞎编的名字吗？“克罗丽科对此总是充满了质疑。",
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_2",
+      "BKCIGACKEFD": 8,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14009,
+      "HBJAHCGKJJD": "单分子覆膜",
+      "GFMDILIKGLM": "单个大分子经由特殊排序形成的膜状涂层，这种排序结构极为稳定，可以长时间有效保护其附着对象。虽然确实可以减少金属的磨损，但涂在脸上不会有任何好处，希望每一位少女都能明白。",
+      "DNHAGPFHGCE": "WeaponPart_Texture_2",
+      "BKCIGACKEFD": 9,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14010,
+      "HBJAHCGKJJD": "消焰器",
+      "GFMDILIKGLM": "附加在枪械上，消减由射击产生的火焰的小型配件。除了提供隐蔽性之外，对于射击者的视力也会起到一定的保护作用。研发人员提醒，加装了消焰器的枪械在射击时依然存在硝烟，不要过于依赖其隐蔽作用。",
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_2",
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14011,
+      "HBJAHCGKJJD": "高倍瞄准镜",
+      "GFMDILIKGLM": "拥有多重光学透镜的高倍率瞄准镜，倍率可根据使用者需要进行实时调整。“即使视力再差也能让您看得清清楚楚。”",
+      "DNHAGPFHGCE": "WeaponPart_Scope_2",
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 2,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14012,
+      "HBJAHCGKJJD": "直角前握把",
+      "GFMDILIKGLM": "呈三角形的前握把，除却一般前握把的功能外，因其造型特点，它还有着可以辅助特殊射击姿势的优势。",
+      "DNHAGPFHGCE": "WeaponPart_Grip_2",
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14013,
+      "HBJAHCGKJJD": "战术灯",
+      "GFMDILIKGLM": "安装在导轨部分，适用于低亮度作战环境的辅助类配件。除了提升视野亮度的作用外，其发出的强烈光线还可以令敌人陷入短暂的失明状态，从而丰富战术。战术灯与枪口平行，所以当你被照射时，其实也等同于被瞄准了。“这束光，并非是希望。”",
+      "DNHAGPFHGCE": "WeaponPart_Fishbone_2",
+      "BKCIGACKEFD": 4,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14014,
+      "HBJAHCGKJJD": "黄铜枪弹",
+      "GFMDILIKGLM": "最常见材质打造的子弹类型。因其材质特点，有着良好的延展性和润滑性，可以为射击者带来丝滑流畅的战斗体验。虽然价格相对昂贵一些，但是出于安全性考虑，大部分的队伍都会选用这一类子弹。毕竟比起钱，还是命更重要。",
+      "DNHAGPFHGCE": "WeaponPart_Bullet_2",
+      "BKCIGACKEFD": 5,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 2,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14015,
+      "HBJAHCGKJJD": "离子切割刃",
+      "GFMDILIKGLM": "利用粒子间的强互作用力形成的光刃，其坚硬程度远超想象。因为通体由惰性粒子构成，所以不存在利刃易折的隐患。挥动时粒子在作用力之下会散发出耀眼的光辉，帅气程度让隔壁的小孩都羡慕哭了。",
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_2",
+      "BKCIGACKEFD": 6,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14016,
+      "HBJAHCGKJJD": "合金刀握",
+      "GFMDILIKGLM": "特殊合金制成的握把，配重较重，适合于喜欢利用惯性进行作战的使用者。由于手感和造型相对古典，很多设计者也为此津津乐道，认为这是文化与科技的融合，是真正的两开花。",
+      "DNHAGPFHGCE": "WeaponPart_Handle_6",
+      "BKCIGACKEFD": 7,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 2,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14017,
+      "HBJAHCGKJJD": "贯接二重鎺",
+      "GFMDILIKGLM": "置于武器贯接处起到缓冲和链接作用的小型组件。因样式与过去刀剑上所使用的鎺金类似而得名。普普通通的样子普普通通的材质普普通通的价格，但是名字却很特别呢。",
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_1",
+      "BKCIGACKEFD": 8,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14018,
+      "HBJAHCGKJJD": "离散粒子发生器",
+      "GFMDILIKGLM": "提供具有催化性质粒子的小型发生器，在释放出催化粒子后，可以有效刺激用周围环境中的坍塌粒子活性，从而对战斗产生增益效果。工作人员为区分不同类型的催化粒子而为其标记了专属颜色。“哇，这个东西释放出来比应援棒看着还厉害呢。指挥官，替维普蕾选一个应援色吧。”",
+      "DNHAGPFHGCE": "WeaponPart_Texture_1",
+      "BKCIGACKEFD": 9,
+      "JCICKJAEAKF": 4,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 1,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 12,
+      "AHLCHALJENL": 12,
+      "OLGMOCBAHJI": {
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 15001,
+      "HBJAHCGKJJD": "消音器",
+      "GFMDILIKGLM": "附加在枪械上通过有效降低射击产生的声音而达到隐蔽效果的配件。值得注意的是，消音并非完全的静音，所以保持安全距离寻找掩体依然是有必要的，一定不要被影视作品误导。",
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_1",
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15002,
+      "HBJAHCGKJJD": "红点瞄准镜",
+      "GFMDILIKGLM": "一种无放大效果的光学瞄准镜。因有通常设置为红色的瞄准点而得名，其瞄准点只有射击者可见。虽然可以一定程度上提高近距离射击的精准度，但研发人员还是建议描边大师们配合辅助瞄准系统使用。",
+      "DNHAGPFHGCE": "WeaponPart_Scope_1",
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 3,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15003,
+      "HBJAHCGKJJD": "垂直握把",
+      "GFMDILIKGLM": "造型传统的垂直握把，采用轻质高新材料制成。可以有效降低射击后坐力所带来的的影响。“握把只是辅助配件，请不要把射击不精准归因到握把质量上。”",
+      "DNHAGPFHGCE": "WeaponPart_Grip_1",
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 4,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15004,
+      "HBJAHCGKJJD": "激光指示器",
+      "GFMDILIKGLM": "安装在导轨部分可以投射激光光束的瞄准辅助类配件。其激光束会在被瞄准对象身上投射出光亮瞄准点，因而也会变相成为一种威慑装置。合理利用这一特点配合信息差的话，即使火力不足或许也能依靠威慑度过难关。",
+      "DNHAGPFHGCE": "WeaponPart_Fishbone_1",
+      "BKCIGACKEFD": 4,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15005,
+      "HBJAHCGKJJD": "钢制枪弹",
+      "GFMDILIKGLM": "材料成本相对低廉的子弹类型，质轻便于携带。然而由于材质特性问题，容易引发枪械炸膛。因为价格便宜意外拥有不错的销量，不少赏金猎人和瓦良格帮的人都在使用这种类型的子弹。",
+      "DNHAGPFHGCE": "WeaponPart_Bullet_1",
+      "BKCIGACKEFD": 5,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 4,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15006,
+      "HBJAHCGKJJD": "熔断光刃",
+      "GFMDILIKGLM": "利用逆向坍塌技术拟态的光刃。通过粒子碰撞产生高温的利刃，在切割的同时可以快速熔断切口的周围结构，有效防止再生与快速修复。除了战斗之外，还是野外生存的好帮手，一刀插下去鱼就会变熟，只是一定不要用它来切蛋糕，会糊的。",
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_1",
+      "BKCIGACKEFD": 6,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 4,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15007,
+      "HBJAHCGKJJD": "碳纤刀握",
+      "GFMDILIKGLM": "碳纤制成的握把，轻质且坚韧。流线型的设计诉说着工业社会的发展。但是初代设计因为过于追求美观而忽略了实用性——光滑的外装导致极易脱手。“战斗没开始，先缴械了算怎么回事？！”",
+      "DNHAGPFHGCE": "WeaponPart_Handle_5",
+      "BKCIGACKEFD": 7,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 5,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15008,
+      "HBJAHCGKJJD": "钛钢目钉",
+      "GFMDILIKGLM": "由钛钢材料制作的固定用零件，因其外形与过去刀剑上所使用的目钉而得名。“这和螺丝钉有区别吗？真不是奸商为了骗钱瞎编的名字吗？“克罗丽科对此总是充满了质疑。",
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_2",
+      "BKCIGACKEFD": 8,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 5,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15009,
+      "HBJAHCGKJJD": "单分子覆膜",
+      "GFMDILIKGLM": "单个大分子经由特殊排序形成的膜状涂层，这种排序结构极为稳定，可以长时间有效保护其附着对象。虽然确实可以减少金属的磨损，但涂在脸上不会有任何好处，希望每一位少女都能明白。",
+      "DNHAGPFHGCE": "WeaponPart_Texture_2",
+      "BKCIGACKEFD": 9,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15010,
+      "HBJAHCGKJJD": "消焰器",
+      "GFMDILIKGLM": "附加在枪械上，消减由射击产生的火焰的小型配件。除了提供隐蔽性之外，对于射击者的视力也会起到一定的保护作用。研发人员提醒，加装了消焰器的枪械在射击时依然存在硝烟，不要过于依赖其隐蔽作用。",
+      "DNHAGPFHGCE": "WeaponPart_Muzzle_2",
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15011,
+      "HBJAHCGKJJD": "高倍瞄准镜",
+      "GFMDILIKGLM": "拥有多重光学透镜的高倍率瞄准镜，倍率可根据使用者需要进行实时调整。“即使视力再差也能让您看得清清楚楚。”",
+      "DNHAGPFHGCE": "WeaponPart_Scope_2",
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 4,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15012,
+      "HBJAHCGKJJD": "直角前握把",
+      "GFMDILIKGLM": "呈三角形的前握把，除却一般前握把的功能外，因其造型特点，它还有着可以辅助特殊射击姿势的优势。",
+      "DNHAGPFHGCE": "WeaponPart_Grip_2",
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 4,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15013,
+      "HBJAHCGKJJD": "战术灯",
+      "GFMDILIKGLM": "安装在导轨部分，适用于低亮度作战环境的辅助类配件。除了提升视野亮度的作用外，其发出的强烈光线还可以令敌人陷入短暂的失明状态，从而丰富战术。战术灯与枪口平行，所以当你被照射时，其实也等同于被瞄准了。“这束光，并非是希望。”",
+      "DNHAGPFHGCE": "WeaponPart_Fishbone_2",
+      "BKCIGACKEFD": 4,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 5,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15014,
+      "HBJAHCGKJJD": "黄铜枪弹",
+      "GFMDILIKGLM": "最常见材质打造的子弹类型。因其材质特点，有着良好的延展性和润滑性，可以为射击者带来丝滑流畅的战斗体验。虽然价格相对昂贵一些，但是出于安全性考虑，大部分的队伍都会选用这一类子弹。毕竟比起钱，还是命更重要。",
+      "DNHAGPFHGCE": "WeaponPart_Bullet_2",
+      "BKCIGACKEFD": 5,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 3,
+      "EEPGAIBJAPC": "suppress_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15015,
+      "HBJAHCGKJJD": "离子切割刃",
+      "GFMDILIKGLM": "利用粒子间的强互作用力形成的光刃，其坚硬程度远超想象。因为通体由惰性粒子构成，所以不存在利刃易折的隐患。挥动时粒子在作用力之下会散发出耀眼的光辉，帅气程度让隔壁的小孩都羡慕哭了。",
+      "DNHAGPFHGCE": "WeaponPart_Ensharp_2",
+      "BKCIGACKEFD": 6,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 3,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15016,
+      "HBJAHCGKJJD": "合金刀握",
+      "GFMDILIKGLM": "特殊合金制成的握把，配重较重，适合于喜欢利用惯性进行作战的使用者。由于手感和造型相对古典，很多设计者也为此津津乐道，认为这是文化与科技的融合，是真正的两开花。",
+      "DNHAGPFHGCE": "WeaponPart_Handle_6",
+      "BKCIGACKEFD": 7,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 4,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15017,
+      "HBJAHCGKJJD": "贯接二重鎺",
+      "GFMDILIKGLM": "置于武器贯接处起到缓冲和链接作用的小型组件。因样式与过去刀剑上所使用的鎺金类似而得名。普普通通的样子普普通通的材质普普通通的价格，但是名字却很特别呢。",
+      "DNHAGPFHGCE": "WeaponPart_Lightweight_1",
+      "BKCIGACKEFD": 8,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 4,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 15018,
+      "HBJAHCGKJJD": "离散粒子发生器",
+      "GFMDILIKGLM": "提供具有催化性质粒子的小型发生器，在释放出催化粒子后，可以有效刺激用周围环境中的坍塌粒子活性，从而对战斗产生增益效果。工作人员为区分不同类型的催化粒子而为其标记了专属颜色。“哇，这个东西释放出来比应援棒看着还厉害呢。指挥官，替维普蕾选一个应援色吧。”",
+      "DNHAGPFHGCE": "WeaponPart_Texture_1",
+      "BKCIGACKEFD": 9,
+      "JCICKJAEAKF": 5,
+      "OLPOHAHOFGM": 1,
+      "IFOELJCGEBH": 5,
+      "EEPGAIBJAPC": "max_will_value",
+      "LIAHPLNPDIE": 15,
+      "AHLCHALJENL": 30,
+      "HJLKNOENKJP": true,
+      "OLGMOCBAHJI": {
+        "2": 1
+      }
+    }
+  ]
+}

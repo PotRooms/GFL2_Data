@@ -1,0 +1,382 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "GMOMFKEIGCE": [
+        101,
+        102,
+        103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "GMOMFKEIGCE": [
+        201,
+        202,
+        203
+      ],
+      "AOFKHOLNMHM": [
+        20302
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "GMOMFKEIGCE": [
+        301,
+        302,
+        303
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "GMOMFKEIGCE": [
+        501,
+        599,
+        502,
+        503,
+        504
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "GMOMFKEIGCE": [
+        505,
+        506
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "GMOMFKEIGCE": [
+        510,
+        511
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "GMOMFKEIGCE": [
+        1001,
+        1002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "GMOMFKEIGCE": [
+        1101,
+        1102,
+        1103,
+        1104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "GMOMFKEIGCE": [
+        1301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "GMOMFKEIGCE": [
+        1501,
+        1502,
+        1503,
+        1504,
+        1511,
+        1512,
+        1513,
+        1514,
+        1515,
+        1516,
+        1517,
+        1518,
+        1519,
+        1520,
+        1601
+      ],
+      "AOFKHOLNMHM": [
+        150301,
+        150402
+      ]
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "GMOMFKEIGCE": [
+        1602
+      ]
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "GMOMFKEIGCE": [
+        1701,
+        1702,
+        1703,
+        1711,
+        1712,
+        1713,
+        1714,
+        1715,
+        1716,
+        1717,
+        1718,
+        1719,
+        1720
+      ],
+      "AOFKHOLNMHM": [
+        170104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "GMOMFKEIGCE": [
+        1801,
+        1802,
+        1803
+      ]
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "GMOMFKEIGCE": [
+        1901,
+        1902,
+        1903,
+        1911,
+        1912,
+        1913,
+        1914,
+        1915,
+        1916,
+        1917,
+        1918,
+        1919,
+        1920
+      ],
+      "AOFKHOLNMHM": [
+        190104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "GMOMFKEIGCE": [
+        2001,
+        2002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "GMOMFKEIGCE": [
+        2102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "GMOMFKEIGCE": [
+        2202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "GMOMFKEIGCE": [
+        2302,
+        2303,
+        2304,
+        2305
+      ]
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "GMOMFKEIGCE": [
+        2401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "GMOMFKEIGCE": [
+        2501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "GMOMFKEIGCE": [
+        2601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "GMOMFKEIGCE": [
+        2701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "GMOMFKEIGCE": [
+        2801
+      ]
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "GMOMFKEIGCE": [
+        2901
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "GMOMFKEIGCE": [
+        3001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "GMOMFKEIGCE": [
+        3501
+      ],
+      "AOFKHOLNMHM": [
+        350104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "GMOMFKEIGCE": [
+        3601
+      ]
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "GMOMFKEIGCE": [
+        3701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "GMOMFKEIGCE": [
+        3901
+      ]
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "GMOMFKEIGCE": [
+        4101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "GMOMFKEIGCE": [
+        4301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "GMOMFKEIGCE": [
+        4401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "GMOMFKEIGCE": [
+        4501
+      ]
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "GMOMFKEIGCE": [
+        4701,
+        4702,
+        4703
+      ]
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "GMOMFKEIGCE": [
+        4800
+      ]
+    },
+    {
+      "LGJCPENNFBC": 49,
+      "GMOMFKEIGCE": [
+        4900
+      ]
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "GMOMFKEIGCE": [
+        5001,
+        5002,
+        5003,
+        5004
+      ],
+      "AOFKHOLNMHM": [
+        500202
+      ]
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "GMOMFKEIGCE": [
+        5101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 52,
+      "GMOMFKEIGCE": [
+        5102
+      ]
+    },
+    {
+      "LGJCPENNFBC": 53,
+      "GMOMFKEIGCE": [
+        5103
+      ]
+    },
+    {
+      "LGJCPENNFBC": 54,
+      "GMOMFKEIGCE": [
+        5104
+      ]
+    },
+    {
+      "LGJCPENNFBC": 55,
+      "GMOMFKEIGCE": [
+        5201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 57,
+      "GMOMFKEIGCE": [
+        5701
+      ]
+    },
+    {
+      "LGJCPENNFBC": 58,
+      "GMOMFKEIGCE": [
+        5801
+      ]
+    },
+    {
+      "LGJCPENNFBC": 59,
+      "GMOMFKEIGCE": [
+        5901
+      ]
+    },
+    {
+      "LGJCPENNFBC": 60,
+      "GMOMFKEIGCE": [
+        6001
+      ]
+    },
+    {
+      "LGJCPENNFBC": 61,
+      "GMOMFKEIGCE": [
+        6002
+      ]
+    },
+    {
+      "LGJCPENNFBC": 62,
+      "GMOMFKEIGCE": [
+        6003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 63,
+      "GMOMFKEIGCE": [
+        6004
+      ]
+    }
+  ]
+}

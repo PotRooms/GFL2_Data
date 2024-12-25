@@ -1,0 +1,4740 @@
+{
+  "data": [
+    {
+      "EICAPFLICKC": 102210101,
+      "LGJCPENNFBC": 1022101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102210102,
+      "LGJCPENNFBC": 1022101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 103410601,
+      "LGJCPENNFBC": 1034106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 103420101,
+      "LGJCPENNFBC": 1034201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1"
+    },
+    {
+      "EICAPFLICKC": 103420102,
+      "LGJCPENNFBC": 1034201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40"
+    },
+    {
+      "EICAPFLICKC": 103420103,
+      "LGJCPENNFBC": 1034201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103420104,
+      "LGJCPENNFBC": 1034201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103420105,
+      "LGJCPENNFBC": 1034201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10341,
+        10342,
+        10343
+      ]
+    },
+    {
+      "EICAPFLICKC": 103810801,
+      "LGJCPENNFBC": 1038108,
+      "BKCIGACKEFD": 108,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103610701,
+      "LGJCPENNFBC": 1036107,
+      "BKCIGACKEFD": 107,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104510301,
+      "LGJCPENNFBC": 1045103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100110201,
+      "LGJCPENNFBC": 1001102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100110202,
+      "LGJCPENNFBC": 1001102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100110203,
+      "LGJCPENNFBC": 1001102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11007,
+        11022
+      ]
+    },
+    {
+      "EICAPFLICKC": 103610201,
+      "LGJCPENNFBC": 1036102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103610202,
+      "LGJCPENNFBC": 1036102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103610203,
+      "LGJCPENNFBC": 1036102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10361,
+        10362
+      ]
+    },
+    {
+      "EICAPFLICKC": 104410201,
+      "LGJCPENNFBC": 1044102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 104410202,
+      "LGJCPENNFBC": 1044102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10441,
+        10442,
+        10443
+      ]
+    },
+    {
+      "EICAPFLICKC": 100810401,
+      "LGJCPENNFBC": 1008104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "165,230",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 101710201,
+      "LGJCPENNFBC": 1017102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101710202,
+      "LGJCPENNFBC": 1017102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101710203,
+      "LGJCPENNFBC": 1017102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11023,
+        11010
+      ]
+    },
+    {
+      "EICAPFLICKC": 102610601,
+      "LGJCPENNFBC": 1026106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "100,300",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 102820101,
+      "LGJCPENNFBC": 1028201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102820102,
+      "LGJCPENNFBC": 1028201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11056,
+        11055,
+        11054
+      ]
+    },
+    {
+      "EICAPFLICKC": 102820103,
+      "LGJCPENNFBC": 1028201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102820104,
+      "LGJCPENNFBC": 1028201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102820105,
+      "LGJCPENNFBC": 1028201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "OFDECBIIOHL": 2,
+      "ANOMMNJDKMK": "158,232"
+    },
+    {
+      "EICAPFLICKC": 103710101,
+      "LGJCPENNFBC": 1037101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103710102,
+      "LGJCPENNFBC": 1037101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 103910201,
+      "LGJCPENNFBC": 1039102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103910202,
+      "LGJCPENNFBC": 1039102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10391,
+        10392,
+        10393
+      ]
+    },
+    {
+      "EICAPFLICKC": 104010602,
+      "LGJCPENNFBC": 1040106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 105010301,
+      "LGJCPENNFBC": 1050103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 102410801,
+      "LGJCPENNFBC": 1024108,
+      "BKCIGACKEFD": 108,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102610201,
+      "LGJCPENNFBC": 1026102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102610202,
+      "LGJCPENNFBC": 1026102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102610203,
+      "LGJCPENNFBC": 1026102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11049,
+        11048
+      ]
+    },
+    {
+      "EICAPFLICKC": 102810401,
+      "LGJCPENNFBC": 1028104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "158,232"
+    },
+    {
+      "EICAPFLICKC": 104410601,
+      "LGJCPENNFBC": 1044106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 105010101,
+      "LGJCPENNFBC": 1050101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 1013151101,
+      "LGJCPENNFBC": 10131511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1045151001,
+      "LGJCPENNFBC": 10451510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102110201,
+      "LGJCPENNFBC": 1021102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102110202,
+      "LGJCPENNFBC": 1021102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102110203,
+      "LGJCPENNFBC": 1021102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11026,
+        11024,
+        11020
+      ]
+    },
+    {
+      "EICAPFLICKC": 102410401,
+      "LGJCPENNFBC": 1024104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102710201,
+      "LGJCPENNFBC": 1027102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102710202,
+      "LGJCPENNFBC": 1027102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102710203,
+      "LGJCPENNFBC": 1027102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11044,
+        11043,
+        11042
+      ]
+    },
+    {
+      "EICAPFLICKC": 102920101,
+      "LGJCPENNFBC": 1029201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102920102,
+      "LGJCPENNFBC": 1029201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11047,
+        11046,
+        11045
+      ]
+    },
+    {
+      "EICAPFLICKC": 102920103,
+      "LGJCPENNFBC": 1029201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5
+    },
+    {
+      "EICAPFLICKC": 102920104,
+      "LGJCPENNFBC": 1029201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102920105,
+      "LGJCPENNFBC": 1029201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "OFDECBIIOHL": 1,
+      "ANOMMNJDKMK": "5,45",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 102920106,
+      "LGJCPENNFBC": 1029201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "OFDECBIIOHL": 1,
+      "ANOMMNJDKMK": "-25,-5",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 103920101,
+      "LGJCPENNFBC": 1039201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103920102,
+      "LGJCPENNFBC": 1039201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 103920103,
+      "LGJCPENNFBC": 1039201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103920104,
+      "LGJCPENNFBC": 1039201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103920105,
+      "LGJCPENNFBC": 1039201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10391,
+        10392,
+        10393
+      ]
+    },
+    {
+      "EICAPFLICKC": 1032151001,
+      "LGJCPENNFBC": 10321510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1023151001,
+      "LGJCPENNFBC": 10231510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100810601,
+      "LGJCPENNFBC": 1008106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-25,50",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 102910101,
+      "LGJCPENNFBC": 1029101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102910102,
+      "LGJCPENNFBC": 1029101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102910103,
+      "LGJCPENNFBC": 1029101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100
+    },
+    {
+      "EICAPFLICKC": 102910701,
+      "LGJCPENNFBC": 1029107,
+      "BKCIGACKEFD": 107,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Candy",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102930101
+    },
+    {
+      "EICAPFLICKC": 103210601,
+      "LGJCPENNFBC": 1032106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,34",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 104410101,
+      "LGJCPENNFBC": 1044101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 105210201,
+      "LGJCPENNFBC": 1052102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 105210202,
+      "LGJCPENNFBC": 1052102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10521,
+        10522,
+        10523
+      ]
+    },
+    {
+      "EICAPFLICKC": 1015151001,
+      "LGJCPENNFBC": 10151510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1039151101,
+      "LGJCPENNFBC": 10391511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 101310101,
+      "LGJCPENNFBC": 1013101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1",
+      "EJMFKMNKODP": "0.8,1"
+    },
+    {
+      "EICAPFLICKC": 101310102,
+      "LGJCPENNFBC": 1013101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.1,1"
+    },
+    {
+      "EICAPFLICKC": 101310201,
+      "LGJCPENNFBC": 1013102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101310202,
+      "LGJCPENNFBC": 1013102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10131,
+        10132,
+        10133
+      ]
+    },
+    {
+      "EICAPFLICKC": 101310203,
+      "LGJCPENNFBC": 1013102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101510101,
+      "LGJCPENNFBC": 1015101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101510102,
+      "LGJCPENNFBC": 1015101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001",
+      "EJMFKMNKODP": "0.8,1"
+    },
+    {
+      "EICAPFLICKC": 101510103,
+      "LGJCPENNFBC": 1015101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-1,25",
+      "KNNMKMAIAPG": "0.15,0.35"
+    },
+    {
+      "EICAPFLICKC": 103720101,
+      "LGJCPENNFBC": 1037201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103720102,
+      "LGJCPENNFBC": 1037201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103720103,
+      "LGJCPENNFBC": 1037201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103720104,
+      "LGJCPENNFBC": 1037201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103720105,
+      "LGJCPENNFBC": 1037201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10371,
+        10372,
+        10373
+      ]
+    },
+    {
+      "EICAPFLICKC": 103830101,
+      "LGJCPENNFBC": 1038301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        103830102,
+        103810701
+      ],
+      "BFCIIJBPPJG": true,
+      "CDBJFPLPKBD": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_PocketIdle",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 103810601
+    },
+    {
+      "EICAPFLICKC": 103830102,
+      "LGJCPENNFBC": 1038301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_PocketBack",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 103830101
+    },
+    {
+      "EICAPFLICKC": 1013151001,
+      "LGJCPENNFBC": 10131510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1032151101,
+      "LGJCPENNFBC": 10321511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104520101,
+      "LGJCPENNFBC": 1045201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 104520102,
+      "LGJCPENNFBC": 1045201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10451,
+        10452,
+        10453
+      ]
+    },
+    {
+      "EICAPFLICKC": 104520103,
+      "LGJCPENNFBC": 1045201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 104520104,
+      "LGJCPENNFBC": 1045201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104520105,
+      "LGJCPENNFBC": 1045201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100110701,
+      "LGJCPENNFBC": 1001107,
+      "BKCIGACKEFD": 107,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-70,50",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 100820101,
+      "LGJCPENNFBC": 1008201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100820102,
+      "LGJCPENNFBC": 1008201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11009,
+        11014
+      ]
+    },
+    {
+      "EICAPFLICKC": 100820103,
+      "LGJCPENNFBC": 1008201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100820104,
+      "LGJCPENNFBC": 1008201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "ANOMMNJDKMK": "165,230",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 100820105,
+      "LGJCPENNFBC": 1008201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102610101,
+      "LGJCPENNFBC": 1026101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102610102,
+      "LGJCPENNFBC": 1026101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1"
+    },
+    {
+      "EICAPFLICKC": 102610103,
+      "LGJCPENNFBC": 1026101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-1,25",
+      "KNNMKMAIAPG": "0.15,0.35"
+    },
+    {
+      "EICAPFLICKC": 102810101,
+      "LGJCPENNFBC": 1028101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102810102,
+      "LGJCPENNFBC": 1028101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 103620101,
+      "LGJCPENNFBC": 1036201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103620102,
+      "LGJCPENNFBC": 1036201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 103620103,
+      "LGJCPENNFBC": 1036201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103620104,
+      "LGJCPENNFBC": 1036201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103620105,
+      "LGJCPENNFBC": 1036201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10361,
+        10362
+      ]
+    },
+    {
+      "EICAPFLICKC": 104010101,
+      "LGJCPENNFBC": 1040101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 104010102,
+      "LGJCPENNFBC": 1040101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 104510601,
+      "LGJCPENNFBC": 1045106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 105210601,
+      "LGJCPENNFBC": 1052106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102410201,
+      "LGJCPENNFBC": 1024102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102410202,
+      "LGJCPENNFBC": 1024102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11040,
+        11039
+      ]
+    },
+    {
+      "EICAPFLICKC": 102410203,
+      "LGJCPENNFBC": 1024102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102910601,
+      "LGJCPENNFBC": 1029106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        102930101
+      ],
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 103810701,
+      "LGJCPENNFBC": 1038107,
+      "BKCIGACKEFD": 107,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Candy",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 103830101
+    },
+    {
+      "EICAPFLICKC": 1033151101,
+      "LGJCPENNFBC": 10331511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1051151001,
+      "LGJCPENNFBC": 10511510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1027151001,
+      "LGJCPENNFBC": 10271510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100910101,
+      "LGJCPENNFBC": 1009101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100910102,
+      "LGJCPENNFBC": 1009101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 101710301,
+      "LGJCPENNFBC": 1017103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101710302,
+      "LGJCPENNFBC": 1017103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-1,25",
+      "KNNMKMAIAPG": "0.15,0.35"
+    },
+    {
+      "EICAPFLICKC": 102210401,
+      "LGJCPENNFBC": 1022104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "165,230",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 102210801,
+      "LGJCPENNFBC": 1022108,
+      "BKCIGACKEFD": 108,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-60,30",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 103320101,
+      "LGJCPENNFBC": 1033201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103320102,
+      "LGJCPENNFBC": 1033201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10331,
+        10332,
+        10333
+      ]
+    },
+    {
+      "EICAPFLICKC": 103320103,
+      "LGJCPENNFBC": 1033201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1"
+    },
+    {
+      "EICAPFLICKC": 103320104,
+      "LGJCPENNFBC": 1033201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40",
+      "KNNMKMAIAPG": "0.1,1"
+    },
+    {
+      "EICAPFLICKC": 103320105,
+      "LGJCPENNFBC": 1033201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103710601,
+      "LGJCPENNFBC": 1037106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104010201,
+      "LGJCPENNFBC": 1040102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104010202,
+      "LGJCPENNFBC": 1040102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10401,
+        10402,
+        10403
+      ]
+    },
+    {
+      "EICAPFLICKC": 1035151101,
+      "LGJCPENNFBC": 10351511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102410301,
+      "LGJCPENNFBC": 1024103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102510101,
+      "LGJCPENNFBC": 1025101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102510102,
+      "LGJCPENNFBC": 1025101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102510103,
+      "LGJCPENNFBC": 1025101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103510301,
+      "LGJCPENNFBC": 1035103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 103510302,
+      "LGJCPENNFBC": 1035103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-15,15",
+      "KNNMKMAIAPG": "0,0.2",
+      "EJMFKMNKODP": "0.77,1"
+    },
+    {
+      "EICAPFLICKC": 104110101,
+      "LGJCPENNFBC": 1041101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 104110102,
+      "LGJCPENNFBC": 1041101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 1017151001,
+      "LGJCPENNFBC": 10171510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-70,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1034151001,
+      "LGJCPENNFBC": 10341510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100910601,
+      "LGJCPENNFBC": 1009106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-25,50",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 102320101,
+      "LGJCPENNFBC": 1023201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 102320102,
+      "LGJCPENNFBC": 1023201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 102320103,
+      "LGJCPENNFBC": 1023201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102320104,
+      "LGJCPENNFBC": 1023201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102320105,
+      "LGJCPENNFBC": 1023201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10231,
+        10232,
+        10233
+      ]
+    },
+    {
+      "EICAPFLICKC": 104020101,
+      "LGJCPENNFBC": 1040201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 104020102,
+      "LGJCPENNFBC": 1040201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 104020103,
+      "LGJCPENNFBC": 1040201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104020104,
+      "LGJCPENNFBC": 1040201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104020105,
+      "LGJCPENNFBC": 1040201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10401,
+        10402,
+        10403
+      ]
+    },
+    {
+      "EICAPFLICKC": 105010601,
+      "LGJCPENNFBC": 1050106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1028151001,
+      "LGJCPENNFBC": 10281510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 105110301,
+      "LGJCPENNFBC": 1051103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-80,-45",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 1009151101,
+      "LGJCPENNFBC": 10091511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102910201,
+      "LGJCPENNFBC": 1029102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102910202,
+      "LGJCPENNFBC": 1029102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102910203,
+      "LGJCPENNFBC": 1029102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11047,
+        11046,
+        11045
+      ]
+    },
+    {
+      "EICAPFLICKC": 102910401,
+      "LGJCPENNFBC": 1029104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "5,45",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 102910402,
+      "LGJCPENNFBC": 1029104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-25,-5",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 103210401,
+      "LGJCPENNFBC": 1032104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "164,206",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 104510201,
+      "LGJCPENNFBC": 1045102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104510202,
+      "LGJCPENNFBC": 1045102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10451,
+        10452,
+        10453
+      ]
+    },
+    {
+      "EICAPFLICKC": 105110201,
+      "LGJCPENNFBC": 1051102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 105110202,
+      "LGJCPENNFBC": 1051102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10511,
+        10512,
+        10513
+      ]
+    },
+    {
+      "EICAPFLICKC": 1017151101,
+      "LGJCPENNFBC": 10171511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-70,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102110401,
+      "LGJCPENNFBC": 1021104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "178,218",
+      "KNNMKMAIAPG": "0.6,1"
+    },
+    {
+      "EICAPFLICKC": 102410101,
+      "LGJCPENNFBC": 1024101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 105020101,
+      "LGJCPENNFBC": 1050201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 105020102,
+      "LGJCPENNFBC": 1050201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10501,
+        10502,
+        10503
+      ]
+    },
+    {
+      "EICAPFLICKC": 105020103,
+      "LGJCPENNFBC": 1050201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 105020104,
+      "LGJCPENNFBC": 1050201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1028151101,
+      "LGJCPENNFBC": 10281511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102810701,
+      "LGJCPENNFBC": 1028107,
+      "BKCIGACKEFD": 107,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Candy",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102830101
+    },
+    {
+      "EICAPFLICKC": 103410301,
+      "LGJCPENNFBC": 1034103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40"
+    },
+    {
+      "EICAPFLICKC": 103210101,
+      "LGJCPENNFBC": 1032101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103210102,
+      "LGJCPENNFBC": 1032101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 103220101,
+      "LGJCPENNFBC": 1032201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103220102,
+      "LGJCPENNFBC": 1032201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11053,
+        11052,
+        11051
+      ]
+    },
+    {
+      "EICAPFLICKC": 103220103,
+      "LGJCPENNFBC": 1032201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103220104,
+      "LGJCPENNFBC": 1032201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 103220105,
+      "LGJCPENNFBC": 1032201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 2,
+      "ANOMMNJDKMK": "164,206",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 103410201,
+      "LGJCPENNFBC": 1034102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103410202,
+      "LGJCPENNFBC": 1034102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10341,
+        10342,
+        10343
+      ]
+    },
+    {
+      "EICAPFLICKC": 103410203,
+      "LGJCPENNFBC": 1034102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104010301,
+      "LGJCPENNFBC": 1040103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100110303,
+      "LGJCPENNFBC": 1001103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100910701,
+      "LGJCPENNFBC": 1009107,
+      "BKCIGACKEFD": 107,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,240",
+      "KNNMKMAIAPG": "0.15,1"
+    },
+    {
+      "EICAPFLICKC": 101710101,
+      "LGJCPENNFBC": 1017101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101710102,
+      "LGJCPENNFBC": 1017101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102310101,
+      "LGJCPENNFBC": 1023101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 102310102,
+      "LGJCPENNFBC": 1023101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 102620101,
+      "LGJCPENNFBC": 1026201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102620102,
+      "LGJCPENNFBC": 1026201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11049,
+        11048
+      ]
+    },
+    {
+      "EICAPFLICKC": 102620103,
+      "LGJCPENNFBC": 1026201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102620104,
+      "LGJCPENNFBC": 1026201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 1,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1"
+    },
+    {
+      "EICAPFLICKC": 102620105,
+      "LGJCPENNFBC": 1026201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "ANOMMNJDKMK": "-1,25",
+      "KNNMKMAIAPG": "0.15,0.35"
+    },
+    {
+      "EICAPFLICKC": 103410101,
+      "LGJCPENNFBC": 1034101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1"
+    },
+    {
+      "EICAPFLICKC": 103410102,
+      "LGJCPENNFBC": 1034101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 1023151101,
+      "LGJCPENNFBC": 10231511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101510601,
+      "LGJCPENNFBC": 1015106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,230",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 102610301,
+      "LGJCPENNFBC": 1026103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102720101,
+      "LGJCPENNFBC": 1027201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102720102,
+      "LGJCPENNFBC": 1027201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11044,
+        11043,
+        11042
+      ]
+    },
+    {
+      "EICAPFLICKC": 102720103,
+      "LGJCPENNFBC": 1027201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102720104,
+      "LGJCPENNFBC": 1027201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102720105,
+      "LGJCPENNFBC": 1027201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 3,
+      "ANOMMNJDKMK": "-25,30",
+      "KNNMKMAIAPG": "0.15,0.7"
+    },
+    {
+      "EICAPFLICKC": 104010401,
+      "LGJCPENNFBC": 1040104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 1015151101,
+      "LGJCPENNFBC": 10151511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1034151101,
+      "LGJCPENNFBC": 10341511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1035151001,
+      "LGJCPENNFBC": 10351510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100810301,
+      "LGJCPENNFBC": 1008103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100920101,
+      "LGJCPENNFBC": 1009201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100920102,
+      "LGJCPENNFBC": 1009201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 11,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11015,
+        11008
+      ]
+    },
+    {
+      "EICAPFLICKC": 100920103,
+      "LGJCPENNFBC": 1009201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100920104,
+      "LGJCPENNFBC": 1009201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 100920105,
+      "LGJCPENNFBC": 1009201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "OFDECBIIOHL": 2,
+      "ANOMMNJDKMK": "150,240",
+      "KNNMKMAIAPG": "0.15,1"
+    },
+    {
+      "EICAPFLICKC": 101320101,
+      "LGJCPENNFBC": 1013201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1",
+      "EJMFKMNKODP": "0.8,1"
+    },
+    {
+      "EICAPFLICKC": 101320102,
+      "LGJCPENNFBC": 1013201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 101320103,
+      "LGJCPENNFBC": 1013201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101320104,
+      "LGJCPENNFBC": 1013201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101320105,
+      "LGJCPENNFBC": 1013201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10131,
+        10132,
+        10133
+      ]
+    },
+    {
+      "EICAPFLICKC": 102710101,
+      "LGJCPENNFBC": 1027101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102710102,
+      "LGJCPENNFBC": 1027101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102710103,
+      "LGJCPENNFBC": 1027101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-25,30",
+      "KNNMKMAIAPG": "0.15,0.7"
+    },
+    {
+      "EICAPFLICKC": 102830101,
+      "LGJCPENNFBC": 1028301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        102830102,
+        102810701
+      ],
+      "BFCIIJBPPJG": true,
+      "CDBJFPLPKBD": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_PocketIdle",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102810601
+    },
+    {
+      "EICAPFLICKC": 102830102,
+      "LGJCPENNFBC": 1028301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_PocketBack",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102830101
+    },
+    {
+      "EICAPFLICKC": 103710701,
+      "LGJCPENNFBC": 1037107,
+      "BKCIGACKEFD": 107,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 105210301,
+      "LGJCPENNFBC": 1052103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-120,-45",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 102510601,
+      "LGJCPENNFBC": 1025106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,25",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 103210201,
+      "LGJCPENNFBC": 1032102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103210202,
+      "LGJCPENNFBC": 1032102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103210203,
+      "LGJCPENNFBC": 1032102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11053,
+        11052,
+        11051
+      ]
+    },
+    {
+      "EICAPFLICKC": 103510101,
+      "LGJCPENNFBC": 1035101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1",
+      "EJMFKMNKODP": "0.8,1"
+    },
+    {
+      "EICAPFLICKC": 103510102,
+      "LGJCPENNFBC": 1035101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 103810101,
+      "LGJCPENNFBC": 1038101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103810102,
+      "LGJCPENNFBC": 1038101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 103810103,
+      "LGJCPENNFBC": 1038101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103910301,
+      "LGJCPENNFBC": 1039103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104120101,
+      "LGJCPENNFBC": 1041201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 104120102,
+      "LGJCPENNFBC": 1041201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 104120103,
+      "LGJCPENNFBC": 1041201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104120104,
+      "LGJCPENNFBC": 1041201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104120105,
+      "LGJCPENNFBC": 1041201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10411,
+        10412,
+        10413
+      ]
+    },
+    {
+      "EICAPFLICKC": 1033151001,
+      "LGJCPENNFBC": 10331510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101310601,
+      "LGJCPENNFBC": 1013106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 102310401,
+      "LGJCPENNFBC": 1023104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 103810201,
+      "LGJCPENNFBC": 1038102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103810202,
+      "LGJCPENNFBC": 1038102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103810203,
+      "LGJCPENNFBC": 1038102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10381,
+        10382
+      ]
+    },
+    {
+      "EICAPFLICKC": 105120101,
+      "LGJCPENNFBC": 1051201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 105120102,
+      "LGJCPENNFBC": 1051201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10511,
+        10512,
+        10513
+      ]
+    },
+    {
+      "EICAPFLICKC": 105120103,
+      "LGJCPENNFBC": 1051201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-80,-45",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 105120104,
+      "LGJCPENNFBC": 1051201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1022151001,
+      "LGJCPENNFBC": 10221510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1037151101,
+      "LGJCPENNFBC": 10371511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101310401,
+      "LGJCPENNFBC": 1013104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 102410601,
+      "LGJCPENNFBC": 1024106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        102430101
+      ],
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-10,10"
+    },
+    {
+      "EICAPFLICKC": 104110301,
+      "LGJCPENNFBC": 1041103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104510101,
+      "LGJCPENNFBC": 1045101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 104510102,
+      "LGJCPENNFBC": 1045101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 1041151101,
+      "LGJCPENNFBC": 10411511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 100110601,
+      "LGJCPENNFBC": 1001106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,70",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100120101,
+      "LGJCPENNFBC": 1001201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100120102,
+      "LGJCPENNFBC": 1001201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11007,
+        11022
+      ]
+    },
+    {
+      "EICAPFLICKC": 100120103,
+      "LGJCPENNFBC": 1001201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100120104,
+      "LGJCPENNFBC": 1001201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "ANOMMNJDKMK": "-40,70",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100120105,
+      "LGJCPENNFBC": 1001201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102110301,
+      "LGJCPENNFBC": 1021103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102930101,
+      "LGJCPENNFBC": 1029301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        102930102,
+        102910701
+      ],
+      "BFCIIJBPPJG": true,
+      "CDBJFPLPKBD": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_PocketIdle",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102910601
+    },
+    {
+      "EICAPFLICKC": 102930102,
+      "LGJCPENNFBC": 1029301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_PocketBack",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102930101
+    },
+    {
+      "EICAPFLICKC": 103510201,
+      "LGJCPENNFBC": 1035102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103510202,
+      "LGJCPENNFBC": 1035102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10351,
+        10352,
+        10353
+      ]
+    },
+    {
+      "EICAPFLICKC": 103510203,
+      "LGJCPENNFBC": 1035102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1041151001,
+      "LGJCPENNFBC": 10411510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 1044151101,
+      "LGJCPENNFBC": 10441511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 103710201,
+      "LGJCPENNFBC": 1037102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103710202,
+      "LGJCPENNFBC": 1037102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10371,
+        10372,
+        10373
+      ]
+    },
+    {
+      "EICAPFLICKC": 100810201,
+      "LGJCPENNFBC": 1008102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100810202,
+      "LGJCPENNFBC": 1008102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100810203,
+      "LGJCPENNFBC": 1008102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11009,
+        11014
+      ]
+    },
+    {
+      "EICAPFLICKC": 101520101,
+      "LGJCPENNFBC": 1015201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101520102,
+      "LGJCPENNFBC": 1015201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11021,
+        11017,
+        11016
+      ]
+    },
+    {
+      "EICAPFLICKC": 101520103,
+      "LGJCPENNFBC": 1015201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101520104,
+      "LGJCPENNFBC": 1015201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 2,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001",
+      "EJMFKMNKODP": "0.8,1"
+    },
+    {
+      "EICAPFLICKC": 101520105,
+      "LGJCPENNFBC": 1015201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "ANOMMNJDKMK": "-1,25",
+      "KNNMKMAIAPG": "0.2,0.4"
+    },
+    {
+      "EICAPFLICKC": 102130101,
+      "LGJCPENNFBC": 1021301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        102130102,
+        102110102
+      ],
+      "BFCIIJBPPJG": true,
+      "CDBJFPLPKBD": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_HeadIdle",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102110101
+    },
+    {
+      "EICAPFLICKC": 102130102,
+      "LGJCPENNFBC": 1021301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_HeadBack",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102130101
+    },
+    {
+      "EICAPFLICKC": 102210201,
+      "LGJCPENNFBC": 1022102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102210202,
+      "LGJCPENNFBC": 1022102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102210203,
+      "LGJCPENNFBC": 1022102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11031,
+        11030
+      ]
+    },
+    {
+      "EICAPFLICKC": 102510201,
+      "LGJCPENNFBC": 1025102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102510202,
+      "LGJCPENNFBC": 1025102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102510203,
+      "LGJCPENNFBC": 1025102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11038,
+        11037,
+        11036
+      ]
+    },
+    {
+      "EICAPFLICKC": 102510301,
+      "LGJCPENNFBC": 1025103,
+      "BKCIGACKEFD": 103,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102810601,
+      "LGJCPENNFBC": 1028106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        102830101
+      ],
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-55,60",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103810601,
+      "LGJCPENNFBC": 1038106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        103830101
+      ],
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 104110201,
+      "LGJCPENNFBC": 1041102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104110202,
+      "LGJCPENNFBC": 1041102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10411,
+        10412,
+        10413
+      ]
+    },
+    {
+      "EICAPFLICKC": 1027151101,
+      "LGJCPENNFBC": 10271511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100810101,
+      "LGJCPENNFBC": 1008101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100810102,
+      "LGJCPENNFBC": 1008101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102710601,
+      "LGJCPENNFBC": 1027106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-14,25",
+      "KNNMKMAIAPG": "0.55,1"
+    },
+    {
+      "EICAPFLICKC": 104110401,
+      "LGJCPENNFBC": 1041104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 105110101,
+      "LGJCPENNFBC": 1051101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 100110101,
+      "LGJCPENNFBC": 1001101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 100110102,
+      "LGJCPENNFBC": 1001101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103310201,
+      "LGJCPENNFBC": 1033102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103310202,
+      "LGJCPENNFBC": 1033102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10331,
+        10332,
+        10333
+      ]
+    },
+    {
+      "EICAPFLICKC": 103310203,
+      "LGJCPENNFBC": 1033102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103820101,
+      "LGJCPENNFBC": 1038201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103820102,
+      "LGJCPENNFBC": 1038201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 103820103,
+      "LGJCPENNFBC": 1038201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103820104,
+      "LGJCPENNFBC": 1038201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103820105,
+      "LGJCPENNFBC": 1038201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10381,
+        10382
+      ]
+    },
+    {
+      "EICAPFLICKC": 103910401,
+      "LGJCPENNFBC": 1039104,
+      "BKCIGACKEFD": 104,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 105010201,
+      "LGJCPENNFBC": 1050102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 105010202,
+      "LGJCPENNFBC": 1050102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10501,
+        10502,
+        10503
+      ]
+    },
+    {
+      "EICAPFLICKC": 1037151001,
+      "LGJCPENNFBC": 10371510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1009151001,
+      "LGJCPENNFBC": 10091510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102120101,
+      "LGJCPENNFBC": 1021201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102120102,
+      "LGJCPENNFBC": 1021201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11026,
+        11024,
+        11020
+      ]
+    },
+    {
+      "EICAPFLICKC": 102120103,
+      "LGJCPENNFBC": 1021201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102120104,
+      "LGJCPENNFBC": 1021201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102120105,
+      "LGJCPENNFBC": 1021201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "ANOMMNJDKMK": "178,218",
+      "KNNMKMAIAPG": "0.6,1"
+    },
+    {
+      "EICAPFLICKC": 102410701,
+      "LGJCPENNFBC": 1024107,
+      "BKCIGACKEFD": 107,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Candy",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102430101
+    },
+    {
+      "EICAPFLICKC": 102520101,
+      "LGJCPENNFBC": 1025201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102520102,
+      "LGJCPENNFBC": 1025201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11038,
+        11037,
+        11036
+      ]
+    },
+    {
+      "EICAPFLICKC": 102520103,
+      "LGJCPENNFBC": 1025201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102520104,
+      "LGJCPENNFBC": 1025201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 1,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102520105,
+      "LGJCPENNFBC": 1025201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 1,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 102810201,
+      "LGJCPENNFBC": 1028102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102810202,
+      "LGJCPENNFBC": 1028102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102810203,
+      "LGJCPENNFBC": 1028102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11056,
+        11055,
+        11054
+      ]
+    },
+    {
+      "EICAPFLICKC": 103310101,
+      "LGJCPENNFBC": 1033101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1"
+    },
+    {
+      "EICAPFLICKC": 103310102,
+      "LGJCPENNFBC": 1033101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40",
+      "KNNMKMAIAPG": "0.1,1"
+    },
+    {
+      "EICAPFLICKC": 103310103,
+      "LGJCPENNFBC": 1033101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 103610101,
+      "LGJCPENNFBC": 1036101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103610102,
+      "LGJCPENNFBC": 1036101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-40,40",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 103610103,
+      "LGJCPENNFBC": 1036101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 104420101,
+      "LGJCPENNFBC": 1044201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 104420102,
+      "LGJCPENNFBC": 1044201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10441,
+        10442,
+        10443
+      ]
+    },
+    {
+      "EICAPFLICKC": 104420103,
+      "LGJCPENNFBC": 1044201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 104420104,
+      "LGJCPENNFBC": 1044201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 104420105,
+      "LGJCPENNFBC": 1044201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 1044151001,
+      "LGJCPENNFBC": 10441510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 101720101,
+      "LGJCPENNFBC": 1017201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101720102,
+      "LGJCPENNFBC": 1017201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11023,
+        11010
+      ]
+    },
+    {
+      "EICAPFLICKC": 101720103,
+      "LGJCPENNFBC": 1017201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101720104,
+      "LGJCPENNFBC": 1017201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "ANOMMNJDKMK": "-1,25",
+      "KNNMKMAIAPG": "0.15,0.35"
+    },
+    {
+      "EICAPFLICKC": 101720105,
+      "LGJCPENNFBC": 1017201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102110601,
+      "LGJCPENNFBC": 1021106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "159,246",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102310201,
+      "LGJCPENNFBC": 1023102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102310202,
+      "LGJCPENNFBC": 1023102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10231,
+        10232,
+        10233
+      ]
+    },
+    {
+      "EICAPFLICKC": 103520101,
+      "LGJCPENNFBC": 1035201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.1",
+      "EJMFKMNKODP": "0.8,1"
+    },
+    {
+      "EICAPFLICKC": 103520102,
+      "LGJCPENNFBC": 1035201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-15,15",
+      "KNNMKMAIAPG": "0,0.2",
+      "EJMFKMNKODP": "0.77,1"
+    },
+    {
+      "EICAPFLICKC": 103520103,
+      "LGJCPENNFBC": 1035201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103520104,
+      "LGJCPENNFBC": 1035201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 103520105,
+      "LGJCPENNFBC": 1035201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10351,
+        10352,
+        10353
+      ]
+    },
+    {
+      "EICAPFLICKC": 103610601,
+      "LGJCPENNFBC": 1036106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 103910101,
+      "LGJCPENNFBC": 1039101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 103910102,
+      "LGJCPENNFBC": 1039101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.2,1"
+    },
+    {
+      "EICAPFLICKC": 1022151101,
+      "LGJCPENNFBC": 10221511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1045151101,
+      "LGJCPENNFBC": 10451511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100910201,
+      "LGJCPENNFBC": 1009102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100910202,
+      "LGJCPENNFBC": 1009102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 100910203,
+      "LGJCPENNFBC": 1009102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11015,
+        11008
+      ]
+    },
+    {
+      "EICAPFLICKC": 102110101,
+      "LGJCPENNFBC": 1021101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        102130101
+      ],
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Head",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102110102,
+      "LGJCPENNFBC": 1021101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Candy",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102130101
+    },
+    {
+      "EICAPFLICKC": 102110103,
+      "LGJCPENNFBC": 1021101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-21,35",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102420101,
+      "LGJCPENNFBC": 1024201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11040,
+        11039
+      ]
+    },
+    {
+      "EICAPFLICKC": 102420102,
+      "LGJCPENNFBC": 1024201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102420103,
+      "LGJCPENNFBC": 1024201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102420104,
+      "LGJCPENNFBC": 1024201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 2,
+      "ANOMMNJDKMK": "150,210",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102420105,
+      "LGJCPENNFBC": 1024201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 105210101,
+      "LGJCPENNFBC": 1052101,
+      "BKCIGACKEFD": 101,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 101510201,
+      "LGJCPENNFBC": 1015102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Gun",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-30,30",
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101510202,
+      "LGJCPENNFBC": 1015102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 101510203,
+      "LGJCPENNFBC": 1015102,
+      "BKCIGACKEFD": 102,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11021,
+        11017,
+        11016
+      ]
+    },
+    {
+      "EICAPFLICKC": 102220101,
+      "LGJCPENNFBC": 1022201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectNormal",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102220102,
+      "LGJCPENNFBC": 1022201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        11031,
+        11030
+      ]
+    },
+    {
+      "EICAPFLICKC": 102220103,
+      "LGJCPENNFBC": 1022201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 1,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 102220104,
+      "LGJCPENNFBC": 1022201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 2,
+      "OFDECBIIOHL": 2,
+      "ANOMMNJDKMK": "165,230",
+      "KNNMKMAIAPG": "0.5,1"
+    },
+    {
+      "EICAPFLICKC": 102220105,
+      "LGJCPENNFBC": 1022201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.001"
+    },
+    {
+      "EICAPFLICKC": 102430101,
+      "LGJCPENNFBC": 1024301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "OBJHKDHAEMP": [
+        102430102,
+        102410701
+      ],
+      "BFCIIJBPPJG": true,
+      "CDBJFPLPKBD": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_PocketIdle",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102410601
+    },
+    {
+      "EICAPFLICKC": 102430102,
+      "LGJCPENNFBC": 1024301,
+      "BKCIGACKEFD": 301,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_PocketBack",
+      "NKKBLEJIMOI": 100,
+      "KPIFECENHGP": 102430101
+    },
+    {
+      "EICAPFLICKC": 103310601,
+      "LGJCPENNFBC": 1033106,
+      "BKCIGACKEFD": 106,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 105220101,
+      "LGJCPENNFBC": 1052201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Look",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-20,20",
+      "KNNMKMAIAPG": "0,0.2"
+    },
+    {
+      "EICAPFLICKC": 105220102,
+      "LGJCPENNFBC": 1052201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_InspectExclusive",
+      "NKKBLEJIMOI": 100,
+      "OFDECBIIOHL": 5,
+      "KNNMKMAIAPG": "0.3,1",
+      "CFJIJOINGOL": [
+        10521,
+        10522,
+        10523
+      ]
+    },
+    {
+      "EICAPFLICKC": 105220103,
+      "LGJCPENNFBC": 1052201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BFCIIJBPPJG": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Camera_Aroud",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-120,-45",
+      "KNNMKMAIAPG": "0.4,1"
+    },
+    {
+      "EICAPFLICKC": 105220104,
+      "LGJCPENNFBC": 1052201,
+      "BKCIGACKEFD": 201,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    },
+    {
+      "EICAPFLICKC": 1039151001,
+      "LGJCPENNFBC": 10391510,
+      "BKCIGACKEFD": 1510,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Touch_Pocket",
+      "NKKBLEJIMOI": 100,
+      "ANOMMNJDKMK": "-50,50",
+      "KNNMKMAIAPG": "0.45,1"
+    },
+    {
+      "EICAPFLICKC": 1051151101,
+      "LGJCPENNFBC": 10511511,
+      "BKCIGACKEFD": 1511,
+      "MECDGPIMMCB": true,
+      "BCGCPDMFBFN": true,
+      "BLLILCHPHFK": "c_{0}_Barracksp_Behave_Stretch",
+      "NKKBLEJIMOI": 100,
+      "KNNMKMAIAPG": "0.3,1"
+    }
+  ]
+}

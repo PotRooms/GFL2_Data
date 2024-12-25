@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 44,
+      "BACCCPMNDDB": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3110"
+      },
+      "IOKOOIJNIPP": "develop_property_element_against_fire"
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "BACCCPMNDDB": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4824"
+      },
+      "IOKOOIJNIPP": "develop_property_element_against_electric"
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "BACCCPMNDDB": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5467"
+      },
+      "IOKOOIJNIPP": "develop_property_element_against_ice"
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "BACCCPMNDDB": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5468"
+      },
+      "IOKOOIJNIPP": "develop_property_element_against_poison"
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5469"
+      },
+      "IOKOOIJNIPP": "develop_property_element_against_physics"
+    },
+    {
+      "LGJCPENNFBC": 49,
+      "BACCCPMNDDB": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5470"
+      },
+      "IOKOOIJNIPP": "develop_property_element_against_soil"
+    },
+    {
+      "LGJCPENNFBC": 50,
+      "BACCCPMNDDB": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5471"
+      },
+      "IOKOOIJNIPP": "develop_property_element_against_grass"
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "BACCCPMNDDB": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5472"
+      },
+      "IOKOOIJNIPP": "develop_property_element_against_water"
+    }
+  ]
+}

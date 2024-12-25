@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "AOONPIJJDLB": 1,
+      "COMBPJHOBBN": "61132:63132,10",
+      "KKEOAMNONJG": "61101,40",
+      "PKNJAHNAEDB": "63151,80"
+    },
+    {
+      "AOONPIJJDLB": 2,
+      "COMBPJHOBBN": "63131,10",
+      "NHGBPBGGKKJ": "61121:61161:61101,20",
+      "KKEOAMNONJG": "61211,40",
+      "PKNJAHNAEDB": "63111,80"
+    },
+    {
+      "AOONPIJJDLB": 3,
+      "COMBPJHOBBN": "63221,10",
+      "NHGBPBGGKKJ": "61162:61152:61102,20",
+      "KKEOAMNONJG": "63151,50",
+      "PKNJAHNAEDB": "62012,100"
+    },
+    {
+      "AOONPIJJDLB": 4,
+      "COMBPJHOBBN": "63132,10",
+      "NHGBPBGGKKJ": "63161:61142,20",
+      "KKEOAMNONJG": "63152:63112:63172,40",
+      "JGGDFBADFED": "6340,50",
+      "PKNJAHNAEDB": "63142,80"
+    },
+    {
+      "AOONPIJJDLB": 5,
+      "COMBPJHOBBN": "63132,10",
+      "NHGBPBGGKKJ": "61142:61222:61312:61102:63162,20",
+      "KKEOAMNONJG": "61162:61152,40",
+      "JGGDFBADFED": "63152,50",
+      "PKNJAHNAEDB": "63142:63212,80"
+    },
+    {
+      "AOONPIJJDLB": 6,
+      "COMBPJHOBBN": "63132,10",
+      "NHGBPBGGKKJ": "61202,20",
+      "KKEOAMNONJG": "63162,40",
+      "PKNJAHNAEDB": "63112:63151,80"
+    },
+    {
+      "AOONPIJJDLB": 7,
+      "COMBPJHOBBN": "63132,10",
+      "NHGBPBGGKKJ": "61222:61202:61102,20",
+      "KKEOAMNONJG": "63162,40",
+      "JGGDFBADFED": "63112:61162,80",
+      "PKNJAHNAEDB": "6340,100"
+    }
+  ]
+}

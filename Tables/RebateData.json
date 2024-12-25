@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "JKJJIOGAGEM": [
+        0,
+        3600
+      ],
+      "ELAACHPLOML": 2000,
+      "JONPFGODOKJ": [
+        11
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "JKJJIOGAGEM": [
+        3600,
+        999999999
+      ],
+      "ELAACHPLOML": 1350,
+      "JONPFGODOKJ": [
+        11
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "ELAACHPLOML": 1000,
+      "JONPFGODOKJ": [
+        110008
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "ELAACHPLOML": 1000,
+      "JONPFGODOKJ": [
+        110009
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "ELAACHPLOML": 1000,
+      "JONPFGODOKJ": [
+        110010
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "ELAACHPLOML": 1000,
+      "JONPFGODOKJ": [
+        110012
+      ]
+    }
+  ]
+}

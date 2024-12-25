@@ -1,0 +1,117 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 81101,
+      "HBJAHCGKJJD": "闪电初始休息服",
+      "KKEEJKEMCDH": 3,
+      "NGODBKJAAOJ": "Groza/Groza_Pajama_bone",
+      "LFOIKPEDHHB": "Avatar_Head_GrozaSR",
+      "BFIBAJMOKFB": "Avatar_Bust_GrozaSR",
+      "OIPKFDPOPJC": "Img_Lounge_Clothes_Groza_Normal_1",
+      "PGBMMDIPEFA": "最基础舒适的家居套装。",
+      "LPLOFOPPNIM": "0.3,0,0.5,1.9",
+      "IIHLEONNHBM": [
+        0,
+        0,
+        0
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81102,
+      "HBJAHCGKJJD": "测试1",
+      "KKEEJKEMCDH": 3,
+      "NGODBKJAAOJ": "Groza/Groza_Pajama_bone",
+      "LFOIKPEDHHB": "Avatar_Head_ColphneSSR",
+      "BFIBAJMOKFB": "Avatar_Bust_ColphneSSR",
+      "OIPKFDPOPJC": "Img_Lounge_Clothes_Groza_Normal_1",
+      "PGBMMDIPEFA": "测试1",
+      "BDBPLGJFCHD": [
+        100011,
+        100012
+      ],
+      "LPLOFOPPNIM": "0.3,0,0.5,1.9",
+      "IIHLEONNHBM": [
+        0,
+        0,
+        0
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81103,
+      "HBJAHCGKJJD": "测试2",
+      "KKEEJKEMCDH": 3,
+      "NGODBKJAAOJ": "Groza/Groza_Pajama_bone",
+      "LFOIKPEDHHB": "Avatar_Head_CannonDroneR",
+      "BFIBAJMOKFB": "Avatar_Bust_CannonDroneR",
+      "OIPKFDPOPJC": "Img_Lounge_Clothes_Groza_Normal_1",
+      "PGBMMDIPEFA": "测试2",
+      "LPLOFOPPNIM": "0.3,0,0.6,1.9",
+      "IIHLEONNHBM": [
+        0,
+        0,
+        0
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81104,
+      "HBJAHCGKJJD": "测试3",
+      "KKEEJKEMCDH": 3,
+      "NGODBKJAAOJ": "Groza/Groza_Pajama_bone",
+      "LFOIKPEDHHB": "Avatar_Head_PerityaSR",
+      "BFIBAJMOKFB": "Avatar_Bust_PerityaSR",
+      "OIPKFDPOPJC": "Img_Lounge_Clothes_Groza_Normal_1",
+      "PGBMMDIPEFA": "测试3",
+      "LPLOFOPPNIM": "0.3,0,0.5,1.9",
+      "IIHLEONNHBM": [
+        0,
+        0,
+        0
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    },
+    {
+      "LGJCPENNFBC": 81105,
+      "HBJAHCGKJJD": "佩里缇亚初始休息服",
+      "KKEEJKEMCDH": 7,
+      "NGODBKJAAOJ": "Peritya/Peritya_Base/Prefabs/Peritya_Pajama_skin",
+      "LFOIKPEDHHB": "Avatar_Head_PerityaSR",
+      "BFIBAJMOKFB": "Avatar_Bust_PerityaSR",
+      "OIPKFDPOPJC": "Img_Lounge_Clothes_Groza_Normal_1",
+      "PGBMMDIPEFA": "最基础舒适的家居套装。",
+      "BDBPLGJFCHD": [
+        100011,
+        100012
+      ],
+      "LPLOFOPPNIM": "0.3,0,0.5,1.9",
+      "IIHLEONNHBM": [
+        0,
+        0,
+        0
+      ],
+      "LAABJIIKPPG": [
+        1000,
+        1000,
+        1000
+      ]
+    }
+  ]
+}

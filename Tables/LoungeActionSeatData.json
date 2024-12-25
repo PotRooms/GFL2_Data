@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "楼梯",
+      "DNHAGPFHGCE": "Icon_LoungeSeatView_WeaponWall",
+      "ANLAJDJJMKA": [
+        -3.072,
+        2.2727,
+        3.702
+      ],
+      "LAMFHDPFPCL": [
+        -4.308,
+        -34.446,
+        0
+      ],
+      "NEHEAMJBBLH": [
+        -50,
+        60
+      ],
+      "JBNNNCMCMHP": [
+        -80,
+        80
+      ],
+      "DKCPCDNMFGP": [
+        -90,
+        30
+      ],
+      "LLHGEHLBMEB": [
+        -110,
+        50
+      ],
+      "FLDLDKKKKIJ": "Lounge_seat_timeline_WeaponWa",
+      "AMOIFMEEDFJ": "vfx_lounge_glow_02",
+      "KLMIIAFIDOF": "vfx_lounge_glow",
+      "JJGJFDOJMBK": [
+        -4.529,
+        1.726,
+        5.57
+      ],
+      "ILHDDPKJLCO": true,
+      "DPGCPHLKKKI": [
+        12,
+        12
+      ],
+      "KAALIPFNDFA": "_LightSetting_stair",
+      "FACIFNFLHOJ": "FX_c_lng_bubble02_weaponwall"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "多功能区",
+      "DNHAGPFHGCE": "Icon_LoungeSeatView_Function",
+      "ANLAJDJJMKA": [
+        -4.809,
+        1.41,
+        1.326
+      ],
+      "LAMFHDPFPCL": [
+        3.162,
+        -64.87801,
+        0
+      ],
+      "NEHEAMJBBLH": [
+        -55,
+        60
+      ],
+      "JBNNNCMCMHP": [
+        -75,
+        80
+      ],
+      "DKCPCDNMFGP": [
+        -68,
+        0
+      ],
+      "LLHGEHLBMEB": [
+        -72,
+        20
+      ],
+      "FLDLDKKKKIJ": "Lounge_seat_timeline_Function",
+      "AMOIFMEEDFJ": "vfx_lounge_glow_02",
+      "KLMIIAFIDOF": "vfx_lounge_glow",
+      "JJGJFDOJMBK": [
+        -6.37,
+        1.0013,
+        1.394
+      ],
+      "ILHDDPKJLCO": true,
+      "DPGCPHLKKKI": [
+        3.5,
+        10
+      ],
+      "KAALIPFNDFA": "_LightSetting_functional",
+      "FACIFNFLHOJ": "FX_c_lng_bubble02_function"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "床",
+      "DNHAGPFHGCE": "Icon_LoungeSeatView_Bed",
+      "ANLAJDJJMKA": [
+        -1.265,
+        1.119,
+        0.81
+      ],
+      "LAMFHDPFPCL": [
+        4.594,
+        39.75,
+        -0.443
+      ],
+      "NEHEAMJBBLH": [
+        -50,
+        35
+      ],
+      "JBNNNCMCMHP": [
+        -70,
+        45
+      ],
+      "DKCPCDNMFGP": [
+        -20,
+        60
+      ],
+      "LLHGEHLBMEB": [
+        -40,
+        75
+      ],
+      "FLDLDKKKKIJ": "Lounge_seat_timeline_Bed",
+      "AMOIFMEEDFJ": "vfx_lounge_glow_02",
+      "KLMIIAFIDOF": "vfx_lounge_glow",
+      "JJGJFDOJMBK": [
+        -0.694,
+        0.8,
+        1.391
+      ],
+      "ILHDDPKJLCO": true,
+      "DPGCPHLKKKI": [
+        3.5,
+        10
+      ],
+      "KAALIPFNDFA": "_LightSetting_bed",
+      "FACIFNFLHOJ": "FX_c_lng_bubble02_bed"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "二楼",
+      "DNHAGPFHGCE": "Icon_LoungeSeatView_Desk",
+      "ANLAJDJJMKA": [
+        0.227,
+        3.61,
+        5.9546
+      ],
+      "LAMFHDPFPCL": [
+        7.111001,
+        -77.87,
+        0.217
+      ],
+      "NEHEAMJBBLH": [
+        -50,
+        65
+      ],
+      "JBNNNCMCMHP": [
+        -70,
+        85
+      ],
+      "DKCPCDNMFGP": [
+        -137,
+        -17
+      ],
+      "LLHGEHLBMEB": [
+        -157,
+        3
+      ],
+      "FLDLDKKKKIJ": "Lounge_seat_timeline_Desk",
+      "AMOIFMEEDFJ": "vfx_lounge_glow_02",
+      "KLMIIAFIDOF": "vfx_lounge_glow",
+      "JJGJFDOJMBK": [
+        -0.641,
+        3.538,
+        6.165
+      ],
+      "ILHDDPKJLCO": true,
+      "DPGCPHLKKKI": [
+        6,
+        15
+      ],
+      "KAALIPFNDFA": "_LightSetting_secondfloor",
+      "FACIFNFLHOJ": "FX_c_lng_bubble02_table"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "沙发",
+      "DNHAGPFHGCE": "Icon_LoungeSeatView_Sofa",
+      "ANLAJDJJMKA": [
+        1.4911,
+        1.088,
+        7.668
+      ],
+      "LAMFHDPFPCL": [
+        8.636001,
+        -100.171,
+        -0.369
+      ],
+      "NEHEAMJBBLH": [
+        -40,
+        30
+      ],
+      "JBNNNCMCMHP": [
+        -60,
+        50
+      ],
+      "DKCPCDNMFGP": [
+        -160,
+        -40
+      ],
+      "LLHGEHLBMEB": [
+        -180,
+        -20
+      ],
+      "FLDLDKKKKIJ": "Lounge_seat_timeline_Sofa",
+      "AMOIFMEEDFJ": "vfx_lounge_glow_02",
+      "KLMIIAFIDOF": "vfx_lounge_glow",
+      "JJGJFDOJMBK": [
+        0.398,
+        0.823,
+        7.919
+      ],
+      "ILHDDPKJLCO": true,
+      "DPGCPHLKKKI": [
+        3,
+        15
+      ],
+      "KAALIPFNDFA": "_LightSetting_sofa",
+      "FACIFNFLHOJ": "FX_c_lng_bubble02_sofa"
+    }
+  ]
+}

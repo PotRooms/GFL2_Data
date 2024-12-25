@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "枪口装置",
+      "OIIHKMLKDMA": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Muzzle_Repository"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "瞄具",
+      "OIIHKMLKDMA": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Scope_Repository"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "前握把",
+      "OIIHKMLKDMA": [
+        2,
+        4,
+        5
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Grip_Repository"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "导轨附件",
+      "OIIHKMLKDMA": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Fishbone_Repository"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "弹药",
+      "OIIHKMLKDMA": [
+        3,
+        4,
+        6
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Bullet_Repository"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "锋刃",
+      "OIIHKMLKDMA": [
+        7
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Ensharp_Repository"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "持握配件",
+      "OIIHKMLKDMA": [
+        7
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Handle_Repository"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": "特型组件",
+      "OIIHKMLKDMA": [
+        7
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Lightweight_Repository"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": "增效装置",
+      "OIIHKMLKDMA": [
+        7
+      ],
+      "FPAHBIHKDOJ": "WeaponPart_Texture_Repository"
+    }
+  ]
+}

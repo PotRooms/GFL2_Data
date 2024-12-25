@@ -1,0 +1,591 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10101,
+      "JKGMGALNGGK": {
+        "62005": 10
+      },
+      "HBJAHCGKJJD": "机枪增效·一",
+      "GKFPJJIHICB": "<color=#ff8236>机枪</color>变更为<color=#ff8236>3*3格</color>范围攻击效果。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_18",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_LMG.usm"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10102,
+      "MLCJPDFLPFI": [
+        1
+      ],
+      "JKGMGALNGGK": {
+        "62005": 15
+      },
+      "HBJAHCGKJJD": "机动提升",
+      "GKFPJJIHICB": "移动速度提升<color=#ff8236>2%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_21"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10103,
+      "MLCJPDFLPFI": [
+        2
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "武器增效·一",
+      "GKFPJJIHICB": "武器对<color=#ff8236>头目</color>造成的伤害提升至<color=#ff8236>20%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_19"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10104,
+      "MLCJPDFLPFI": [
+        3
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "冲锋枪增效·一",
+      "GKFPJJIHICB": "<color=#ff8236>冲锋枪</color>发动攻击<color=#ff8236>无视掩体保护</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_17"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10105,
+      "MLCJPDFLPFI": [
+        3
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "霰弹枪增效",
+      "GKFPJJIHICB": "<color=#ff8236>霰弹枪</color>对<color=#ff8236>覆盖石层</color>造成的伤害提升至<color=#ff8236>100%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_16",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_breakstone.usm"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10201,
+      "MLCJPDFLPFI": [
+        4
+      ],
+      "JKGMGALNGGK": {
+        "62005": 70
+      },
+      "HBJAHCGKJJD": "续航提升",
+      "GKFPJJIHICB": "深入许可上限提升<color=#ff8236>20</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_22"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10202,
+      "MLCJPDFLPFI": [
+        5
+      ],
+      "JKGMGALNGGK": {
+        "62005": 70
+      },
+      "HBJAHCGKJJD": "续航提升",
+      "GKFPJJIHICB": "深入许可上限提升<color=#ff8236>20</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_22"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10301,
+      "MLCJPDFLPFI": [
+        6
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "冲锋枪增效·二",
+      "GKFPJJIHICB": "<color=#ff8236>冲锋枪</color>对<color=#ff8236>头目</color>造成的伤害提升至<color=#ff8236>40%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_19"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10302,
+      "MLCJPDFLPFI": [
+        6,
+        7
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "冲锋枪增效·三",
+      "GKFPJJIHICB": "<color=#ff8236>冲锋枪</color>对<color=#ff8236>精英单位</color>造成的伤害提升至<color=#ff8236>100%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_20"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10401,
+      "MLCJPDFLPFI": [
+        7
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "武器增效·二",
+      "GKFPJJIHICB": "<color=#ff8236>突击步枪、机枪、狙击枪</color>可以对<color=#ff8236>覆盖石层</color>造成<color=#ff8236>50%</color>伤害。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_19"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10402,
+      "MLCJPDFLPFI": [
+        8,
+        9
+      ],
+      "JKGMGALNGGK": {
+        "62005": 40
+      },
+      "HBJAHCGKJJD": "机动提升",
+      "GKFPJJIHICB": "移动速度提升<color=#ff8236>2%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_21"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10403,
+      "MLCJPDFLPFI": [
+        9,
+        10
+      ],
+      "JKGMGALNGGK": {
+        "62005": 40
+      },
+      "HBJAHCGKJJD": "机动提升",
+      "GKFPJJIHICB": "移动速度提升<color=#ff8236>2%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_21"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10404,
+      "MLCJPDFLPFI": [
+        11,
+        12
+      ],
+      "JKGMGALNGGK": {
+        "62005": 120
+      },
+      "HBJAHCGKJJD": "续航提升",
+      "GKFPJJIHICB": "深入许可上限提升<color=#ff8236>20</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_22"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10405,
+      "MLCJPDFLPFI": [
+        13
+      ],
+      "JKGMGALNGGK": {
+        "62005": 80
+      },
+      "HBJAHCGKJJD": "冲锋枪增效·四",
+      "GKFPJJIHICB": "<color=#ff8236>冲锋枪</color>对<color=#ff8236>头目</color>造成的伤害提升至<color=#ff8236>75%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_19"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "DHGBGMBFNPH": 101,
+      "GGANOEBEIFE": 10406,
+      "MLCJPDFLPFI": [
+        13
+      ],
+      "JKGMGALNGGK": {
+        "62005": 80
+      },
+      "HBJAHCGKJJD": "机枪增效·二",
+      "GKFPJJIHICB": "<color=#ff8236>机枪</color>变更为<color=#ff8236>半径2格</color>范围攻击效果。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_18",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_LMGMax.usm"
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 20101,
+      "JKGMGALNGGK": {
+        "62005": 10
+      },
+      "HBJAHCGKJJD": "方位迁移",
+      "GKFPJJIHICB": "可以发现并使用<color=#ff8236>迁移点</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_04",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_transfer.usm"
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 20102,
+      "JKGMGALNGGK": {
+        "62005": 10
+      },
+      "HBJAHCGKJJD": "制高点·藏身点·建造",
+      "GKFPJJIHICB": "可在建造点制造<color=#ff8236>梯子、草丛</color>,建造上限为<color=#ff8236>10</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_01",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_build.usm"
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 20201,
+      "MLCJPDFLPFI": [
+        101
+      ],
+      "JKGMGALNGGK": {
+        "62005": 15
+      },
+      "HBJAHCGKJJD": "防线渗入",
+      "GKFPJJIHICB": "初始危机等级降低1级。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_15"
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 20202,
+      "MLCJPDFLPFI": [
+        102
+      ],
+      "JKGMGALNGGK": {
+        "62005": 15
+      },
+      "HBJAHCGKJJD": "建造提升",
+      "GKFPJJIHICB": "交互物建造上限<color=#ff8236>提升6</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_03"
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 20301,
+      "MLCJPDFLPFI": [
+        103
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "扫描",
+      "GKFPJJIHICB": "可发现覆盖石层中的交互物。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_06",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_throughstone.usm"
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 20302,
+      "MLCJPDFLPFI": [
+        103
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "危机解除",
+      "GKFPJJIHICB": "击杀头目或精锐单位后，危机等级降低1级。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_14"
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 20303,
+      "MLCJPDFLPFI": [
+        104
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "预警失效",
+      "GKFPJJIHICB": "进入战斗时，危机等级提升量<color=#ff8236>-1</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_13"
+    },
+    {
+      "LGJCPENNFBC": 108,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 20304,
+      "MLCJPDFLPFI": [
+        104
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "洞察",
+      "GKFPJJIHICB": "可发现隐匿于草丛中的敌方。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_07",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_throughgrass.usm"
+    },
+    {
+      "LGJCPENNFBC": 109,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 30101,
+      "MLCJPDFLPFI": [
+        106
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "范围控场",
+      "GKFPJJIHICB": "<color=#ff8236>油桶、炸药箱</color>的爆炸范围提升至<color=#ff8236>半径2格</color>,小幅提升对头目单位伤害。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_12"
+    },
+    {
+      "LGJCPENNFBC": 110,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 30102,
+      "MLCJPDFLPFI": [
+        107
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "防爆服",
+      "GKFPJJIHICB": "<color=#ff8236>油桶、炸药箱</color>的己方人形的伤害降低至<color=#ff8236>25%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_11"
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 30103,
+      "MLCJPDFLPFI": [
+        109,
+        110
+      ],
+      "JKGMGALNGGK": {
+        "62005": 70
+      },
+      "HBJAHCGKJJD": "无形隐匿",
+      "GKFPJJIHICB": "可使用隐匿代码。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_08",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_invisible.usm"
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 30201,
+      "MLCJPDFLPFI": [
+        105,
+        111
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "防线渗入",
+      "GKFPJJIHICB": "初始危机等级降低1级。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_15"
+    },
+    {
+      "LGJCPENNFBC": 113,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 30202,
+      "MLCJPDFLPFI": [
+        111
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "机动提升",
+      "GKFPJJIHICB": "移动速度提升<color=#ff8236>2%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_21"
+    },
+    {
+      "LGJCPENNFBC": 114,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 30203,
+      "MLCJPDFLPFI": [
+        111
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "长效隐匿",
+      "GKFPJJIHICB": "隐匿状态持续时间提升<color=#ff8236>4</color>秒。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_09"
+    },
+    {
+      "LGJCPENNFBC": 115,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 30204,
+      "MLCJPDFLPFI": [
+        111
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "机动提升",
+      "GKFPJJIHICB": "移动速度提升<color=#ff8236>2%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_21"
+    },
+    {
+      "LGJCPENNFBC": 116,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 30205,
+      "MLCJPDFLPFI": [
+        108,
+        111
+      ],
+      "JKGMGALNGGK": {
+        "62005": 20
+      },
+      "HBJAHCGKJJD": "建造提升",
+      "GKFPJJIHICB": "交互物建造上限<color=#ff8236>提升6</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_03"
+    },
+    {
+      "LGJCPENNFBC": 117,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40101,
+      "MLCJPDFLPFI": [
+        113
+      ],
+      "JKGMGALNGGK": {
+        "62005": 40
+      },
+      "HBJAHCGKJJD": "长效隐匿",
+      "GKFPJJIHICB": "隐匿状态持续时间提升<color=#ff8236>4</color>秒。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_09"
+    },
+    {
+      "LGJCPENNFBC": 118,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40102,
+      "MLCJPDFLPFI": [
+        114
+      ],
+      "JKGMGALNGGK": {
+        "62005": 40
+      },
+      "HBJAHCGKJJD": "机动提升",
+      "GKFPJJIHICB": "移动速度提升<color=#ff8236>2%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_21"
+    },
+    {
+      "LGJCPENNFBC": 119,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40103,
+      "MLCJPDFLPFI": [
+        115
+      ],
+      "JKGMGALNGGK": {
+        "62005": 40
+      },
+      "HBJAHCGKJJD": "长效隐匿",
+      "GKFPJJIHICB": "隐匿状态持续时间提升<color=#ff8236>4</color>秒。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_09"
+    },
+    {
+      "LGJCPENNFBC": 120,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40104,
+      "MLCJPDFLPFI": [
+        112
+      ],
+      "JKGMGALNGGK": {
+        "62005": 120
+      },
+      "HBJAHCGKJJD": "续航提升",
+      "GKFPJJIHICB": "深入许可上限提升<color=#ff8236>20</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_22"
+    },
+    {
+      "LGJCPENNFBC": 121,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40105,
+      "MLCJPDFLPFI": [
+        117,
+        118
+      ],
+      "JKGMGALNGGK": {
+        "62005": 120
+      },
+      "HBJAHCGKJJD": "机动提升",
+      "GKFPJJIHICB": "移动速度提升<color=#ff8236>2%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_21"
+    },
+    {
+      "LGJCPENNFBC": 122,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40106,
+      "MLCJPDFLPFI": [
+        118,
+        119
+      ],
+      "JKGMGALNGGK": {
+        "62005": 120
+      },
+      "HBJAHCGKJJD": "机动提升",
+      "GKFPJJIHICB": "移动速度提升<color=#ff8236>2%</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_21"
+    },
+    {
+      "LGJCPENNFBC": 123,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40107,
+      "MLCJPDFLPFI": [
+        116
+      ],
+      "JKGMGALNGGK": {
+        "62005": 120
+      },
+      "HBJAHCGKJJD": "续航提升",
+      "GKFPJJIHICB": "深入许可上限提升<color=#ff8236>20</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_22"
+    },
+    {
+      "LGJCPENNFBC": 124,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40108,
+      "MLCJPDFLPFI": [
+        120,
+        121
+      ],
+      "JKGMGALNGGK": {
+        "62005": 80
+      },
+      "HBJAHCGKJJD": "高效迁移",
+      "GKFPJJIHICB": "可多次使用迁移点。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_05",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_transfergroup.usm"
+    },
+    {
+      "LGJCPENNFBC": 125,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40109,
+      "MLCJPDFLPFI": [
+        121,
+        122
+      ],
+      "JKGMGALNGGK": {
+        "62005": 80
+      },
+      "HBJAHCGKJJD": "隐匿击杀",
+      "GKFPJJIHICB": "隐匿状态下发起攻击<color=#ff8236>不会暴露</color>，隐匿状态持续时间提升<color=#ff8236>8</color>秒。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_10",
+      "BCLOBDOFPDG": "Tutorial/Video_Tutorial_Darkzone_Biyoca_invisibleattack.usm"
+    },
+    {
+      "LGJCPENNFBC": 126,
+      "DHGBGMBFNPH": 102,
+      "GGANOEBEIFE": 40110,
+      "MLCJPDFLPFI": [
+        122,
+        123
+      ],
+      "JKGMGALNGGK": {
+        "62005": 80
+      },
+      "HBJAHCGKJJD": "建造提升",
+      "GKFPJJIHICB": "交互物建造上限<color=#ff8236>提升15</color>。",
+      "DNHAGPFHGCE": "Icon_DarkzoneExplore_Talent_Skill_03"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "KGDCGCALBCI": 1,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "Tiles_Outdoor"
+    },
+    {
+      "KGDCGCALBCI": 2,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "Metal"
+    },
+    {
+      "KGDCGCALBCI": 3,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "MetalLadder"
+    },
+    {
+      "KGDCGCALBCI": 4,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "StoneSmall"
+    },
+    {
+      "KGDCGCALBCI": 5,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "MetalSolid"
+    },
+    {
+      "KGDCGCALBCI": 6,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "MetalRust"
+    },
+    {
+      "KGDCGCALBCI": 7,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "Dirt"
+    },
+    {
+      "KGDCGCALBCI": 8,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "SnowThin"
+    },
+    {
+      "KGDCGCALBCI": 9,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "Tiles_Indoor"
+    },
+    {
+      "KGDCGCALBCI": 10,
+      "KLJDENIBOPH": "Ground_Material",
+      "OFJCCFNOFEI": "Glass"
+    },
+    {
+      "KGDCGCALBCI": 101,
+      "KLJDENIBOPH": "Effect_Material",
+      "OFJCCFNOFEI": "Hole"
+    },
+    {
+      "KGDCGCALBCI": 102,
+      "KLJDENIBOPH": "Effect_Material",
+      "OFJCCFNOFEI": "Burn"
+    },
+    {
+      "KGDCGCALBCI": 103,
+      "KLJDENIBOPH": "Effect_Material",
+      "OFJCCFNOFEI": "Fire"
+    },
+    {
+      "KGDCGCALBCI": 104,
+      "KLJDENIBOPH": "Effect_Material",
+      "OFJCCFNOFEI": "Water"
+    },
+    {
+      "KGDCGCALBCI": 105,
+      "KLJDENIBOPH": "Effect_Material",
+      "OFJCCFNOFEI": "Frosts"
+    },
+    {
+      "KGDCGCALBCI": 106,
+      "KLJDENIBOPH": "Effect_Material",
+      "OFJCCFNOFEI": "Corrosion"
+    },
+    {
+      "KGDCGCALBCI": 107,
+      "KLJDENIBOPH": "Effect_Material",
+      "OFJCCFNOFEI": "Acid"
+    },
+    {
+      "KGDCGCALBCI": 108,
+      "KLJDENIBOPH": "Effect_Material",
+      "OFJCCFNOFEI": "Lightning"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "DHGBGMBFNPH": 101,
+      "JCICKJAEAKF": 4,
+      "IMNEOPNEBDJ": "01:30"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "DHGBGMBFNPH": 101,
+      "AGBGBMKFJIJ": 90,
+      "JCICKJAEAKF": 3,
+      "IMNEOPNEBDJ": "02:00"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "DHGBGMBFNPH": 101,
+      "AGBGBMKFJIJ": 120,
+      "JCICKJAEAKF": 2,
+      "IMNEOPNEBDJ": "02:30"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "DHGBGMBFNPH": 101,
+      "AGBGBMKFJIJ": 150,
+      "JCICKJAEAKF": 1,
+      "IMNEOPNEBDJ": "> 02:30"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "DHGBGMBFNPH": 102,
+      "JCICKJAEAKF": 4,
+      "IMNEOPNEBDJ": "02:00"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "DHGBGMBFNPH": 102,
+      "AGBGBMKFJIJ": 120,
+      "JCICKJAEAKF": 3,
+      "IMNEOPNEBDJ": "02:30"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "DHGBGMBFNPH": 102,
+      "AGBGBMKFJIJ": 150,
+      "JCICKJAEAKF": 2,
+      "IMNEOPNEBDJ": "03:30"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "DHGBGMBFNPH": 102,
+      "AGBGBMKFJIJ": 210,
+      "JCICKJAEAKF": 1,
+      "IMNEOPNEBDJ": "> 03:30"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "DHGBGMBFNPH": 103,
+      "JCICKJAEAKF": 4,
+      "IMNEOPNEBDJ": "03:00"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "DHGBGMBFNPH": 103,
+      "AGBGBMKFJIJ": 180,
+      "JCICKJAEAKF": 3,
+      "IMNEOPNEBDJ": "04:00"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "DHGBGMBFNPH": 103,
+      "AGBGBMKFJIJ": 240,
+      "JCICKJAEAKF": 2,
+      "IMNEOPNEBDJ": "05:00"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "DHGBGMBFNPH": 103,
+      "AGBGBMKFJIJ": 300,
+      "JCICKJAEAKF": 1,
+      "IMNEOPNEBDJ": "> 05:00"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "DHGBGMBFNPH": 104,
+      "JCICKJAEAKF": 1,
+      "IMNEOPNEBDJ": "03:00"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "DHGBGMBFNPH": 104,
+      "AGBGBMKFJIJ": 180,
+      "JCICKJAEAKF": 2,
+      "IMNEOPNEBDJ": "04:00"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "DHGBGMBFNPH": 104,
+      "AGBGBMKFJIJ": 240,
+      "JCICKJAEAKF": 3,
+      "IMNEOPNEBDJ": "05:00"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "DHGBGMBFNPH": 104,
+      "AGBGBMKFJIJ": 300,
+      "JCICKJAEAKF": 4,
+      "IMNEOPNEBDJ": "> 05:00"
+    }
+  ]
+}

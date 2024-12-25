@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "MGHMGHLEANP": 1001,
+      "NFOCFMPKMLO": [
+        0,
+        2160
+      ],
+      "HOCMGBAOHPN": 30
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "MGHMGHLEANP": 1001,
+      "NFOCFMPKMLO": [
+        2161,
+        3024
+      ],
+      "HOCMGBAOHPN": 18
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "MGHMGHLEANP": 1001,
+      "NFOCFMPKMLO": [
+        3025,
+        3384
+      ],
+      "HOCMGBAOHPN": 10
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "MGHMGHLEANP": 1001,
+      "NFOCFMPKMLO": [
+        3385,
+        99999
+      ],
+      "HOCMGBAOHPN": 4
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "MGHMGHLEANP": 1002,
+      "NFOCFMPKMLO": [
+        0,
+        1510
+      ],
+      "HOCMGBAOHPN": 30
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "MGHMGHLEANP": 1002,
+      "NFOCFMPKMLO": [
+        1511,
+        1930
+      ],
+      "HOCMGBAOHPN": 24
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "MGHMGHLEANP": 1002,
+      "NFOCFMPKMLO": [
+        1931,
+        2250
+      ],
+      "HOCMGBAOHPN": 18
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "MGHMGHLEANP": 1002,
+      "NFOCFMPKMLO": [
+        2251,
+        99999
+      ],
+      "HOCMGBAOHPN": 12
+    }
+  ]
+}

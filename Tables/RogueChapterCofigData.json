@@ -1,0 +1,1328 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1101,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，面对这些火力全开的瓦良格帮，必须尽快实施清剿！",
+      "ILABCKNDMLN": {
+        "11": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 1102,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，这里的生骸异常躁动……在出现意外之前，把它们全部消灭。",
+      "ILABCKNDMLN": {
+        "12": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 1103,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，面对这些火力全开的瓦良格帮，必须尽快实施清剿！",
+      "ILABCKNDMLN": {
+        "13": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 1104,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，这里的生骸异常躁动……在出现意外之前，把它们全部消灭。",
+      "ILABCKNDMLN": {
+        "14": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 1105,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，这里的生骸异常躁动……在出现意外之前，把它们全部消灭。",
+      "ILABCKNDMLN": {
+        "15": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 1201,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，发挥您出色的指挥能力，打一场漂亮的胜仗吧！",
+      "ILABCKNDMLN": {
+        "201": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 1202,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，接下来，您的每一次的决断都将导向不同的未来。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 1203,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，在两个难度选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 1204,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，形势严峻，在三个难度选项之间做出决断！这决定着即将到来的挑战。距离终点还有一半路程！",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 1205,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群五",
+      "PGBMMDIPEFA": "您当前处于子群五，形势严峻，在三个难度选项之间之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 1206,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 6,
+      "HBJAHCGKJJD": "子群六",
+      "PGBMMDIPEFA": "您当前处于子群六，形势相当严峻，在三个难度选项之间做出决断！这决定着即将到来的挑战。距离终点一步之遥！",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 1207,
+      "KCIJHIELEDG": 1,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 7,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，这是一个巨大的挑战，击败棘手的家伙，证明您的实力吧！",
+      "ILABCKNDMLN": {
+        "2001": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2101,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，这里的生骸异常躁动……在出现意外之前，把它们全部消灭。",
+      "ILABCKNDMLN": {
+        "21": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2102,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，面对这些火力全开的瓦良格帮，必须尽快实施清剿！",
+      "ILABCKNDMLN": {
+        "22": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2103,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，这些匪徒并不在乎你的生死，他们只在乎钱。优先击败愚钝者！",
+      "ILABCKNDMLN": {
+        "23": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2104,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，面对这些火力全开的瓦良格帮，必须尽快实施清剿！",
+      "ILABCKNDMLN": {
+        "24": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2105,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，面对这些火力全开的瓦良格帮，必须尽快实施清剿！",
+      "ILABCKNDMLN": {
+        "25": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 4101,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，对付烂铁有对付烂铁的方式，有时需要尝试从内部一一击破。",
+      "ILABCKNDMLN": {
+        "41": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 4102,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，这里的生骸异常躁动……在出现意外之前，把它们全部消灭。",
+      "ILABCKNDMLN": {
+        "42": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 4103,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，瓦良格帮和生骸一起攻击，这不科学……算了，反正全部清扫干净就行了吧？",
+      "ILABCKNDMLN": {
+        "43": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 4104,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，对付烂铁有对付烂铁的方式，有时需要尝试从内部一一击破。",
+      "ILABCKNDMLN": {
+        "44": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 4105,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，瓦良格帮和生骸一起攻击，这不科学……算了，反正全部清扫干净就行了吧？",
+      "ILABCKNDMLN": {
+        "45": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 4201,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，发挥您出色的指挥能力，打一场漂亮的胜仗吧！",
+      "ILABCKNDMLN": {
+        "201": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4202,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，接下来，您的每一次的决断都将导向不同的未来。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4203,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，在两个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4204,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，形势严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4205,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群五",
+      "PGBMMDIPEFA": "您当前处于子群五，形势严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4206,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 6,
+      "HBJAHCGKJJD": "子群六",
+      "PGBMMDIPEFA": "您当前处于子群六，形势相当严峻，在三个选项之间做出决断！这决定着即将到来的挑战。距离终点还有一半路程。",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4207,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 7,
+      "HBJAHCGKJJD": "子群七",
+      "PGBMMDIPEFA": "您当前处于子群七，形势相当严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4208,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 8,
+      "HBJAHCGKJJD": "子群八",
+      "PGBMMDIPEFA": "您当前处于子群八，形势更加严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "207": 1,
+        "211": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4209,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 9,
+      "HBJAHCGKJJD": "子群九",
+      "PGBMMDIPEFA": "您当前处于子群九，形势更加严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "207": 1,
+        "211": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4210,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 10,
+      "HBJAHCGKJJD": "子群十",
+      "PGBMMDIPEFA": "您当前处于子群十，形势刻不容缓，在三个选项之间做出决断！这决定着即将到来的挑战。距离终点一步之遥！",
+      "ILABCKNDMLN": {
+        "210": 1,
+        "211": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 4211,
+      "KCIJHIELEDG": 4,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 11,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，这是一个巨大的挑战，击败棘手的家伙，证明您的实力吧！",
+      "ILABCKNDMLN": {
+        "2001": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 5101,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，敌人正在尝试使用重火力压制我们，破坏他们的阵线！一举歼灭！",
+      "ILABCKNDMLN": {
+        "51": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 5102,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，瓦良格帮和生骸一起攻击，这不科学……算了，反正全部清扫干净就行了吧？",
+      "ILABCKNDMLN": {
+        "52": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 5103,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，瓦良格帮和生骸一起攻击，这不科学……算了，反正全部清扫干净就行了吧？",
+      "ILABCKNDMLN": {
+        "53": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 5104,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，虽然瓦良格帮和生骸都没什么智商，但偶尔也会有攻击力极强的单位，优先把这些棘手的家伙解决。",
+      "ILABCKNDMLN": {
+        "54": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 5105,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，这些匪徒并不在乎你的生死，他们只在乎钱。优先击败掠夺者！",
+      "ILABCKNDMLN": {
+        "55": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2201,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，发挥您出色的指挥能力，打一场漂亮的胜仗吧！",
+      "ILABCKNDMLN": {
+        "201": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 2202,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，接下来，您的每一次的决断都将导向不同的未来。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 2203,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，在两个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 2204,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，形势严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 2205,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群五",
+      "PGBMMDIPEFA": "您当前处于子群五，形势严峻，在三个选项之间做出决断！这决定着即将到来的挑战。距离终点还有一半路程！",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 2206,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 6,
+      "HBJAHCGKJJD": "子群六",
+      "PGBMMDIPEFA": "您当前处于子群六，形势相当严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 2207,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 7,
+      "HBJAHCGKJJD": "子群七",
+      "PGBMMDIPEFA": "您当前处于子群七，形势相当严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 2208,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 8,
+      "HBJAHCGKJJD": "子群八",
+      "PGBMMDIPEFA": "您当前处于子群八，形势更加严峻，在三个选项之间做出决断！这决定着即将到来的挑战。距离终点一步之遥！",
+      "ILABCKNDMLN": {
+        "207": 1,
+        "211": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 2209,
+      "KCIJHIELEDG": 2,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 9,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，这是一个巨大的挑战，击败棘手的家伙，证明您的实力吧！",
+      "ILABCKNDMLN": {
+        "2001": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 3101,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，这里的生骸异常躁动……在出现意外之前，把它们全部消灭。",
+      "ILABCKNDMLN": {
+        "31": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 3102,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，对付烂铁有对付烂铁的方式，有时需要尝试从内部一一击破。",
+      "ILABCKNDMLN": {
+        "32": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 3103,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，面对这些火力全开的瓦良格帮，必须尽快实施清剿！",
+      "ILABCKNDMLN": {
+        "33": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 3104,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，想要驱逐成群的生骸，有时需要多多观察，比如先解决那头噩兆棘熊……",
+      "ILABCKNDMLN": {
+        "34": 1
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      }
+    },
+    {
+      "LGJCPENNFBC": 3105,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_normal",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，先把领头的那个干掉，至于其他的，也就好解决了。",
+      "ILABCKNDMLN": {
+        "35": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 3201,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，发挥您出色的指挥能力，打一场漂亮的胜仗吧！",
+      "ILABCKNDMLN": {
+        "201": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 3202,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，接下来，您的您的每一次的决断都将导向不同的未来。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 3203,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，在两个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 3204,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，形势严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 3205,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群五",
+      "PGBMMDIPEFA": "您当前处于子群五，形势严峻，在三个选项之间做出决断！这决定着即将到来的挑战。距离终点还有一半路程。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 3206,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 6,
+      "HBJAHCGKJJD": "子群六",
+      "PGBMMDIPEFA": "您当前处于子群六，形势相当严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 3207,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 7,
+      "HBJAHCGKJJD": "子群七",
+      "PGBMMDIPEFA": "您当前处于子群七，形势相当严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 3208,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 8,
+      "HBJAHCGKJJD": "子群八",
+      "PGBMMDIPEFA": "您当前处于子群八，形势更加严峻，在三个选项之间做出决断！这决定着即将到来的挑战。距离终点一步之遥！",
+      "ILABCKNDMLN": {
+        "207": 1,
+        "211": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 3209,
+      "KCIJHIELEDG": 3,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 9,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，这是一个巨大的挑战，击败棘手的家伙，证明您的实力吧！",
+      "ILABCKNDMLN": {
+        "2001": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 5201,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 1,
+      "HBJAHCGKJJD": "子群一",
+      "PGBMMDIPEFA": "您当前处于子群一，发挥您出色的指挥能力，打一场漂亮的胜仗吧！",
+      "ILABCKNDMLN": {
+        "201": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5202,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 2,
+      "HBJAHCGKJJD": "子群二",
+      "PGBMMDIPEFA": "您当前处于子群二，接下来，您的每一次的决断都将导向不同的未来。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5203,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 3,
+      "HBJAHCGKJJD": "子群三",
+      "PGBMMDIPEFA": "您当前处于子群三，在两个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5204,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 4,
+      "HBJAHCGKJJD": "子群四",
+      "PGBMMDIPEFA": "您当前处于子群四，形势严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5205,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 5,
+      "HBJAHCGKJJD": "子群五",
+      "PGBMMDIPEFA": "您当前处于子群五，形势严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "201": 1,
+        "205": 1,
+        "209": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5206,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 6,
+      "HBJAHCGKJJD": "子群六",
+      "PGBMMDIPEFA": "您当前处于子群六，形势相当严峻，在三个选项之间做出决断！这决定着即将到来的挑战。距离终点还有一半路程。",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5207,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 7,
+      "HBJAHCGKJJD": "子群七",
+      "PGBMMDIPEFA": "您当前处于子群七，形势相当严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "204": 1,
+        "208": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5208,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 8,
+      "HBJAHCGKJJD": "子群八",
+      "PGBMMDIPEFA": "您当前处于子群八，形势更加严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "207": 1,
+        "211": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5209,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 9,
+      "HBJAHCGKJJD": "子群九",
+      "PGBMMDIPEFA": "您当前处于子群九，形势更加严峻，在三个选项之间做出决断！这决定着即将到来的挑战。",
+      "ILABCKNDMLN": {
+        "207": 1,
+        "211": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5210,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 10,
+      "HBJAHCGKJJD": "子群十",
+      "PGBMMDIPEFA": "您当前处于子群十，形势刻不容缓，在三个选项之间做出决断！这决定着即将到来的挑战。距离终点一步之遥！",
+      "ILABCKNDMLN": {
+        "210": 1,
+        "211": 1,
+        "212": 1
+      },
+      "AIBFFCLJMDP": {
+        "1": 8,
+        "2": 10,
+        "3": 12
+      },
+      "NCFPJJIDGCF": "2:1:15",
+      "PKLJOOLLJJJ": {
+        "1": 3
+      },
+      "ICPDEKIOLHH": "2002:1:1000"
+    },
+    {
+      "LGJCPENNFBC": 5211,
+      "KCIJHIELEDG": 5,
+      "IPAKCFHDOPF": "rogue_stage_mode_challenge",
+      "OHPLBDAIEDK": 11,
+      "HBJAHCGKJJD": "子群终",
+      "PGBMMDIPEFA": "您当前处于子群终，这是一个巨大的挑战，击败棘手的家伙，证明您的实力吧！",
+      "ILABCKNDMLN": {
+        "2001": 1
+      }
+    }
+  ]
+}

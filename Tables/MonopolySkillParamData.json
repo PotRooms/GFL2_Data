@@ -1,0 +1,290 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10411,
+      "AHHJJEKBFDK": [
+        2
+      ],
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_purify"
+    },
+    {
+      "LGJCPENNFBC": 10531,
+      "AIJLOLJKCIA": -100,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 10532,
+      "AIJLOLJKCIA": -1,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 10533,
+      "AIJLOLJKCIA": -10,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 10911,
+      "GOCFFCNKAGN": [
+        10043
+      ],
+      "JIFLBNFLJKL": "Monopoly_effect_skill_weaken"
+    },
+    {
+      "LGJCPENNFBC": 10912,
+      "GOCFFCNKAGN": [
+        10045
+      ],
+      "JIFLBNFLJKL": "Monopoly_effect_skill_weaken"
+    },
+    {
+      "LGJCPENNFBC": 10921,
+      "GOCFFCNKAGN": [
+        10043,
+        10043
+      ],
+      "JIFLBNFLJKL": "Monopoly_effect_skill_weaken"
+    },
+    {
+      "LGJCPENNFBC": 10931,
+      "GOCFFCNKAGN": [
+        10043,
+        10043,
+        10043,
+        10043
+      ],
+      "JIFLBNFLJKL": "Monopoly_effect_skill_weaken"
+    },
+    {
+      "LGJCPENNFBC": 10041,
+      "GOCFFCNKAGN": [
+        10035
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10131,
+      "AIJLOLJKCIA": 50,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_cure"
+    },
+    {
+      "LGJCPENNFBC": 10221,
+      "GOCFFCNKAGN": [
+        10071
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30011,
+      "GOCFFCNKAGN": [
+        10010
+      ]
+    },
+    {
+      "LGJCPENNFBC": 99011,
+      "AIJLOLJKCIA": -15,
+      "GOCFFCNKAGN": [
+        10010
+      ],
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_03"
+    },
+    {
+      "LGJCPENNFBC": 99021,
+      "ILBNLOGABKE": 1,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_03"
+    },
+    {
+      "LGJCPENNFBC": 10731,
+      "KOPHJFCNJGE": 1
+    },
+    {
+      "LGJCPENNFBC": 20011,
+      "AIJLOLJKCIA": -1,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_03"
+    },
+    {
+      "LGJCPENNFBC": 20041,
+      "AIJLOLJKCIA": -5,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_03"
+    },
+    {
+      "LGJCPENNFBC": 10641,
+      "OINPJJNDGDO": 7,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_defend"
+    },
+    {
+      "LGJCPENNFBC": 10651,
+      "OINPJJNDGDO": 12,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_defend"
+    },
+    {
+      "LGJCPENNFBC": 10821,
+      "GOCFFCNKAGN": [
+        10083
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10111,
+      "AIJLOLJKCIA": 10,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_cure"
+    },
+    {
+      "LGJCPENNFBC": 10161,
+      "AIJLOLJKCIA": 100,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_cure"
+    },
+    {
+      "LGJCPENNFBC": 10621,
+      "OINPJJNDGDO": 5,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_defend"
+    },
+    {
+      "LGJCPENNFBC": 99031,
+      "OINPJJNDGDO": 5,
+      "JIFLBNFLJKL": "Monopoly_effect_defend"
+    },
+    {
+      "LGJCPENNFBC": 99041,
+      "NPLGCMHAOON": 10,
+      "JIFLBNFLJKL": "Monopoly_effect_cure"
+    },
+    {
+      "LGJCPENNFBC": 10211,
+      "GOCFFCNKAGN": [
+        10070
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10511,
+      "AIJLOLJKCIA": -20,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 10512,
+      "AIJLOLJKCIA": -1,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 10513,
+      "AIJLOLJKCIA": -5,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 10631,
+      "OINPJJNDGDO": 10,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_defend"
+    },
+    {
+      "LGJCPENNFBC": 10231,
+      "GOCFFCNKAGN": [
+        10072
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10811,
+      "GOCFFCNKAGN": [
+        10080
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10941,
+      "GOCFFCNKAGN": [
+        10045
+      ],
+      "JIFLBNFLJKL": "Monopoly_effect_skill_weaken"
+    },
+    {
+      "LGJCPENNFBC": 10021,
+      "GOCFFCNKAGN": [
+        10031
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10121,
+      "AIJLOLJKCIA": 30,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_cure"
+    },
+    {
+      "LGJCPENNFBC": 10151,
+      "AIJLOLJKCIA": 60,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_cure"
+    },
+    {
+      "LGJCPENNFBC": 10011,
+      "GOCFFCNKAGN": [
+        10030
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10031,
+      "GOCFFCNKAGN": [
+        10032
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20031,
+      "AIJLOLJKCIA": -3,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_03"
+    },
+    {
+      "LGJCPENNFBC": 10311,
+      "OINPJJNDGDO": 2,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_defend"
+    },
+    {
+      "LGJCPENNFBC": 10321,
+      "OINPJJNDGDO": 5,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_defend"
+    },
+    {
+      "LGJCPENNFBC": 10611,
+      "OINPJJNDGDO": 3,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopoly_effect_defend"
+    },
+    {
+      "LGJCPENNFBC": 10521,
+      "AIJLOLJKCIA": -50,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 10522,
+      "AIJLOLJKCIA": -1,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 10523,
+      "AIJLOLJKCIA": -7,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_01"
+    },
+    {
+      "LGJCPENNFBC": 20021,
+      "AIJLOLJKCIA": -2,
+      "GLONOPHJBCK": 1,
+      "JIFLBNFLJKL": "Monopolyorder_attack_03"
+    }
+  ]
+}

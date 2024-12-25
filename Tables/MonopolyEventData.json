@@ -1,0 +1,198 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 120301,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜1-3图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12031
+    },
+    {
+      "LGJCPENNFBC": 120401,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜2-1图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12041
+    },
+    {
+      "LGJCPENNFBC": 120601,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜2-3图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12061
+    },
+    {
+      "LGJCPENNFBC": 120701,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜3-1图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12071
+    },
+    {
+      "LGJCPENNFBC": 120901,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜3-3图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12091
+    },
+    {
+      "LGJCPENNFBC": 99011,
+      "PLCEDEFOHNK": "测试用商店事件",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "测试用商店事件",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 11011
+    },
+    {
+      "LGJCPENNFBC": 99012,
+      "PLCEDEFOHNK": "测试用置换事件",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Replacement_M",
+      "NKNFKLKMEDI": "请选择想要置换的指令 {0}/{1}",
+      "NJAKNLNABHK": 3,
+      "GPILKJJECPN": 2,
+      "JLNDHEFFHGP": 110104
+    },
+    {
+      "LGJCPENNFBC": 99013,
+      "PLCEDEFOHNK": "测试用指令升级",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_LevelUp_M",
+      "NKNFKLKMEDI": "指令升级",
+      "NJAKNLNABHK": 4,
+      "GPILKJJECPN": 3
+    },
+    {
+      "LGJCPENNFBC": 99014,
+      "PLCEDEFOHNK": "测试用指令复制",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Copy_M",
+      "NKNFKLKMEDI": "请选择想要复制的指令 {0}/{1}",
+      "NJAKNLNABHK": 5,
+      "GPILKJJECPN": 1
+    },
+    {
+      "LGJCPENNFBC": 99015,
+      "PLCEDEFOHNK": "测试用货币波动",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_CurrencyUp_M",
+      "NKNFKLKMEDI": "测试用货币波动",
+      "NJAKNLNABHK": 6,
+      "GPILKJJECPN": 20
+    },
+    {
+      "LGJCPENNFBC": 120001,
+      "PLCEDEFOHNK": "回收站",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Replacement_M",
+      "NKNFKLKMEDI": "请选择想要置换的指令 {0}/{1}，置换后，将获得等数量的新指令",
+      "NJAKNLNABHK": 3,
+      "GPILKJJECPN": 2,
+      "JLNDHEFFHGP": 120100
+    },
+    {
+      "LGJCPENNFBC": 120002,
+      "PLCEDEFOHNK": "修改器",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_LevelUp_M",
+      "NKNFKLKMEDI": "指令升级",
+      "NJAKNLNABHK": 4,
+      "GPILKJJECPN": 3
+    },
+    {
+      "LGJCPENNFBC": 120003,
+      "PLCEDEFOHNK": "复写脚本",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Copy_M",
+      "NKNFKLKMEDI": "请选择想要复制的指令 {0}/{1}",
+      "NJAKNLNABHK": 5,
+      "GPILKJJECPN": 1
+    },
+    {
+      "LGJCPENNFBC": 120004,
+      "PLCEDEFOHNK": "版本更新",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_CurrencyUp_M",
+      "NKNFKLKMEDI": "行动密钥增加",
+      "NJAKNLNABHK": 6,
+      "GPILKJJECPN": 150
+    },
+    {
+      "LGJCPENNFBC": 120005,
+      "PLCEDEFOHNK": "版本回退",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_CurrencyDown_M",
+      "NKNFKLKMEDI": "行动密钥减少",
+      "NJAKNLNABHK": 6,
+      "GPILKJJECPN": 90
+    },
+    {
+      "LGJCPENNFBC": 120101,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜1-1图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12011
+    },
+    {
+      "LGJCPENNFBC": 120201,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜1-2图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12021
+    },
+    {
+      "LGJCPENNFBC": 120501,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜2-2图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12051
+    },
+    {
+      "LGJCPENNFBC": 120801,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜3-2图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12081
+    },
+    {
+      "LGJCPENNFBC": 121001,
+      "PLCEDEFOHNK": "控制后台",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Shop_M",
+      "NKNFKLKMEDI": "莱娜3-4图通用商店",
+      "NJAKNLNABHK": 2,
+      "GPILKJJECPN": 12101
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "PLCEDEFOHNK": "测试用事件1",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Random_M",
+      "NKNFKLKMEDI": "测试用事件描述1",
+      "NJAKNLNABHK": 1,
+      "GPILKJJECPN": 110101
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "PLCEDEFOHNK": "测试用事件2",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Random_M",
+      "NKNFKLKMEDI": "测试用事件描述1",
+      "NJAKNLNABHK": 1,
+      "GPILKJJECPN": 110102
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "PLCEDEFOHNK": "测试用事件3",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Random_M",
+      "NKNFKLKMEDI": "测试用事件描述1",
+      "NJAKNLNABHK": 1,
+      "GPILKJJECPN": 110103
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "PLCEDEFOHNK": "测试用事件4",
+      "HLHCBEACDDA": "Icon_ActivityTour_Event_Random_M",
+      "NKNFKLKMEDI": "测试用事件描述1",
+      "NJAKNLNABHK": 1,
+      "GPILKJJECPN": 110104
+    }
+  ]
+}

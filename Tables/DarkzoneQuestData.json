@@ -1,0 +1,1520 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 99,
+      "IKEKJAJHDLK": "测试图99",
+      "AJIDFGMOAPO": "真正的敌首已经撤离到了更深的污染区之中，尝试迂回，绕过眼前的敌人进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 99,
+      "FICLMJJBMIO": 24,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "APNNNGNFPGC": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭敌军核心战力，愚钝者",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_6",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "148:512:18",
+        "858:512:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10101,
+      "IKEKJAJHDLK": "A01(新手1)场景04",
+      "AJIDFGMOAPO": "真正的敌首已经撤离到了更深的污染区之中，尝试迂回，绕过眼前的敌人进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1101,
+      "FICLMJJBMIO": 24,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "APNNNGNFPGC": {
+        "18": 1500
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位愚钝者，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_6",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "148:512:18",
+        "858:512:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        1010101
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10102,
+      "IKEKJAJHDLK": "A02(新手2)场景08",
+      "AJIDFGMOAPO": "我们中了埋伏，没想到这里居然有敌人的据点，指挥官，突围！(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1102,
+      "FICLMJJBMIO": 24,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "APNNNGNFPGC": {
+        "18": 1500
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位袭击者，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_7",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "374:282:18",
+        "582:771:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        1010201
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10103,
+      "IKEKJAJHDLK": "A03(新手3)场景05",
+      "AJIDFGMOAPO": "队伍已来到了污染区的深处，环境变得更加恶劣，抓住敌人的残留线索进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1103,
+      "FICLMJJBMIO": 26,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "APNNNGNFPGC": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位堡垒泰坦，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_8",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "148:512:18",
+        "858:512:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        1010301
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10104,
+      "IKEKJAJHDLK": "A04(新手4)场景06",
+      "AJIDFGMOAPO": "敌人撤退了，继续追击，他们逃不出我们的追踪。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1104,
+      "FICLMJJBMIO": 28,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 2000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 2000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "消灭敌方单位攻袭泰坦后，找到撤离信号站，完成撤离。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_10",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "660:882:18",
+        "640:398:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10105,
+      "IKEKJAJHDLK": "A05(新手5)场景07",
+      "AJIDFGMOAPO": "陷阱！敌方早有准备，我们要找到突破口，冲出火力范围。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1105,
+      "FICLMJJBMIO": 28,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 2000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 2000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位纽虫，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_11",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "148:512:18",
+        "858:512:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10106,
+      "IKEKJAJHDLK": "A06(新手6)场景08",
+      "AJIDFGMOAPO": "到达了敌方的阵地后方，这里面藏着什么秘密呢……(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1106,
+      "FICLMJJBMIO": 30,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 4000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 4000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "消灭敌方单位剑锷泰坦后，找到撤离信号站，完成撤离。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_13",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "581:270:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        1106
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10107,
+      "IKEKJAJHDLK": "A07(新手7)场景06",
+      "AJIDFGMOAPO": "是时候展示我们真正的实力了，正前方，突破！(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1107,
+      "FICLMJJBMIO": 30,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 2500,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 2500,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位重炮圣盾SWAP，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_15",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10108,
+      "IKEKJAJHDLK": "A08(新手8)场景09",
+      "AJIDFGMOAPO": "短兵相接对我们来说并不一定有利，但是形式已经迫在眉睫了。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1108,
+      "FICLMJJBMIO": 30,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 2500,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 2500,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到撤离信号站，完成撤离。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_16",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "562:283:18",
+        "323:722:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        101081,
+        101082
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10109,
+      "IKEKJAJHDLK": "A09(新手9)场景05",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1109,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10110,
+      "IKEKJAJHDLK": "A10(新手10)场景09",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1110,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "消灭敌方单位黑眼后，找到撤离信号站，完成撤离。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10111,
+      "IKEKJAJHDLK": "A11(新手11)场景08",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1111,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位纵火者，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        1111
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10112,
+      "IKEKJAJHDLK": "A12(新手12)场景06",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1112,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位尖喙铁兽，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10113,
+      "IKEKJAJHDLK": "A13(首月1)场景08",
+      "AJIDFGMOAPO": "真正的敌首已经撤离到了更深的污染区之中，尝试迂回，绕过眼前的敌人进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1113,
+      "FICLMJJBMIO": 24,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "APNNNGNFPGC": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_6",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "148:512:18",
+        "858:512:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10114,
+      "IKEKJAJHDLK": "A14(首月2)场景04",
+      "AJIDFGMOAPO": "我们中了埋伏，没想到这里居然有敌人的据点，指挥官，突围！(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1114,
+      "FICLMJJBMIO": 24,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "APNNNGNFPGC": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_7",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "374:282:18",
+        "582:771:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10115,
+      "IKEKJAJHDLK": "A15(首月3)场景05",
+      "AJIDFGMOAPO": "队伍已来到了污染区的深处，环境变得更加恶劣，抓住敌人的残留线索进行追击。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1115,
+      "FICLMJJBMIO": 26,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "APNNNGNFPGC": {
+        "18": 1500,
+        "110202": 4,
+        "110203": 4
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_8",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "148:512:18",
+        "858:512:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        1115
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10116,
+      "IKEKJAJHDLK": "A16(首月4)场景09",
+      "AJIDFGMOAPO": "敌人撤退了，继续追击，他们逃不出我们的追踪。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1116,
+      "FICLMJJBMIO": 28,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 2000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 2000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_10",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "660:882:18",
+        "640:398:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10117,
+      "IKEKJAJHDLK": "A17(首月5)场景07",
+      "AJIDFGMOAPO": "陷阱！敌方早有准备，我们要找到突破口，冲出火力范围。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1117,
+      "FICLMJJBMIO": 28,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 2000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 2000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_11",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "148:512:18",
+        "858:512:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10118,
+      "IKEKJAJHDLK": "A18(首月6)场景08",
+      "AJIDFGMOAPO": "到达了敌方的阵地后方，这里面藏着什么秘密呢……(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1118,
+      "FICLMJJBMIO": 30,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 4000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 4000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_13",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "581:270:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10119,
+      "IKEKJAJHDLK": "A19(首月7)场景06",
+      "AJIDFGMOAPO": "是时候展示我们真正的实力了，正前方，突破！(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1119,
+      "FICLMJJBMIO": 30,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 2500,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 2500,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_15",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10120,
+      "IKEKJAJHDLK": "A20(首月8)场景06",
+      "AJIDFGMOAPO": "短兵相接对我们来说并不一定有利，但是形式已经迫在眉睫了。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1120,
+      "FICLMJJBMIO": 30,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 2500,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 2500,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_16",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "562:283:18",
+        "323:722:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        1120
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10121,
+      "IKEKJAJHDLK": "A21(首月9)场景07",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1121,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10122,
+      "IKEKJAJHDLK": "A22(首月10)场景08",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1122,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10123,
+      "IKEKJAJHDLK": "A23(首月11)场景09",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1123,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        112301,
+        112302
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10124,
+      "IKEKJAJHDLK": "A24(首月12)场景08",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1124,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true,
+      "APDEGPMNLMM": [
+        112401
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10125,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试1",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 980,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10126,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试2",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 981,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10127,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试3",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 982,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10128,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试4",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 983,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10129,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试5",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 984,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10130,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试6",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 985,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10131,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试7",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 986,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10132,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试8",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 987,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10133,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试9",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 988,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10134,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试10",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 989,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10135,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试11",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 990,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10136,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试12",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 991,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10137,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试13",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 992,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10138,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试14",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 993,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10139,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试15",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 994,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10140,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试16",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 995,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10141,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试17",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 996,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10142,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试18",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 997,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10143,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试19",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 998,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 10144,
+      "IKEKJAJHDLK": "碳牙-怪物生态测试20",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 999,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 20101,
+      "IKEKJAJHDLK": "无尽模式测试1",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1124,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位百式圣盾SWAP，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 2,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 20102,
+      "IKEKJAJHDLK": "无尽模式测试2",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1124,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到并消灭核心战力",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 2,
+      "GOIDGJADGPC": true
+    },
+    {
+      "LGJCPENNFBC": 30101,
+      "IKEKJAJHDLK": "探索测试",
+      "AJIDFGMOAPO": "回想刚才交战时敌方的违和感，似乎是有第三方势力引导我们交战，暂时先找个地方休整一下吧。(目前暗区任务暂不支持断线重连，敬请见谅)",
+      "DFJLHGOMJMA": 1124,
+      "FICLMJJBMIO": 32,
+      "MCNECPEDPPF": 110202,
+      "KDBEMKFANEI": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "APNNNGNFPGC": {
+        "18": 5000,
+        "110201": 1,
+        "110202": 3
+      },
+      "MJEEMCJDEJO": 101,
+      "DLJPPNHOLIE": "找到指定敌方单位震荡泰坦，将其消灭。",
+      "DDEENBELIFH": "Img_DarkzoneQuest_Pic_17",
+      "PKEHCJBBNPD": [
+        100222
+      ],
+      "BAGCMBLBHLK": [
+        "755:269:18",
+        "122:259:17"
+      ],
+      "BDONCBLLOHD": "6143;",
+      "BMBFHOLCAFP": 1,
+      "GOIDGJADGPC": true
+    }
+  ]
+}

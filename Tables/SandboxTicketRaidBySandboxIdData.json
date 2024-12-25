@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "GFFNDLJOFHA": 104001,
+      "LGJCPENNFBC": [
+        1004
+      ]
+    },
+    {
+      "GFFNDLJOFHA": 105001,
+      "LGJCPENNFBC": [
+        1005
+      ]
+    },
+    {
+      "GFFNDLJOFHA": 101001,
+      "LGJCPENNFBC": [
+        1001
+      ]
+    },
+    {
+      "GFFNDLJOFHA": 102001,
+      "LGJCPENNFBC": [
+        1002
+      ]
+    },
+    {
+      "GFFNDLJOFHA": 103001,
+      "LGJCPENNFBC": [
+        1003
+      ]
+    }
+  ]
+}

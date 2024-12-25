@@ -1,0 +1,35 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 64
+    },
+    {
+      "LGJCPENNFBC": 128
+    },
+    {
+      "LGJCPENNFBC": 256,
+      "OANNLOOMNOL": 1
+    },
+    {
+      "LGJCPENNFBC": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "OANNLOOMNOL": 1
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "OANNLOOMNOL": 1
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "OANNLOOMNOL": 1
+    },
+    {
+      "LGJCPENNFBC": 16
+    },
+    {
+      "LGJCPENNFBC": 32
+    }
+  ]
+}

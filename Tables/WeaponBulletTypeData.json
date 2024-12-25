@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "KGDCGCALBCI": 1,
+      "OFPKEANOIPN": "Effect_sum/Other/FX_BulletShell_5.56X45mmNATO_01"
+    },
+    {
+      "KGDCGCALBCI": 2,
+      "OFPKEANOIPN": "Effect_sum/Other/FX_BulletShell_7.62Bullet_02"
+    },
+    {
+      "KGDCGCALBCI": 3,
+      "OFPKEANOIPN": "Effect_sum/Other/FX_BulletShell_9mmBullet_03"
+    },
+    {
+      "KGDCGCALBCI": 4,
+      "OFPKEANOIPN": "Effect_sum/Other/FX_BulletShell_19.7mm_04"
+    },
+    {
+      "KGDCGCALBCI": 5,
+      "OFPKEANOIPN": "Effect_sum/Other/FX_BulletShell_45mmACP_05"
+    },
+    {
+      "KGDCGCALBCI": 6,
+      "OFPKEANOIPN": "Effect_sum/Other/FX_BulletShell_50BMG_06"
+    }
+  ]
+}

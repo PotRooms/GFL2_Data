@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "DEBCHPGKGCI": 1,
+      "LGJCPENNFBC": [
+        1,
+        2
+      ]
+    },
+    {
+      "DEBCHPGKGCI": 2,
+      "LGJCPENNFBC": [
+        3,
+        4
+      ]
+    },
+    {
+      "DEBCHPGKGCI": 3,
+      "LGJCPENNFBC": [
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "DEBCHPGKGCI": 4,
+      "LGJCPENNFBC": [
+        8,
+        9
+      ]
+    },
+    {
+      "DEBCHPGKGCI": 5,
+      "LGJCPENNFBC": [
+        10
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 20,
+      "FBPJHJLDELP": {
+        "1": 50,
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 40,
+      "FBPJHJLDELP": {
+        "1": 50,
+        "13": 1500
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 60,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 2000
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 80,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 2500
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "BKCIGACKEFD": 1,
+      "JCICKJAEAKF": 100,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 3000
+      }
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 20,
+      "FBPJHJLDELP": {
+        "1": 50,
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 40,
+      "FBPJHJLDELP": {
+        "1": 50,
+        "13": 1500
+      }
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 60,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 2000
+      }
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 80,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 2500
+      }
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "BKCIGACKEFD": 2,
+      "JCICKJAEAKF": 100,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 3000
+      }
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 20,
+      "FBPJHJLDELP": {
+        "1": 50,
+        "13": 1000
+      }
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 40,
+      "FBPJHJLDELP": {
+        "1": 50,
+        "13": 1500
+      }
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 60,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 2000
+      }
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 80,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 2500
+      }
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "BKCIGACKEFD": 3,
+      "JCICKJAEAKF": 100,
+      "FBPJHJLDELP": {
+        "1": 100,
+        "13": 3000
+      }
+    }
+  ]
+}

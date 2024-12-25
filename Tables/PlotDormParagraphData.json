@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BGOHKFDOCMI": [
+        9
+      ],
+      "KEDAGKICLOP": 2
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BGOHKFDOCMI": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "KEDAGKICLOP": 3
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BGOHKFDOCMI": [
+        6,
+        7,
+        8
+      ],
+      "KEDAGKICLOP": 3
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BGOHKFDOCMI": [
+        30101,
+        30102,
+        30103,
+        30104
+      ],
+      "KEDAGKICLOP": 1,
+      "KEMIEMPOHIO": [
+        15,
+        105,
+        205,
+        305
+      ],
+      "APKHIIABEJA": 355
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "BGOHKFDOCMI": [
+        10
+      ],
+      "KEDAGKICLOP": 2
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "BGOHKFDOCMI": [
+        11
+      ],
+      "KEDAGKICLOP": 2
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "BGOHKFDOCMI": [
+        12
+      ],
+      "KEDAGKICLOP": 2
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "BGOHKFDOCMI": [
+        13
+      ],
+      "KEDAGKICLOP": 2
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "BGOHKFDOCMI": [
+        14
+      ],
+      "KEDAGKICLOP": 2
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "BGOHKFDOCMI": [
+        15
+      ],
+      "KEDAGKICLOP": 2
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "BGOHKFDOCMI": [
+        16
+      ],
+      "KEDAGKICLOP": 2
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "BGOHKFDOCMI": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "KEDAGKICLOP": 3
+    },
+    {
+      "LGJCPENNFBC": 3001,
+      "BGOHKFDOCMI": [
+        30101,
+        30102,
+        30103,
+        30104,
+        30105,
+        30106,
+        30107
+      ],
+      "KEDAGKICLOP": 3
+    },
+    {
+      "LGJCPENNFBC": 3002,
+      "BGOHKFDOCMI": [
+        30301,
+        30302,
+        30303,
+        30304,
+        30305,
+        30306
+      ],
+      "KEDAGKICLOP": 3
+    },
+    {
+      "LGJCPENNFBC": 3003,
+      "BGOHKFDOCMI": [
+        31001,
+        310011,
+        310012,
+        310013,
+        31001
+      ],
+      "KEDAGKICLOP": 1,
+      "KEMIEMPOHIO": [
+        60,
+        376,
+        632,
+        888,
+        1144
+      ],
+      "APKHIIABEJA": 1340
+    },
+    {
+      "LGJCPENNFBC": 30031,
+      "BGOHKFDOCMI": [
+        31002,
+        31003,
+        31008,
+        31004,
+        31005,
+        31006,
+        31007,
+        31008
+      ],
+      "KEDAGKICLOP": 3
+    }
+  ]
+}

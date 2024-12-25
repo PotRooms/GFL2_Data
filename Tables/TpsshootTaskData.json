@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 30,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·三达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300005:2"
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·三达成S及以上评级",
+      "IJHOAKKHNGA": "9012:1,173001:400"
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "完成敌群·四",
+      "IJHOAKKHNGA": "10412:1,93005:1"
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·四达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300005:2"
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·四达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,173002:500"
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "完成敌群·五",
+      "IJHOAKKHNGA": "4041:15,173002:500"
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·五达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300005:2"
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·五达成S及以上评级",
+      "IJHOAKKHNGA": "9012:1,173002:500"
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "完成敌群·六",
+      "IJHOAKKHNGA": "4041:15,173002:500"
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·六达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300005:2"
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·六达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,173002:500"
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "完成敌群·七",
+      "IJHOAKKHNGA": "4041:15,173002:500"
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·七达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300005:2"
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·七达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,173002:500"
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "完成敌群·无尽",
+      "IJHOAKKHNGA": "1:50,10412:1"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "完成敌群·一",
+      "IJHOAKKHNGA": "131002:1,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·一达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300004:1;"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·一达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "完成敌群·二",
+      "IJHOAKKHNGA": "131002:1,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·二达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300004:1;"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·二达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "完成敌群·三",
+      "IJHOAKKHNGA": "131002:1,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·三达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300004:1;"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·三达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "完成敌群·四",
+      "IJHOAKKHNGA": "131002:1,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·四达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300004:1;"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·四达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "完成敌群·五",
+      "IJHOAKKHNGA": "131002:1,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·五达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300004:1;"
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·五达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "完成敌群·六",
+      "IJHOAKKHNGA": "9012:1,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·六达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300004:1;"
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·六达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "完成敌群·七",
+      "IJHOAKKHNGA": "9012:1,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·七达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300004:1;"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "敌群·七达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,176001:100;"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HLMJNBDENJL": 101,
+      "PGBMMDIPEFA": "完成敌群·无尽",
+      "IJHOAKKHNGA": "1:50,300004:1;"
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "完成敌群·一",
+      "IJHOAKKHNGA": "4041:15,173001:400"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·一达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300005:2"
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·一达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,173001:400"
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "完成敌群·二",
+      "IJHOAKKHNGA": "4041:15,173001:400"
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·二达成A及以上评级",
+      "IJHOAKKHNGA": "1:50,300005:2"
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "敌群·二达成S及以上评级",
+      "IJHOAKKHNGA": "2:6000,173001:400"
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "HLMJNBDENJL": 201,
+      "PGBMMDIPEFA": "完成敌群·三",
+      "IJHOAKKHNGA": "4041:15,173001:400"
+    }
+  ]
+}

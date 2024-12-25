@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": "1",
+      "CPDCEMHELII": "다운로드 중"
+    },
+    {
+      "LGJCPENNFBC": "2",
+      "CPDCEMHELII": "압축 해제 중"
+    },
+    {
+      "LGJCPENNFBC": "3",
+      "CPDCEMHELII": "마무리 중"
+    },
+    {
+      "LGJCPENNFBC": "4",
+      "CPDCEMHELII": "불러오는 중"
+    },
+    {
+      "LGJCPENNFBC": "5",
+      "CPDCEMHELII": "리소스 검사"
+    },
+    {
+      "LGJCPENNFBC": "6",
+      "CPDCEMHELII": "리소스 무결성을 검사하시겠습니까?"
+    },
+    {
+      "LGJCPENNFBC": "7",
+      "CPDCEMHELII": "게임 등급 분류"
+    },
+    {
+      "LGJCPENNFBC": "8",
+      "CPDCEMHELII": "「소녀전선2: 망명」은 오리지널 3D 전략 게임입니다. 각종 인형 캐릭터를 수집하여 자신만의 부대를 편성할 수 있고, 각종 난이도의 스테이지에 도전하여 스토리를 진행할 수 있습니다."
+    },
+    {
+      "LGJCPENNFBC": "9",
+      "CPDCEMHELII": "현재 wifi 환경이 아닙니다. 용량 <color=#f0af14>{0}</color>의 리소스를 다운받아야 합니다, 진행하시겠습니까?"
+    },
+    {
+      "LGJCPENNFBC": "10",
+      "CPDCEMHELII": "현재 클라이언트 버전이 <color=#f0af14>만료되었습니다</color>, 최신 버전으로 업데이트해주세요."
+    },
+    {
+      "LGJCPENNFBC": "11",
+      "CPDCEMHELII": "취소"
+    },
+    {
+      "LGJCPENNFBC": "12",
+      "CPDCEMHELII": "확인"
+    },
+    {
+      "LGJCPENNFBC": "13",
+      "CPDCEMHELII": "알림"
+    },
+    {
+      "LGJCPENNFBC": "14",
+      "CPDCEMHELII": "{0}MB"
+    },
+    {
+      "LGJCPENNFBC": "15",
+      "CPDCEMHELII": "서버 요청 중"
+    },
+    {
+      "LGJCPENNFBC": "16",
+      "CPDCEMHELII": "버전 정보 대조 중"
+    },
+    {
+      "LGJCPENNFBC": "17",
+      "CPDCEMHELII": "다운로드 시트"
+    },
+    {
+      "LGJCPENNFBC": "18",
+      "CPDCEMHELII": "압축해제 시트"
+    },
+    {
+      "LGJCPENNFBC": "19",
+      "CPDCEMHELII": "리소스 받기"
+    },
+    {
+      "LGJCPENNFBC": "20",
+      "CPDCEMHELII": "리소스 압축 해제"
+    },
+    {
+      "LGJCPENNFBC": "21",
+      "CPDCEMHELII": "리소스 합치기"
+    },
+    {
+      "LGJCPENNFBC": "101",
+      "CPDCEMHELII": "오류"
+    },
+    {
+      "LGJCPENNFBC": "102",
+      "CPDCEMHELII": "알 수 없는 교란이 발생하였습니다.\n<color=#f0af14>(저장 공간이 충분한지 확인해 주세요)</color>"
+    },
+    {
+      "LGJCPENNFBC": "103",
+      "CPDCEMHELII": "해석 오류 알림"
+    },
+    {
+      "LGJCPENNFBC": "104",
+      "CPDCEMHELII": "다운로드를 취소했습니다!"
+    },
+    {
+      "LGJCPENNFBC": "105",
+      "CPDCEMHELII": "네트워크 이상, 연결 상태를 확인해 주세요"
+    },
+    {
+      "LGJCPENNFBC": "106",
+      "CPDCEMHELII": "로그인 해석 오류:"
+    },
+    {
+      "LGJCPENNFBC": "107",
+      "CPDCEMHELII": "다운로드 중 오류가 발생했습니다, 다시 시도해 주세요"
+    },
+    {
+      "LGJCPENNFBC": "108",
+      "CPDCEMHELII": "다운로드 중 오류가 발생했습니다, 다시 시도해 주세요"
+    },
+    {
+      "LGJCPENNFBC": "109",
+      "CPDCEMHELII": "오류로 인해 로그아웃되었습니다."
+    },
+    {
+      "LGJCPENNFBC": "110",
+      "CPDCEMHELII": "계정 로그아웃"
+    },
+    {
+      "LGJCPENNFBC": "111",
+      "CPDCEMHELII": "다시 시도"
+    },
+    {
+      "LGJCPENNFBC": "112",
+      "CPDCEMHELII": "알림"
+    },
+    {
+      "LGJCPENNFBC": "113",
+      "CPDCEMHELII": "재연결 실패, 로그인 화면으로 돌아갑니다"
+    },
+    {
+      "LGJCPENNFBC": "114",
+      "CPDCEMHELII": "연결 복구 중..."
+    },
+    {
+      "LGJCPENNFBC": "115",
+      "CPDCEMHELII": "리소스 업데이트 완료, 게임을 재실행해야 합니다"
+    },
+    {
+      "LGJCPENNFBC": "116",
+      "CPDCEMHELII": "압축 해제 도중 오류 발생, 다시 시도해 주세요"
+    },
+    {
+      "LGJCPENNFBC": "117",
+      "CPDCEMHELII": "현재 디바이스의 공간이 부족합니다. 필요한 용량: {0}. 저장 공간을 확보한 다음 다시 시도해 주세요."
+    },
+    {
+      "LGJCPENNFBC": "118",
+      "CPDCEMHELII": "현재 wifi 환경이 아닙니다, 필요한 데이터량: {0}. 리소스를 다운로드하시겠습니까?"
+    },
+    {
+      "LGJCPENNFBC": "119",
+      "CPDCEMHELII": "클라이언트 검사"
+    },
+    {
+      "LGJCPENNFBC": "120",
+      "CPDCEMHELII": "클라이언트 무결성을 검사하고 복구하시겠습니까?"
+    },
+    {
+      "LGJCPENNFBC": "121",
+      "CPDCEMHELII": "강제로 모든 다운로드 리소스를 업데이트합니다"
+    },
+    {
+      "LGJCPENNFBC": "123",
+      "CPDCEMHELII": "확인"
+    },
+    {
+      "LGJCPENNFBC": "124",
+      "CPDCEMHELII": "취소"
+    },
+    {
+      "LGJCPENNFBC": "125",
+      "CPDCEMHELII": "언어 선택"
+    },
+    {
+      "LGJCPENNFBC": "126",
+      "CPDCEMHELII": "게임 보이스 언어를 선택해 주세요.\\n선택 후 설정에서 변경할 수 있습니다"
+    },
+    {
+      "LGJCPENNFBC": "127",
+      "CPDCEMHELII": "중국어"
+    },
+    {
+      "LGJCPENNFBC": "128",
+      "CPDCEMHELII": "일본어"
+    },
+    {
+      "LGJCPENNFBC": "129",
+      "CPDCEMHELII": "확인"
+    },
+    {
+      "LGJCPENNFBC": "130",
+      "CPDCEMHELII": "한국어"
+    },
+    {
+      "LGJCPENNFBC": "131",
+      "CPDCEMHELII": "서버 선택"
+    },
+    {
+      "LGJCPENNFBC": "132",
+      "CPDCEMHELII": "시작하기"
+    },
+    {
+      "LGJCPENNFBC": "133",
+      "CPDCEMHELII": "이번 업데이트 데이터 용량 {0}. 현재 wifi 환경이 아닙니다. 다운로드를 계속하기겠습니까?"
+    },
+    {
+      "LGJCPENNFBC": "134",
+      "CPDCEMHELII": "이번 업데이트 데이터 용량 {0}. 다운로드를 계속하기겠습니까?"
+    },
+    {
+      "LGJCPENNFBC": "135",
+      "CPDCEMHELII": "서버 변경 시 리소스를 다운로드가 필요할 수 있습니다, 서버를 변경하시겠습니까?"
+    },
+    {
+      "LGJCPENNFBC": "136",
+      "CPDCEMHELII": "현재 서버에 로그인할 수 없습니다. 공지 사항을 확인하시거나 고객 센터에 연락 바랍니다."
+    },
+    {
+      "LGJCPENNFBC": "137",
+      "CPDCEMHELII": "다시 연결"
+    },
+    {
+      "LGJCPENNFBC": "138",
+      "CPDCEMHELII": "서버 연결"
+    },
+    {
+      "LGJCPENNFBC": "139",
+      "CPDCEMHELII": "중국(간자체)"
+    },
+    {
+      "LGJCPENNFBC": "140",
+      "CPDCEMHELII": "미국"
+    },
+    {
+      "LGJCPENNFBC": "141",
+      "CPDCEMHELII": "글로벌"
+    },
+    {
+      "LGJCPENNFBC": "142",
+      "CPDCEMHELII": "일본"
+    },
+    {
+      "LGJCPENNFBC": "143",
+      "CPDCEMHELII": "한국"
+    },
+    {
+      "LGJCPENNFBC": "144",
+      "CPDCEMHELII": "아시아"
+    },
+    {
+      "LGJCPENNFBC": "145",
+      "CPDCEMHELII": "로그인 후 다시 시도하세요"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "EBDFKFGHLJP": 1,
+      "ILODJHEAPAE": 840,
+      "POAPILKHEJL": 101,
+      "MKEENHDNJIN": 1,
+      "GELEKENHPLB": 1
+    },
+    {
+      "EBDFKFGHLJP": 2,
+      "ILODJHEAPAE": 2800,
+      "POAPILKHEJL": 102,
+      "MKEENHDNJIN": 2,
+      "NKMPOCDGHFD": 1,
+      "GELEKENHPLB": 2,
+      "NIBJGBLDPGL": {
+        "8": 1
+      },
+      "CCDOBINGGAD": 65500001
+    },
+    {
+      "EBDFKFGHLJP": 3,
+      "ILODJHEAPAE": 6720,
+      "POAPILKHEJL": 103,
+      "MKEENHDNJIN": 3,
+      "NKMPOCDGHFD": 2,
+      "GELEKENHPLB": 3,
+      "NIBJGBLDPGL": {
+        "12": 1
+      },
+      "CCDOBINGGAD": 65500002
+    },
+    {
+      "EBDFKFGHLJP": 4,
+      "ILODJHEAPAE": 12600,
+      "POAPILKHEJL": 104,
+      "MKEENHDNJIN": 4,
+      "NKMPOCDGHFD": 3,
+      "GELEKENHPLB": 4,
+      "NIBJGBLDPGL": {
+        "131002": 1
+      },
+      "CCDOBINGGAD": 65500003
+    },
+    {
+      "EBDFKFGHLJP": 5,
+      "ILODJHEAPAE": 13300,
+      "POAPILKHEJL": 201,
+      "MKEENHDNJIN": 5,
+      "NKMPOCDGHFD": 4,
+      "GELEKENHPLB": 5,
+      "NIBJGBLDPGL": {
+        "12": 2
+      },
+      "CCDOBINGGAD": 65500004,
+      "IEJLCKMPOMI": 1
+    },
+    {
+      "EBDFKFGHLJP": 6,
+      "ILODJHEAPAE": 14700,
+      "POAPILKHEJL": 202,
+      "MKEENHDNJIN": 6,
+      "GELEKENHPLB": 6,
+      "IEJLCKMPOMI": 2
+    },
+    {
+      "EBDFKFGHLJP": 7,
+      "ILODJHEAPAE": 17500,
+      "POAPILKHEJL": 203,
+      "MKEENHDNJIN": 7,
+      "GELEKENHPLB": 7,
+      "IEJLCKMPOMI": 3
+    },
+    {
+      "EBDFKFGHLJP": 8,
+      "MKEENHDNJIN": 8,
+      "NKMPOCDGHFD": 6,
+      "GELEKENHPLB": 8,
+      "NIBJGBLDPGL": {
+        "1": 300
+      },
+      "IEJLCKMPOMI": 4
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "KPBIHPPNGIO": [
+        152,
+        153,
+        158
+      ],
+      "FGOOHMJFGAA": 20001,
+      "EALDAIOMAGG": "BT/GunBT_skill1.bt",
+      "JACLLPGIHHF": 3,
+      "GPLOHCAEMFP": 1001,
+      "GPENMIJKLME": "will_value,max_will_value,ap,max_ap",
+      "JJMNKFPCKAO": "0,0,200,200",
+      "ICKDFHHPHGK": true,
+      "AOMMJBEIHCM": 60,
+      "DNLDHJLFMFI": 1,
+      "GHJHBDEAIAG": [
+        80000001,
+        -1,
+        500,
+        1000,
+        8
+      ],
+      "ELCCLNNMPDI": [
+        2,
+        5,
+        8,
+        7
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6902918,
+      "KPBIHPPNGIO": [
+        6902911
+      ],
+      "FGOOHMJFGAA": 10000,
+      "EALDAIOMAGG": "BT/GunBT_skill1.bt",
+      "GPENMIJKLME": "pow,hp,max_hp",
+      "JJMNKFPCKAO": "950,900,900",
+      "ICKDFHHPHGK": true,
+      "AOMMJBEIHCM": 60,
+      "GHJHBDEAIAG": [
+        80000001,
+        -1,
+        1000,
+        0,
+        8
+      ],
+      "ELCCLNNMPDI": [
+        2,
+        5,
+        8,
+        7
+      ]
+    }
+  ]
+}

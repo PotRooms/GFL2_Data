@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "BKCIGACKEFD": 1,
+      "LGJCPENNFBC": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "BKCIGACKEFD": 2,
+      "LGJCPENNFBC": [
+        7,
+        8,
+        9,
+        10,
+        601
+      ]
+    },
+    {
+      "BKCIGACKEFD": 3,
+      "LGJCPENNFBC": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "BKCIGACKEFD": 4,
+      "LGJCPENNFBC": [
+        14
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3238"
+      },
+      "DNHAGPFHGCE": "Icon_BulletHit_Light"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5921"
+      },
+      "DNHAGPFHGCE": "Icon_BulletHit_Middle"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5922"
+      },
+      "DNHAGPFHGCE": "Icon_BulletHit_Heavy"
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6620"
+      },
+      "DNHAGPFHGCE": "Icon_BulletHit_Melee"
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5455"
+      },
+      "DNHAGPFHGCE": "Icon_BulletHit_Shot"
+    }
+  ]
+}

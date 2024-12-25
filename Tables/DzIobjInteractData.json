@@ -1,0 +1,1128 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 60,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4522"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Machinery",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Machinery",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1901,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4539"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 1902,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4540"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 1903,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4541"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 1904,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4542"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 2001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8642"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "GPGEODLGNHB": 1,
+      "PCFAOLFNEIJ": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 2002,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9446"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "LKJLPMGODGL": true,
+      "PCFAOLFNEIJ": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300901,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4508"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "OKKILFICKED": true
+    },
+    {
+      "LGJCPENNFBC": 300902,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "OKKILFICKED": true
+    },
+    {
+      "LGJCPENNFBC": 300201,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4526"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 3,
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Disable",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300202,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4527"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "LCCEKPIHOPA": "Active",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "EALJEDDFKHA": 903716
+    },
+    {
+      "LGJCPENNFBC": 300203,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4528"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Enable",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300801,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4546"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300802,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4547"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 51,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4529"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Heal",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Heal",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 52,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4530"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Oxygen",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Oxygen",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 53,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4531"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Portal",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Portal",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "LCCEKPIHOPA": "Close2Open",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 54,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4532"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Exit",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 55,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4531"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 3000,
+      "LCCEKPIHOPA": "Close2Open",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 56,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4533"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 57,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4534"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 58,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4535"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 59,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4529"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Repair",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Repair",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 3,
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close2Open",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1101,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "CDHAJFMDHAB": "InteractLow",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 1102,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close2Open",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1103,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1104,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1105,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 3,
+      "LKJLPMGODGL": true,
+      "CDHAJFMDHAB": "InteractLow",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 4301,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4514"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 500,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "GBJHJFPBEFG": 1
+    },
+    {
+      "LGJCPENNFBC": 4401,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4504"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PreTeleportation",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PreTeleportation",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 4402,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4505"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open2Close",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close2Open",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7477"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_climb",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_climb",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7554"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_climb",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_climb",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 100,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4523"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1801,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4510"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 2000,
+      "GPGEODLGNHB": 1,
+      "PCFAOLFNEIJ": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1802,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1601,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4524"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "LCCEKPIHOPA": "Close",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1602,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1603,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open2Close",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1604,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close2Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 4201,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4503"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PreGrass",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PreGrass",
+      "BKCIGACKEFD": 3,
+      "LKJLPMGODGL": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300101,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4511"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 3,
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Disable",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300102,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4512"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "LCCEKPIHOPA": "Active",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1,
+      "EALJEDDFKHA": 903715
+    },
+    {
+      "LGJCPENNFBC": 300103,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4513"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Enable",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300301,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4506"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "OKKILFICKED": true
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4515"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 2000,
+      "CDHAJFMDHAB": "InteractLow",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4516"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "CDHAJFMDHAB": "InteractLow",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4517"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "LCCEKPIHOPA": "Close",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4518"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Make",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Make",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4519"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 901,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 800,
+      "LCCEKPIHOPA": "Close",
+      "GPGEODLGNHB": 1,
+      "PCFAOLFNEIJ": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 902,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 903,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open2Close",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 904,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close2Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 905,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 800,
+      "LCCEKPIHOPA": "Close",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 906,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 800,
+      "LCCEKPIHOPA": "Close",
+      "PCFAOLFNEIJ": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 907,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4536"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 400,
+      "LCCEKPIHOPA": "Close",
+      "GPGEODLGNHB": 1,
+      "PCFAOLFNEIJ": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 908,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4537"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 3,
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 909,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4538"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300401,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4507"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 302501,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4645"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 98,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4520"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 99,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4521"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4543"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 3,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300002,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4544"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 300003,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4545"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 701,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 801,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4518"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Make",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Make",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1201,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3076"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "CDHAJFMDHAB": "InteractLow",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true
+    },
+    {
+      "LGJCPENNFBC": 1202,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close2Open",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1203,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1204,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1701,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4509"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_Key",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_Key",
+      "BKCIGACKEFD": 2,
+      "LKJLPMGODGL": true,
+      "EGJPEOFPNHA": 1000,
+      "LCCEKPIHOPA": "Close",
+      "GPGEODLGNHB": 1,
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1702,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1703,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Open2Close",
+      "DHBDNLIGHLF": true,
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 1704,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4502"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_PickUp",
+      "LKJLPMGODGL": true,
+      "LCCEKPIHOPA": "Close2Open",
+      "CFCMKDAJCDP": 1
+    },
+    {
+      "LGJCPENNFBC": 4101,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4525"
+      },
+      "LFMAAPLIIAG": "BtnDarkzone/Icon_Darkzone_climb",
+      "HPIAELDEELL": "BtnDarkzone/Icon_Darkzone_climb",
+      "BKCIGACKEFD": 1,
+      "LKJLPMGODGL": true,
+      "CFCMKDAJCDP": 1
+    }
+  ]
+}

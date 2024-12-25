@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "床组"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "沙发组"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "角色功能区"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "衣柜"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "浴室"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "操作台"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "武器区"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": "门垫"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": "楼梯"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": "氛围预留1_楼梯"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": "氛围预留2_窗户"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": "氛围预留3"
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": "氛围预留4"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "KAMHEIFEMJM": 1001,
+      "LGJCPENNFBC": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "KAMHEIFEMJM": 1002,
+      "LGJCPENNFBC": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "KAMHEIFEMJM": 1003,
+      "LGJCPENNFBC": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "KAMHEIFEMJM": 1004,
+      "LGJCPENNFBC": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "EKCBJMIKMGI": 60070,
+      "OGOKNCFCLKG": 1,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          2
+        ],
+        "NKGEDIMKJHL": [
+          1000
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "3127"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "EKCBJMIKMGI": 60070,
+      "OGOKNCFCLKG": 2,
+      "COLIHIALJED": 300,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          50,
+          1000
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "4949"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "EKCBJMIKMGI": 60070,
+      "OGOKNCFCLKG": 3,
+      "COLIHIALJED": 600,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          50,
+          1000
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "3240"
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "EKCBJMIKMGI": 60070,
+      "OGOKNCFCLKG": 4,
+      "COLIHIALJED": 1000,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          50,
+          2000
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "4950"
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "EKCBJMIKMGI": 60070,
+      "OGOKNCFCLKG": 5,
+      "COLIHIALJED": 1500,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          8
+        ],
+        "NKGEDIMKJHL": [
+          50,
+          1
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "4951"
+      }
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "EKCBJMIKMGI": 60070,
+      "OGOKNCFCLKG": 6,
+      "COLIHIALJED": 2000,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          8
+        ],
+        "NKGEDIMKJHL": [
+          100,
+          1
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "4952"
+      }
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "EKCBJMIKMGI": 60209,
+      "OGOKNCFCLKG": 1,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          2
+        ],
+        "NKGEDIMKJHL": [
+          1000
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "3127"
+      }
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "EKCBJMIKMGI": 60209,
+      "OGOKNCFCLKG": 2,
+      "COLIHIALJED": 300,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          50,
+          1000
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "4949"
+      }
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "EKCBJMIKMGI": 60209,
+      "OGOKNCFCLKG": 3,
+      "COLIHIALJED": 600,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          50,
+          1000
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "3240"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "EKCBJMIKMGI": 60209,
+      "OGOKNCFCLKG": 4,
+      "COLIHIALJED": 1000,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          2
+        ],
+        "NKGEDIMKJHL": [
+          50,
+          2000
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "4950"
+      }
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "EKCBJMIKMGI": 60209,
+      "OGOKNCFCLKG": 5,
+      "COLIHIALJED": 1500,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          8
+        ],
+        "NKGEDIMKJHL": [
+          50,
+          1
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "4951"
+      }
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "EKCBJMIKMGI": 60209,
+      "OGOKNCFCLKG": 6,
+      "COLIHIALJED": 2000,
+      "PGHMNGKOOFE": {
+        "OBLDLILOOGO": [
+          1,
+          8
+        ],
+        "NKGEDIMKJHL": [
+          100,
+          1
+        ]
+      },
+      "KKDEDPBKMOE": {
+        "DOHLNDIPHAJ": "4952"
+      }
+    }
+  ]
+}

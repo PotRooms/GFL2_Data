@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "ODIDLMOLLJJ": 8,
+      "NKBIAPGGJKM": "8:00:00",
+      "FKBIPPDDGDK": "20:00:00",
+      "HLOJMAMMNJB": 5400,
+      "CCPHIBGHNAH": 10800
+    },
+    {
+      "ODIDLMOLLJJ": 16,
+      "KGCPEMEAMKJ": 50,
+      "MIFBOOKBKLD": 200,
+      "NKBIAPGGJKM": "8:00:00",
+      "FKBIPPDDGDK": "20:00:00",
+      "HLOJMAMMNJB": 5400,
+      "CCPHIBGHNAH": 10800
+    },
+    {
+      "ODIDLMOLLJJ": 18,
+      "KGCPEMEAMKJ": 100,
+      "MIFBOOKBKLD": 400,
+      "NKBIAPGGJKM": "8:00:00",
+      "FKBIPPDDGDK": "20:00:00",
+      "HLOJMAMMNJB": 5400,
+      "CCPHIBGHNAH": 10800
+    }
+  ]
+}

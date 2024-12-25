@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10,
+      "ALIPMEAJDHF": "talent_skill_damage_index",
+      "MIGPJKBEMLJ": 1
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "ALIPMEAJDHF": "talent_skill_shape_index",
+      "MIGPJKBEMLJ": 1
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "ALIPMEAJDHF": "talent_create_stair"
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "ALIPMEAJDHF": "talent_create_grass"
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "ALIPMEAJDHF": "talent_create_num"
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "ALIPMEAJDHF": "talent_infiltration"
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "ALIPMEAJDHF": "talent_infiltration_time",
+      "MIGPJKBEMLJ": 8000
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "ALIPMEAJDHF": "talent_infiltration_ignoreExposure"
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "ALIPMEAJDHF": "talent_warn_up",
+      "MIGPJKBEMLJ": 300
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "ALIPMEAJDHF": "talent_warn_down"
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "ALIPMEAJDHF": "talent_warn_initial",
+      "MIGPJKBEMLJ": 201
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "ALIPMEAJDHF": "talent_speed"
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "ALIPMEAJDHF": "talent_teleportation"
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "ALIPMEAJDHF": "talent_see_stone"
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "ALIPMEAJDHF": "talent_see_grass"
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "ALIPMEAJDHF": "talent_exploration_init",
+      "MIGPJKBEMLJ": 60
+    }
+  ]
+}

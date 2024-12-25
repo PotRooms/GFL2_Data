@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "DHGBGMBFNPH": 1400,
+      "LGJCPENNFBC": [
+        1401,
+        1402
+      ]
+    },
+    {
+      "DHGBGMBFNPH": 1500,
+      "LGJCPENNFBC": [
+        1501,
+        1502,
+        1503
+      ]
+    },
+    {
+      "DHGBGMBFNPH": 1600,
+      "LGJCPENNFBC": [
+        1601,
+        1602,
+        1603
+      ]
+    },
+    {
+      "DHGBGMBFNPH": 1700,
+      "LGJCPENNFBC": [
+        1701,
+        1702,
+        1703
+      ]
+    },
+    {
+      "DHGBGMBFNPH": 1200,
+      "LGJCPENNFBC": [
+        1201
+      ]
+    },
+    {
+      "DHGBGMBFNPH": 1300,
+      "LGJCPENNFBC": [
+        1301,
+        1302
+      ]
+    }
+  ]
+}

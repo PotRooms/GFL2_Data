@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "KNNPNGMAIGM": 1013,
+      "EBHDBBENKDC": 1,
+      "DPDLEDNLOPK": [
+        10101
+      ],
+      "KCHOLCAKPIB": [
+        10101
+      ],
+      "KEBNJJKIACL": 30
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "KNNPNGMAIGM": 1013,
+      "EBHDBBENKDC": 2,
+      "PBMFFNKPAED": {
+        "170042": 70
+      },
+      "DPDLEDNLOPK": [
+        10102
+      ],
+      "KCHOLCAKPIB": [
+        10102
+      ],
+      "KEBNJJKIACL": 30
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "KNNPNGMAIGM": 1013,
+      "EBHDBBENKDC": 3,
+      "PBMFFNKPAED": {
+        "170042": 140
+      },
+      "DPDLEDNLOPK": [
+        10103
+      ],
+      "KCHOLCAKPIB": [
+        10103
+      ],
+      "KEBNJJKIACL": 30
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "KNNPNGMAIGM": 1013,
+      "EBHDBBENKDC": 4,
+      "PBMFFNKPAED": {
+        "170042": 220
+      },
+      "DPDLEDNLOPK": [
+        10104
+      ],
+      "KCHOLCAKPIB": [
+        10104
+      ],
+      "KEBNJJKIACL": 30
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "KNNPNGMAIGM": 1013,
+      "EBHDBBENKDC": 5,
+      "PBMFFNKPAED": {
+        "170042": 290
+      },
+      "DPDLEDNLOPK": [
+        10105
+      ],
+      "KCHOLCAKPIB": [
+        10105
+      ],
+      "KEBNJJKIACL": 30
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "KNNPNGMAIGM": 1013,
+      "EBHDBBENKDC": 6,
+      "PBMFFNKPAED": {
+        "170042": 360
+      },
+      "DPDLEDNLOPK": [
+        10106
+      ],
+      "KCHOLCAKPIB": [
+        10106
+      ],
+      "KEBNJJKIACL": 30
+    }
+  ]
+}

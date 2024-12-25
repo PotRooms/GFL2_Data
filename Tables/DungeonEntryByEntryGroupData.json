@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "KLINHOHLGJK": 99001,
+      "LGJCPENNFBC": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99002,
+      "LGJCPENNFBC": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99003,
+      "LGJCPENNFBC": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99004,
+      "LGJCPENNFBC": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99011,
+      "LGJCPENNFBC": [
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99012,
+      "LGJCPENNFBC": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99013,
+      "LGJCPENNFBC": [
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99014,
+      "LGJCPENNFBC": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99099,
+      "LGJCPENNFBC": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99901,
+      "LGJCPENNFBC": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "KLINHOHLGJK": 99911,
+      "LGJCPENNFBC": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    }
+  ]
+}

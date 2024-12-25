@@ -1,0 +1,301 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 100200,
+      "HBJAHCGKJJD": "人形开枪(近战技能)",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "AFGGOPIHBMO": 1,
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        100201,
+        100102,
+        100103,
+        100104,
+        100205,
+        100206
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100300,
+      "HBJAHCGKJJD": "人形开枪(机枪技能)",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "AFGGOPIHBMO": 1,
+      "PEBAOKLHEHI": [
+        1,
+        201,
+        301
+      ],
+      "JEENPHAHHJO": [
+        100301,
+        100102,
+        100103,
+        100104,
+        100305,
+        100306
+      ],
+      "HOFPLFJBNPN": [
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100400,
+      "HBJAHCGKJJD": "人形开枪(霰弹枪技能)",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        100401,
+        100102,
+        100103,
+        100104,
+        100105,
+        100106
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100500,
+      "HBJAHCGKJJD": "人形开枪(冲锋枪技能)",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        100501,
+        100502,
+        100503,
+        100504,
+        100505,
+        100506
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100600,
+      "HBJAHCGKJJD": "人形开枪(手枪技能)",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        100601,
+        100102,
+        100103,
+        100104,
+        100105,
+        100106
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 200101,
+      "HBJAHCGKJJD": "油桶爆炸",
+      "GKFPJJIHICB": "3*3范围的aoe伤害",
+      "POJPMFHCMMF": "1:100,2:100,3:100,4:25;",
+      "DOPCEFFFNBO": 3,
+      "DEBHKFDHNHJ": 2,
+      "KPDPCBKCEED": "300",
+      "PEBAOKLHEHI": [
+        201,
+        301
+      ],
+      "LKEBGLBAKFN": 720,
+      "JEENPHAHHJO": [
+        200101,
+        200102,
+        200103,
+        200104,
+        200120
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 200102,
+      "HBJAHCGKJJD": "可破坏交互物击杀",
+      "GKFPJJIHICB": "对目标造成100%生命值伤害",
+      "POJPMFHCMMF": "2:100,3:100,4:100;",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "LKEBGLBAKFN": 720,
+      "JEENPHAHHJO": [
+        200101,
+        200102,
+        200103,
+        200104,
+        200120
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 200103,
+      "HBJAHCGKJJD": "水桶爆炸",
+      "GKFPJJIHICB": "无伤害",
+      "DOPCEFFFNBO": 3,
+      "DEBHKFDHNHJ": 2,
+      "KPDPCBKCEED": "300",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "LKEBGLBAKFN": 720,
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 200104,
+      "HBJAHCGKJJD": "火药箱爆炸",
+      "GKFPJJIHICB": "3*3范围的aoe伤害",
+      "POJPMFHCMMF": "1:100,2:100,3:100,4:25;",
+      "DOPCEFFFNBO": 3,
+      "DEBHKFDHNHJ": 2,
+      "KPDPCBKCEED": "300",
+      "PEBAOKLHEHI": [
+        201301
+      ],
+      "LKEBGLBAKFN": 720,
+      "JEENPHAHHJO": [
+        200101,
+        200102,
+        200103,
+        200104,
+        200120
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 300101,
+      "HBJAHCGKJJD": "怪物反击",
+      "GKFPJJIHICB": "怪物反击伤害",
+      "POJPMFHCMMF": "1:30;",
+      "JPMGHKJHMDN": 1,
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        300120
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100100,
+      "HBJAHCGKJJD": "人形开枪(突击步枪技能)",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        100101,
+        100102,
+        100103,
+        100104,
+        100105,
+        100106
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100101,
+      "HBJAHCGKJJD": "击杀",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        100101,
+        100102,
+        100103,
+        100104,
+        100105,
+        100106
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100102,
+      "HBJAHCGKJJD": "击杀",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "AFGGOPIHBMO": 1,
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        100101,
+        100102,
+        100103,
+        100104,
+        100105,
+        100106
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 900101,
+      "HBJAHCGKJJD": "开战技能",
+      "GKFPJJIHICB": "按照怪物类型打掉血进入战斗",
+      "POJPMFHCMMF": "2:30,3:20,4:10;",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 100700,
+      "HBJAHCGKJJD": "人形开枪(狙击枪技能)",
+      "GKFPJJIHICB": "减去目标100%的生命值",
+      "POJPMFHCMMF": "2:100,3:100;",
+      "PEBAOKLHEHI": [
+        1
+      ],
+      "JEENPHAHHJO": [
+        100701,
+        100102,
+        100103,
+        100104,
+        100105,
+        100106
+      ],
+      "HOFPLFJBNPN": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "普通",
+      "CPHHOLKBIJA": "Simple",
+      "HPMLJGCOFKN": 3
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "困难",
+      "CPHHOLKBIJA": "Normal",
+      "HPMLJGCOFKN": 4
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "噩梦",
+      "CPHHOLKBIJA": "Hard",
+      "HPMLJGCOFKN": 5
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBJAHCGKJJD": "子群异",
+      "CPHHOLKBIJA": "Hard",
+      "HPMLJGCOFKN": 5
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBJAHCGKJJD": "子群终",
+      "CPHHOLKBIJA": "Hard",
+      "HPMLJGCOFKN": 5
+    }
+  ]
+}

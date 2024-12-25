@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 2101,
+      "EEPGAIBJAPC": "max_will_value",
+      "MNADEGGMFAG": [
+        15,
+        20
+      ],
+      "PCHDOCIJOAM": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2102,
+      "EEPGAIBJAPC": "max_will_value",
+      "MNADEGGMFAG": [
+        20,
+        25
+      ],
+      "PCHDOCIJOAM": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2103,
+      "EEPGAIBJAPC": "max_will_value",
+      "MNADEGGMFAG": [
+        25,
+        30
+      ],
+      "PCHDOCIJOAM": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2201,
+      "EEPGAIBJAPC": "suppress_value",
+      "MNADEGGMFAG": [
+        15,
+        20
+      ],
+      "PCHDOCIJOAM": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2202,
+      "EEPGAIBJAPC": "suppress_value",
+      "MNADEGGMFAG": [
+        20,
+        25
+      ],
+      "PCHDOCIJOAM": {
+        "2": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 2203,
+      "EEPGAIBJAPC": "suppress_value",
+      "MNADEGGMFAG": [
+        25,
+        30
+      ],
+      "PCHDOCIJOAM": {
+        "2": 1
+      }
+    }
+  ]
+}

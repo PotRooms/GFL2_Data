@@ -1,0 +1,109 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 9801,
+      "CGHNIHHFACC": {
+        "DOHLNDIPHAJ": "3075"
+      },
+      "PDPFHAEELEA": {
+        "DOHLNDIPHAJ": "4488"
+      },
+      "CGDBADFCJBI": "Icon_Activity_Dungeon_Buff01",
+      "FKMDMKELEDA": 1,
+      "LELPLNEHPKN": 10,
+      "CMEMAFPEBMD": 5,
+      "PAAOOMBBFMC": 33201,
+      "CEOPOHAOMII": 5
+    },
+    {
+      "LGJCPENNFBC": 9802,
+      "CGHNIHHFACC": {
+        "DOHLNDIPHAJ": "4489"
+      },
+      "PDPFHAEELEA": {
+        "DOHLNDIPHAJ": "4490"
+      },
+      "CGDBADFCJBI": "Icon_Activity_Dungeon_Buff02",
+      "FKMDMKELEDA": 2,
+      "LELPLNEHPKN": 10,
+      "CMEMAFPEBMD": 5,
+      "PAAOOMBBFMC": 33202,
+      "CEOPOHAOMII": 5
+    },
+    {
+      "LGJCPENNFBC": 9803,
+      "CGHNIHHFACC": {
+        "DOHLNDIPHAJ": "4491"
+      },
+      "PDPFHAEELEA": {
+        "DOHLNDIPHAJ": "4492"
+      },
+      "CGDBADFCJBI": "Icon_Activity_Dungeon_Buff03",
+      "FKMDMKELEDA": 3,
+      "LELPLNEHPKN": 10,
+      "CMEMAFPEBMD": 5,
+      "PAAOOMBBFMC": 33203,
+      "CEOPOHAOMII": 5
+    },
+    {
+      "LGJCPENNFBC": 9804,
+      "CGHNIHHFACC": {
+        "DOHLNDIPHAJ": "4493"
+      },
+      "PDPFHAEELEA": {
+        "DOHLNDIPHAJ": "4494"
+      },
+      "CGDBADFCJBI": "Icon_Activity_Dungeon_Buff04",
+      "FKMDMKELEDA": 4,
+      "LELPLNEHPKN": 10,
+      "CMEMAFPEBMD": 5,
+      "PAAOOMBBFMC": 33204,
+      "CEOPOHAOMII": 5
+    },
+    {
+      "LGJCPENNFBC": 9805,
+      "CGHNIHHFACC": {
+        "DOHLNDIPHAJ": "4495"
+      },
+      "PDPFHAEELEA": {
+        "DOHLNDIPHAJ": "4496"
+      },
+      "CGDBADFCJBI": "Icon_Activity_Dungeon_Buff05",
+      "FKMDMKELEDA": 5,
+      "LELPLNEHPKN": 10,
+      "CMEMAFPEBMD": 5,
+      "PAAOOMBBFMC": 33205,
+      "CEOPOHAOMII": 5
+    },
+    {
+      "LGJCPENNFBC": 9806,
+      "CGHNIHHFACC": {
+        "DOHLNDIPHAJ": "4497"
+      },
+      "PDPFHAEELEA": {
+        "DOHLNDIPHAJ": "4498"
+      },
+      "CGDBADFCJBI": "Icon_Activity_Dungeon_Buff06",
+      "FKMDMKELEDA": 6,
+      "LELPLNEHPKN": 10,
+      "CMEMAFPEBMD": 5,
+      "PAAOOMBBFMC": 33206,
+      "CEOPOHAOMII": 2
+    },
+    {
+      "LGJCPENNFBC": 9807,
+      "CGHNIHHFACC": {
+        "DOHLNDIPHAJ": "4499"
+      },
+      "PDPFHAEELEA": {
+        "DOHLNDIPHAJ": "4500"
+      },
+      "CGDBADFCJBI": "Icon_Activity_Dungeon_Buff07",
+      "FKMDMKELEDA": 7,
+      "LELPLNEHPKN": 10,
+      "CMEMAFPEBMD": 5,
+      "PAAOOMBBFMC": 33207,
+      "CEOPOHAOMII": 2
+    }
+  ]
+}

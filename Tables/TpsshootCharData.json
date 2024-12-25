@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "NLNHBGIKGHP": 1052,
+      "JBINMIBPJAK": "可露凯",
+      "EALJEIIAEGE": 101,
+      "MOPMEMHBPOL": 150,
+      "HFLJACIMABA": 50,
+      "FMKBEJDBELH": [
+        0.2,
+        1
+      ],
+      "AKCOFHLALLO": [
+        1,
+        2
+      ],
+      "OBKPOBJOJBI": 1,
+      "BDCKCACNDBG": 100,
+      "JGJBBKMMNAA": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/ClukaySSR01/ClukaySSR01_tpsshoot",
+      "EFAFCENNEJI": 3000,
+      "IKFCOIFALBC": "低",
+      "BBOKIIFOEOI": "高",
+      "NACLDCOBFEH": "突击步枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Avatar/Avatar_Bust_ClukaySSR",
+      "ACLALPCECDK": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/ClukaySSR01/ClukaySSR01_Choose",
+      "EHMDLKGKOEL": [
+        0,
+        5.636,
+        126.43
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "NLNHBGIKGHP": 103401,
+      "JBINMIBPJAK": "玛绮朵",
+      "EALJEIIAEGE": 101,
+      "MOPMEMHBPOL": 200,
+      "HFLJACIMABA": 60,
+      "FMKBEJDBELH": [
+        0.2,
+        1
+      ],
+      "AKCOFHLALLO": [
+        3,
+        4
+      ],
+      "OBKPOBJOJBI": 2,
+      "BDCKCACNDBG": 80,
+      "JGJBBKMMNAA": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/MacqiatoSSR0101/MacqiatoSSR0101_tpsshoot",
+      "EFAFCENNEJI": 3000,
+      "IKFCOIFALBC": "高",
+      "BBOKIIFOEOI": "低",
+      "NACLDCOBFEH": "狙击枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Avatar/Avatar_Bust_MacqiatoSSR01",
+      "ACLALPCECDK": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/MacqiatoSSR0101/MacqiatoSSR0101_Choose",
+      "EHMDLKGKOEL": [
+        0,
+        5.556,
+        126.49
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "NLNHBGIKGHP": 102901,
+      "JBINMIBPJAK": "塞布丽娜",
+      "EALJEIIAEGE": 101,
+      "MOPMEMHBPOL": 175,
+      "HFLJACIMABA": 50,
+      "FMKBEJDBELH": [
+        0.2,
+        1
+      ],
+      "AKCOFHLALLO": [
+        5,
+        6
+      ],
+      "OBKPOBJOJBI": 3,
+      "BDCKCACNDBG": 150,
+      "JGJBBKMMNAA": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/SabrinaSSR0101/SabrinaSSR0101_tpsshoot",
+      "EFAFCENNEJI": 2330,
+      "IKFCOIFALBC": "中",
+      "BBOKIIFOEOI": "中",
+      "NACLDCOBFEH": "霰弹枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Avatar/Avatar_Bust_SabrinaSSR01",
+      "ACLALPCECDK": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/SabrinaSSR0101/SabrinaSSR0101_Choose",
+      "EHMDLKGKOEL": [
+        0.05,
+        5.58,
+        126.43
+      ]
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "NLNHBGIKGHP": 103901,
+      "JBINMIBPJAK": "索米",
+      "EALJEIIAEGE": 201,
+      "MOPMEMHBPOL": 200,
+      "HFLJACIMABA": 100,
+      "FMKBEJDBELH": [
+        0.3,
+        1
+      ],
+      "AKCOFHLALLO": [
+        201,
+        202
+      ],
+      "OBKPOBJOJBI": 4,
+      "BDCKCACNDBG": 100,
+      "JGJBBKMMNAA": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/SuomiSSR0101/SuomiSSR0101_tpsshoot",
+      "EFAFCENNEJI": 3000,
+      "IKFCOIFALBC": "低",
+      "BBOKIIFOEOI": "高",
+      "NACLDCOBFEH": "冲锋枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Avatar/Avatar_Bust_ClukaySSR",
+      "ACLALPCECDK": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/SuomiSSR0101/SuomiSSR0101_Choose",
+      "EHMDLKGKOEL": [
+        0,
+        5.636,
+        126.43
+      ]
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "NLNHBGIKGHP": 102901,
+      "JBINMIBPJAK": "塞布丽娜",
+      "EALJEIIAEGE": 201,
+      "MOPMEMHBPOL": 300,
+      "HFLJACIMABA": 50,
+      "FMKBEJDBELH": [
+        0.3,
+        1
+      ],
+      "AKCOFHLALLO": [
+        203,
+        203
+      ],
+      "OBKPOBJOJBI": 3,
+      "BDCKCACNDBG": 150,
+      "JGJBBKMMNAA": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/SabrinaSSR0101/SabrinaSSR0101_tpsshoot",
+      "EFAFCENNEJI": 2330,
+      "IKFCOIFALBC": "高",
+      "BBOKIIFOEOI": "低",
+      "NACLDCOBFEH": "霰弹枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Avatar/Avatar_Bust_SabrinaSSR01",
+      "ACLALPCECDK": "Assets/ArtsResource/MNgame/MNgame_tpsshoot/Anim/SabrinaSSR0101/SabrinaSSR0101_Choose",
+      "EHMDLKGKOEL": [
+        0.05,
+        5.58,
+        126.43
+      ]
+    }
+  ]
+}

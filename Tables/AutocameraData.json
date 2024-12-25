@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "NFOHFAICFKF": "AutoMove",
+      "JIJELDDLPPF": "AutoMoveClimb",
+      "AJLNMOCCJMF": "AutoMoveClimbDown",
+      "DLBEMHHIAPI": "AutoMoveL",
+      "JKJIHEJEGEL": "AutoMoveR",
+      "BJPJFFPOAKP": "AutoMoveWSkill",
+      "LFEODGDBOFJ": "AutoOverCover",
+      "FOBKKAMJHAO": "AutoRunStop"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "NFOHFAICFKF": "AutoMove",
+      "JIJELDDLPPF": "AutoMoveClimb",
+      "AJLNMOCCJMF": "AutoMoveClimbDown",
+      "DLBEMHHIAPI": "AutoMoveL",
+      "JKJIHEJEGEL": "AutoMoveR",
+      "BJPJFFPOAKP": "AutoMoveWSkill",
+      "LFEODGDBOFJ": "AutoOverCover",
+      "FOBKKAMJHAO": "AutoRunStop"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "NFOHFAICFKF": "AutoMove115",
+      "JIJELDDLPPF": "AutoMove115",
+      "AJLNMOCCJMF": "AutoMove115",
+      "DLBEMHHIAPI": "AutoMove115",
+      "JKJIHEJEGEL": "AutoMove115",
+      "BJPJFFPOAKP": "AutoMove115",
+      "LFEODGDBOFJ": "AutoMove115",
+      "FOBKKAMJHAO": "AutoMove115"
+    }
+  ]
+}

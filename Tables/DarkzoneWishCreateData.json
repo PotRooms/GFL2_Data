@@ -1,0 +1,287 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 160001,
+      "MIFEAPFGKNF": "完成进阶任务 精确打击IV后解锁",
+      "DEFEMLMDKHL": 10101,
+      "OMCDDPINPLB": 4,
+      "EAHNDBBKAEK": "套装类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe1",
+      "EAIBBPHEJOE": [
+        5,
+        15,
+        80
+      ],
+      "BDPJGEDFDFF": "一型套装载波卡",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高协同防卫、战地救援、重装救援的【套装】配件的出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140001": 3,
+        "140003": 3,
+        "140007": 3
+      },
+      "IOOPGDKGAHG": {
+        "150001": 800,
+        "150002": 150,
+        "150003": 50
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160002,
+      "MIFEAPFGKNF": "完成进阶任务 强敌聚焦II后解锁",
+      "DEFEMLMDKHL": 10102,
+      "OMCDDPINPLB": 4,
+      "EAHNDBBKAEK": "套装类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe2",
+      "EAIBBPHEJOE": [
+        5,
+        15,
+        80
+      ],
+      "BDPJGEDFDFF": "二型套装载波卡",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高稳态坚守、警戒急救、爆破突袭的【套装】配件的出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140001": 3,
+        "140002": 3,
+        "140008": 3
+      },
+      "IOOPGDKGAHG": {
+        "150004": 800,
+        "150005": 150,
+        "150006": 50
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160003,
+      "MIFEAPFGKNF": "完成进阶任务 强敌聚焦III后解锁",
+      "DEFEMLMDKHL": 10103,
+      "OMCDDPINPLB": 4,
+      "EAHNDBBKAEK": "套装类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe3",
+      "EAIBBPHEJOE": [
+        5,
+        15,
+        80
+      ],
+      "BDPJGEDFDFF": "三型套装载波卡",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高散弹效应、导染聚能、稳态镇压的【套装】配件的出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140002": 3,
+        "140003": 3,
+        "140009": 3
+      },
+      "IOOPGDKGAHG": {
+        "150007": 800,
+        "150008": 150,
+        "150009": 50
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160004,
+      "MIFEAPFGKNF": "完成进阶任务 精确打击II后解锁",
+      "DEFEMLMDKHL": 10104,
+      "OMCDDPINPLB": 1,
+      "EAHNDBBKAEK": "部位类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe4",
+      "EAIBBPHEJOE": [
+        5,
+        15,
+        80
+      ],
+      "BDPJGEDFDFF": "一型部位载波卡",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高握把、脚架、链接组件和涂料图层的出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140001": 3,
+        "140003": 3,
+        "140004": 3
+      },
+      "IOOPGDKGAHG": {
+        "150010": 800,
+        "150011": 150,
+        "150012": 50
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160005,
+      "MIFEAPFGKNF": "完成进阶任务 精确打击III后解锁",
+      "DEFEMLMDKHL": 10105,
+      "OMCDDPINPLB": 1,
+      "EAHNDBBKAEK": "部位类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe5",
+      "EAIBBPHEJOE": [
+        5,
+        15,
+        80
+      ],
+      "BDPJGEDFDFF": "二型部位载波卡",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高瞄准设备和工程芯片的出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140002": 3,
+        "140003": 3,
+        "140005": 3
+      },
+      "IOOPGDKGAHG": {
+        "150013": 800,
+        "150014": 150,
+        "150015": 50
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160006,
+      "MIFEAPFGKNF": "完成基础任务 机动制敌III后解锁",
+      "DEFEMLMDKHL": 10106,
+      "OMCDDPINPLB": 1,
+      "EAHNDBBKAEK": "部位类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe6",
+      "EAIBBPHEJOE": [
+        5,
+        15,
+        80
+      ],
+      "BDPJGEDFDFF": "三型部位载波卡",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高枪口装置、涂料图层和工程芯片的出现概率",
+      "MFKFHLIODLO": {
+        "140001": 3,
+        "140002": 3,
+        "140006": 3
+      },
+      "IOOPGDKGAHG": {
+        "150016": 800,
+        "150017": 150,
+        "150018": 50
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160007,
+      "MIFEAPFGKNF": "完成进阶任务 多维协同III后解锁",
+      "DEFEMLMDKHL": 10107,
+      "OMCDDPINPLB": 2,
+      "EAHNDBBKAEK": "功能类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe7",
+      "EAIBBPHEJOE": [
+        5,
+        15,
+        80
+      ],
+      "BDPJGEDFDFF": "一型功能载波卡",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高组装类型的配件出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140001": 3,
+        "140002": 3,
+        "140011": 3
+      },
+      "IOOPGDKGAHG": {
+        "150019": 800,
+        "150020": 150,
+        "150021": 50
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160008,
+      "MIFEAPFGKNF": "完成进阶任务 多维协同II后解锁",
+      "DEFEMLMDKHL": 10108,
+      "OMCDDPINPLB": 2,
+      "EAHNDBBKAEK": "功能类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe8",
+      "EAIBBPHEJOE": [
+        5,
+        15,
+        80
+      ],
+      "BDPJGEDFDFF": "二型功能载波卡",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高无限类型的配件出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140002": 3,
+        "140003": 3,
+        "140012": 3
+      },
+      "IOOPGDKGAHG": {
+        "150022": 800,
+        "150023": 150,
+        "150024": 50
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160010,
+      "MIFEAPFGKNF": "完成进阶任务 强敌聚焦IV后解锁",
+      "DEFEMLMDKHL": 10110,
+      "OMCDDPINPLB": 3,
+      "EAHNDBBKAEK": "成色类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe10",
+      "EAIBBPHEJOE": [
+        100
+      ],
+      "BDPJGEDFDFF": "完美成色载波卡·短波",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140001": 3,
+        "140002": 3,
+        "140013": 3
+      },
+      "IOOPGDKGAHG": {
+        "150028": 1000
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160011,
+      "MIFEAPFGKNF": "完成进阶任务 多维协同IV后解锁",
+      "DEFEMLMDKHL": 10111,
+      "OMCDDPINPLB": 3,
+      "EAHNDBBKAEK": "成色类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe11",
+      "EAIBBPHEJOE": [
+        100
+      ],
+      "BDPJGEDFDFF": "完美成色载波卡·中波",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140001": 3,
+        "140003": 3,
+        "140014": 3
+      },
+      "IOOPGDKGAHG": {
+        "150029": 1000
+      },
+      "LIHKBEDLOAJ": 1
+    },
+    {
+      "LGJCPENNFBC": 160012,
+      "MIFEAPFGKNF": "完成进阶任务 多维协同IV后解锁",
+      "DEFEMLMDKHL": 10111,
+      "OMCDDPINPLB": 3,
+      "EAHNDBBKAEK": "成色类载波卡",
+      "GINMCABOMLA": "Item_Icon_Wish_Recipe12",
+      "EAIBBPHEJOE": [
+        100
+      ],
+      "BDPJGEDFDFF": "完美成色载波卡·长波",
+      "EGJNKDFKAKM": "记录有载波码的卡片，在常规、进阶悬赏中使用后可以提高标准、完美成色的配件出现概率",
+      "OHOEANKHJGG": true,
+      "MFKFHLIODLO": {
+        "140001": 3,
+        "140003": 3,
+        "140015": 3
+      },
+      "IOOPGDKGAHG": {
+        "150030": 1000
+      }
+    }
+  ]
+}

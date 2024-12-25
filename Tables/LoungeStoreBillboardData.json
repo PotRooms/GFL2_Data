@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BKCIGACKEFD": 1,
+      "LGLHBLEDMFD": "scene_green_rooftop_billboard_05"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BKCIGACKEFD": 2,
+      "OLGLLKKBFPH": "20220209,05:00:00",
+      "FBNGCFFEJEK": "20220520,05:00:00",
+      "LGLHBLEDMFD": "scene_green_rooftop_billboard_05"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BKCIGACKEFD": 2,
+      "OLGLLKKBFPH": "20220209,05:00:00",
+      "FBNGCFFEJEK": "20220609,05:00:00",
+      "LGLHBLEDMFD": "scene_green_rooftop_billboard_05"
+    }
+  ]
+}

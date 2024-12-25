@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_angry03",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_angry04",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_happy04",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_happy01",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_happy02",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_happy03",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_angry01",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_angry02",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_normal01",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "CDBCNNMPKNL": "FX_c_lng_emotion_normal02",
+      "INCMMMAAHEK": [
+        1001,
+        1002,
+        1003
+      ]
+    }
+  ]
+}

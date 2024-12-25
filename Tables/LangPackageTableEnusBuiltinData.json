@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": "1",
+      "CPDCEMHELII": "Downloading"
+    },
+    {
+      "LGJCPENNFBC": "2",
+      "CPDCEMHELII": "Extracting"
+    },
+    {
+      "LGJCPENNFBC": "3",
+      "CPDCEMHELII": "Almost done"
+    },
+    {
+      "LGJCPENNFBC": "4",
+      "CPDCEMHELII": "Loading"
+    },
+    {
+      "LGJCPENNFBC": "5",
+      "CPDCEMHELII": "Resource check"
+    },
+    {
+      "LGJCPENNFBC": "6",
+      "CPDCEMHELII": "Check resource integrity?"
+    },
+    {
+      "LGJCPENNFBC": "7",
+      "CPDCEMHELII": "Age Rating Notice"
+    },
+    {
+      "LGJCPENNFBC": "8",
+      "CPDCEMHELII": "Girl Frontline 2: Exilium is an original full 3D strategy game. Players will collect different types of dolls in the game and form their own teams to challenge different levels, ultimately driving the development of the story."
+    },
+    {
+      "LGJCPENNFBC": "9",
+      "CPDCEMHELII": "Currently in a non-WiFi environment, you will need to download a file of size <color=#f0af14>{0}</color>. Do you wish to continue?"
+    },
+    {
+      "LGJCPENNFBC": "10",
+      "CPDCEMHELII": "The current client version is <color=#f0af14>outdated</color>. Please download the latest client version."
+    },
+    {
+      "LGJCPENNFBC": "11",
+      "CPDCEMHELII": "Cancel"
+    },
+    {
+      "LGJCPENNFBC": "12",
+      "CPDCEMHELII": "Confirm"
+    },
+    {
+      "LGJCPENNFBC": "13",
+      "CPDCEMHELII": "Prompt"
+    },
+    {
+      "LGJCPENNFBC": "14",
+      "CPDCEMHELII": "{0}MB"
+    },
+    {
+      "LGJCPENNFBC": "15",
+      "CPDCEMHELII": "Request server"
+    },
+    {
+      "LGJCPENNFBC": "16",
+      "CPDCEMHELII": "Compare version information"
+    },
+    {
+      "LGJCPENNFBC": "17",
+      "CPDCEMHELII": "Download table"
+    },
+    {
+      "LGJCPENNFBC": "18",
+      "CPDCEMHELII": "Extract Table"
+    },
+    {
+      "LGJCPENNFBC": "19",
+      "CPDCEMHELII": "Download resources"
+    },
+    {
+      "LGJCPENNFBC": "20",
+      "CPDCEMHELII": "Extract Resources"
+    },
+    {
+      "LGJCPENNFBC": "21",
+      "CPDCEMHELII": "Resource consolidation"
+    },
+    {
+      "LGJCPENNFBC": "101",
+      "CPDCEMHELII": "Error"
+    },
+    {
+      "LGJCPENNFBC": "102",
+      "CPDCEMHELII": "Dear Commander, an unknown error has occurred. \n\n<color=#f0af14>(Please check if there is enough storage space)</color>"
+    },
+    {
+      "LGJCPENNFBC": "103",
+      "CPDCEMHELII": "Parsing error prompt"
+    },
+    {
+      "LGJCPENNFBC": "104",
+      "CPDCEMHELII": "User canceled download!"
+    },
+    {
+      "LGJCPENNFBC": "105",
+      "CPDCEMHELII": "Network abnormality, please check network connection"
+    },
+    {
+      "LGJCPENNFBC": "106",
+      "CPDCEMHELII": "Login parsing error:"
+    },
+    {
+      "LGJCPENNFBC": "107",
+      "CPDCEMHELII": "Unknown error occurred during download, please try again"
+    },
+    {
+      "LGJCPENNFBC": "108",
+      "CPDCEMHELII": "Unknown error occurred during download, please try again"
+    },
+    {
+      "LGJCPENNFBC": "109",
+      "CPDCEMHELII": "Due to an unknown error, account has been logged out"
+    },
+    {
+      "LGJCPENNFBC": "110",
+      "CPDCEMHELII": "Account Exit"
+    },
+    {
+      "LGJCPENNFBC": "111",
+      "CPDCEMHELII": "Click to Retry"
+    },
+    {
+      "LGJCPENNFBC": "112",
+      "CPDCEMHELII": "Prompt"
+    },
+    {
+      "LGJCPENNFBC": "113",
+      "CPDCEMHELII": "Reconnection Failed, Returning to Login Interface"
+    },
+    {
+      "LGJCPENNFBC": "114",
+      "CPDCEMHELII": "Disconnected, Attempting to Reconnect…"
+    },
+    {
+      "LGJCPENNFBC": "115",
+      "CPDCEMHELII": "Resource Update Completed, Please Restart Game"
+    },
+    {
+      "LGJCPENNFBC": "116",
+      "CPDCEMHELII": "Unknown error occurred during decompression, please try again"
+    },
+    {
+      "LGJCPENNFBC": "117",
+      "CPDCEMHELII": "Insufficient storage detected on your device. This download requires {0}. Please free up some space and try again…"
+    },
+    {
+      "LGJCPENNFBC": "118",
+      "CPDCEMHELII": "Currently using mobile data, continuing to download will consume {0} of data. Please confirm if you wish to proceed…"
+    },
+    {
+      "LGJCPENNFBC": "119",
+      "CPDCEMHELII": "Client Check"
+    },
+    {
+      "LGJCPENNFBC": "120",
+      "CPDCEMHELII": "Would you like to repair and check the client for integrity?"
+    },
+    {
+      "LGJCPENNFBC": "121",
+      "CPDCEMHELII": "Force Update of All Downloaded Resources"
+    },
+    {
+      "LGJCPENNFBC": "123",
+      "CPDCEMHELII": "Confirm"
+    },
+    {
+      "LGJCPENNFBC": "124",
+      "CPDCEMHELII": "Cancel"
+    },
+    {
+      "LGJCPENNFBC": "125",
+      "CPDCEMHELII": "Language selection"
+    },
+    {
+      "LGJCPENNFBC": "126",
+      "CPDCEMHELII": "Please select the language for the game voice. \\n You can change this later in the settings."
+    },
+    {
+      "LGJCPENNFBC": "127",
+      "CPDCEMHELII": "Chinese"
+    },
+    {
+      "LGJCPENNFBC": "128",
+      "CPDCEMHELII": "Japanese"
+    },
+    {
+      "LGJCPENNFBC": "129",
+      "CPDCEMHELII": "Confirm"
+    },
+    {
+      "LGJCPENNFBC": "130",
+      "CPDCEMHELII": "Korean"
+    },
+    {
+      "LGJCPENNFBC": "131",
+      "CPDCEMHELII": "Server Select"
+    },
+    {
+      "LGJCPENNFBC": "132",
+      "CPDCEMHELII": "Press Start"
+    },
+    {
+      "LGJCPENNFBC": "133",
+      "CPDCEMHELII": "This update (file size {0}) was detected outside a wireless network. Do you wish to continue downloading?"
+    },
+    {
+      "LGJCPENNFBC": "134",
+      "CPDCEMHELII": "This update (file size {0}), do you wish to continue downloading?"
+    },
+    {
+      "LGJCPENNFBC": "135",
+      "CPDCEMHELII": "Switching servers may require downloading additional resources. Do you wish to proceed with the server switch?"
+    },
+    {
+      "LGJCPENNFBC": "136",
+      "CPDCEMHELII": "The server is temporarily unavailable, please check the announcement or contact the customer service center."
+    },
+    {
+      "LGJCPENNFBC": "137",
+      "CPDCEMHELII": "Reconnect"
+    },
+    {
+      "LGJCPENNFBC": "138",
+      "CPDCEMHELII": "Server connection"
+    },
+    {
+      "LGJCPENNFBC": "139",
+      "CPDCEMHELII": "China"
+    },
+    {
+      "LGJCPENNFBC": "140",
+      "CPDCEMHELII": "North America"
+    },
+    {
+      "LGJCPENNFBC": "141",
+      "CPDCEMHELII": "Global"
+    },
+    {
+      "LGJCPENNFBC": "142",
+      "CPDCEMHELII": "Japan"
+    },
+    {
+      "LGJCPENNFBC": "143",
+      "CPDCEMHELII": "Korea"
+    },
+    {
+      "LGJCPENNFBC": "144",
+      "CPDCEMHELII": "Asia"
+    },
+    {
+      "LGJCPENNFBC": "145",
+      "CPDCEMHELII": "Please retry after login"
+    }
+  ]
+}

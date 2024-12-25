@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10331,
+      "AKCOFHLALLO": 1033,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911033": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10361,
+      "AKCOFHLALLO": 1036,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911036": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10211,
+      "AKCOFHLALLO": 1021,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911021": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10171,
+      "AKCOFHLALLO": 1017,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911017": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10261,
+      "AKCOFHLALLO": 1026,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911026": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10281,
+      "AKCOFHLALLO": 1028,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911028": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10501,
+      "AKCOFHLALLO": 1050,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911050": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10502,
+      "AKCOFHLALLO": 1050,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24053": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10503,
+      "AKCOFHLALLO": 1050,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331025": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10504,
+      "AKCOFHLALLO": 1050,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23072": 1,
+        "4332025": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10505,
+      "AKCOFHLALLO": 1050,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21083": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10081,
+      "AKCOFHLALLO": 1008,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911008": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10091,
+      "AKCOFHLALLO": 1009,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911009": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10411,
+      "AKCOFHLALLO": 1041,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911041": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10371,
+      "AKCOFHLALLO": 1037,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911037": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10441,
+      "AKCOFHLALLO": 1044,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911044": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10442,
+      "AKCOFHLALLO": 1044,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24065": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10443,
+      "AKCOFHLALLO": 1044,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331085": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10444,
+      "AKCOFHLALLO": 1044,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23097": 1,
+        "4332085": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10445,
+      "AKCOFHLALLO": 1044,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21112": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10451,
+      "AKCOFHLALLO": 1045,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911045": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10452,
+      "AKCOFHLALLO": 1045,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24067": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10453,
+      "AKCOFHLALLO": 1045,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331105": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10454,
+      "AKCOFHLALLO": 1045,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23099": 1,
+        "4333105": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10455,
+      "AKCOFHLALLO": 1045,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21114": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10511,
+      "AKCOFHLALLO": 1051,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911051": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10512,
+      "AKCOFHLALLO": 1051,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24059": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10513,
+      "AKCOFHLALLO": 1051,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331065": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10514,
+      "AKCOFHLALLO": 1051,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23095": 1,
+        "4334065": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10515,
+      "AKCOFHLALLO": 1051,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21108": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10011,
+      "AKCOFHLALLO": 1001,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911001": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10131,
+      "AKCOFHLALLO": 1013,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911013": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10221,
+      "AKCOFHLALLO": 1022,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911022": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10271,
+      "AKCOFHLALLO": 1027,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911027": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10272,
+      "AKCOFHLALLO": 1027,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24052": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10273,
+      "AKCOFHLALLO": 1027,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331015": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10274,
+      "AKCOFHLALLO": 1027,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23071": 1,
+        "4334015": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10275,
+      "AKCOFHLALLO": 1027,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21082": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10251,
+      "AKCOFHLALLO": 1025,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911025": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10252,
+      "AKCOFHLALLO": 1025,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24051": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10253,
+      "AKCOFHLALLO": 1025,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331005": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10254,
+      "AKCOFHLALLO": 1025,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23070": 1,
+        "4334005": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10255,
+      "AKCOFHLALLO": 1025,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21081": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10351,
+      "AKCOFHLALLO": 1035,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911035": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10391,
+      "AKCOFHLALLO": 1039,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911039": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10392,
+      "AKCOFHLALLO": 1039,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24066": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10393,
+      "AKCOFHLALLO": 1039,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331095": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10394,
+      "AKCOFHLALLO": 1039,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23098": 1,
+        "4334095": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10395,
+      "AKCOFHLALLO": 1039,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21113": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10521,
+      "AKCOFHLALLO": 1052,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911052": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10522,
+      "AKCOFHLALLO": 1052,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24057": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10523,
+      "AKCOFHLALLO": 1052,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331055": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10524,
+      "AKCOFHLALLO": 1052,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23093": 1,
+        "4334055": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10525,
+      "AKCOFHLALLO": 1052,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21106": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10231,
+      "AKCOFHLALLO": 1023,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911023": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10381,
+      "AKCOFHLALLO": 1038,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911038": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10401,
+      "AKCOFHLALLO": 1040,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911040": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10402,
+      "AKCOFHLALLO": 1040,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24054": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10403,
+      "AKCOFHLALLO": 1040,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331035": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10404,
+      "AKCOFHLALLO": 1040,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23073": 1,
+        "4332035": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10405,
+      "AKCOFHLALLO": 1040,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21084": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10341,
+      "AKCOFHLALLO": 1034,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911034": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10342,
+      "AKCOFHLALLO": 1034,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24068": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10343,
+      "AKCOFHLALLO": 1034,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331115": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10344,
+      "AKCOFHLALLO": 1034,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23100": 1,
+        "4332115": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10345,
+      "AKCOFHLALLO": 1034,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21115": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10151,
+      "AKCOFHLALLO": 1015,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911015": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10152,
+      "AKCOFHLALLO": 1015,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24058": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10153,
+      "AKCOFHLALLO": 1015,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331045": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10154,
+      "AKCOFHLALLO": 1015,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23094": 1,
+        "4336045": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10155,
+      "AKCOFHLALLO": 1015,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21107": 1,
+        "300002": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10241,
+      "AKCOFHLALLO": 1024,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911024": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10291,
+      "AKCOFHLALLO": 1029,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911029": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10321,
+      "AKCOFHLALLO": 1032,
+      "IEJLCKMPOMI": 1,
+      "AMLJEDDMIFO": {
+        "911032": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10322,
+      "AKCOFHLALLO": 1032,
+      "IEJLCKMPOMI": 2,
+      "AMLJEDDMIFO": {
+        "24060": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10323,
+      "AKCOFHLALLO": 1032,
+      "IEJLCKMPOMI": 3,
+      "AMLJEDDMIFO": {
+        "7331075": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10324,
+      "AKCOFHLALLO": 1032,
+      "IEJLCKMPOMI": 4,
+      "AMLJEDDMIFO": {
+        "23096": 1,
+        "4334075": 1
+      }
+    },
+    {
+      "LGJCPENNFBC": 10325,
+      "AKCOFHLALLO": 1032,
+      "IEJLCKMPOMI": 5,
+      "AMLJEDDMIFO": {
+        "21109": 1,
+        "300002": 1
+      }
+    }
+  ]
+}

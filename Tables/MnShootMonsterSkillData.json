@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "HBJAHCGKJJD": "子弹",
+      "BKCIGACKEFD": 1,
+      "GHHIINEBNIO": 15,
+      "ICLDHKAEIFI": 5,
+      "EIHJHBKBCLJ": 1,
+      "CIACIDOFGAF": 3,
+      "EOBLBPPGKNB": 6
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "冲撞",
+      "BKCIGACKEFD": 1,
+      "GHHIINEBNIO": 5,
+      "ICLDHKAEIFI": 5,
+      "EIHJHBKBCLJ": 1,
+      "CIACIDOFGAF": 1,
+      "EOBLBPPGKNB": 1,
+      "JKJJIOGAGEM": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "召唤",
+      "BKCIGACKEFD": 1,
+      "GHHIINEBNIO": 30,
+      "EIHJHBKBCLJ": 3,
+      "CIACIDOFGAF": 32,
+      "EOBLBPPGKNB": 120,
+      "JKJJIOGAGEM": 30
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "boss冲撞",
+      "BKCIGACKEFD": 1,
+      "GHHIINEBNIO": 5,
+      "EIHJHBKBCLJ": 999,
+      "CIACIDOFGAF": 1,
+      "EOBLBPPGKNB": 1,
+      "JKJJIOGAGEM": 30
+    }
+  ]
+}

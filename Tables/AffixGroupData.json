@@ -1,0 +1,780 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 333101,
+      "CLPAAMDNHIG": 3331,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 10,
+      "ELJMAGCEOGI": 14
+    },
+    {
+      "LGJCPENNFBC": 333102,
+      "CLPAAMDNHIG": 3331,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 23,
+      "ELJMAGCEOGI": 32
+    },
+    {
+      "LGJCPENNFBC": 333103,
+      "CLPAAMDNHIG": 3331,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 6,
+      "ELJMAGCEOGI": 9
+    },
+    {
+      "LGJCPENNFBC": 431101,
+      "CLPAAMDNHIG": 4311,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 13,
+      "ELJMAGCEOGI": 19
+    },
+    {
+      "LGJCPENNFBC": 431102,
+      "CLPAAMDNHIG": 4311,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 43
+    },
+    {
+      "LGJCPENNFBC": 431103,
+      "CLPAAMDNHIG": 4311,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 8,
+      "ELJMAGCEOGI": 12
+    },
+    {
+      "LGJCPENNFBC": 532101,
+      "CLPAAMDNHIG": 5321,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 17,
+      "ELJMAGCEOGI": 24
+    },
+    {
+      "LGJCPENNFBC": 532102,
+      "CLPAAMDNHIG": 5321,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 38,
+      "ELJMAGCEOGI": 54
+    },
+    {
+      "LGJCPENNFBC": 532103,
+      "CLPAAMDNHIG": 5321,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 10,
+      "ELJMAGCEOGI": 16
+    },
+    {
+      "LGJCPENNFBC": 532104,
+      "CLPAAMDNHIG": 5321,
+      "ALIPMEAJDHF": 29,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 532105,
+      "CLPAAMDNHIG": 5321,
+      "ALIPMEAJDHF": 30,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 532106,
+      "CLPAAMDNHIG": 5321,
+      "ALIPMEAJDHF": 33,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 532107,
+      "CLPAAMDNHIG": 5321,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 534101,
+      "CLPAAMDNHIG": 5341,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 22,
+      "ELJMAGCEOGI": 32
+    },
+    {
+      "LGJCPENNFBC": 534102,
+      "CLPAAMDNHIG": 5341,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 51,
+      "ELJMAGCEOGI": 73
+    },
+    {
+      "LGJCPENNFBC": 534103,
+      "CLPAAMDNHIG": 5341,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 14,
+      "ELJMAGCEOGI": 20
+    },
+    {
+      "LGJCPENNFBC": 534104,
+      "CLPAAMDNHIG": 5341,
+      "ALIPMEAJDHF": 29,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 534105,
+      "CLPAAMDNHIG": 5341,
+      "ALIPMEAJDHF": 30,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 534106,
+      "CLPAAMDNHIG": 5341,
+      "ALIPMEAJDHF": 33,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 534107,
+      "CLPAAMDNHIG": 5341,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 47,
+      "ELJMAGCEOGI": 68
+    },
+    {
+      "LGJCPENNFBC": 541101,
+      "CLPAAMDNHIG": 5411,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 17,
+      "ELJMAGCEOGI": 24
+    },
+    {
+      "LGJCPENNFBC": 541102,
+      "CLPAAMDNHIG": 5411,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 38,
+      "ELJMAGCEOGI": 54
+    },
+    {
+      "LGJCPENNFBC": 541103,
+      "CLPAAMDNHIG": 5411,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 10,
+      "ELJMAGCEOGI": 16
+    },
+    {
+      "LGJCPENNFBC": 541104,
+      "CLPAAMDNHIG": 5411,
+      "ALIPMEAJDHF": 29,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 541105,
+      "CLPAAMDNHIG": 5411,
+      "ALIPMEAJDHF": 30,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 541106,
+      "CLPAAMDNHIG": 5411,
+      "ALIPMEAJDHF": 33,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 541107,
+      "CLPAAMDNHIG": 5411,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 541108,
+      "CLPAAMDNHIG": 5411,
+      "ALIPMEAJDHF": 10,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 233101,
+      "CLPAAMDNHIG": 2331,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 8,
+      "ELJMAGCEOGI": 12
+    },
+    {
+      "LGJCPENNFBC": 233102,
+      "CLPAAMDNHIG": 2331,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 18,
+      "ELJMAGCEOGI": 26
+    },
+    {
+      "LGJCPENNFBC": 233103,
+      "CLPAAMDNHIG": 2331,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 5,
+      "ELJMAGCEOGI": 7
+    },
+    {
+      "LGJCPENNFBC": 331101,
+      "CLPAAMDNHIG": 3311,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 10,
+      "ELJMAGCEOGI": 14
+    },
+    {
+      "LGJCPENNFBC": 331102,
+      "CLPAAMDNHIG": 3311,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 23,
+      "ELJMAGCEOGI": 32
+    },
+    {
+      "LGJCPENNFBC": 331103,
+      "CLPAAMDNHIG": 3311,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 6,
+      "ELJMAGCEOGI": 9
+    },
+    {
+      "LGJCPENNFBC": 441101,
+      "CLPAAMDNHIG": 4411,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 13,
+      "ELJMAGCEOGI": 19
+    },
+    {
+      "LGJCPENNFBC": 441102,
+      "CLPAAMDNHIG": 4411,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 43
+    },
+    {
+      "LGJCPENNFBC": 441103,
+      "CLPAAMDNHIG": 4411,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 8,
+      "ELJMAGCEOGI": 12
+    },
+    {
+      "LGJCPENNFBC": 441104,
+      "CLPAAMDNHIG": 4411,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 18,
+      "ELJMAGCEOGI": 25
+    },
+    {
+      "LGJCPENNFBC": 441105,
+      "CLPAAMDNHIG": 4411,
+      "ALIPMEAJDHF": 10,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 18,
+      "ELJMAGCEOGI": 25
+    },
+    {
+      "LGJCPENNFBC": 432101,
+      "CLPAAMDNHIG": 4321,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 13,
+      "ELJMAGCEOGI": 19
+    },
+    {
+      "LGJCPENNFBC": 432102,
+      "CLPAAMDNHIG": 4321,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 43
+    },
+    {
+      "LGJCPENNFBC": 432103,
+      "CLPAAMDNHIG": 4321,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 8,
+      "ELJMAGCEOGI": 12
+    },
+    {
+      "LGJCPENNFBC": 433101,
+      "CLPAAMDNHIG": 4331,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 13,
+      "ELJMAGCEOGI": 19
+    },
+    {
+      "LGJCPENNFBC": 433102,
+      "CLPAAMDNHIG": 4331,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 43
+    },
+    {
+      "LGJCPENNFBC": 433103,
+      "CLPAAMDNHIG": 4331,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 8,
+      "ELJMAGCEOGI": 12
+    },
+    {
+      "LGJCPENNFBC": 341101,
+      "CLPAAMDNHIG": 3411,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 10,
+      "ELJMAGCEOGI": 14
+    },
+    {
+      "LGJCPENNFBC": 341102,
+      "CLPAAMDNHIG": 3411,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 23,
+      "ELJMAGCEOGI": 32
+    },
+    {
+      "LGJCPENNFBC": 341103,
+      "CLPAAMDNHIG": 3411,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 6,
+      "ELJMAGCEOGI": 9
+    },
+    {
+      "LGJCPENNFBC": 531101,
+      "CLPAAMDNHIG": 5311,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 17,
+      "ELJMAGCEOGI": 24
+    },
+    {
+      "LGJCPENNFBC": 531102,
+      "CLPAAMDNHIG": 5311,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 38,
+      "ELJMAGCEOGI": 54
+    },
+    {
+      "LGJCPENNFBC": 531103,
+      "CLPAAMDNHIG": 5311,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 10,
+      "ELJMAGCEOGI": 16
+    },
+    {
+      "LGJCPENNFBC": 531104,
+      "CLPAAMDNHIG": 5311,
+      "ALIPMEAJDHF": 29,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 531105,
+      "CLPAAMDNHIG": 5311,
+      "ALIPMEAJDHF": 30,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 531106,
+      "CLPAAMDNHIG": 5311,
+      "ALIPMEAJDHF": 33,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 531107,
+      "CLPAAMDNHIG": 5311,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 533101,
+      "CLPAAMDNHIG": 5331,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 17,
+      "ELJMAGCEOGI": 24
+    },
+    {
+      "LGJCPENNFBC": 533102,
+      "CLPAAMDNHIG": 5331,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 38,
+      "ELJMAGCEOGI": 54
+    },
+    {
+      "LGJCPENNFBC": 533103,
+      "CLPAAMDNHIG": 5331,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 10,
+      "ELJMAGCEOGI": 16
+    },
+    {
+      "LGJCPENNFBC": 533104,
+      "CLPAAMDNHIG": 5331,
+      "ALIPMEAJDHF": 29,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 533105,
+      "CLPAAMDNHIG": 5331,
+      "ALIPMEAJDHF": 30,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 533106,
+      "CLPAAMDNHIG": 5331,
+      "ALIPMEAJDHF": 33,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 26,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 533107,
+      "CLPAAMDNHIG": 5331,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 231101,
+      "CLPAAMDNHIG": 2311,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 8,
+      "ELJMAGCEOGI": 12
+    },
+    {
+      "LGJCPENNFBC": 231102,
+      "CLPAAMDNHIG": 2311,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 18,
+      "ELJMAGCEOGI": 26
+    },
+    {
+      "LGJCPENNFBC": 231103,
+      "CLPAAMDNHIG": 2311,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 5,
+      "ELJMAGCEOGI": 7
+    },
+    {
+      "LGJCPENNFBC": 232101,
+      "CLPAAMDNHIG": 2321,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 8,
+      "ELJMAGCEOGI": 12
+    },
+    {
+      "LGJCPENNFBC": 232102,
+      "CLPAAMDNHIG": 2321,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 18,
+      "ELJMAGCEOGI": 26
+    },
+    {
+      "LGJCPENNFBC": 232103,
+      "CLPAAMDNHIG": 2321,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 5,
+      "ELJMAGCEOGI": 7
+    },
+    {
+      "LGJCPENNFBC": 241101,
+      "CLPAAMDNHIG": 2411,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 8,
+      "ELJMAGCEOGI": 12
+    },
+    {
+      "LGJCPENNFBC": 241102,
+      "CLPAAMDNHIG": 2411,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 18,
+      "ELJMAGCEOGI": 26
+    },
+    {
+      "LGJCPENNFBC": 241103,
+      "CLPAAMDNHIG": 2411,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 5,
+      "ELJMAGCEOGI": 7
+    },
+    {
+      "LGJCPENNFBC": 332101,
+      "CLPAAMDNHIG": 3321,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 10,
+      "ELJMAGCEOGI": 14
+    },
+    {
+      "LGJCPENNFBC": 332102,
+      "CLPAAMDNHIG": 3321,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 23,
+      "ELJMAGCEOGI": 32
+    },
+    {
+      "LGJCPENNFBC": 332103,
+      "CLPAAMDNHIG": 3321,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 6,
+      "ELJMAGCEOGI": 9
+    },
+    {
+      "LGJCPENNFBC": 542101,
+      "CLPAAMDNHIG": 5421,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 22,
+      "ELJMAGCEOGI": 32
+    },
+    {
+      "LGJCPENNFBC": 542102,
+      "CLPAAMDNHIG": 5421,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 51,
+      "ELJMAGCEOGI": 73
+    },
+    {
+      "LGJCPENNFBC": 542103,
+      "CLPAAMDNHIG": 5421,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 14,
+      "ELJMAGCEOGI": 20
+    },
+    {
+      "LGJCPENNFBC": 542104,
+      "CLPAAMDNHIG": 5421,
+      "ALIPMEAJDHF": 29,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 542105,
+      "CLPAAMDNHIG": 5421,
+      "ALIPMEAJDHF": 30,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 542106,
+      "CLPAAMDNHIG": 5421,
+      "ALIPMEAJDHF": 33,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 35,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 542107,
+      "CLPAAMDNHIG": 5421,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 47,
+      "ELJMAGCEOGI": 68
+    },
+    {
+      "LGJCPENNFBC": 542108,
+      "CLPAAMDNHIG": 5421,
+      "ALIPMEAJDHF": 10,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 47,
+      "ELJMAGCEOGI": 68
+    },
+    {
+      "LGJCPENNFBC": 153101,
+      "CLPAAMDNHIG": 1531,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 20,
+      "ELJMAGCEOGI": 24
+    },
+    {
+      "LGJCPENNFBC": 153102,
+      "CLPAAMDNHIG": 1531,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 44,
+      "ELJMAGCEOGI": 54
+    },
+    {
+      "LGJCPENNFBC": 153103,
+      "CLPAAMDNHIG": 1531,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 12,
+      "ELJMAGCEOGI": 16
+    },
+    {
+      "LGJCPENNFBC": 153104,
+      "CLPAAMDNHIG": 1531,
+      "ALIPMEAJDHF": 29,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 153105,
+      "CLPAAMDNHIG": 1531,
+      "ALIPMEAJDHF": 30,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 153106,
+      "CLPAAMDNHIG": 1531,
+      "ALIPMEAJDHF": 33,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 153107,
+      "CLPAAMDNHIG": 1531,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 40,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 154101,
+      "CLPAAMDNHIG": 1541,
+      "ALIPMEAJDHF": 1,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 20,
+      "ELJMAGCEOGI": 24
+    },
+    {
+      "LGJCPENNFBC": 154102,
+      "CLPAAMDNHIG": 1541,
+      "ALIPMEAJDHF": 2,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 44,
+      "ELJMAGCEOGI": 54
+    },
+    {
+      "LGJCPENNFBC": 154103,
+      "CLPAAMDNHIG": 1541,
+      "ALIPMEAJDHF": 4,
+      "IDDDOJIBPFL": 1,
+      "CLNPCBMADNP": 12,
+      "ELJMAGCEOGI": 16
+    },
+    {
+      "LGJCPENNFBC": 154104,
+      "CLPAAMDNHIG": 1541,
+      "ALIPMEAJDHF": 29,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 154105,
+      "CLPAAMDNHIG": 1541,
+      "ALIPMEAJDHF": 30,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 154106,
+      "CLPAAMDNHIG": 1541,
+      "ALIPMEAJDHF": 33,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 30,
+      "ELJMAGCEOGI": 38
+    },
+    {
+      "LGJCPENNFBC": 154107,
+      "CLPAAMDNHIG": 1541,
+      "ALIPMEAJDHF": 9,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 40,
+      "ELJMAGCEOGI": 50
+    },
+    {
+      "LGJCPENNFBC": 154108,
+      "CLPAAMDNHIG": 1541,
+      "ALIPMEAJDHF": 10,
+      "IDDDOJIBPFL": 2,
+      "CLNPCBMADNP": 40,
+      "ELJMAGCEOGI": 50
+    }
+  ]
+}

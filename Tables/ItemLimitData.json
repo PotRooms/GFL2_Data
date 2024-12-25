@@ -1,0 +1,182 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 800002,
+      "HBJAHCGKJJD": "参战机会上限",
+      "JGKNHIKMHIM": 2,
+      "GEOBGNMCGHO": 2,
+      "ENMJCGDBNHE": true,
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "HBJAHCGKJJD": "公共插件背包格",
+      "KCDEALDAJGE": true,
+      "JGKNHIKMHIM": 1000,
+      "GEOBGNMCGHO": 10000,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "HBJAHCGKJJD": "初始角色",
+      "JGKNHIKMHIM": 1
+    },
+    {
+      "LGJCPENNFBC": 304,
+      "HBJAHCGKJJD": "周常本boss挑战币",
+      "JGKNHIKMHIM": 3,
+      "BKCIGACKEFD": 2
+    },
+    {
+      "LGJCPENNFBC": 23001,
+      "HBJAHCGKJJD": "初始称号",
+      "JGKNHIKMHIM": 1
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "钻石"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "金币"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "异步PVP货币"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "模组背包格",
+      "KCDEALDAJGE": true,
+      "JGKNHIKMHIM": 500,
+      "GEOBGNMCGHO": 1000,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "武器背包格",
+      "KCDEALDAJGE": true,
+      "JGKNHIKMHIM": 1500,
+      "GEOBGNMCGHO": 1500,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "体力自然恢复上限",
+      "KCDEALDAJGE": true,
+      "JGKNHIKMHIM": 240,
+      "GEOBGNMCGHO": 500,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "异步PVP门票上限",
+      "KCDEALDAJGE": true,
+      "JGKNHIKMHIM": 3
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": "爬塔本挑战次数",
+      "JGKNHIKMHIM": 3,
+      "GEOBGNMCGHO": 3000,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "HBJAHCGKJJD": "玩家持有体力",
+      "JGKNHIKMHIM": 240,
+      "GEOBGNMCGHO": 800
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "HBJAHCGKJJD": "异步PVP门票",
+      "JGKNHIKMHIM": 3,
+      "GEOBGNMCGHO": 5000,
+      "ENMJCGDBNHE": true,
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "HBJAHCGKJJD": "玩家持有高位竞技场门票",
+      "JGKNHIKMHIM": 5,
+      "GEOBGNMCGHO": 5
+    },
+    {
+      "LGJCPENNFBC": 310,
+      "HBJAHCGKJJD": "暗区每日任务刷新次数",
+      "JGKNHIKMHIM": 3,
+      "GEOBGNMCGHO": 3,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 311,
+      "HBJAHCGKJJD": "暗区每日任务完成次数",
+      "JGKNHIKMHIM": 999,
+      "GEOBGNMCGHO": 9999,
+      "ENMJCGDBNHE": true,
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 21999,
+      "HBJAHCGKJJD": "初始头像",
+      "JGKNHIKMHIM": 1
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBJAHCGKJJD": "经验本挑战次数",
+      "JGKNHIKMHIM": 3,
+      "GEOBGNMCGHO": 99,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBJAHCGKJJD": "金币本挑战次数",
+      "JGKNHIKMHIM": 3,
+      "GEOBGNMCGHO": 99,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HBJAHCGKJJD": "武器配件背包格",
+      "KCDEALDAJGE": true,
+      "JGKNHIKMHIM": 1500,
+      "GEOBGNMCGHO": 10000,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HBJAHCGKJJD": "初始人型经验"
+    },
+    {
+      "LGJCPENNFBC": 90,
+      "HBJAHCGKJJD": "高位竞技场门票自然恢复上限",
+      "KCDEALDAJGE": true,
+      "JGKNHIKMHIM": 5,
+      "GEOBGNMCGHO": 5,
+      "ENMJCGDBNHE": true
+    },
+    {
+      "LGJCPENNFBC": 22001,
+      "HBJAHCGKJJD": "初始徽章",
+      "JGKNHIKMHIM": 1
+    },
+    {
+      "LGJCPENNFBC": 24001,
+      "HBJAHCGKJJD": "初始头像框",
+      "JGKNHIKMHIM": 1
+    },
+    {
+      "LGJCPENNFBC": 354,
+      "HBJAHCGKJJD": "暗区探索门票",
+      "JGKNHIKMHIM": 1,
+      "GEOBGNMCGHO": 3,
+      "ENMJCGDBNHE": true,
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "HBJAHCGKJJD": "初始角色",
+      "JGKNHIKMHIM": 1
+    }
+  ]
+}

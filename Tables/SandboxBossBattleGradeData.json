@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "3240"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "5966"
+      },
+      "LFHGDLMCENE": 12000
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "6975"
+      },
+      "LFHGDLMCENE": 20000
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "7381"
+      },
+      "LFHGDLMCENE": 32000
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "7500"
+      },
+      "LFHGDLMCENE": 45000
+    }
+  ]
+}

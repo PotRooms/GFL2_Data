@@ -1,0 +1,392 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 410002102,
+      "PGBMMDIPEFA": "等级*1%移速",
+      "AALBNGIAFAK": "{0}*10",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 10,
+      "GHLGGCFFEJD": 1
+    },
+    {
+      "LGJCPENNFBC": 410002103,
+      "PGBMMDIPEFA": "等级*2%攻速",
+      "AALBNGIAFAK": "{0}*20",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 20,
+      "GHLGGCFFEJD": 1
+    },
+    {
+      "LGJCPENNFBC": 410002105,
+      "PGBMMDIPEFA": "等级*2%子弹伤害",
+      "AALBNGIAFAK": "{0}*20",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 20,
+      "GHLGGCFFEJD": 1
+    },
+    {
+      "LGJCPENNFBC": 210009101,
+      "PGBMMDIPEFA": "星霾时间2→4",
+      "AALBNGIAFAK": "2+{0}*2",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 2,
+      "NIGNCMEPIOH": 2,
+      "INDAKBJEEMJ": [
+        310009103
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210009102,
+      "PGBMMDIPEFA": "星霾伤害0→10→25",
+      "AALBNGIAFAK": "({0}*10+{1}*15)*(1+{2}*0.5)",
+      "ALFDAJNFMBP": 301,
+      "IGPGFANPOOA": 10,
+      "NIGNCMEPIOH": 15,
+      "JDLOACMPNLI": 1,
+      "CCFOPBDKILG": 0.5,
+      "INDAKBJEEMJ": [
+        310009104,
+        310009106,
+        310391304
+      ],
+      "KBPLONELIBD": [
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210009103,
+      "PGBMMDIPEFA": "星霾减速20→50",
+      "AALBNGIAFAK": "0-200-300*{0}",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": -200,
+      "NIGNCMEPIOH": -300,
+      "INDAKBJEEMJ": [
+        310009105
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210391101,
+      "PGBMMDIPEFA": "索米攻击特效伤害",
+      "AALBNGIAFAK": "30*(1+{0}*0.5)",
+      "ALFDAJNFMBP": 103,
+      "IGPGFANPOOA": 30,
+      "NIGNCMEPIOH": 1,
+      "JDLOACMPNLI": 0.5,
+      "INDAKBJEEMJ": [
+        310391304
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210521102,
+      "PGBMMDIPEFA": "感染每次伤害",
+      "AALBNGIAFAK": "{0}*{1}*(100+{2}*100)/1000",
+      "ALFDAJNFMBP": 302,
+      "IGPGFANPOOA": 100,
+      "NIGNCMEPIOH": 100,
+      "JDLOACMPNLI": 1000,
+      "PBNOEDBPIJC": [
+        2
+      ],
+      "HPEBPGFHCON": [
+        3
+      ],
+      "INDAKBJEEMJ": [
+        310521102,
+        310521201
+      ],
+      "KBPLONELIBD": [
+        2,
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210522101,
+      "PGBMMDIPEFA": "爆炸伤害",
+      "AALBNGIAFAK": "{0}*(500+{1}*300+{2}*200)/1000",
+      "ALFDAJNFMBP": 303,
+      "IGPGFANPOOA": 500,
+      "NIGNCMEPIOH": 300,
+      "JDLOACMPNLI": 200,
+      "CCFOPBDKILG": 1000,
+      "PBNOEDBPIJC": [
+        2
+      ],
+      "HPEBPGFHCON": [
+        3
+      ],
+      "INDAKBJEEMJ": [
+        310522202,
+        310522402
+      ],
+      "KBPLONELIBD": [
+        3,
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210522102,
+      "PGBMMDIPEFA": "爆炸范围",
+      "AALBNGIAFAK": "2+{0}+{1}",
+      "ALFDAJNFMBP": 201,
+      "IGPGFANPOOA": 2,
+      "INDAKBJEEMJ": [
+        310522302,
+        310522402
+      ],
+      "KBPLONELIBD": [
+        3,
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210522103,
+      "PGBMMDIPEFA": "爆炸特效-小",
+      "AALBNGIAFAK": "100-{0}*100",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 100,
+      "NIGNCMEPIOH": -100,
+      "INDAKBJEEMJ": [
+        310522302
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210522104,
+      "PGBMMDIPEFA": "爆炸特效-中",
+      "AALBNGIAFAK": "0+{0}*100-{1}*100",
+      "ALFDAJNFMBP": 202,
+      "IGPGFANPOOA": 100,
+      "NIGNCMEPIOH": -100,
+      "INDAKBJEEMJ": [
+        310522302,
+        310522402
+      ],
+      "KBPLONELIBD": [
+        3,
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210522105,
+      "PGBMMDIPEFA": "爆炸特效-大",
+      "AALBNGIAFAK": "0+{0}*100",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 100,
+      "INDAKBJEEMJ": [
+        310522402
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210522106,
+      "PGBMMDIPEFA": "爆炸-附加毒",
+      "AALBNGIAFAK": "{0}*100",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 100,
+      "INDAKBJEEMJ": [
+        310521201
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 250001101,
+      "PGBMMDIPEFA": "回血CD240→180",
+      "AALBNGIAFAK": "240-60*{0}",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 240,
+      "NIGNCMEPIOH": -60,
+      "INDAKBJEEMJ": [
+        350001102
+      ],
+      "KBPLONELIBD": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 310391402,
+      "PGBMMDIPEFA": "索米雪崩上限层数",
+      "AALBNGIAFAK": "5+{0}*5",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 5,
+      "NIGNCMEPIOH": 5,
+      "INDAKBJEEMJ": [
+        310391402
+      ],
+      "KBPLONELIBD": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 310521401,
+      "PGBMMDIPEFA": "子弹附加中毒概率",
+      "AALBNGIAFAK": "50+{0}*50",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 50,
+      "NIGNCMEPIOH": 50,
+      "INDAKBJEEMJ": [
+        310521401
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 310521402,
+      "PGBMMDIPEFA": "中毒层数上限",
+      "AALBNGIAFAK": "3+{0}*2",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 3,
+      "NIGNCMEPIOH": 2,
+      "INDAKBJEEMJ": [
+        310521401
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 410521301,
+      "PGBMMDIPEFA": "死亡前触发概率",
+      "AALBNGIAFAK": "{0}*50",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 50,
+      "INDAKBJEEMJ": [
+        310521302
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210001101,
+      "PGBMMDIPEFA": "斥退频率2.5→1.75",
+      "AALBNGIAFAK": "2.5-{0}*0.75",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 2.5,
+      "NIGNCMEPIOH": -0.75,
+      "INDAKBJEEMJ": [
+        310001103
+      ],
+      "KBPLONELIBD": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210001102,
+      "PGBMMDIPEFA": "斥退伤害0→50%→125%",
+      "AALBNGIAFAK": "({0}*500+{1}*750)*(1+{2}*0.5)",
+      "ALFDAJNFMBP": 301,
+      "IGPGFANPOOA": 500,
+      "NIGNCMEPIOH": 750,
+      "JDLOACMPNLI": 1,
+      "CCFOPBDKILG": 0.5,
+      "INDAKBJEEMJ": [
+        310001102,
+        310001105,
+        310391304
+      ],
+      "KBPLONELIBD": [
+        1,
+        1,
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210001103,
+      "PGBMMDIPEFA": "斥退范围4→6",
+      "AALBNGIAFAK": "4+{0}*2",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 4,
+      "NIGNCMEPIOH": 2,
+      "INDAKBJEEMJ": [
+        310001104
+      ],
+      "KBPLONELIBD": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210342501,
+      "PGBMMDIPEFA": "继承玩家属性：射程",
+      "AALBNGIAFAK": "{0}",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 1,
+      "PBNOEDBPIJC": [
+        7
+      ],
+      "HPEBPGFHCON": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210342502,
+      "PGBMMDIPEFA": "继承玩家属性：子弹大小",
+      "AALBNGIAFAK": "{0}",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 1,
+      "PBNOEDBPIJC": [
+        10
+      ],
+      "HPEBPGFHCON": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 210342503,
+      "PGBMMDIPEFA": "继承玩家属性：碰撞数量",
+      "AALBNGIAFAK": "{0}",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 1,
+      "PBNOEDBPIJC": [
+        12
+      ],
+      "HPEBPGFHCON": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 310392401,
+      "PGBMMDIPEFA": "索米击杀回血",
+      "AALBNGIAFAK": "{0}",
+      "ALFDAJNFMBP": 101,
+      "IGPGFANPOOA": 1,
+      "INDAKBJEEMJ": [
+        310392401
+      ],
+      "KBPLONELIBD": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 310521501,
+      "PGBMMDIPEFA": "中毒触发频率",
+      "AALBNGIAFAK": "1-{0}*0.5",
+      "ALFDAJNFMBP": 102,
+      "IGPGFANPOOA": 1,
+      "NIGNCMEPIOH": -0.5,
+      "INDAKBJEEMJ": [
+        310521501
+      ],
+      "KBPLONELIBD": [
+        3
+      ]
+    }
+  ]
+}

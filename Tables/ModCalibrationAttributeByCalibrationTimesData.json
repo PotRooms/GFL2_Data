@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "INICAHIBOFF": 1,
+      "LGJCPENNFBC": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "INICAHIBOFF": 2,
+      "LGJCPENNFBC": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "INICAHIBOFF": 3,
+      "LGJCPENNFBC": [
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "INICAHIBOFF": 4,
+      "LGJCPENNFBC": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    }
+  ]
+}

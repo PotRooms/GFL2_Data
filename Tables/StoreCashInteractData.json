@@ -1,0 +1,480 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_ask_start",
+      "GKFHFGJKBJN": "c_Mayling_ask_circle",
+      "OHBLMCPFJAC": "c_Mayling_ask_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "等、等一下——指挥官！经费不能再减了——",
+      "KPLONAEONLA": 7200124
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_ask_start",
+      "GKFHFGJKBJN": "c_Mayling_ask_circle",
+      "OHBLMCPFJAC": "c_Mayling_ask_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "指挥官——！请、请问本月采购经费已经到账了吗？！",
+      "KPLONAEONLA": 7200131,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "IJBFACOPFBA": [
+        2
+      ],
+      "FILJCGGKOKI": "c_Mayling_buy_start",
+      "GKFHFGJKBJN": "c_Mayling_buy_circle",
+      "OHBLMCPFJAC": "c_Mayling_buy_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "这、这些真的都可以买下吗？！",
+      "KPLONAEONLA": 7200139,
+      "HCEMFEGPJDH": 20
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "IJBFACOPFBA": [
+        2
+      ],
+      "FILJCGGKOKI": "c_Mayling_buy_start",
+      "GKFHFGJKBJN": "c_Mayling_buy_circle",
+      "OHBLMCPFJAC": "c_Mayling_buy_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "够了够了~有这些就能保证基地车正常运转啦！",
+      "KPLONAEONLA": 7200137,
+      "HCEMFEGPJDH": 20,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "IJBFACOPFBA": [
+        3
+      ],
+      "FILJCGGKOKI": "c_Mayling_affect_gift_start",
+      "GKFHFGJKBJN": "c_Mayling_affect_gift_circle",
+      "OHBLMCPFJAC": "c_Mayling_affect_gift_trans",
+      "JEBJBHFOFJI": 1,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "IJBFACOPFBA": [
+        4
+      ],
+      "FILJCGGKOKI": "c_Mayling_daily_gift_start",
+      "GKFHFGJKBJN": "c_Mayling_daily_gift_circle",
+      "OHBLMCPFJAC": "c_Mayling_daily_gift_trans",
+      "JEBJBHFOFJI": 1,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "IJBFACOPFBA": [
+        2
+      ],
+      "FILJCGGKOKI": "c_Mayling_buy02_start",
+      "GKFHFGJKBJN": "c_Mayling_buy02_circle",
+      "OHBLMCPFJAC": "c_Mayling_buy02_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "哎——只有这些？",
+      "KPLONAEONLA": 7200134,
+      "HCEMFEGPJDH": 155
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "IJBFACOPFBA": [
+        2
+      ],
+      "FILJCGGKOKI": "c_Mayling_buy02_start",
+      "GKFHFGJKBJN": "c_Mayling_buy02_circle",
+      "OHBLMCPFJAC": "c_Mayling_buy02_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "还有好多想买呀……",
+      "KPLONAEONLA": 7200135,
+      "HCEMFEGPJDH": 155,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "IJBFACOPFBA": [
+        2
+      ],
+      "FILJCGGKOKI": "c_Mayling_buy03_start",
+      "GKFHFGJKBJN": "c_Mayling_buy03_circle",
+      "OHBLMCPFJAC": "c_Mayling_buy03_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "是新产品！",
+      "KPLONAEONLA": 7200136,
+      "HCEMFEGPJDH": 60
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "IJBFACOPFBA": [
+        2
+      ],
+      "FILJCGGKOKI": "c_Mayling_buy03_start",
+      "GKFHFGJKBJN": "c_Mayling_buy03_circle",
+      "OHBLMCPFJAC": "c_Mayling_buy03_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "谢谢指挥官！",
+      "KPLONAEONLA": 7200138,
+      "HCEMFEGPJDH": 60,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_sad01_start",
+      "GKFHFGJKBJN": "c_Mayling_sad01_circle",
+      "OHBLMCPFJAC": "c_Mayling_sad01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "唔……这里还需要再调整一下吗……哎？原来的比较好？哎？？",
+      "KPLONAEONLA": 7200101
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_sad01_start",
+      "GKFHFGJKBJN": "c_Mayling_sad01_circle",
+      "OHBLMCPFJAC": "c_Mayling_sad01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "什么？又有新问题？！不听可以吗……",
+      "KPLONAEONLA": 7200103,
+      "HCEMFEGPJDH": 180,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_nervous01_start",
+      "GKFHFGJKBJN": "c_Mayling_nervous01_circle",
+      "OHBLMCPFJAC": "c_Mayling_nervous01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "我我我、我的水平仪呢！刚刚还在的……我的多功能结晶限定版——哦，在我手里……",
+      "KPLONAEONLA": 7200104,
+      "HCEMFEGPJDH": 300,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_sad01_start",
+      "GKFHFGJKBJN": "c_Mayling_sad01_circle",
+      "OHBLMCPFJAC": "c_Mayling_sad01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "又来？！……一个问题没解决、两个问题就出现……呜呜……",
+      "KPLONAEONLA": 7200105,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_sad02_start",
+      "GKFHFGJKBJN": "c_Mayling_sad02_circle",
+      "OHBLMCPFJAC": "c_Mayling_sad02_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "今天是……连续加班的第187天吗……我的新记录呢，哇哦。",
+      "KPLONAEONLA": 7200106
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_nervous01_start",
+      "GKFHFGJKBJN": "c_Mayling_nervous01_circle",
+      "OHBLMCPFJAC": "c_Mayling_nervous01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "啊啊啊这个报错！是、是我昨天没检查吗……要、要赶紧在指挥官发现之前修好！",
+      "KPLONAEONLA": 7200110,
+      "HCEMFEGPJDH": 300,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_drunk02_start",
+      "GKFHFGJKBJN": "c_Mayling_drunk02_circle",
+      "OHBLMCPFJAC": "c_Mayling_drunk02_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "好，物资到位，明天之前应该就能修好——呃、通宵的话？",
+      "KPLONAEONLA": 7200114,
+      "HCEMFEGPJDH": 600,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_think_start",
+      "GKFHFGJKBJN": "c_Mayling_think_circle",
+      "OHBLMCPFJAC": "c_Mayling_think_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "奖金到手啦！这次要买什么呢，唔……",
+      "KPLONAEONLA": 7200115,
+      "HCEMFEGPJDH": 120,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_sad01_start",
+      "GKFHFGJKBJN": "c_Mayling_sad01_circle",
+      "OHBLMCPFJAC": "c_Mayling_sad01_trans",
+      "JEBJBHFOFJI": 3,
+      "LMDJKJCPJHF": "好，全部处理完了，今天一定准时下班！……哎？传动装置报错？哎？？不、不要啊！！",
+      "KPLONAEONLA": 7200108,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_sad01_start",
+      "GKFHFGJKBJN": "c_Mayling_sad01_circle",
+      "OHBLMCPFJAC": "c_Mayling_sad01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "休假和奖金选哪个好呢，指挥官？——都、都没有吗？……呜……",
+      "KPLONAEONLA": 7200109,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_nervous01_start",
+      "GKFHFGJKBJN": "c_Mayling_nervous01_circle",
+      "OHBLMCPFJAC": "c_Mayling_nervous01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "呵欠……啊……好——什、什么？！物资采购？！现在？？……好的，清单马上就好！",
+      "KPLONAEONLA": 7200116
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_excited_start",
+      "GKFHFGJKBJN": "c_Mayling_excited_circle",
+      "OHBLMCPFJAC": "c_Mayling_excited_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "指挥官指挥官！“工厂倒闭、吐血减价、超值商品”！好、好便宜啊！",
+      "KPLONAEONLA": 7200117
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_excited_start",
+      "GKFHFGJKBJN": "c_Mayling_excited_circle",
+      "OHBLMCPFJAC": "c_Mayling_excited_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "《物品收纳的100个小技巧》……这样啊。只要好好收纳，就算一次囤大量物资也可以了！",
+      "KPLONAEONLA": 7200118,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_sad01_start",
+      "GKFHFGJKBJN": "c_Mayling_sad01_circle",
+      "OHBLMCPFJAC": "c_Mayling_sad01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "这是——新采购的补充物资吗？呜……加班预定……",
+      "KPLONAEONLA": 7200119,
+      "HCEMFEGPJDH": 60,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_selftalk_start",
+      "GKFHFGJKBJN": "c_Mayling_selftalk_circle",
+      "OHBLMCPFJAC": "c_Mayling_selftalk_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "嗯……啊，寇尔芙在采购清单上添加了醒酒药……唔，有点可疑？",
+      "KPLONAEONLA": 7200120
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_positive01_start",
+      "GKFHFGJKBJN": "c_Mayling_positive01_circle",
+      "OHBLMCPFJAC": "c_Mayling_positive01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "俄罗斯方块的话，我是绝对不会输的！要不要和我来一局？",
+      "KPLONAEONLA": 7200121
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_selftalk_start",
+      "GKFHFGJKBJN": "c_Mayling_selftalk_circle",
+      "OHBLMCPFJAC": "c_Mayling_selftalk_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "入手了新的收藏品！……会是……“它”吗？",
+      "KPLONAEONLA": 7200122,
+      "HCEMFEGPJDH": 260,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_drunk02_start",
+      "GKFHFGJKBJN": "c_Mayling_drunk02_circle",
+      "OHBLMCPFJAC": "c_Mayling_drunk02_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "指、指挥官！这一次我、我不会再同意、那个、就是、加、加班……没、没事……",
+      "KPLONAEONLA": 7200123,
+      "HCEMFEGPJDH": 200,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_think_start",
+      "GKFHFGJKBJN": "c_Mayling_think_circle",
+      "OHBLMCPFJAC": "c_Mayling_think_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "财政、赤——对了指挥官，有没有新的同伴要加入？",
+      "KPLONAEONLA": 7200125
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_positive02_start",
+      "GKFHFGJKBJN": "c_Mayling_positive02_circle",
+      "OHBLMCPFJAC": "c_Mayling_positive02_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "闪电队长出品的甜点好好吃！这也是指挥官的功劳呢，谢谢指挥官！",
+      "KPLONAEONLA": 7200126
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_drunk02_start",
+      "GKFHFGJKBJN": "c_Mayling_drunk02_circle",
+      "OHBLMCPFJAC": "c_Mayling_drunk02_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "呼唔……嗯？指、指挥官……唔……没事……我只是……有点困（哈欠）……嗯……",
+      "KPLONAEONLA": 7200127
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_positive01_start",
+      "GKFHFGJKBJN": "c_Mayling_positive01_circle",
+      "OHBLMCPFJAC": "c_Mayling_positive01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "希望，每一天，都能在基地车上平安度过……和大家在一起……不用加班就更好了。",
+      "KPLONAEONLA": 7200128,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_selftalk_start",
+      "GKFHFGJKBJN": "c_Mayling_selftalk_circle",
+      "OHBLMCPFJAC": "c_Mayling_selftalk_trans",
+      "JEBJBHFOFJI": 2,
+      "LMDJKJCPJHF": "昨天……昨天怎么了吗？唔，现在状态超棒，今天一定能解决所有问题然后在零点之前回家！……基地车的工作间可不是家！",
+      "KPLONAEONLA": 7200130,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_positive02_start",
+      "GKFHFGJKBJN": "c_Mayling_positive02_circle",
+      "OHBLMCPFJAC": "c_Mayling_positive02_trans",
+      "JEBJBHFOFJI": 2,
+      "LMDJKJCPJHF": "指挥官指挥官，我调制了一些很好喝的酒，如果您不忙的话……请和我一起喝一杯吧！如果不想喝……我还准备了一些很好喝的果汁！",
+      "KPLONAEONLA": 7200133,
+      "GJMMMCLGIMD": 7
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_drunk01_start",
+      "GKFHFGJKBJN": "c_Mayling_drunk01_circle",
+      "OHBLMCPFJAC": "c_Mayling_drunk01_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "——嗝、呜……给、给我……我还能喝……呜哦……呜呜指挥官……喝醉了就不能加班了……",
+      "KPLONAEONLA": 7200107,
+      "HCEMFEGPJDH": 120
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_drunk03_start",
+      "GKFHFGJKBJN": "c_Mayling_drunk03_circle",
+      "OHBLMCPFJAC": "c_Mayling_drunk03_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "干——什么啊！我才——没醉……！呜……只想着制造问题还总是破坏基地车还不给维修资金的指挥官最——差劲了……",
+      "KPLONAEONLA": 7200129
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "IJBFACOPFBA": [
+        1
+      ],
+      "FILJCGGKOKI": "c_Mayling_angry_start",
+      "GKFHFGJKBJN": "c_Mayling_angry_circle",
+      "OHBLMCPFJAC": "c_Mayling_angry_trans",
+      "JEBJBHFOFJI": 1,
+      "LMDJKJCPJHF": "最——讨厌——嗝（可爱的酒嗝）、指挥官了！……呜呜……指挥官对不起……克罗丽科太冲动了换素体很麻烦的你去骂她呀呜呜……",
+      "KPLONAEONLA": 7200132
+    }
+  ]
+}

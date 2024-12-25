@@ -1,0 +1,4631 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10330598,
+      "KBDPLOAHBJF": "F03105",
+      "EHJOGGHLGEN": "F03105",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 400
+    },
+    {
+      "LGJCPENNFBC": 10330599,
+      "KBDPLOAHBJF": "P03107",
+      "EHJOGGHLGEN": "P03107",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 405
+    },
+    {
+      "LGJCPENNFBC": 1010498,
+      "KBDPLOAHBJF": "F00804",
+      "EHJOGGHLGEN": "F00804",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 303
+    },
+    {
+      "LGJCPENNFBC": 1010499,
+      "KBDPLOAHBJF": "P00804",
+      "EHJOGGHLGEN": "P00804",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 217
+    },
+    {
+      "LGJCPENNFBC": 1020731,
+      "KBDPLOAHBJF": "M02012",
+      "EHJOGGHLGEN": "CN_M02012",
+      "HBJAHCGKJJD": "狭路II-02",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10207,
+      "KHMIPNENNND": 28
+    },
+    {
+      "LGJCPENNFBC": 1080721,
+      "KBDPLOAHBJF": "M08014",
+      "EHJOGGHLGEN": "CN_M08014",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10807,
+      "KHMIPNENNND": 115
+    },
+    {
+      "LGJCPENNFBC": 3090621,
+      "KBDPLOAHBJF": "A03020",
+      "EHJOGGHLGEN": "CN_A03020",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 440
+    },
+    {
+      "LGJCPENNFBC": 3120611,
+      "KBDPLOAHBJF": "A08015,A08016",
+      "EHJOGGHLGEN": "A08015,A08016",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 517
+    },
+    {
+      "LGJCPENNFBC": 10390697,
+      "KBDPLOAHBJF": "T00906",
+      "EHJOGGHLGEN": "T00906",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 624
+    },
+    {
+      "LGJCPENNFBC": 10390699,
+      "KBDPLOAHBJF": "P00909",
+      "EHJOGGHLGEN": "P00909",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 465
+    },
+    {
+      "LGJCPENNFBC": 3050311,
+      "KBDPLOAHBJF": "A06003",
+      "EHJOGGHLGEN": "A06003",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 325
+    },
+    {
+      "LGJCPENNFBC": 3140411,
+      "KBDPLOAHBJF": "M10013",
+      "EHJOGGHLGEN": "CN_M10013",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31404,
+      "KHMIPNENNND": 563
+    },
+    {
+      "LGJCPENNFBC": 10150197,
+      "KBDPLOAHBJF": "T00601",
+      "EHJOGGHLGEN": "T00601",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 552
+    },
+    {
+      "LGJCPENNFBC": 10150198,
+      "KBDPLOAHBJF": "F00601",
+      "EHJOGGHLGEN": "F00601",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 255
+    },
+    {
+      "LGJCPENNFBC": 10150199,
+      "KBDPLOAHBJF": "P00601",
+      "EHJOGGHLGEN": "P00601",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 144
+    },
+    {
+      "LGJCPENNFBC": 10230598,
+      "KBDPLOAHBJF": "F01405",
+      "EHJOGGHLGEN": "F01405",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 477
+    },
+    {
+      "LGJCPENNFBC": 10230599,
+      "KBDPLOAHBJF": "P01405",
+      "EHJOGGHLGEN": "P01405",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 482
+    },
+    {
+      "LGJCPENNFBC": 10240298,
+      "KBDPLOAHBJF": "F01702",
+      "EHJOGGHLGEN": "F01702",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 271
+    },
+    {
+      "LGJCPENNFBC": 10240299,
+      "KBDPLOAHBJF": "P01702",
+      "EHJOGGHLGEN": "P01702",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 173
+    },
+    {
+      "LGJCPENNFBC": 10210398,
+      "KBDPLOAHBJF": "F00503",
+      "EHJOGGHLGEN": "F00503",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 262
+    },
+    {
+      "LGJCPENNFBC": 10210399,
+      "KBDPLOAHBJF": "P00503",
+      "EHJOGGHLGEN": "P00503",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 157
+    },
+    {
+      "LGJCPENNFBC": 3100411,
+      "KBDPLOAHBJF": "A05003",
+      "EHJOGGHLGEN": "CN_A05003",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 467
+    },
+    {
+      "LGJCPENNFBC": 3130111,
+      "KBDPLOAHBJF": "M09001,MA09001",
+      "EHJOGGHLGEN": "CN_M09001,MA09001",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31301,
+      "KHMIPNENNND": 525
+    },
+    {
+      "LGJCPENNFBC": 10520397,
+      "KBDPLOAHBJF": "T01003",
+      "EHJOGGHLGEN": "T01003",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 548
+    },
+    {
+      "LGJCPENNFBC": 3080411,
+      "KBDPLOAHBJF": "A02009,A02010",
+      "EHJOGGHLGEN": "A02009,A02010",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 365
+    },
+    {
+      "LGJCPENNFBC": 3130411,
+      "KBDPLOAHBJF": "M09008",
+      "EHJOGGHLGEN": "CN_M09008",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31304,
+      "KHMIPNENNND": 531
+    },
+    {
+      "LGJCPENNFBC": 1040721,
+      "KBDPLOAHBJF": "M04013,MA04003",
+      "EHJOGGHLGEN": "CN_M04013,MA04003",
+      "HBJAHCGKJJD": "4-10",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10407,
+      "KHMIPNENNND": 58
+    },
+    {
+      "LGJCPENNFBC": 1070311,
+      "KBDPLOAHBJF": "M07004",
+      "EHJOGGHLGEN": "CN_M07004",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10703,
+      "KHMIPNENNND": 98
+    },
+    {
+      "LGJCPENNFBC": 10210598,
+      "KBDPLOAHBJF": "F00505",
+      "EHJOGGHLGEN": "F00505",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 264
+    },
+    {
+      "LGJCPENNFBC": 10210599,
+      "KBDPLOAHBJF": "P00505",
+      "EHJOGGHLGEN": "P00505",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 159
+    },
+    {
+      "LGJCPENNFBC": 1010731,
+      "KBDPLOAHBJF": "M01014",
+      "EHJOGGHLGEN": "CN_M01014",
+      "HBJAHCGKJJD": "零片互锁",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10107,
+      "KHMIPNENNND": 15
+    },
+    {
+      "LGJCPENNFBC": 1028401,
+      "KBDPLOAHBJF": "MA02002,M02017",
+      "EHJOGGHLGEN": "MA02002,CN_M02017",
+      "HBJAHCGKJJD": "悖论循环",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10284,
+      "KHMIPNENNND": 32
+    },
+    {
+      "LGJCPENNFBC": 3148301,
+      "KBDPLOAHBJF": "M10030",
+      "EHJOGGHLGEN": "CN_M10030",
+      "BKCIGACKEFD": 1,
+      "PKCFEDDNIIO": 31483,
+      "KHMIPNENNND": 568
+    },
+    {
+      "LGJCPENNFBC": 10280298,
+      "KBDPLOAHBJF": "F02302",
+      "EHJOGGHLGEN": "F02302",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 308
+    },
+    {
+      "LGJCPENNFBC": 10280299,
+      "KBDPLOAHBJF": "P02303",
+      "EHJOGGHLGEN": "P02303",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 197
+    },
+    {
+      "LGJCPENNFBC": 10320597,
+      "KBDPLOAHBJF": "T02105",
+      "EHJOGGHLGEN": "T02105",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 593
+    },
+    {
+      "LGJCPENNFBC": 10320598,
+      "KBDPLOAHBJF": "F02105",
+      "EHJOGGHLGEN": "F02105",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 299
+    },
+    {
+      "LGJCPENNFBC": 10320599,
+      "KBDPLOAHBJF": "P02105,P02106",
+      "EHJOGGHLGEN": "P02105,P02106",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 212
+    },
+    {
+      "LGJCPENNFBC": 10340598,
+      "KBDPLOAHBJF": "F01305",
+      "EHJOGGHLGEN": "F01305",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 353
+    },
+    {
+      "LGJCPENNFBC": 10340599,
+      "KBDPLOAHBJF": "P01305",
+      "EHJOGGHLGEN": "P01305",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 358
+    },
+    {
+      "LGJCPENNFBC": 1070511,
+      "KBDPLOAHBJF": "M07006",
+      "EHJOGGHLGEN": "CN_M07006",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10705,
+      "KHMIPNENNND": 100
+    },
+    {
+      "LGJCPENNFBC": 3030831,
+      "KBDPLOAHBJF": "A01018",
+      "EHJOGGHLGEN": "A01018",
+      "BKCIGACKEFD": 31,
+      "KHMIPNENNND": 233
+    },
+    {
+      "LGJCPENNFBC": 3058701,
+      "KBDPLOAHBJF": "A06011",
+      "EHJOGGHLGEN": "A06011",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 333
+    },
+    {
+      "LGJCPENNFBC": 3100921,
+      "KBDPLOAHBJF": "A05008,A05009",
+      "EHJOGGHLGEN": "CN_A05008,CN_A05009",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 472
+    },
+    {
+      "LGJCPENNFBC": 3130311,
+      "KBDPLOAHBJF": "M09005,M09006",
+      "EHJOGGHLGEN": "CN_M09005,CN_M09006",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31303,
+      "KHMIPNENNND": 529
+    },
+    {
+      "LGJCPENNFBC": 1068501,
+      "KBDPLOAHBJF": "M06014",
+      "EHJOGGHLGEN": "CN_M06014",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10685,
+      "KHMIPNENNND": 94
+    },
+    {
+      "LGJCPENNFBC": 3128301,
+      "KBDPLOAHBJF": "A08014",
+      "EHJOGGHLGEN": "A08014",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 516
+    },
+    {
+      "LGJCPENNFBC": 3141121,
+      "KBDPLOAHBJF": "MA10003,M10050",
+      "EHJOGGHLGEN": "MA10003,CN_M10050",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31411,
+      "KHMIPNENNND": 581
+    },
+    {
+      "LGJCPENNFBC": 3150311,
+      "KBDPLOAHBJF": "A09004",
+      "EHJOGGHLGEN": "A09004",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 599
+    },
+    {
+      "LGJCPENNFBC": 10440397,
+      "KBDPLOAHBJF": "T02403",
+      "EHJOGGHLGEN": "T02403",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 615
+    },
+    {
+      "LGJCPENNFBC": 1041011,
+      "KBDPLOAHBJF": "M04020,MA04008",
+      "EHJOGGHLGEN": "CN_M04020,MA04008",
+      "HBJAHCGKJJD": "4-14",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10410,
+      "KHMIPNENNND": 62
+    },
+    {
+      "LGJCPENNFBC": 10230498,
+      "KBDPLOAHBJF": "F01404",
+      "EHJOGGHLGEN": "F01404",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 476
+    },
+    {
+      "LGJCPENNFBC": 10230499,
+      "KBDPLOAHBJF": "P01404",
+      "EHJOGGHLGEN": "P01404",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 481
+    },
+    {
+      "LGJCPENNFBC": 10360598,
+      "KBDPLOAHBJF": "F02805",
+      "EHJOGGHLGEN": "F02805",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 422
+    },
+    {
+      "LGJCPENNFBC": 10360599,
+      "KBDPLOAHBJF": "P02805",
+      "EHJOGGHLGEN": "P02805",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 427
+    },
+    {
+      "LGJCPENNFBC": 10360398,
+      "KBDPLOAHBJF": "F02803",
+      "EHJOGGHLGEN": "F02803",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 420
+    },
+    {
+      "LGJCPENNFBC": 10360399,
+      "KBDPLOAHBJF": "P02803",
+      "EHJOGGHLGEN": "P02803",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 425
+    },
+    {
+      "LGJCPENNFBC": 1010431,
+      "KBDPLOAHBJF": "M01010",
+      "EHJOGGHLGEN": "CN_M01010",
+      "HBJAHCGKJJD": "光弧-02",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10104,
+      "KHMIPNENNND": 11
+    },
+    {
+      "LGJCPENNFBC": 1010899,
+      "KBDPLOAHBJF": "P00808",
+      "EHJOGGHLGEN": "P00808",
+      "KHMIPNENNND": 221
+    },
+    {
+      "LGJCPENNFBC": 3080421,
+      "KBDPLOAHBJF": "A02011,A02012",
+      "EHJOGGHLGEN": "A02011,A02012",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 366
+    },
+    {
+      "LGJCPENNFBC": 3160111,
+      "KBDPLOAHBJF": "A10006",
+      "EHJOGGHLGEN": "A10006",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 625
+    },
+    {
+      "LGJCPENNFBC": 10290699,
+      "KBDPLOAHBJF": "P02607",
+      "EHJOGGHLGEN": "P02607",
+      "KHMIPNENNND": 207
+    },
+    {
+      "LGJCPENNFBC": 3030531,
+      "KBDPLOAHBJF": "A01009",
+      "EHJOGGHLGEN": "A01009",
+      "BKCIGACKEFD": 31,
+      "KHMIPNENNND": 227
+    },
+    {
+      "LGJCPENNFBC": 3150111,
+      "KBDPLOAHBJF": "A09018",
+      "EHJOGGHLGEN": "A09018",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 595
+    },
+    {
+      "LGJCPENNFBC": 3150321,
+      "KBDPLOAHBJF": "A09005",
+      "EHJOGGHLGEN": "A09005",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 600
+    },
+    {
+      "LGJCPENNFBC": 10520297,
+      "KBDPLOAHBJF": "T01002",
+      "EHJOGGHLGEN": "T01002",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 547
+    },
+    {
+      "LGJCPENNFBC": 10260198,
+      "KBDPLOAHBJF": "F01501",
+      "EHJOGGHLGEN": "F01501",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 280
+    },
+    {
+      "LGJCPENNFBC": 10260199,
+      "KBDPLOAHBJF": "P01501,P01502",
+      "EHJOGGHLGEN": "P01501,P01502",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 184
+    },
+    {
+      "LGJCPENNFBC": 10510397,
+      "KBDPLOAHBJF": "T02503",
+      "EHJOGGHLGEN": "T02503",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 585
+    },
+    {
+      "LGJCPENNFBC": 3100421,
+      "KBDPLOAHBJF": "A05004",
+      "EHJOGGHLGEN": "CN_A05004",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 468
+    },
+    {
+      "LGJCPENNFBC": 10330198,
+      "KBDPLOAHBJF": "F03101",
+      "EHJOGGHLGEN": "F03101",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 396
+    },
+    {
+      "LGJCPENNFBC": 10330199,
+      "KBDPLOAHBJF": "P03101,P03102",
+      "EHJOGGHLGEN": "P03101,P03102",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 401
+    },
+    {
+      "LGJCPENNFBC": 1030631,
+      "KBDPLOAHBJF": "M03010",
+      "EHJOGGHLGEN": "CN_M03010",
+      "HBJAHCGKJJD": "3-9",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10306,
+      "KHMIPNENNND": 43
+    },
+    {
+      "LGJCPENNFBC": 3090311,
+      "KBDPLOAHBJF": "A03013,AA03001",
+      "EHJOGGHLGEN": "CN_A03013,AA03001",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 434
+    },
+    {
+      "LGJCPENNFBC": 10170398,
+      "KBDPLOAHBJF": "F00103",
+      "EHJOGGHLGEN": "F00103",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 247
+    },
+    {
+      "LGJCPENNFBC": 10170399,
+      "KBDPLOAHBJF": "P00103",
+      "EHJOGGHLGEN": "P00103",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 134
+    },
+    {
+      "LGJCPENNFBC": 10520497,
+      "KBDPLOAHBJF": "T01004",
+      "EHJOGGHLGEN": "T01004",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 549
+    },
+    {
+      "LGJCPENNFBC": 1070911,
+      "KBDPLOAHBJF": "M07013",
+      "EHJOGGHLGEN": "CN_M07013",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10709,
+      "KHMIPNENNND": 106
+    },
+    {
+      "LGJCPENNFBC": 10320697,
+      "KBDPLOAHBJF": "T02106",
+      "EHJOGGHLGEN": "T02106",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 594
+    },
+    {
+      "LGJCPENNFBC": 10320699,
+      "KBDPLOAHBJF": "P02107",
+      "EHJOGGHLGEN": "P02107",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 213
+    },
+    {
+      "LGJCPENNFBC": 1020311,
+      "KBDPLOAHBJF": "M02004",
+      "EHJOGGHLGEN": "CN_M02004",
+      "HBJAHCGKJJD": "衍射",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10203,
+      "KHMIPNENNND": 22
+    },
+    {
+      "LGJCPENNFBC": 3090821,
+      "KBDPLOAHBJF": "A03029",
+      "EHJOGGHLGEN": "CN_A03029",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 444
+    },
+    {
+      "LGJCPENNFBC": 3130811,
+      "KBDPLOAHBJF": "M09020,M09021",
+      "EHJOGGHLGEN": "CN_M09020,CN_M09021",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31308,
+      "KHMIPNENNND": 540
+    },
+    {
+      "LGJCPENNFBC": 10080398,
+      "KBDPLOAHBJF": "F00403",
+      "EHJOGGHLGEN": "F00403",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 252
+    },
+    {
+      "LGJCPENNFBC": 10080399,
+      "KBDPLOAHBJF": "P00403",
+      "EHJOGGHLGEN": "P00403",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 140
+    },
+    {
+      "LGJCPENNFBC": 1010398,
+      "KBDPLOAHBJF": "F00803",
+      "EHJOGGHLGEN": "F00803",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 302
+    },
+    {
+      "LGJCPENNFBC": 1010399,
+      "KBDPLOAHBJF": "P00803",
+      "EHJOGGHLGEN": "P00803",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 216
+    },
+    {
+      "LGJCPENNFBC": 1010698,
+      "KBDPLOAHBJF": "F00806",
+      "EHJOGGHLGEN": "F00806",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 305
+    },
+    {
+      "LGJCPENNFBC": 1010699,
+      "KBDPLOAHBJF": "P00806",
+      "EHJOGGHLGEN": "P00806",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 219
+    },
+    {
+      "LGJCPENNFBC": 1040131,
+      "KBDPLOAHBJF": "M04001",
+      "EHJOGGHLGEN": "CN_M04001",
+      "HBJAHCGKJJD": "4-1",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10401,
+      "KHMIPNENNND": 49
+    },
+    {
+      "LGJCPENNFBC": 10010699,
+      "KBDPLOAHBJF": "P00206",
+      "EHJOGGHLGEN": "P00206",
+      "KHMIPNENNND": 125
+    },
+    {
+      "LGJCPENNFBC": 1030531,
+      "KBDPLOAHBJF": "M03008",
+      "EHJOGGHLGEN": "CN_M03008",
+      "HBJAHCGKJJD": "3-7",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10305,
+      "KHMIPNENNND": 41
+    },
+    {
+      "LGJCPENNFBC": 10150397,
+      "KBDPLOAHBJF": "T00603",
+      "EHJOGGHLGEN": "T00603",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 554
+    },
+    {
+      "LGJCPENNFBC": 10150398,
+      "KBDPLOAHBJF": "F00603",
+      "EHJOGGHLGEN": "F00603",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 257
+    },
+    {
+      "LGJCPENNFBC": 10150399,
+      "KBDPLOAHBJF": "P00603",
+      "EHJOGGHLGEN": "P00603",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 146
+    },
+    {
+      "LGJCPENNFBC": 10240498,
+      "KBDPLOAHBJF": "F01704",
+      "EHJOGGHLGEN": "F01704",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 273
+    },
+    {
+      "LGJCPENNFBC": 10240499,
+      "KBDPLOAHBJF": "P01704",
+      "EHJOGGHLGEN": "P01704",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 175
+    },
+    {
+      "LGJCPENNFBC": 10350498,
+      "KBDPLOAHBJF": "F02904",
+      "EHJOGGHLGEN": "F02904",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 337
+    },
+    {
+      "LGJCPENNFBC": 10350499,
+      "KBDPLOAHBJF": "P02904,P02905",
+      "EHJOGGHLGEN": "P02904,P02905",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 342
+    },
+    {
+      "LGJCPENNFBC": 1050631,
+      "KBDPLOAHBJF": "M05011",
+      "EHJOGGHLGEN": "CN_M05011",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10506,
+      "KHMIPNENNND": 75
+    },
+    {
+      "LGJCPENNFBC": 3140121,
+      "KBDPLOAHBJF": "M10002",
+      "EHJOGGHLGEN": "CN_M10002",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31401,
+      "KHMIPNENNND": 559
+    },
+    {
+      "LGJCPENNFBC": 10010598,
+      "KBDPLOAHBJF": "F00205",
+      "EHJOGGHLGEN": "F00205",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 239
+    },
+    {
+      "LGJCPENNFBC": 10010599,
+      "KBDPLOAHBJF": "P00205",
+      "EHJOGGHLGEN": "P00205",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 124
+    },
+    {
+      "LGJCPENNFBC": 10360699,
+      "KBDPLOAHBJF": "P02806",
+      "EHJOGGHLGEN": "P02806",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 428
+    },
+    {
+      "LGJCPENNFBC": 3080111,
+      "KBDPLOAHBJF": "A02001",
+      "EHJOGGHLGEN": "A02001",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 360
+    },
+    {
+      "LGJCPENNFBC": 3150621,
+      "KBDPLOAHBJF": "A09011",
+      "EHJOGGHLGEN": "A09011",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 606
+    },
+    {
+      "LGJCPENNFBC": 10320497,
+      "KBDPLOAHBJF": "T02104",
+      "EHJOGGHLGEN": "T02104",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 592
+    },
+    {
+      "LGJCPENNFBC": 10320498,
+      "KBDPLOAHBJF": "F02104",
+      "EHJOGGHLGEN": "F02104",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 298
+    },
+    {
+      "LGJCPENNFBC": 10320499,
+      "KBDPLOAHBJF": "P02104",
+      "EHJOGGHLGEN": "P02104",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 211
+    },
+    {
+      "LGJCPENNFBC": 3140511,
+      "KBDPLOAHBJF": "M10026,M10027,M10028",
+      "EHJOGGHLGEN": "CN_M10026,CN_M10027,CN_M10028",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31405,
+      "KHMIPNENNND": 566
+    },
+    {
+      "LGJCPENNFBC": 3090321,
+      "KBDPLOAHBJF": "A03014",
+      "EHJOGGHLGEN": "CN_A03014",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 435
+    },
+    {
+      "LGJCPENNFBC": 3138101,
+      "KBDPLOAHBJF": "M09011",
+      "EHJOGGHLGEN": "CN_M09011",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31381,
+      "KHMIPNENNND": 534
+    },
+    {
+      "LGJCPENNFBC": 10090398,
+      "KBDPLOAHBJF": "F00303",
+      "EHJOGGHLGEN": "F00303",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 242
+    },
+    {
+      "LGJCPENNFBC": 10090399,
+      "KBDPLOAHBJF": "P00303",
+      "EHJOGGHLGEN": "P00303",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 128
+    },
+    {
+      "LGJCPENNFBC": 1020431,
+      "KBDPLOAHBJF": "M02009",
+      "EHJOGGHLGEN": "CN_M02009",
+      "HBJAHCGKJJD": "扰乱-02",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10204,
+      "KHMIPNENNND": 25
+    },
+    {
+      "LGJCPENNFBC": 1060231,
+      "KBDPLOAHBJF": "M06003",
+      "EHJOGGHLGEN": "CN_M06003",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10602,
+      "KHMIPNENNND": 84
+    },
+    {
+      "LGJCPENNFBC": 1071031,
+      "KBDPLOAHBJF": "M07015",
+      "EHJOGGHLGEN": "CN_M07015",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10710,
+      "KHMIPNENNND": 108
+    },
+    {
+      "LGJCPENNFBC": 1078101,
+      "KBDPLOAHBJF": "M07001,M07002,M07003",
+      "EHJOGGHLGEN": "CN_M07001,CN_M07002,CN_M07003",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10781,
+      "KHMIPNENNND": 97
+    },
+    {
+      "LGJCPENNFBC": 3030311,
+      "KBDPLOAHBJF": "A01004",
+      "EHJOGGHLGEN": "A01004",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 224
+    },
+    {
+      "LGJCPENNFBC": 10130298,
+      "KBDPLOAHBJF": "F00702",
+      "EHJOGGHLGEN": "F00702",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 313
+    },
+    {
+      "LGJCPENNFBC": 10130299,
+      "KBDPLOAHBJF": "P00702",
+      "EHJOGGHLGEN": "P00702",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 318
+    },
+    {
+      "LGJCPENNFBC": 1020131,
+      "KBDPLOAHBJF": "M02002",
+      "EHJOGGHLGEN": "CN_M02002",
+      "HBJAHCGKJJD": "猜测-02",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10201,
+      "KHMIPNENNND": 20
+    },
+    {
+      "LGJCPENNFBC": 1038101,
+      "KBDPLOAHBJF": "M03001,MA03001,M03002",
+      "EHJOGGHLGEN": "CN_M03001,MA03001,CN_M03002",
+      "HBJAHCGKJJD": "3-1",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10381,
+      "KHMIPNENNND": 35
+    },
+    {
+      "LGJCPENNFBC": 10260298,
+      "KBDPLOAHBJF": "F01502",
+      "EHJOGGHLGEN": "F01502",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 281
+    },
+    {
+      "LGJCPENNFBC": 10260299,
+      "KBDPLOAHBJF": "P01503",
+      "EHJOGGHLGEN": "P01503",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 185
+    },
+    {
+      "LGJCPENNFBC": 10280198,
+      "KBDPLOAHBJF": "F02301",
+      "EHJOGGHLGEN": "F02301",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 307
+    },
+    {
+      "LGJCPENNFBC": 10280199,
+      "KBDPLOAHBJF": "P02301,P02302",
+      "EHJOGGHLGEN": "P02301,P02302",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 196
+    },
+    {
+      "LGJCPENNFBC": 10370598,
+      "KBDPLOAHBJF": "F02005",
+      "EHJOGGHLGEN": "F02005",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 378
+    },
+    {
+      "LGJCPENNFBC": 10370599,
+      "KBDPLOAHBJF": "P02006",
+      "EHJOGGHLGEN": "P02006",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 383
+    },
+    {
+      "LGJCPENNFBC": 1010411,
+      "KBDPLOAHBJF": "M01009",
+      "EHJOGGHLGEN": "CN_M01009",
+      "HBJAHCGKJJD": "光弧-01",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10104,
+      "KHMIPNENNND": 10
+    },
+    {
+      "LGJCPENNFBC": 1030431,
+      "KBDPLOAHBJF": "M03005",
+      "EHJOGGHLGEN": "CN_M03005",
+      "HBJAHCGKJJD": "3-4",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10304,
+      "KHMIPNENNND": 38
+    },
+    {
+      "LGJCPENNFBC": 10250497,
+      "KBDPLOAHBJF": "T01604",
+      "EHJOGGHLGEN": "T01604",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 509
+    },
+    {
+      "LGJCPENNFBC": 10250498,
+      "KBDPLOAHBJF": "F01604",
+      "EHJOGGHLGEN": "F01604",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 278
+    },
+    {
+      "LGJCPENNFBC": 10250499,
+      "KBDPLOAHBJF": "P01604",
+      "EHJOGGHLGEN": "P01604",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 181
+    },
+    {
+      "LGJCPENNFBC": 10270197,
+      "KBDPLOAHBJF": "T01801",
+      "EHJOGGHLGEN": "T01801",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 500
+    },
+    {
+      "LGJCPENNFBC": 10270198,
+      "KBDPLOAHBJF": "F01801",
+      "EHJOGGHLGEN": "F01801",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 285
+    },
+    {
+      "LGJCPENNFBC": 10270199,
+      "KBDPLOAHBJF": "P01801,P01802",
+      "EHJOGGHLGEN": "P01801,P01802",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 190
+    },
+    {
+      "LGJCPENNFBC": 1078201,
+      "KBDPLOAHBJF": "M07008,M07009",
+      "EHJOGGHLGEN": "CN_M07008,CN_M07009",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10782,
+      "KHMIPNENNND": 102
+    },
+    {
+      "LGJCPENNFBC": 10280498,
+      "KBDPLOAHBJF": "F02304",
+      "EHJOGGHLGEN": "F02304",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 310
+    },
+    {
+      "LGJCPENNFBC": 10280499,
+      "KBDPLOAHBJF": "P02305,P02306,P02307",
+      "EHJOGGHLGEN": "P02305,P02306,P02307",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 199
+    },
+    {
+      "LGJCPENNFBC": 10400297,
+      "KBDPLOAHBJF": "T03002",
+      "EHJOGGHLGEN": "T03002",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 450
+    },
+    {
+      "LGJCPENNFBC": 10440497,
+      "KBDPLOAHBJF": "T02404",
+      "EHJOGGHLGEN": "T02404",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 616
+    },
+    {
+      "LGJCPENNFBC": 10510297,
+      "KBDPLOAHBJF": "T02502",
+      "EHJOGGHLGEN": "T02502",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 584
+    },
+    {
+      "LGJCPENNFBC": 1020911,
+      "KBDPLOAHBJF": "M02014",
+      "EHJOGGHLGEN": "CN_M02014",
+      "HBJAHCGKJJD": "信号-01",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10209,
+      "KHMIPNENNND": 30
+    },
+    {
+      "LGJCPENNFBC": 1060111,
+      "KBDPLOAHBJF": "M06001",
+      "EHJOGGHLGEN": "CN_M06001",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10601,
+      "KHMIPNENNND": 82
+    },
+    {
+      "LGJCPENNFBC": 3090221,
+      "KBDPLOAHBJF": "A03008,A03009",
+      "EHJOGGHLGEN": "CN_A03008,CN_A03009",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 432
+    },
+    {
+      "LGJCPENNFBC": 10370298,
+      "KBDPLOAHBJF": "F02002",
+      "EHJOGGHLGEN": "F02002",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 375
+    },
+    {
+      "LGJCPENNFBC": 10370299,
+      "KBDPLOAHBJF": "P02002",
+      "EHJOGGHLGEN": "P02002",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 380
+    },
+    {
+      "LGJCPENNFBC": 10380498,
+      "KBDPLOAHBJF": "F01904",
+      "EHJOGGHLGEN": "F01904",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 410
+    },
+    {
+      "LGJCPENNFBC": 10380499,
+      "KBDPLOAHBJF": "P01904",
+      "EHJOGGHLGEN": "P01904",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 415
+    },
+    {
+      "LGJCPENNFBC": 10410598,
+      "KBDPLOAHBJF": "F03805",
+      "EHJOGGHLGEN": "F03805",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 389
+    },
+    {
+      "LGJCPENNFBC": 10410599,
+      "KBDPLOAHBJF": "P03806,P03807",
+      "EHJOGGHLGEN": "P03806,P03807",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 394
+    },
+    {
+      "LGJCPENNFBC": 1000141,
+      "KBDPLOAHBJF": "MA00002",
+      "EHJOGGHLGEN": "MA00002",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10001,
+      "KHMIPNENNND": 2
+    },
+    {
+      "LGJCPENNFBC": 1000142,
+      "KBDPLOAHBJF": "MA00003",
+      "EHJOGGHLGEN": "MA00003",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10001,
+      "KHMIPNENNND": 3
+    },
+    {
+      "LGJCPENNFBC": 1050531,
+      "KBDPLOAHBJF": "M05009",
+      "EHJOGGHLGEN": "CN_M05009",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10505,
+      "KHMIPNENNND": 73
+    },
+    {
+      "LGJCPENNFBC": 3110621,
+      "KBDPLOAHBJF": "A07005",
+      "EHJOGGHLGEN": "A07005",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 488
+    },
+    {
+      "LGJCPENNFBC": 10230298,
+      "KBDPLOAHBJF": "F01402",
+      "EHJOGGHLGEN": "F01402",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 474
+    },
+    {
+      "LGJCPENNFBC": 10230299,
+      "KBDPLOAHBJF": "P01402",
+      "EHJOGGHLGEN": "P01402",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 479
+    },
+    {
+      "LGJCPENNFBC": 10270297,
+      "KBDPLOAHBJF": "T01802",
+      "EHJOGGHLGEN": "T01802",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 501
+    },
+    {
+      "LGJCPENNFBC": 10270298,
+      "KBDPLOAHBJF": "F01802",
+      "EHJOGGHLGEN": "F01802",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 286
+    },
+    {
+      "LGJCPENNFBC": 10270299,
+      "KBDPLOAHBJF": "P01803",
+      "EHJOGGHLGEN": "P01803",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 191
+    },
+    {
+      "LGJCPENNFBC": 1081031,
+      "KBDPLOAHBJF": "M08020",
+      "EHJOGGHLGEN": "CN_M08020",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10810,
+      "KHMIPNENNND": 118
+    },
+    {
+      "LGJCPENNFBC": 3108101,
+      "KBDPLOAHBJF": "A05001,A05002",
+      "EHJOGGHLGEN": "CN_A05001,CN_A05002",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 466
+    },
+    {
+      "LGJCPENNFBC": 3168401,
+      "KBDPLOAHBJF": "A10004",
+      "EHJOGGHLGEN": "A10004",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 631
+    },
+    {
+      "LGJCPENNFBC": 10220198,
+      "KBDPLOAHBJF": "F01201",
+      "EHJOGGHLGEN": "F01201",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 265
+    },
+    {
+      "LGJCPENNFBC": 10220199,
+      "KBDPLOAHBJF": "P01201,P01202",
+      "EHJOGGHLGEN": "P01201,P01202",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 161
+    },
+    {
+      "LGJCPENNFBC": 3078601,
+      "KBDPLOAHBJF": "A04001,A04002",
+      "EHJOGGHLGEN": "A04001,A04002",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 345
+    },
+    {
+      "LGJCPENNFBC": 10450497,
+      "KBDPLOAHBJF": "T03404",
+      "EHJOGGHLGEN": "T03404",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 644
+    },
+    {
+      "LGJCPENNFBC": 1050721,
+      "KBDPLOAHBJF": "M05013",
+      "EHJOGGHLGEN": "CN_M05013",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10507,
+      "KHMIPNENNND": 77
+    },
+    {
+      "LGJCPENNFBC": 3050611,
+      "KBDPLOAHBJF": "A06006",
+      "EHJOGGHLGEN": "A06006",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 328
+    },
+    {
+      "LGJCPENNFBC": 3088101,
+      "KBDPLOAHBJF": "A02005,A02006",
+      "EHJOGGHLGEN": "A02005,A02006",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 363
+    },
+    {
+      "LGJCPENNFBC": 3100821,
+      "KBDPLOAHBJF": "A05007",
+      "EHJOGGHLGEN": "CN_A05007",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 471
+    },
+    {
+      "LGJCPENNFBC": 10440197,
+      "KBDPLOAHBJF": "T02401",
+      "EHJOGGHLGEN": "T02401",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 613
+    },
+    {
+      "LGJCPENNFBC": 3120921,
+      "KBDPLOAHBJF": "A08024,A08025,A08026,A08027,A08028",
+      "EHJOGGHLGEN": "A08024,A08025,A08026,A08027,A08028",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 523
+    },
+    {
+      "LGJCPENNFBC": 3150421,
+      "KBDPLOAHBJF": "A09007",
+      "EHJOGGHLGEN": "A09007",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 602
+    },
+    {
+      "LGJCPENNFBC": 10240198,
+      "KBDPLOAHBJF": "F01701",
+      "EHJOGGHLGEN": "F01701",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 270
+    },
+    {
+      "LGJCPENNFBC": 10240199,
+      "KBDPLOAHBJF": "P01701",
+      "EHJOGGHLGEN": "P01701",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 172
+    },
+    {
+      "LGJCPENNFBC": 1070921,
+      "KBDPLOAHBJF": "M07014",
+      "EHJOGGHLGEN": "CN_M07014",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10709,
+      "KHMIPNENNND": 107
+    },
+    {
+      "LGJCPENNFBC": 3038101,
+      "KBDPLOAHBJF": "A01007,A01008",
+      "EHJOGGHLGEN": "A01007,A01008",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 226
+    },
+    {
+      "LGJCPENNFBC": 3080511,
+      "KBDPLOAHBJF": "A02013",
+      "EHJOGGHLGEN": "A02013",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 367
+    },
+    {
+      "LGJCPENNFBC": 3130211,
+      "KBDPLOAHBJF": "M09003",
+      "EHJOGGHLGEN": "CN_M09003",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31302,
+      "KHMIPNENNND": 527
+    },
+    {
+      "LGJCPENNFBC": 1048101,
+      "KBDPLOAHBJF": "M04002,MA04001,M04003",
+      "EHJOGGHLGEN": "CN_M04002,MA04001,CN_M04003",
+      "HBJAHCGKJJD": "4-2",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10481,
+      "KHMIPNENNND": 50
+    },
+    {
+      "LGJCPENNFBC": 10290198,
+      "KBDPLOAHBJF": "F02601",
+      "EHJOGGHLGEN": "F02601",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 290
+    },
+    {
+      "LGJCPENNFBC": 10290199,
+      "KBDPLOAHBJF": "P02601",
+      "EHJOGGHLGEN": "P02601",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 202
+    },
+    {
+      "LGJCPENNFBC": 1088301,
+      "KBDPLOAHBJF": "M08007,M08008,M08009,M08010",
+      "EHJOGGHLGEN": "CN_M08007,CN_M08008,CN_M08009,CN_M08010",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10883,
+      "KHMIPNENNND": 113
+    },
+    {
+      "LGJCPENNFBC": 3141021,
+      "KBDPLOAHBJF": "M10047",
+      "EHJOGGHLGEN": "CN_M10047",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31410,
+      "KHMIPNENNND": 579
+    },
+    {
+      "LGJCPENNFBC": 10500497,
+      "KBDPLOAHBJF": "T04404",
+      "EHJOGGHLGEN": "T04404",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 497
+    },
+    {
+      "LGJCPENNFBC": 1020711,
+      "KBDPLOAHBJF": "M02011",
+      "EHJOGGHLGEN": "CN_M02011",
+      "HBJAHCGKJJD": "狭路II-01",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10207,
+      "KHMIPNENNND": 27
+    },
+    {
+      "LGJCPENNFBC": 3098101,
+      "KBDPLOAHBJF": "A03010,A03011,A03012",
+      "EHJOGGHLGEN": "CN_A03010,CN_A03011,CN_A03012",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 433
+    },
+    {
+      "LGJCPENNFBC": 3098301,
+      "KBDPLOAHBJF": "A03033",
+      "EHJOGGHLGEN": "CN_A03033",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 448
+    },
+    {
+      "LGJCPENNFBC": 10410699,
+      "KBDPLOAHBJF": "P03808",
+      "EHJOGGHLGEN": "P03808",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 395
+    },
+    {
+      "LGJCPENNFBC": 10450597,
+      "KBDPLOAHBJF": "T03405",
+      "EHJOGGHLGEN": "T03405",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 645
+    },
+    {
+      "LGJCPENNFBC": 3110311,
+      "KBDPLOAHBJF": "A07002",
+      "EHJOGGHLGEN": "A07002",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 485
+    },
+    {
+      "LGJCPENNFBC": 3140711,
+      "KBDPLOAHBJF": "M10035,M10036,M10037",
+      "EHJOGGHLGEN": "CN_M10035,CN_M10036,CN_M10037",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31407,
+      "KHMIPNENNND": 572
+    },
+    {
+      "LGJCPENNFBC": 10210699,
+      "KBDPLOAHBJF": "P00506",
+      "EHJOGGHLGEN": "P00506",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 160
+    },
+    {
+      "LGJCPENNFBC": 10220699,
+      "KBDPLOAHBJF": "P01210",
+      "EHJOGGHLGEN": "P01210",
+      "KHMIPNENNND": 166
+    },
+    {
+      "LGJCPENNFBC": 1060721,
+      "KBDPLOAHBJF": "M06011",
+      "EHJOGGHLGEN": "CN_M06011",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10607,
+      "KHMIPNENNND": 92
+    },
+    {
+      "LGJCPENNFBC": 3140421,
+      "KBDPLOAHBJF": "M10014,M10015",
+      "EHJOGGHLGEN": "CN_M10014,CN_M10015",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31404,
+      "KHMIPNENNND": 564
+    },
+    {
+      "LGJCPENNFBC": 1028501,
+      "KBDPLOAHBJF": "MA02003",
+      "EHJOGGHLGEN": "MA02003",
+      "HBJAHCGKJJD": "落幕",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10285,
+      "KHMIPNENNND": 34
+    },
+    {
+      "LGJCPENNFBC": 1048301,
+      "KBDPLOAHBJF": "M04012",
+      "EHJOGGHLGEN": "CN_M04012",
+      "HBJAHCGKJJD": "4-9",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10483,
+      "KHMIPNENNND": 57
+    },
+    {
+      "LGJCPENNFBC": 3110721,
+      "KBDPLOAHBJF": "A07007",
+      "EHJOGGHLGEN": "A07007",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 490
+    },
+    {
+      "LGJCPENNFBC": 10130598,
+      "KBDPLOAHBJF": "F00705",
+      "EHJOGGHLGEN": "F00705",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 316
+    },
+    {
+      "LGJCPENNFBC": 10130599,
+      "KBDPLOAHBJF": "P00705",
+      "EHJOGGHLGEN": "P00705",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 321
+    },
+    {
+      "LGJCPENNFBC": 1020111,
+      "KBDPLOAHBJF": "M02001",
+      "EHJOGGHLGEN": "CN_M02001",
+      "HBJAHCGKJJD": "猜测-01",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10201,
+      "KHMIPNENNND": 19
+    },
+    {
+      "LGJCPENNFBC": 10350298,
+      "KBDPLOAHBJF": "F02902",
+      "EHJOGGHLGEN": "F02902",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 335
+    },
+    {
+      "LGJCPENNFBC": 10350299,
+      "KBDPLOAHBJF": "P02902",
+      "EHJOGGHLGEN": "P02902",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 340
+    },
+    {
+      "LGJCPENNFBC": 10400397,
+      "KBDPLOAHBJF": "T03003",
+      "EHJOGGHLGEN": "T03003",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 451
+    },
+    {
+      "LGJCPENNFBC": 1010298,
+      "KBDPLOAHBJF": "F00802",
+      "EHJOGGHLGEN": "F00802",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 301
+    },
+    {
+      "LGJCPENNFBC": 1010299,
+      "KBDPLOAHBJF": "P00802",
+      "EHJOGGHLGEN": "P00802",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 215
+    },
+    {
+      "LGJCPENNFBC": 1048521,
+      "KBDPLOAHBJF": "M04022,MA04010",
+      "EHJOGGHLGEN": "CN_M04022,MA04010",
+      "HBJAHCGKJJD": "4-16",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10485,
+      "KHMIPNENNND": 65
+    },
+    {
+      "LGJCPENNFBC": 10440297,
+      "KBDPLOAHBJF": "T02402",
+      "EHJOGGHLGEN": "T02402",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 614
+    },
+    {
+      "LGJCPENNFBC": 1000121,
+      "KBDPLOAHBJF": "MA00004,MA00005",
+      "EHJOGGHLGEN": "MA00004,MA00005",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10001,
+      "KHMIPNENNND": 4
+    },
+    {
+      "LGJCPENNFBC": 10400197,
+      "KBDPLOAHBJF": "T03001",
+      "EHJOGGHLGEN": "T03001",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 449
+    },
+    {
+      "LGJCPENNFBC": 10010198,
+      "KBDPLOAHBJF": "F00201",
+      "EHJOGGHLGEN": "F00201",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 235
+    },
+    {
+      "LGJCPENNFBC": 10010199,
+      "KBDPLOAHBJF": "P00201",
+      "EHJOGGHLGEN": "P00201",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 120
+    },
+    {
+      "LGJCPENNFBC": 3050711,
+      "KBDPLOAHBJF": "A06009",
+      "EHJOGGHLGEN": "A06009",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 331
+    },
+    {
+      "LGJCPENNFBC": 3090121,
+      "KBDPLOAHBJF": "A03002,A03003",
+      "EHJOGGHLGEN": "CN_A03002,CN_A03003",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 430
+    },
+    {
+      "LGJCPENNFBC": 3090921,
+      "KBDPLOAHBJF": "A03030,A03031",
+      "EHJOGGHLGEN": "CN_A03030,CN_A03031",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 445
+    },
+    {
+      "LGJCPENNFBC": 10250697,
+      "KBDPLOAHBJF": "T01606",
+      "EHJOGGHLGEN": "T01606",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 511
+    },
+    {
+      "LGJCPENNFBC": 10250699,
+      "KBDPLOAHBJF": "P01606",
+      "EHJOGGHLGEN": "P01606",
+      "KHMIPNENNND": 183
+    },
+    {
+      "LGJCPENNFBC": 10380398,
+      "KBDPLOAHBJF": "F01903",
+      "EHJOGGHLGEN": "F01903",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 409
+    },
+    {
+      "LGJCPENNFBC": 10380399,
+      "KBDPLOAHBJF": "P01903",
+      "EHJOGGHLGEN": "P01903",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 414
+    },
+    {
+      "LGJCPENNFBC": 10450297,
+      "KBDPLOAHBJF": "T03402",
+      "EHJOGGHLGEN": "T03402",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 642
+    },
+    {
+      "LGJCPENNFBC": 1048511,
+      "KBDPLOAHBJF": "M04021",
+      "EHJOGGHLGEN": "CN_M04021",
+      "HBJAHCGKJJD": "4-16",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10485,
+      "KHMIPNENNND": 64
+    },
+    {
+      "LGJCPENNFBC": 3080711,
+      "KBDPLOAHBJF": "A02019",
+      "EHJOGGHLGEN": "A02019",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 369
+    },
+    {
+      "LGJCPENNFBC": 3130121,
+      "KBDPLOAHBJF": "M09002",
+      "EHJOGGHLGEN": "CN_M09002",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31301,
+      "KHMIPNENNND": 526
+    },
+    {
+      "LGJCPENNFBC": 3140111,
+      "KBDPLOAHBJF": "M10001",
+      "EHJOGGHLGEN": "CN_M10001",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31401,
+      "KHMIPNENNND": 558
+    },
+    {
+      "LGJCPENNFBC": 3150921,
+      "KBDPLOAHBJF": "A09017",
+      "EHJOGGHLGEN": "A09017",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 612
+    },
+    {
+      "LGJCPENNFBC": 1038201,
+      "KBDPLOAHBJF": "M03003",
+      "EHJOGGHLGEN": "CN_M03003",
+      "HBJAHCGKJJD": "3-2",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10382,
+      "KHMIPNENNND": 36
+    },
+    {
+      "LGJCPENNFBC": 1048601,
+      "KBDPLOAHBJF": "M04023,MA04011,M04024",
+      "EHJOGGHLGEN": "CN_M04023,MA04011,CN_M04024",
+      "HBJAHCGKJJD": "4-17",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10486,
+      "KHMIPNENNND": 66
+    },
+    {
+      "LGJCPENNFBC": 10390297,
+      "KBDPLOAHBJF": "T00902",
+      "EHJOGGHLGEN": "T00902",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 620
+    },
+    {
+      "LGJCPENNFBC": 10390298,
+      "KBDPLOAHBJF": "F00902",
+      "EHJOGGHLGEN": "F00902",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 456
+    },
+    {
+      "LGJCPENNFBC": 10390299,
+      "KBDPLOAHBJF": "P00902,P00903",
+      "EHJOGGHLGEN": "P00902,P00903",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 461
+    },
+    {
+      "LGJCPENNFBC": 10340198,
+      "KBDPLOAHBJF": "F01301",
+      "EHJOGGHLGEN": "F01301",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 349
+    },
+    {
+      "LGJCPENNFBC": 10340199,
+      "KBDPLOAHBJF": "P01301",
+      "EHJOGGHLGEN": "P01301",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 354
+    },
+    {
+      "LGJCPENNFBC": 1060611,
+      "KBDPLOAHBJF": "M06008",
+      "EHJOGGHLGEN": "CN_M06008",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10606,
+      "KHMIPNENNND": 89
+    },
+    {
+      "LGJCPENNFBC": 3030411,
+      "KBDPLOAHBJF": "A01005,A01006",
+      "EHJOGGHLGEN": "A01005,A01006",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 225
+    },
+    {
+      "LGJCPENNFBC": 3070921,
+      "KBDPLOAHBJF": "A04005",
+      "EHJOGGHLGEN": "A04005",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 348
+    },
+    {
+      "LGJCPENNFBC": 3140521,
+      "KBDPLOAHBJF": "M10029",
+      "EHJOGGHLGEN": "CN_M10029",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31405,
+      "KHMIPNENNND": 567
+    },
+    {
+      "LGJCPENNFBC": 10130398,
+      "KBDPLOAHBJF": "F00703",
+      "EHJOGGHLGEN": "F00703",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 314
+    },
+    {
+      "LGJCPENNFBC": 10130399,
+      "KBDPLOAHBJF": "P00703",
+      "EHJOGGHLGEN": "P00703",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 319
+    },
+    {
+      "LGJCPENNFBC": 1010198,
+      "KBDPLOAHBJF": "F00801",
+      "EHJOGGHLGEN": "F00801",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 300
+    },
+    {
+      "LGJCPENNFBC": 1010199,
+      "KBDPLOAHBJF": "P00801",
+      "EHJOGGHLGEN": "P00801",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 214
+    },
+    {
+      "LGJCPENNFBC": 1031021,
+      "KBDPLOAHBJF": "M03014",
+      "EHJOGGHLGEN": "CN_M03014",
+      "HBJAHCGKJJD": "3-14",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10310,
+      "KHMIPNENNND": 48
+    },
+    {
+      "LGJCPENNFBC": 1051011,
+      "KBDPLOAHBJF": "M05016",
+      "EHJOGGHLGEN": "CN_M05016",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10510,
+      "KHMIPNENNND": 80
+    },
+    {
+      "LGJCPENNFBC": 1010111,
+      "KBDPLOAHBJF": "M01001,MA01001,M01002,M01003,MA01003,M01004",
+      "EHJOGGHLGEN": "CN_M01001,MA01001,CN_M01002,CN_M01003,MA01003,CN_M01004",
+      "HBJAHCGKJJD": "策定-01",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10101,
+      "KHMIPNENNND": 5
+    },
+    {
+      "LGJCPENNFBC": 10210498,
+      "KBDPLOAHBJF": "F00504",
+      "EHJOGGHLGEN": "F00504",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 263
+    },
+    {
+      "LGJCPENNFBC": 10210499,
+      "KBDPLOAHBJF": "P00504",
+      "EHJOGGHLGEN": "P00504",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 158
+    },
+    {
+      "LGJCPENNFBC": 10340498,
+      "KBDPLOAHBJF": "F01304",
+      "EHJOGGHLGEN": "F01304",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 352
+    },
+    {
+      "LGJCPENNFBC": 10340499,
+      "KBDPLOAHBJF": "P01304",
+      "EHJOGGHLGEN": "P01304",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 357
+    },
+    {
+      "LGJCPENNFBC": 10390397,
+      "KBDPLOAHBJF": "T00903",
+      "EHJOGGHLGEN": "T00903",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 621
+    },
+    {
+      "LGJCPENNFBC": 10390398,
+      "KBDPLOAHBJF": "F00903",
+      "EHJOGGHLGEN": "F00903",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 457
+    },
+    {
+      "LGJCPENNFBC": 10390399,
+      "KBDPLOAHBJF": "P00904,P00905",
+      "EHJOGGHLGEN": "P00904,P00905",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 462
+    },
+    {
+      "LGJCPENNFBC": 10500697,
+      "KBDPLOAHBJF": "T04406",
+      "EHJOGGHLGEN": "T04406",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 499
+    },
+    {
+      "LGJCPENNFBC": 1028101,
+      "KBDPLOAHBJF": "M02003",
+      "EHJOGGHLGEN": "CN_M02003",
+      "HBJAHCGKJJD": "交叉点",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10281,
+      "KHMIPNENNND": 21
+    },
+    {
+      "LGJCPENNFBC": 1050711,
+      "KBDPLOAHBJF": "M05012",
+      "EHJOGGHLGEN": "CN_M05012",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10507,
+      "KHMIPNENNND": 76
+    },
+    {
+      "LGJCPENNFBC": 3120821,
+      "KBDPLOAHBJF": "A08023",
+      "EHJOGGHLGEN": "A08023",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 522
+    },
+    {
+      "LGJCPENNFBC": 3130521,
+      "KBDPLOAHBJF": "M09010",
+      "EHJOGGHLGEN": "CN_M09010",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31305,
+      "KHMIPNENNND": 533
+    },
+    {
+      "LGJCPENNFBC": 10220598,
+      "KBDPLOAHBJF": "F01205",
+      "EHJOGGHLGEN": "F01205",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 269
+    },
+    {
+      "LGJCPENNFBC": 10220599,
+      "KBDPLOAHBJF": "P01208,P01209",
+      "EHJOGGHLGEN": "P01208,P01209",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 165
+    },
+    {
+      "LGJCPENNFBC": 1020931,
+      "KBDPLOAHBJF": "M02015",
+      "EHJOGGHLGEN": "CN_M02015",
+      "HBJAHCGKJJD": "信号-02",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10209,
+      "KHMIPNENNND": 31
+    },
+    {
+      "LGJCPENNFBC": 3091011,
+      "KBDPLOAHBJF": "A03032",
+      "EHJOGGHLGEN": "CN_A03032",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 446
+    },
+    {
+      "LGJCPENNFBC": 3150811,
+      "KBDPLOAHBJF": "A09015",
+      "EHJOGGHLGEN": "A09015",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 610
+    },
+    {
+      "LGJCPENNFBC": 3168501,
+      "KBDPLOAHBJF": "A10005",
+      "EHJOGGHLGEN": "A10005",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 634
+    },
+    {
+      "LGJCPENNFBC": 10270497,
+      "KBDPLOAHBJF": "T01804",
+      "EHJOGGHLGEN": "T01804",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 503
+    },
+    {
+      "LGJCPENNFBC": 10270498,
+      "KBDPLOAHBJF": "F01804",
+      "EHJOGGHLGEN": "F01804",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 288
+    },
+    {
+      "LGJCPENNFBC": 10270499,
+      "KBDPLOAHBJF": "P01805,P01806",
+      "EHJOGGHLGEN": "P01805,P01806",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 193
+    },
+    {
+      "LGJCPENNFBC": 10370198,
+      "KBDPLOAHBJF": "F02001",
+      "EHJOGGHLGEN": "F02001",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 374
+    },
+    {
+      "LGJCPENNFBC": 10370199,
+      "KBDPLOAHBJF": "P02001",
+      "EHJOGGHLGEN": "P02001",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 379
+    },
+    {
+      "LGJCPENNFBC": 10500297,
+      "KBDPLOAHBJF": "T04402",
+      "EHJOGGHLGEN": "T04402",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 495
+    },
+    {
+      "LGJCPENNFBC": 1010341,
+      "KBDPLOAHBJF": "MA01005,M01008,SA01001",
+      "EHJOGGHLGEN": "MA01005,CN_M01008,SA01001",
+      "HBJAHCGKJJD": "策定-04",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10103,
+      "KHMIPNENNND": 9
+    },
+    {
+      "LGJCPENNFBC": 3108201,
+      "KBDPLOAHBJF": "A05005",
+      "EHJOGGHLGEN": "CN_A05005",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 469
+    },
+    {
+      "LGJCPENNFBC": 1040411,
+      "KBDPLOAHBJF": "M04005",
+      "EHJOGGHLGEN": "CN_M04005",
+      "HBJAHCGKJJD": "4-4",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10404,
+      "KHMIPNENNND": 52
+    },
+    {
+      "LGJCPENNFBC": 3148201,
+      "KBDPLOAHBJF": "M10016,M10017,M10018,M10019,M10020,M10021,M10022,M10023,M10024,M10025",
+      "EHJOGGHLGEN": "CN_M10016,CN_M10017,CN_M10018,CN_M10019,CN_M10020,CN_M10021,CN_M10022,CN_M10023,CN_M10024,CN_M10025",
+      "BKCIGACKEFD": 1,
+      "PKCFEDDNIIO": 31482,
+      "KHMIPNENNND": 565
+    },
+    {
+      "LGJCPENNFBC": 10410398,
+      "KBDPLOAHBJF": "F03803",
+      "EHJOGGHLGEN": "F03803",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 387
+    },
+    {
+      "LGJCPENNFBC": 10410399,
+      "KBDPLOAHBJF": "P03803",
+      "EHJOGGHLGEN": "P03803",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 392
+    },
+    {
+      "LGJCPENNFBC": 1051031,
+      "KBDPLOAHBJF": "MA05002",
+      "EHJOGGHLGEN": "MA05002",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10510,
+      "KHMIPNENNND": 81
+    },
+    {
+      "LGJCPENNFBC": 3090211,
+      "KBDPLOAHBJF": "A03004,A03005,A03006,A03007",
+      "EHJOGGHLGEN": "CN_A03004,CN_A03005,CN_A03006,CN_A03007",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 431
+    },
+    {
+      "LGJCPENNFBC": 10240598,
+      "KBDPLOAHBJF": "F01705",
+      "EHJOGGHLGEN": "F01705",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 274
+    },
+    {
+      "LGJCPENNFBC": 10240599,
+      "KBDPLOAHBJF": "P01705",
+      "EHJOGGHLGEN": "P01705",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 176
+    },
+    {
+      "LGJCPENNFBC": 3050511,
+      "KBDPLOAHBJF": "A06005",
+      "EHJOGGHLGEN": "A06005",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 327
+    },
+    {
+      "LGJCPENNFBC": 10150697,
+      "KBDPLOAHBJF": "T00606",
+      "EHJOGGHLGEN": "T00606",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 557
+    },
+    {
+      "LGJCPENNFBC": 10150699,
+      "KBDPLOAHBJF": "P00606",
+      "EHJOGGHLGEN": "P00606",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 149
+    },
+    {
+      "LGJCPENNFBC": 10320397,
+      "KBDPLOAHBJF": "T02103",
+      "EHJOGGHLGEN": "T02103",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 591
+    },
+    {
+      "LGJCPENNFBC": 10320398,
+      "KBDPLOAHBJF": "F02103",
+      "EHJOGGHLGEN": "F02103",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 297
+    },
+    {
+      "LGJCPENNFBC": 10320399,
+      "KBDPLOAHBJF": "P02103",
+      "EHJOGGHLGEN": "P02103",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 210
+    },
+    {
+      "LGJCPENNFBC": 1030511,
+      "KBDPLOAHBJF": "M03007",
+      "EHJOGGHLGEN": "CN_M03007",
+      "HBJAHCGKJJD": "3-6",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10305,
+      "KHMIPNENNND": 40
+    },
+    {
+      "LGJCPENNFBC": 1030731,
+      "KBDPLOAHBJF": "M03011",
+      "EHJOGGHLGEN": "CN_M03011",
+      "HBJAHCGKJJD": "3-10",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10307,
+      "KHMIPNENNND": 44
+    },
+    {
+      "LGJCPENNFBC": 10230398,
+      "KBDPLOAHBJF": "F01403",
+      "EHJOGGHLGEN": "F01403",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 475
+    },
+    {
+      "LGJCPENNFBC": 10230399,
+      "KBDPLOAHBJF": "P01403",
+      "EHJOGGHLGEN": "P01403",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 480
+    },
+    {
+      "LGJCPENNFBC": 10400497,
+      "KBDPLOAHBJF": "T03004",
+      "EHJOGGHLGEN": "T03004",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 452
+    },
+    {
+      "LGJCPENNFBC": 1010311,
+      "KBDPLOAHBJF": "M01006,M01007",
+      "EHJOGGHLGEN": "CN_M01006,CN_M01007",
+      "HBJAHCGKJJD": "策定-03",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10103,
+      "KHMIPNENNND": 7
+    },
+    {
+      "LGJCPENNFBC": 3130621,
+      "KBDPLOAHBJF": "M09014",
+      "EHJOGGHLGEN": "CN_M09014",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31306,
+      "KHMIPNENNND": 536
+    },
+    {
+      "LGJCPENNFBC": 3140911,
+      "KBDPLOAHBJF": "MA10001",
+      "EHJOGGHLGEN": "MA10001",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31409,
+      "KHMIPNENNND": 576
+    },
+    {
+      "LGJCPENNFBC": 10350598,
+      "KBDPLOAHBJF": "F02905",
+      "EHJOGGHLGEN": "F02905",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 338
+    },
+    {
+      "LGJCPENNFBC": 10350599,
+      "KBDPLOAHBJF": "P02906",
+      "EHJOGGHLGEN": "P02906",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 343
+    },
+    {
+      "LGJCPENNFBC": 3038201,
+      "KBDPLOAHBJF": "A01012,A01013,A01014,A01015",
+      "EHJOGGHLGEN": "A01012,A01013,A01014,A01015",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 230
+    },
+    {
+      "LGJCPENNFBC": 3078801,
+      "KBDPLOAHBJF": "A04004",
+      "EHJOGGHLGEN": "A04004",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 347
+    },
+    {
+      "LGJCPENNFBC": 1058401,
+      "KBDPLOAHBJF": "M05015",
+      "EHJOGGHLGEN": "CN_M05015",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10584,
+      "KHMIPNENNND": 79
+    },
+    {
+      "LGJCPENNFBC": 10000198,
+      "KBDPLOAHBJF": "SA01002",
+      "EHJOGGHLGEN": "SA01002",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 119
+    },
+    {
+      "LGJCPENNFBC": 1000111,
+      "KBDPLOAHBJF": "MA00001",
+      "EHJOGGHLGEN": "MA00001",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10001,
+      "KHMIPNENNND": 1
+    },
+    {
+      "LGJCPENNFBC": 1031011,
+      "KBDPLOAHBJF": "MA03004",
+      "EHJOGGHLGEN": "MA03004",
+      "HBJAHCGKJJD": "3-13",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10310,
+      "KHMIPNENNND": 47
+    },
+    {
+      "LGJCPENNFBC": 1050821,
+      "KBDPLOAHBJF": "M05014",
+      "EHJOGGHLGEN": "CN_M05014",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10508,
+      "KHMIPNENNND": 78
+    },
+    {
+      "LGJCPENNFBC": 3130921,
+      "KBDPLOAHBJF": "M09023",
+      "EHJOGGHLGEN": "CN_M09023",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31309,
+      "KHMIPNENNND": 542
+    },
+    {
+      "LGJCPENNFBC": 10130498,
+      "KBDPLOAHBJF": "F00704",
+      "EHJOGGHLGEN": "F00704",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 315
+    },
+    {
+      "LGJCPENNFBC": 10130499,
+      "KBDPLOAHBJF": "P00704",
+      "EHJOGGHLGEN": "P00704",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 320
+    },
+    {
+      "LGJCPENNFBC": 1088501,
+      "KBDPLOAHBJF": "M08016,M08017,M08018,M08019",
+      "EHJOGGHLGEN": "CN_M08016,CN_M08017,CN_M08018,CN_M08019",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10885,
+      "KHMIPNENNND": 117
+    },
+    {
+      "LGJCPENNFBC": 3120111,
+      "KBDPLOAHBJF": "A08005,A08006",
+      "EHJOGGHLGEN": "A08005,A08006",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 513
+    },
+    {
+      "LGJCPENNFBC": 3158201,
+      "KBDPLOAHBJF": "A09014",
+      "EHJOGGHLGEN": "A09014",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 609
+    },
+    {
+      "LGJCPENNFBC": 10220298,
+      "KBDPLOAHBJF": "F01202",
+      "EHJOGGHLGEN": "F01202",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 266
+    },
+    {
+      "LGJCPENNFBC": 10220299,
+      "KBDPLOAHBJF": "P01203,P01204",
+      "EHJOGGHLGEN": "P01203,P01204",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 162
+    },
+    {
+      "LGJCPENNFBC": 10510497,
+      "KBDPLOAHBJF": "T02504",
+      "EHJOGGHLGEN": "T02504",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 586
+    },
+    {
+      "LGJCPENNFBC": 1040911,
+      "KBDPLOAHBJF": "M04018,MA04005,M04019,MA04006",
+      "EHJOGGHLGEN": "CN_M04018,MA04005,CN_M04019,MA04006",
+      "HBJAHCGKJJD": "4-13",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10409,
+      "KHMIPNENNND": 61
+    },
+    {
+      "LGJCPENNFBC": 3030711,
+      "KBDPLOAHBJF": "A01016",
+      "EHJOGGHLGEN": "A01016",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 231
+    },
+    {
+      "LGJCPENNFBC": 3120121,
+      "KBDPLOAHBJF": "A08007,A08008",
+      "EHJOGGHLGEN": "A08007,A08008",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 514
+    },
+    {
+      "LGJCPENNFBC": 3130511,
+      "KBDPLOAHBJF": "M09009",
+      "EHJOGGHLGEN": "CN_M09009",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31305,
+      "KHMIPNENNND": 532
+    },
+    {
+      "LGJCPENNFBC": 3150121,
+      "KBDPLOAHBJF": "A09001",
+      "EHJOGGHLGEN": "A09001",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 596
+    },
+    {
+      "LGJCPENNFBC": 3120711,
+      "KBDPLOAHBJF": "A08018,A08019",
+      "EHJOGGHLGEN": "A08018,A08019",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 519
+    },
+    {
+      "LGJCPENNFBC": 3138301,
+      "KBDPLOAHBJF": "M09017,M09018,M09019",
+      "EHJOGGHLGEN": "CN_M09017,CN_M09018,CN_M09019",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31383,
+      "KHMIPNENNND": 539
+    },
+    {
+      "LGJCPENNFBC": 10510197,
+      "KBDPLOAHBJF": "T02501",
+      "EHJOGGHLGEN": "T02501",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 583
+    },
+    {
+      "LGJCPENNFBC": 3120721,
+      "KBDPLOAHBJF": "A08020",
+      "EHJOGGHLGEN": "A08020",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 520
+    },
+    {
+      "LGJCPENNFBC": 3128201,
+      "KBDPLOAHBJF": "A08009,A08010,A08011,A08012,A08013",
+      "EHJOGGHLGEN": "A08009,A08010,A08011,A08012,A08013",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 515
+    },
+    {
+      "LGJCPENNFBC": 1040211,
+      "KBDPLOAHBJF": "M04004",
+      "EHJOGGHLGEN": "CN_M04004",
+      "HBJAHCGKJJD": "4-3",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10402,
+      "KHMIPNENNND": 51
+    },
+    {
+      "LGJCPENNFBC": 3090521,
+      "KBDPLOAHBJF": "A03019",
+      "EHJOGGHLGEN": "CN_A03019",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 439
+    },
+    {
+      "LGJCPENNFBC": 3131011,
+      "KBDPLOAHBJF": "M09024,M09025",
+      "EHJOGGHLGEN": "CN_M09024,CN_M09025",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31310,
+      "KHMIPNENNND": 543
+    },
+    {
+      "LGJCPENNFBC": 3150711,
+      "KBDPLOAHBJF": "A09012",
+      "EHJOGGHLGEN": "A09012",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 607
+    },
+    {
+      "LGJCPENNFBC": 3080821,
+      "KBDPLOAHBJF": "A02021",
+      "EHJOGGHLGEN": "A02021",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 371
+    },
+    {
+      "LGJCPENNFBC": 3160511,
+      "KBDPLOAHBJF": "A10008",
+      "EHJOGGHLGEN": "A10008",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 629
+    },
+    {
+      "LGJCPENNFBC": 10270597,
+      "KBDPLOAHBJF": "T01805",
+      "EHJOGGHLGEN": "T01805",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 504
+    },
+    {
+      "LGJCPENNFBC": 10270598,
+      "KBDPLOAHBJF": "F01805",
+      "EHJOGGHLGEN": "F01805",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 289
+    },
+    {
+      "LGJCPENNFBC": 10270599,
+      "KBDPLOAHBJF": "P01807",
+      "EHJOGGHLGEN": "P01807",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 194
+    },
+    {
+      "LGJCPENNFBC": 10260598,
+      "KBDPLOAHBJF": "F01505",
+      "EHJOGGHLGEN": "F01505",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 284
+    },
+    {
+      "LGJCPENNFBC": 10260599,
+      "KBDPLOAHBJF": "P01508,P01509",
+      "EHJOGGHLGEN": "P01508,P01509",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 188
+    },
+    {
+      "LGJCPENNFBC": 10330498,
+      "KBDPLOAHBJF": "F03104",
+      "EHJOGGHLGEN": "F03104",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 399
+    },
+    {
+      "LGJCPENNFBC": 10330499,
+      "KBDPLOAHBJF": "P03106",
+      "EHJOGGHLGEN": "P03106",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 404
+    },
+    {
+      "LGJCPENNFBC": 10380699,
+      "KBDPLOAHBJF": "P01906",
+      "EHJOGGHLGEN": "P01906",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 417
+    },
+    {
+      "LGJCPENNFBC": 1010211,
+      "KBDPLOAHBJF": "M01005",
+      "EHJOGGHLGEN": "CN_M01005",
+      "HBJAHCGKJJD": "策定-02",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10102,
+      "KHMIPNENNND": 6
+    },
+    {
+      "LGJCPENNFBC": 1050111,
+      "KBDPLOAHBJF": "M05003",
+      "EHJOGGHLGEN": "CN_M05003",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10501,
+      "KHMIPNENNND": 68
+    },
+    {
+      "LGJCPENNFBC": 3030111,
+      "KBDPLOAHBJF": "AA01001,A01001,A01002",
+      "EHJOGGHLGEN": "AA01001,A01001,A01002",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 222
+    },
+    {
+      "LGJCPENNFBC": 3160811,
+      "KBDPLOAHBJF": "A10009",
+      "EHJOGGHLGEN": "A10009",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 632
+    },
+    {
+      "LGJCPENNFBC": 10250297,
+      "KBDPLOAHBJF": "T01602",
+      "EHJOGGHLGEN": "T01602",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 507
+    },
+    {
+      "LGJCPENNFBC": 10250298,
+      "KBDPLOAHBJF": "F01602",
+      "EHJOGGHLGEN": "F01602",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 276
+    },
+    {
+      "LGJCPENNFBC": 10250299,
+      "KBDPLOAHBJF": "P01602",
+      "EHJOGGHLGEN": "P01602",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 179
+    },
+    {
+      "LGJCPENNFBC": 10500397,
+      "KBDPLOAHBJF": "T04403",
+      "EHJOGGHLGEN": "T04403",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 496
+    },
+    {
+      "LGJCPENNFBC": 3110611,
+      "KBDPLOAHBJF": "A07004",
+      "EHJOGGHLGEN": "A07004",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 487
+    },
+    {
+      "LGJCPENNFBC": 10390197,
+      "KBDPLOAHBJF": "T00901",
+      "EHJOGGHLGEN": "T00901",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 619
+    },
+    {
+      "LGJCPENNFBC": 10390198,
+      "KBDPLOAHBJF": "F00901",
+      "EHJOGGHLGEN": "F00901",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 455
+    },
+    {
+      "LGJCPENNFBC": 10390199,
+      "KBDPLOAHBJF": "P00901",
+      "EHJOGGHLGEN": "P00901",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 460
+    },
+    {
+      "LGJCPENNFBC": 3080121,
+      "KBDPLOAHBJF": "A02002",
+      "EHJOGGHLGEN": "A02002",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 361
+    },
+    {
+      "LGJCPENNFBC": 3140621,
+      "KBDPLOAHBJF": "M10032",
+      "EHJOGGHLGEN": "CN_M10032",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31406,
+      "KHMIPNENNND": 570
+    },
+    {
+      "LGJCPENNFBC": 3141011,
+      "KBDPLOAHBJF": "M10046",
+      "EHJOGGHLGEN": "CN_M10046",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31410,
+      "KHMIPNENNND": 578
+    },
+    {
+      "LGJCPENNFBC": 10360298,
+      "KBDPLOAHBJF": "F02802",
+      "EHJOGGHLGEN": "F02802",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 419
+    },
+    {
+      "LGJCPENNFBC": 10360299,
+      "KBDPLOAHBJF": "P02802",
+      "EHJOGGHLGEN": "P02802",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 424
+    },
+    {
+      "LGJCPENNFBC": 3150521,
+      "KBDPLOAHBJF": "A09009",
+      "EHJOGGHLGEN": "A09009",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 604
+    },
+    {
+      "LGJCPENNFBC": 1050421,
+      "KBDPLOAHBJF": "M05006",
+      "EHJOGGHLGEN": "CN_M05006",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10504,
+      "KHMIPNENNND": 71
+    },
+    {
+      "LGJCPENNFBC": 3050911,
+      "KBDPLOAHBJF": "A06010",
+      "EHJOGGHLGEN": "A06010",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 332
+    },
+    {
+      "LGJCPENNFBC": 3058601,
+      "KBDPLOAHBJF": "A06008",
+      "EHJOGGHLGEN": "A06008",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 330
+    },
+    {
+      "LGJCPENNFBC": 3080211,
+      "KBDPLOAHBJF": "A02003,A02004",
+      "EHJOGGHLGEN": "A02003,A02004",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 362
+    },
+    {
+      "LGJCPENNFBC": 3100721,
+      "KBDPLOAHBJF": "A05006",
+      "EHJOGGHLGEN": "CN_A05006",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 470
+    },
+    {
+      "LGJCPENNFBC": 1038501,
+      "KBDPLOAHBJF": "M03013,MA03003",
+      "EHJOGGHLGEN": "CN_M03013,MA03003",
+      "HBJAHCGKJJD": "3-12",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10385,
+      "KHMIPNENNND": 46
+    },
+    {
+      "LGJCPENNFBC": 3080911,
+      "KBDPLOAHBJF": "A02022",
+      "EHJOGGHLGEN": "A02022",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 372
+    },
+    {
+      "LGJCPENNFBC": 3090811,
+      "KBDPLOAHBJF": "A03028",
+      "EHJOGGHLGEN": "CN_A03028",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 443
+    },
+    {
+      "LGJCPENNFBC": 10340398,
+      "KBDPLOAHBJF": "F01303",
+      "EHJOGGHLGEN": "F01303",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 351
+    },
+    {
+      "LGJCPENNFBC": 10340399,
+      "KBDPLOAHBJF": "P01303",
+      "EHJOGGHLGEN": "P01303",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 356
+    },
+    {
+      "LGJCPENNFBC": 10290398,
+      "KBDPLOAHBJF": "F02603",
+      "EHJOGGHLGEN": "F02603",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 292
+    },
+    {
+      "LGJCPENNFBC": 10290399,
+      "KBDPLOAHBJF": "P02603,P02604",
+      "EHJOGGHLGEN": "P02603,P02604",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 204
+    },
+    {
+      "LGJCPENNFBC": 10330398,
+      "KBDPLOAHBJF": "F03103",
+      "EHJOGGHLGEN": "F03103",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 398
+    },
+    {
+      "LGJCPENNFBC": 10330399,
+      "KBDPLOAHBJF": "P03105",
+      "EHJOGGHLGEN": "P03105",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 403
+    },
+    {
+      "LGJCPENNFBC": 10330699,
+      "KBDPLOAHBJF": "P03108",
+      "EHJOGGHLGEN": "P03108",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 406
+    },
+    {
+      "LGJCPENNFBC": 1068201,
+      "KBDPLOAHBJF": "M06007",
+      "EHJOGGHLGEN": "CN_M06007",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10682,
+      "KHMIPNENNND": 88
+    },
+    {
+      "LGJCPENNFBC": 1078301,
+      "KBDPLOAHBJF": "M07011",
+      "EHJOGGHLGEN": "CN_M07011",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10783,
+      "KHMIPNENNND": 104
+    },
+    {
+      "LGJCPENNFBC": 3090511,
+      "KBDPLOAHBJF": "A03018",
+      "EHJOGGHLGEN": "CN_A03018",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 438
+    },
+    {
+      "LGJCPENNFBC": 3120621,
+      "KBDPLOAHBJF": "A08017",
+      "EHJOGGHLGEN": "A08017",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 518
+    },
+    {
+      "LGJCPENNFBC": 3150221,
+      "KBDPLOAHBJF": "A09003",
+      "EHJOGGHLGEN": "A09003",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 598
+    },
+    {
+      "LGJCPENNFBC": 1060431,
+      "KBDPLOAHBJF": "M06006",
+      "EHJOGGHLGEN": "CN_M06006",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10604,
+      "KHMIPNENNND": 87
+    },
+    {
+      "LGJCPENNFBC": 3110821,
+      "KBDPLOAHBJF": "A07008",
+      "EHJOGGHLGEN": "A07008",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 491
+    },
+    {
+      "LGJCPENNFBC": 10010498,
+      "KBDPLOAHBJF": "F00204",
+      "EHJOGGHLGEN": "F00204",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 238
+    },
+    {
+      "LGJCPENNFBC": 10010499,
+      "KBDPLOAHBJF": "P00204",
+      "EHJOGGHLGEN": "P00204",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 123
+    },
+    {
+      "LGJCPENNFBC": 10340699,
+      "KBDPLOAHBJF": "P01306",
+      "EHJOGGHLGEN": "P01306",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 359
+    },
+    {
+      "LGJCPENNFBC": 1040821,
+      "KBDPLOAHBJF": "M04014",
+      "EHJOGGHLGEN": "CN_M04014",
+      "HBJAHCGKJJD": "4-11",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10408,
+      "KHMIPNENNND": 59
+    },
+    {
+      "LGJCPENNFBC": 1058301,
+      "KBDPLOAHBJF": "M05010",
+      "EHJOGGHLGEN": "CN_M05010",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10583,
+      "KHMIPNENNND": 74
+    },
+    {
+      "LGJCPENNFBC": 3030611,
+      "KBDPLOAHBJF": "A01010",
+      "EHJOGGHLGEN": "A01010",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 228
+    },
+    {
+      "LGJCPENNFBC": 3090111,
+      "KBDPLOAHBJF": "A03001",
+      "EHJOGGHLGEN": "CN_A03001",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 429
+    },
+    {
+      "LGJCPENNFBC": 3130221,
+      "KBDPLOAHBJF": "M09004",
+      "EHJOGGHLGEN": "CN_M09004",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31302,
+      "KHMIPNENNND": 528
+    },
+    {
+      "LGJCPENNFBC": 1010798,
+      "KBDPLOAHBJF": "F00807",
+      "EHJOGGHLGEN": "F00807",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 306
+    },
+    {
+      "LGJCPENNFBC": 1010799,
+      "KBDPLOAHBJF": "P00807",
+      "EHJOGGHLGEN": "P00807",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 220
+    },
+    {
+      "LGJCPENNFBC": 1058201,
+      "KBDPLOAHBJF": "M05007,MA05001,M05008",
+      "EHJOGGHLGEN": "CN_M05007,MA05001,CN_M05008",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10582,
+      "KHMIPNENNND": 72
+    },
+    {
+      "LGJCPENNFBC": 10130699,
+      "KBDPLOAHBJF": "P00706",
+      "EHJOGGHLGEN": "P00706",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 322
+    },
+    {
+      "LGJCPENNFBC": 10280398,
+      "KBDPLOAHBJF": "F02303",
+      "EHJOGGHLGEN": "F02303",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 309
+    },
+    {
+      "LGJCPENNFBC": 10280399,
+      "KBDPLOAHBJF": "P02304",
+      "EHJOGGHLGEN": "P02304",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 198
+    },
+    {
+      "LGJCPENNFBC": 10280598,
+      "KBDPLOAHBJF": "F02305",
+      "EHJOGGHLGEN": "F02305",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 311
+    },
+    {
+      "LGJCPENNFBC": 10280599,
+      "KBDPLOAHBJF": "P02308",
+      "EHJOGGHLGEN": "P02308",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 200
+    },
+    {
+      "LGJCPENNFBC": 1011031,
+      "KBDPLOAHBJF": "M01017",
+      "EHJOGGHLGEN": "CN_M01017",
+      "HBJAHCGKJJD": "转移II",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10110,
+      "KHMIPNENNND": 18
+    },
+    {
+      "LGJCPENNFBC": 1020411,
+      "KBDPLOAHBJF": "M02008",
+      "EHJOGGHLGEN": "CN_M02008",
+      "HBJAHCGKJJD": "扰乱-01",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10204,
+      "KHMIPNENNND": 24
+    },
+    {
+      "LGJCPENNFBC": 1070811,
+      "KBDPLOAHBJF": "M07012",
+      "EHJOGGHLGEN": "CN_M07012",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10708,
+      "KHMIPNENNND": 105
+    },
+    {
+      "LGJCPENNFBC": 3148101,
+      "KBDPLOAHBJF": "M10005,M10006,M10007,M10008,M10009,M10010,M10011",
+      "EHJOGGHLGEN": "CN_M10005,CN_M10006,CN_M10007,CN_M10008,CN_M10009,CN_M10010,CN_M10011",
+      "BKCIGACKEFD": 1,
+      "PKCFEDDNIIO": 31481,
+      "KHMIPNENNND": 561
+    },
+    {
+      "LGJCPENNFBC": 3150911,
+      "KBDPLOAHBJF": "A09016",
+      "EHJOGGHLGEN": "A09016",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 611
+    },
+    {
+      "LGJCPENNFBC": 10220498,
+      "KBDPLOAHBJF": "F01204",
+      "EHJOGGHLGEN": "F01204",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 268
+    },
+    {
+      "LGJCPENNFBC": 10220499,
+      "KBDPLOAHBJF": "P01207",
+      "EHJOGGHLGEN": "P01207",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 164
+    },
+    {
+      "LGJCPENNFBC": 10410198,
+      "KBDPLOAHBJF": "F03801",
+      "EHJOGGHLGEN": "F03801",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 385
+    },
+    {
+      "LGJCPENNFBC": 10410199,
+      "KBDPLOAHBJF": "P03801",
+      "EHJOGGHLGEN": "P03801",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 390
+    },
+    {
+      "LGJCPENNFBC": 1010831,
+      "KBDPLOAHBJF": "M01015",
+      "EHJOGGHLGEN": "CN_M01015",
+      "HBJAHCGKJJD": "等量置换",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10108,
+      "KHMIPNENNND": 16
+    },
+    {
+      "LGJCPENNFBC": 1030611,
+      "KBDPLOAHBJF": "M03009",
+      "EHJOGGHLGEN": "CN_M03009",
+      "HBJAHCGKJJD": "3-8",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10306,
+      "KHMIPNENNND": 42
+    },
+    {
+      "LGJCPENNFBC": 1040621,
+      "KBDPLOAHBJF": "M04011",
+      "EHJOGGHLGEN": "CN_M04011",
+      "HBJAHCGKJJD": "4-8",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10406,
+      "KHMIPNENNND": 56
+    },
+    {
+      "LGJCPENNFBC": 1050321,
+      "KBDPLOAHBJF": "M05004",
+      "EHJOGGHLGEN": "CN_M05004",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10503,
+      "KHMIPNENNND": 69
+    },
+    {
+      "LGJCPENNFBC": 10150597,
+      "KBDPLOAHBJF": "T00605",
+      "EHJOGGHLGEN": "T00605",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 556
+    },
+    {
+      "LGJCPENNFBC": 10150598,
+      "KBDPLOAHBJF": "F00605",
+      "EHJOGGHLGEN": "F00605",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 259
+    },
+    {
+      "LGJCPENNFBC": 10150599,
+      "KBDPLOAHBJF": "P00605",
+      "EHJOGGHLGEN": "P00605",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 148
+    },
+    {
+      "LGJCPENNFBC": 3158101,
+      "KBDPLOAHBJF": "A09010",
+      "EHJOGGHLGEN": "A09010",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 605
+    },
+    {
+      "LGJCPENNFBC": 10150497,
+      "KBDPLOAHBJF": "T00604",
+      "EHJOGGHLGEN": "T00604",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 555
+    },
+    {
+      "LGJCPENNFBC": 10150498,
+      "KBDPLOAHBJF": "F00604",
+      "EHJOGGHLGEN": "F00604",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 258
+    },
+    {
+      "LGJCPENNFBC": 10150499,
+      "KBDPLOAHBJF": "P00604",
+      "EHJOGGHLGEN": "P00604",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 147
+    },
+    {
+      "LGJCPENNFBC": 10500197,
+      "KBDPLOAHBJF": "T04401",
+      "EHJOGGHLGEN": "T04401",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 494
+    },
+    {
+      "LGJCPENNFBC": 1088201,
+      "KBDPLOAHBJF": "M08006",
+      "EHJOGGHLGEN": "CN_M08006",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10882,
+      "KHMIPNENNND": 112
+    },
+    {
+      "LGJCPENNFBC": 3118101,
+      "KBDPLOAHBJF": "A07006",
+      "EHJOGGHLGEN": "A07006",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 489
+    },
+    {
+      "LGJCPENNFBC": 3168301,
+      "KBDPLOAHBJF": "A10003",
+      "EHJOGGHLGEN": "A10003",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 630
+    },
+    {
+      "LGJCPENNFBC": 10350398,
+      "KBDPLOAHBJF": "F02903",
+      "EHJOGGHLGEN": "F02903",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 336
+    },
+    {
+      "LGJCPENNFBC": 10350399,
+      "KBDPLOAHBJF": "P02903",
+      "EHJOGGHLGEN": "P02903",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 341
+    },
+    {
+      "LGJCPENNFBC": 10400697,
+      "KBDPLOAHBJF": "T03006",
+      "EHJOGGHLGEN": "T03006",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 454
+    },
+    {
+      "LGJCPENNFBC": 3130911,
+      "KBDPLOAHBJF": "M09022",
+      "EHJOGGHLGEN": "CN_M09022",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31309,
+      "KHMIPNENNND": 541
+    },
+    {
+      "LGJCPENNFBC": 10170498,
+      "KBDPLOAHBJF": "F00104",
+      "EHJOGGHLGEN": "F00104",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 248
+    },
+    {
+      "LGJCPENNFBC": 10170499,
+      "KBDPLOAHBJF": "P00104",
+      "EHJOGGHLGEN": "P00104",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 135
+    },
+    {
+      "LGJCPENNFBC": 10170598,
+      "KBDPLOAHBJF": "F00105",
+      "EHJOGGHLGEN": "F00105",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 249
+    },
+    {
+      "LGJCPENNFBC": 10170599,
+      "KBDPLOAHBJF": "P00105",
+      "EHJOGGHLGEN": "P00105",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 136
+    },
+    {
+      "LGJCPENNFBC": 10270397,
+      "KBDPLOAHBJF": "T01803",
+      "EHJOGGHLGEN": "T01803",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 502
+    },
+    {
+      "LGJCPENNFBC": 10270398,
+      "KBDPLOAHBJF": "F01803",
+      "EHJOGGHLGEN": "F01803",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 287
+    },
+    {
+      "LGJCPENNFBC": 10270399,
+      "KBDPLOAHBJF": "P01804",
+      "EHJOGGHLGEN": "P01804",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 192
+    },
+    {
+      "LGJCPENNFBC": 10440597,
+      "KBDPLOAHBJF": "T02405",
+      "EHJOGGHLGEN": "T02405",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 617
+    },
+    {
+      "LGJCPENNFBC": 1061021,
+      "KBDPLOAHBJF": "M06016",
+      "EHJOGGHLGEN": "CN_M06016",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10610,
+      "KHMIPNENNND": 96
+    },
+    {
+      "LGJCPENNFBC": 1080821,
+      "KBDPLOAHBJF": "M08015",
+      "EHJOGGHLGEN": "CN_M08015",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10808,
+      "KHMIPNENNND": 116
+    },
+    {
+      "LGJCPENNFBC": 3110521,
+      "KBDPLOAHBJF": "A07003",
+      "EHJOGGHLGEN": "A07003",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 486
+    },
+    {
+      "LGJCPENNFBC": 9999996,
+      "KBDPLOAHBJF": "P99901",
+      "EHJOGGHLGEN": "P99901",
+      "BKCIGACKEFD": 96,
+      "KHMIPNENNND": 524
+    },
+    {
+      "LGJCPENNFBC": 10410498,
+      "KBDPLOAHBJF": "F03804",
+      "EHJOGGHLGEN": "F03804",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 388
+    },
+    {
+      "LGJCPENNFBC": 10410499,
+      "KBDPLOAHBJF": "P03804,P03805",
+      "EHJOGGHLGEN": "P03804,P03805",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 393
+    },
+    {
+      "LGJCPENNFBC": 10450397,
+      "KBDPLOAHBJF": "T03403",
+      "EHJOGGHLGEN": "T03403",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 643
+    },
+    {
+      "LGJCPENNFBC": 1021021,
+      "KBDPLOAHBJF": "M02018",
+      "EHJOGGHLGEN": "CN_M02018",
+      "HBJAHCGKJJD": "黑天鹅",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10210,
+      "KHMIPNENNND": 33
+    },
+    {
+      "LGJCPENNFBC": 3131021,
+      "KBDPLOAHBJF": "MA09002,M09026,M09027",
+      "EHJOGGHLGEN": "MA09002,CN_M09026,CN_M09027",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31310,
+      "KHMIPNENNND": 544
+    },
+    {
+      "LGJCPENNFBC": 3150411,
+      "KBDPLOAHBJF": "A09006",
+      "EHJOGGHLGEN": "A09006",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 601
+    },
+    {
+      "LGJCPENNFBC": 10150297,
+      "KBDPLOAHBJF": "T00602",
+      "EHJOGGHLGEN": "T00602",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 553
+    },
+    {
+      "LGJCPENNFBC": 10150298,
+      "KBDPLOAHBJF": "F00602",
+      "EHJOGGHLGEN": "F00602",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 256
+    },
+    {
+      "LGJCPENNFBC": 10150299,
+      "KBDPLOAHBJF": "P00602",
+      "EHJOGGHLGEN": "P00602",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 145
+    },
+    {
+      "LGJCPENNFBC": 10240398,
+      "KBDPLOAHBJF": "F01703",
+      "EHJOGGHLGEN": "F01703",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 272
+    },
+    {
+      "LGJCPENNFBC": 10240399,
+      "KBDPLOAHBJF": "P01703",
+      "EHJOGGHLGEN": "P01703",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 174
+    },
+    {
+      "LGJCPENNFBC": 1060631,
+      "KBDPLOAHBJF": "M06009",
+      "EHJOGGHLGEN": "CN_M06009",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10606,
+      "KHMIPNENNND": 90
+    },
+    {
+      "LGJCPENNFBC": 1010598,
+      "KBDPLOAHBJF": "F00805",
+      "EHJOGGHLGEN": "F00805",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 304
+    },
+    {
+      "LGJCPENNFBC": 1010599,
+      "KBDPLOAHBJF": "P00805",
+      "EHJOGGHLGEN": "P00805",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 218
+    },
+    {
+      "LGJCPENNFBC": 1010611,
+      "KBDPLOAHBJF": "M01012",
+      "EHJOGGHLGEN": "CN_M01012",
+      "HBJAHCGKJJD": "合流",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10106,
+      "KHMIPNENNND": 13
+    },
+    {
+      "LGJCPENNFBC": 3138401,
+      "KBDPLOAHBJF": "M09028,M09029,M09030",
+      "EHJOGGHLGEN": "CN_M09028,CN_M09029,CN_M09030",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31384,
+      "KHMIPNENNND": 545
+    },
+    {
+      "LGJCPENNFBC": 10270697,
+      "KBDPLOAHBJF": "T01806",
+      "EHJOGGHLGEN": "T01806",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 505
+    },
+    {
+      "LGJCPENNFBC": 10270699,
+      "KBDPLOAHBJF": "P01808",
+      "EHJOGGHLGEN": "P01808",
+      "KHMIPNENNND": 195
+    },
+    {
+      "LGJCPENNFBC": 1041021,
+      "KBDPLOAHBJF": "MA04009",
+      "EHJOGGHLGEN": "MA04009",
+      "HBJAHCGKJJD": "4-15",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10410,
+      "KHMIPNENNND": 63
+    },
+    {
+      "LGJCPENNFBC": 3148401,
+      "KBDPLOAHBJF": "M10033,M10034",
+      "EHJOGGHLGEN": "CN_M10033,CN_M10034",
+      "BKCIGACKEFD": 1,
+      "PKCFEDDNIIO": 31484,
+      "KHMIPNENNND": 571
+    },
+    {
+      "LGJCPENNFBC": 10230699,
+      "KBDPLOAHBJF": "P01406",
+      "EHJOGGHLGEN": "P01406",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 483
+    },
+    {
+      "LGJCPENNFBC": 10440697,
+      "KBDPLOAHBJF": "T02406",
+      "EHJOGGHLGEN": "T02406",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 618
+    },
+    {
+      "LGJCPENNFBC": 10520597,
+      "KBDPLOAHBJF": "T01005",
+      "EHJOGGHLGEN": "T01005",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 550
+    },
+    {
+      "LGJCPENNFBC": 1070431,
+      "KBDPLOAHBJF": "M07005",
+      "EHJOGGHLGEN": "CN_M07005",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10704,
+      "KHMIPNENNND": 99
+    },
+    {
+      "LGJCPENNFBC": 3098201,
+      "KBDPLOAHBJF": "A03023,A03024,A03025,A03026,A03027",
+      "EHJOGGHLGEN": "CN_A03023,CN_A03024,CN_A03025,CN_A03026,CN_A03027",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 442
+    },
+    {
+      "LGJCPENNFBC": 3148601,
+      "KBDPLOAHBJF": "M10051,M10052,M10053",
+      "EHJOGGHLGEN": "CN_M10051,CN_M10052,CN_M10053",
+      "BKCIGACKEFD": 1,
+      "PKCFEDDNIIO": 31486,
+      "KHMIPNENNND": 582
+    },
+    {
+      "LGJCPENNFBC": 10090598,
+      "KBDPLOAHBJF": "F00305",
+      "EHJOGGHLGEN": "F00305",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 244
+    },
+    {
+      "LGJCPENNFBC": 10090599,
+      "KBDPLOAHBJF": "P00305",
+      "EHJOGGHLGEN": "P00305",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 130
+    },
+    {
+      "LGJCPENNFBC": 10130198,
+      "KBDPLOAHBJF": "F00701",
+      "EHJOGGHLGEN": "F00701",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 312
+    },
+    {
+      "LGJCPENNFBC": 10130199,
+      "KBDPLOAHBJF": "P00701",
+      "EHJOGGHLGEN": "P00701",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 317
+    },
+    {
+      "LGJCPENNFBC": 1050411,
+      "KBDPLOAHBJF": "M05005",
+      "EHJOGGHLGEN": "CN_M05005",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10504,
+      "KHMIPNENNND": 70
+    },
+    {
+      "LGJCPENNFBC": 3030931,
+      "KBDPLOAHBJF": "A01019,A01020",
+      "EHJOGGHLGEN": "A01019,A01020",
+      "BKCIGACKEFD": 31,
+      "KHMIPNENNND": 234
+    },
+    {
+      "LGJCPENNFBC": 3090711,
+      "KBDPLOAHBJF": "A03021,A03022",
+      "EHJOGGHLGEN": "CN_A03021,CN_A03022",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 441
+    },
+    {
+      "LGJCPENNFBC": 10450697,
+      "KBDPLOAHBJF": "T03406",
+      "EHJOGGHLGEN": "T03406",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 646
+    },
+    {
+      "LGJCPENNFBC": 1070711,
+      "KBDPLOAHBJF": "M07010",
+      "EHJOGGHLGEN": "CN_M07010",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10707,
+      "KHMIPNENNND": 103
+    },
+    {
+      "LGJCPENNFBC": 3130611,
+      "KBDPLOAHBJF": "M09012,M09013",
+      "EHJOGGHLGEN": "CN_M09012,CN_M09013",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31306,
+      "KHMIPNENNND": 535
+    },
+    {
+      "LGJCPENNFBC": 10080699,
+      "KBDPLOAHBJF": "P00406",
+      "EHJOGGHLGEN": "P00406",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 143
+    },
+    {
+      "LGJCPENNFBC": 1030231,
+      "KBDPLOAHBJF": "M03004",
+      "EHJOGGHLGEN": "CN_M03004",
+      "HBJAHCGKJJD": "3-3",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10302,
+      "KHMIPNENNND": 37
+    },
+    {
+      "LGJCPENNFBC": 10320197,
+      "KBDPLOAHBJF": "T02101",
+      "EHJOGGHLGEN": "T02101",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 589
+    },
+    {
+      "LGJCPENNFBC": 10320198,
+      "KBDPLOAHBJF": "F02101",
+      "EHJOGGHLGEN": "F02101",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 295
+    },
+    {
+      "LGJCPENNFBC": 10320199,
+      "KBDPLOAHBJF": "P02101",
+      "EHJOGGHLGEN": "P02101",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 208
+    },
+    {
+      "LGJCPENNFBC": 10170298,
+      "KBDPLOAHBJF": "F00102",
+      "EHJOGGHLGEN": "F00102",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 246
+    },
+    {
+      "LGJCPENNFBC": 10170299,
+      "KBDPLOAHBJF": "P00102",
+      "EHJOGGHLGEN": "P00102",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 133
+    },
+    {
+      "LGJCPENNFBC": 10210298,
+      "KBDPLOAHBJF": "F00502",
+      "EHJOGGHLGEN": "F00502",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 261
+    },
+    {
+      "LGJCPENNFBC": 10210299,
+      "KBDPLOAHBJF": "P00502",
+      "EHJOGGHLGEN": "P00502",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 156
+    },
+    {
+      "LGJCPENNFBC": 10290498,
+      "KBDPLOAHBJF": "F02604",
+      "EHJOGGHLGEN": "F02604",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 293
+    },
+    {
+      "LGJCPENNFBC": 10290499,
+      "KBDPLOAHBJF": "P02605",
+      "EHJOGGHLGEN": "P02605",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 205
+    },
+    {
+      "LGJCPENNFBC": 3050331,
+      "KBDPLOAHBJF": "A06004",
+      "EHJOGGHLGEN": "A06004",
+      "BKCIGACKEFD": 31,
+      "KHMIPNENNND": 326
+    },
+    {
+      "LGJCPENNFBC": 3150211,
+      "KBDPLOAHBJF": "A09002",
+      "EHJOGGHLGEN": "A09002",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 597
+    },
+    {
+      "LGJCPENNFBC": 10080498,
+      "KBDPLOAHBJF": "F00404",
+      "EHJOGGHLGEN": "F00404",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 253
+    },
+    {
+      "LGJCPENNFBC": 10080499,
+      "KBDPLOAHBJF": "P00404",
+      "EHJOGGHLGEN": "P00404",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 141
+    },
+    {
+      "LGJCPENNFBC": 10090198,
+      "KBDPLOAHBJF": "F00301",
+      "EHJOGGHLGEN": "F00301",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 240
+    },
+    {
+      "LGJCPENNFBC": 10090199,
+      "KBDPLOAHBJF": "P00301",
+      "EHJOGGHLGEN": "P00301",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 126
+    },
+    {
+      "LGJCPENNFBC": 10090699,
+      "KBDPLOAHBJF": "P00306",
+      "EHJOGGHLGEN": "P00306",
+      "KHMIPNENNND": 131
+    },
+    {
+      "LGJCPENNFBC": 1040421,
+      "KBDPLOAHBJF": "M04006",
+      "EHJOGGHLGEN": "CN_M04006",
+      "HBJAHCGKJJD": "4-5",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10404,
+      "KHMIPNENNND": 53
+    },
+    {
+      "LGJCPENNFBC": 1060921,
+      "KBDPLOAHBJF": "M06015",
+      "EHJOGGHLGEN": "CN_M06015",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10609,
+      "KHMIPNENNND": 95
+    },
+    {
+      "LGJCPENNFBC": 3160311,
+      "KBDPLOAHBJF": "A10007",
+      "EHJOGGHLGEN": "A10007",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 627
+    },
+    {
+      "LGJCPENNFBC": 10250197,
+      "KBDPLOAHBJF": "T01601",
+      "EHJOGGHLGEN": "T01601",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 506
+    },
+    {
+      "LGJCPENNFBC": 10250198,
+      "KBDPLOAHBJF": "F01601",
+      "EHJOGGHLGEN": "F01601",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 275
+    },
+    {
+      "LGJCPENNFBC": 10250199,
+      "KBDPLOAHBJF": "P01601",
+      "EHJOGGHLGEN": "P01601",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 178
+    },
+    {
+      "LGJCPENNFBC": 10280699,
+      "KBDPLOAHBJF": "P02309",
+      "EHJOGGHLGEN": "P02309",
+      "KHMIPNENNND": 201
+    },
+    {
+      "LGJCPENNFBC": 10400597,
+      "KBDPLOAHBJF": "T03005",
+      "EHJOGGHLGEN": "T03005",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 453
+    },
+    {
+      "LGJCPENNFBC": 1088401,
+      "KBDPLOAHBJF": "M08011,M08012,MA08002,M08013,MA08003",
+      "EHJOGGHLGEN": "CN_M08011,CN_M08012,MA08002,CN_M08013,MA08003",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10884,
+      "KHMIPNENNND": 114
+    },
+    {
+      "LGJCPENNFBC": 3030631,
+      "KBDPLOAHBJF": "A01011",
+      "EHJOGGHLGEN": "A01011",
+      "BKCIGACKEFD": 31,
+      "KHMIPNENNND": 229
+    },
+    {
+      "LGJCPENNFBC": 3168101,
+      "KBDPLOAHBJF": "A10001",
+      "EHJOGGHLGEN": "A10001",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 626
+    },
+    {
+      "LGJCPENNFBC": 10260498,
+      "KBDPLOAHBJF": "F01504",
+      "EHJOGGHLGEN": "F01504",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 283
+    },
+    {
+      "LGJCPENNFBC": 10260499,
+      "KBDPLOAHBJF": "P01506,P01507",
+      "EHJOGGHLGEN": "P01506,P01507",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 187
+    },
+    {
+      "LGJCPENNFBC": 10370699,
+      "KBDPLOAHBJF": "P02007",
+      "EHJOGGHLGEN": "P02007",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 384
+    },
+    {
+      "LGJCPENNFBC": 1040511,
+      "KBDPLOAHBJF": "M04010",
+      "EHJOGGHLGEN": "CN_M04010",
+      "HBJAHCGKJJD": "4-7",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10405,
+      "KHMIPNENNND": 55
+    },
+    {
+      "LGJCPENNFBC": 10080198,
+      "KBDPLOAHBJF": "F00401",
+      "EHJOGGHLGEN": "F00401",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 250
+    },
+    {
+      "LGJCPENNFBC": 10080199,
+      "KBDPLOAHBJF": "P00401",
+      "EHJOGGHLGEN": "P00401",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 138
+    },
+    {
+      "LGJCPENNFBC": 10090298,
+      "KBDPLOAHBJF": "F00302",
+      "EHJOGGHLGEN": "F00302",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 241
+    },
+    {
+      "LGJCPENNFBC": 10090299,
+      "KBDPLOAHBJF": "P00302",
+      "EHJOGGHLGEN": "P00302",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 127
+    },
+    {
+      "LGJCPENNFBC": 10170699,
+      "KBDPLOAHBJF": "P00106",
+      "EHJOGGHLGEN": "P00106",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 137
+    },
+    {
+      "LGJCPENNFBC": 10360498,
+      "KBDPLOAHBJF": "F02804",
+      "EHJOGGHLGEN": "F02804",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 421
+    },
+    {
+      "LGJCPENNFBC": 10360499,
+      "KBDPLOAHBJF": "P02804",
+      "EHJOGGHLGEN": "P02804",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 426
+    },
+    {
+      "LGJCPENNFBC": 10520197,
+      "KBDPLOAHBJF": "T01001",
+      "EHJOGGHLGEN": "T01001",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 546
+    },
+    {
+      "LGJCPENNFBC": 1010911,
+      "KBDPLOAHBJF": "M01016",
+      "EHJOGGHLGEN": "CN_M01016",
+      "HBJAHCGKJJD": "转移I",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10109,
+      "KHMIPNENNND": 17
+    },
+    {
+      "LGJCPENNFBC": 3050111,
+      "KBDPLOAHBJF": "A06001",
+      "EHJOGGHLGEN": "A06001",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 323
+    },
+    {
+      "LGJCPENNFBC": 3090421,
+      "KBDPLOAHBJF": "A03017",
+      "EHJOGGHLGEN": "CN_A03017",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 437
+    },
+    {
+      "LGJCPENNFBC": 3120811,
+      "KBDPLOAHBJF": "A08021,A08022",
+      "EHJOGGHLGEN": "A08021,A08022",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 521
+    },
+    {
+      "LGJCPENNFBC": 10080598,
+      "KBDPLOAHBJF": "F00405",
+      "EHJOGGHLGEN": "F00405",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 254
+    },
+    {
+      "LGJCPENNFBC": 10080599,
+      "KBDPLOAHBJF": "P00405",
+      "EHJOGGHLGEN": "P00405",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 142
+    },
+    {
+      "LGJCPENNFBC": 1018401,
+      "KBDPLOAHBJF": "M01013",
+      "EHJOGGHLGEN": "CN_M01013",
+      "HBJAHCGKJJD": "完形崩溃",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10184,
+      "KHMIPNENNND": 14
+    },
+    {
+      "LGJCPENNFBC": 10210198,
+      "KBDPLOAHBJF": "F00501",
+      "EHJOGGHLGEN": "F00501",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 260
+    },
+    {
+      "LGJCPENNFBC": 10210199,
+      "KBDPLOAHBJF": "P00501",
+      "EHJOGGHLGEN": "P00501",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 155
+    },
+    {
+      "LGJCPENNFBC": 10510597,
+      "KBDPLOAHBJF": "T02505",
+      "EHJOGGHLGEN": "T02505",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 587
+    },
+    {
+      "LGJCPENNFBC": 1048201,
+      "KBDPLOAHBJF": "M04007,MA04002,M04008,M04009",
+      "EHJOGGHLGEN": "CN_M04007,MA04002,CN_M04008,CN_M04009",
+      "HBJAHCGKJJD": "4-6",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10482,
+      "KHMIPNENNND": 54
+    },
+    {
+      "LGJCPENNFBC": 1020631,
+      "KBDPLOAHBJF": "M02010",
+      "EHJOGGHLGEN": "CN_M02010",
+      "HBJAHCGKJJD": "狭路I",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10206,
+      "KHMIPNENNND": 26
+    },
+    {
+      "LGJCPENNFBC": 1058101,
+      "KBDPLOAHBJF": "M05001,M05002",
+      "EHJOGGHLGEN": "CN_M05001,CN_M05002",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10581,
+      "KHMIPNENNND": 67
+    },
+    {
+      "LGJCPENNFBC": 1080111,
+      "KBDPLOAHBJF": "M08001",
+      "EHJOGGHLGEN": "CN_M08001",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10801,
+      "KHMIPNENNND": 109
+    },
+    {
+      "LGJCPENNFBC": 3080811,
+      "KBDPLOAHBJF": "A02020",
+      "EHJOGGHLGEN": "A02020",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 370
+    },
+    {
+      "LGJCPENNFBC": 3140211,
+      "KBDPLOAHBJF": "M10003,M10004",
+      "EHJOGGHLGEN": "CN_M10003,CN_M10004",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31402,
+      "KHMIPNENNND": 560
+    },
+    {
+      "LGJCPENNFBC": 1080211,
+      "KBDPLOAHBJF": "M08002",
+      "EHJOGGHLGEN": "CN_M08002",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10802,
+      "KHMIPNENNND": 110
+    },
+    {
+      "LGJCPENNFBC": 3090411,
+      "KBDPLOAHBJF": "A03015,A03016",
+      "EHJOGGHLGEN": "CN_A03015,CN_A03016",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 436
+    },
+    {
+      "LGJCPENNFBC": 3140921,
+      "KBDPLOAHBJF": "MA10002,M10045",
+      "EHJOGGHLGEN": "MA10002,CN_M10045",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31409,
+      "KHMIPNENNND": 577
+    },
+    {
+      "LGJCPENNFBC": 3141111,
+      "KBDPLOAHBJF": "M10048,M10049",
+      "EHJOGGHLGEN": "CN_M10048,CN_M10049",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31411,
+      "KHMIPNENNND": 580
+    },
+    {
+      "LGJCPENNFBC": 10330298,
+      "KBDPLOAHBJF": "F03102",
+      "EHJOGGHLGEN": "F03102",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 397
+    },
+    {
+      "LGJCPENNFBC": 10330299,
+      "KBDPLOAHBJF": "P03103,P03104",
+      "EHJOGGHLGEN": "P03103,P03104",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 402
+    },
+    {
+      "LGJCPENNFBC": 10380298,
+      "KBDPLOAHBJF": "F01902",
+      "EHJOGGHLGEN": "F01902",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 408
+    },
+    {
+      "LGJCPENNFBC": 10380299,
+      "KBDPLOAHBJF": "P01902",
+      "EHJOGGHLGEN": "P01902",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 413
+    },
+    {
+      "LGJCPENNFBC": 1038401,
+      "KBDPLOAHBJF": "MA03002,M03012",
+      "EHJOGGHLGEN": "MA03002,CN_M03012",
+      "HBJAHCGKJJD": "3-11",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10384,
+      "KHMIPNENNND": 45
+    },
+    {
+      "LGJCPENNFBC": 3128101,
+      "KBDPLOAHBJF": "A08001,A08002,A08003,A08004",
+      "EHJOGGHLGEN": "A08001,A08002,A08003,A08004",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 512
+    },
+    {
+      "LGJCPENNFBC": 3148501,
+      "KBDPLOAHBJF": "M10040,M10041",
+      "EHJOGGHLGEN": "CN_M10040,CN_M10041",
+      "BKCIGACKEFD": 1,
+      "PKCFEDDNIIO": 31485,
+      "KHMIPNENNND": 574
+    },
+    {
+      "LGJCPENNFBC": 3150511,
+      "KBDPLOAHBJF": "A09008",
+      "EHJOGGHLGEN": "A09008",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 603
+    },
+    {
+      "LGJCPENNFBC": 3168201,
+      "KBDPLOAHBJF": "A10002",
+      "EHJOGGHLGEN": "A10002",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 628
+    },
+    {
+      "LGJCPENNFBC": 3110911,
+      "KBDPLOAHBJF": "A07009",
+      "EHJOGGHLGEN": "A07009",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 492
+    },
+    {
+      "LGJCPENNFBC": 10010398,
+      "KBDPLOAHBJF": "F00203",
+      "EHJOGGHLGEN": "F00203",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 237
+    },
+    {
+      "LGJCPENNFBC": 10010399,
+      "KBDPLOAHBJF": "P00203",
+      "EHJOGGHLGEN": "P00203",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 122
+    },
+    {
+      "LGJCPENNFBC": 10410298,
+      "KBDPLOAHBJF": "F03802",
+      "EHJOGGHLGEN": "F03802",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 386
+    },
+    {
+      "LGJCPENNFBC": 10410299,
+      "KBDPLOAHBJF": "P03802",
+      "EHJOGGHLGEN": "P03802",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 391
+    },
+    {
+      "LGJCPENNFBC": 1060331,
+      "KBDPLOAHBJF": "M06005",
+      "EHJOGGHLGEN": "CN_M06005",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10603,
+      "KHMIPNENNND": 86
+    },
+    {
+      "LGJCPENNFBC": 1070531,
+      "KBDPLOAHBJF": "M07007",
+      "EHJOGGHLGEN": "CN_M07007",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10705,
+      "KHMIPNENNND": 101
+    },
+    {
+      "LGJCPENNFBC": 3088201,
+      "KBDPLOAHBJF": "A02014,A02015,A02016,A02017,A02018",
+      "EHJOGGHLGEN": "A02014,A02015,A02016,A02017,A02018",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 368
+    },
+    {
+      "LGJCPENNFBC": 10220398,
+      "KBDPLOAHBJF": "F01203",
+      "EHJOGGHLGEN": "F01203",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 267
+    },
+    {
+      "LGJCPENNFBC": 10220399,
+      "KBDPLOAHBJF": "P01205,P01206",
+      "EHJOGGHLGEN": "P01205,P01206",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 163
+    },
+    {
+      "LGJCPENNFBC": 10320297,
+      "KBDPLOAHBJF": "T02102",
+      "EHJOGGHLGEN": "T02102",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 590
+    },
+    {
+      "LGJCPENNFBC": 10320298,
+      "KBDPLOAHBJF": "F02102",
+      "EHJOGGHLGEN": "F02102",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 296
+    },
+    {
+      "LGJCPENNFBC": 10320299,
+      "KBDPLOAHBJF": "P02102",
+      "EHJOGGHLGEN": "P02102",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 209
+    },
+    {
+      "LGJCPENNFBC": 10340298,
+      "KBDPLOAHBJF": "F01302",
+      "EHJOGGHLGEN": "F01302",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 350
+    },
+    {
+      "LGJCPENNFBC": 10340299,
+      "KBDPLOAHBJF": "P01302",
+      "EHJOGGHLGEN": "P01302",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 355
+    },
+    {
+      "LGJCPENNFBC": 1068301,
+      "KBDPLOAHBJF": "M06010",
+      "EHJOGGHLGEN": "CN_M06010",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10683,
+      "KHMIPNENNND": 91
+    },
+    {
+      "LGJCPENNFBC": 3160921,
+      "KBDPLOAHBJF": "A10010",
+      "EHJOGGHLGEN": "A10010",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 633
+    },
+    {
+      "LGJCPENNFBC": 10080298,
+      "KBDPLOAHBJF": "F00402",
+      "EHJOGGHLGEN": "F00402",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 251
+    },
+    {
+      "LGJCPENNFBC": 10080299,
+      "KBDPLOAHBJF": "P00402",
+      "EHJOGGHLGEN": "P00402",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 139
+    },
+    {
+      "LGJCPENNFBC": 10350198,
+      "KBDPLOAHBJF": "F02901",
+      "EHJOGGHLGEN": "F02901",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 334
+    },
+    {
+      "LGJCPENNFBC": 10350199,
+      "KBDPLOAHBJF": "P02901",
+      "EHJOGGHLGEN": "P02901",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 339
+    },
+    {
+      "LGJCPENNFBC": 10350699,
+      "KBDPLOAHBJF": "P02907",
+      "EHJOGGHLGEN": "P02907",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 344
+    },
+    {
+      "LGJCPENNFBC": 3150721,
+      "KBDPLOAHBJF": "A09013",
+      "EHJOGGHLGEN": "A09013",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 608
+    },
+    {
+      "LGJCPENNFBC": 10520697,
+      "KBDPLOAHBJF": "T01006",
+      "EHJOGGHLGEN": "T01006",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 551
+    },
+    {
+      "LGJCPENNFBC": 1028201,
+      "KBDPLOAHBJF": "M02005,MA02001,M02007",
+      "EHJOGGHLGEN": "CN_M02005,MA02001,CN_M02007",
+      "HBJAHCGKJJD": "趋同效应",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10282,
+      "KHMIPNENNND": 23
+    },
+    {
+      "LGJCPENNFBC": 3030231,
+      "KBDPLOAHBJF": "A01003",
+      "EHJOGGHLGEN": "A01003",
+      "BKCIGACKEFD": 31,
+      "KHMIPNENNND": 223
+    },
+    {
+      "LGJCPENNFBC": 3130321,
+      "KBDPLOAHBJF": "M09007",
+      "EHJOGGHLGEN": "CN_M09007",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31303,
+      "KHMIPNENNND": 530
+    },
+    {
+      "LGJCPENNFBC": 10230198,
+      "KBDPLOAHBJF": "F01401",
+      "EHJOGGHLGEN": "F01401",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 473
+    },
+    {
+      "LGJCPENNFBC": 10230199,
+      "KBDPLOAHBJF": "P01401",
+      "EHJOGGHLGEN": "P01401",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 478
+    },
+    {
+      "LGJCPENNFBC": 10250397,
+      "KBDPLOAHBJF": "T01603",
+      "EHJOGGHLGEN": "T01603",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 508
+    },
+    {
+      "LGJCPENNFBC": 10250398,
+      "KBDPLOAHBJF": "F01603",
+      "EHJOGGHLGEN": "F01603",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 277
+    },
+    {
+      "LGJCPENNFBC": 10250399,
+      "KBDPLOAHBJF": "P01603",
+      "EHJOGGHLGEN": "P01603",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 180
+    },
+    {
+      "LGJCPENNFBC": 10290298,
+      "KBDPLOAHBJF": "F02602",
+      "EHJOGGHLGEN": "F02602",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 291
+    },
+    {
+      "LGJCPENNFBC": 10290299,
+      "KBDPLOAHBJF": "P02602",
+      "EHJOGGHLGEN": "P02602",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 203
+    },
+    {
+      "LGJCPENNFBC": 10510697,
+      "KBDPLOAHBJF": "T02506",
+      "EHJOGGHLGEN": "T02506",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 588
+    },
+    {
+      "LGJCPENNFBC": 10390597,
+      "KBDPLOAHBJF": "T00905",
+      "EHJOGGHLGEN": "T00905",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 623
+    },
+    {
+      "LGJCPENNFBC": 10390598,
+      "KBDPLOAHBJF": "F00905",
+      "EHJOGGHLGEN": "F00905",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 459
+    },
+    {
+      "LGJCPENNFBC": 10390599,
+      "KBDPLOAHBJF": "P00908",
+      "EHJOGGHLGEN": "P00908",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 464
+    },
+    {
+      "LGJCPENNFBC": 3050211,
+      "KBDPLOAHBJF": "A06002",
+      "EHJOGGHLGEN": "A06002",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 324
+    },
+    {
+      "LGJCPENNFBC": 10010298,
+      "KBDPLOAHBJF": "F00202",
+      "EHJOGGHLGEN": "F00202",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 236
+    },
+    {
+      "LGJCPENNFBC": 10010299,
+      "KBDPLOAHBJF": "P00202",
+      "EHJOGGHLGEN": "P00202",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 121
+    },
+    {
+      "LGJCPENNFBC": 10360198,
+      "KBDPLOAHBJF": "F02801",
+      "EHJOGGHLGEN": "F02801",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 418
+    },
+    {
+      "LGJCPENNFBC": 10360199,
+      "KBDPLOAHBJF": "P02801",
+      "EHJOGGHLGEN": "P02801",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 423
+    },
+    {
+      "LGJCPENNFBC": 3050631,
+      "KBDPLOAHBJF": "A06007",
+      "EHJOGGHLGEN": "A06007",
+      "BKCIGACKEFD": 31,
+      "KHMIPNENNND": 329
+    },
+    {
+      "LGJCPENNFBC": 3110921,
+      "KBDPLOAHBJF": "A07010",
+      "EHJOGGHLGEN": "A07010",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 493
+    },
+    {
+      "LGJCPENNFBC": 3140721,
+      "KBDPLOAHBJF": "M10038,M10039",
+      "EHJOGGHLGEN": "CN_M10038,CN_M10039",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31407,
+      "KHMIPNENNND": 573
+    },
+    {
+      "LGJCPENNFBC": 10240699,
+      "KBDPLOAHBJF": "P01706",
+      "EHJOGGHLGEN": "P01706",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 177
+    },
+    {
+      "LGJCPENNFBC": 1068101,
+      "KBDPLOAHBJF": "M06002",
+      "EHJOGGHLGEN": "CN_M06002",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10681,
+      "KHMIPNENNND": 83
+    },
+    {
+      "LGJCPENNFBC": 3140611,
+      "KBDPLOAHBJF": "M10031",
+      "EHJOGGHLGEN": "CN_M10031",
+      "BKCIGACKEFD": 11,
+      "PKCFEDDNIIO": 31406,
+      "KHMIPNENNND": 569
+    },
+    {
+      "LGJCPENNFBC": 3140821,
+      "KBDPLOAHBJF": "M10042,M10043,M10044",
+      "EHJOGGHLGEN": "CN_M10042,CN_M10043,CN_M10044",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31408,
+      "KHMIPNENNND": 575
+    },
+    {
+      "LGJCPENNFBC": 10380198,
+      "KBDPLOAHBJF": "F01901",
+      "EHJOGGHLGEN": "F01901",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 407
+    },
+    {
+      "LGJCPENNFBC": 10380199,
+      "KBDPLOAHBJF": "P01901",
+      "EHJOGGHLGEN": "P01901",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 412
+    },
+    {
+      "LGJCPENNFBC": 1048401,
+      "KBDPLOAHBJF": "M04015,M04016,MA04004,M04017",
+      "EHJOGGHLGEN": "CN_M04015,CN_M04016,MA04004,CN_M04017",
+      "HBJAHCGKJJD": "4-12",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10484,
+      "KHMIPNENNND": 60
+    },
+    {
+      "LGJCPENNFBC": 3080311,
+      "KBDPLOAHBJF": "A02007,A02008",
+      "EHJOGGHLGEN": "A02007,A02008",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 364
+    },
+    {
+      "LGJCPENNFBC": 3138201,
+      "KBDPLOAHBJF": "M09015",
+      "EHJOGGHLGEN": "CN_M09015",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31382,
+      "KHMIPNENNND": 537
+    },
+    {
+      "LGJCPENNFBC": 10390497,
+      "KBDPLOAHBJF": "T00904",
+      "EHJOGGHLGEN": "T00904",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 622
+    },
+    {
+      "LGJCPENNFBC": 10390498,
+      "KBDPLOAHBJF": "F00904",
+      "EHJOGGHLGEN": "F00904",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 458
+    },
+    {
+      "LGJCPENNFBC": 10390499,
+      "KBDPLOAHBJF": "P00906,P00907",
+      "EHJOGGHLGEN": "P00906,P00907",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 463
+    },
+    {
+      "LGJCPENNFBC": 3110111,
+      "KBDPLOAHBJF": "A07001",
+      "EHJOGGHLGEN": "A07001",
+      "BKCIGACKEFD": 11,
+      "KHMIPNENNND": 484
+    },
+    {
+      "LGJCPENNFBC": 3140321,
+      "KBDPLOAHBJF": "M10012",
+      "EHJOGGHLGEN": "CN_M10012",
+      "BKCIGACKEFD": 21,
+      "PKCFEDDNIIO": 31403,
+      "KHMIPNENNND": 562
+    },
+    {
+      "LGJCPENNFBC": 10090498,
+      "KBDPLOAHBJF": "F00304",
+      "EHJOGGHLGEN": "F00304",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 243
+    },
+    {
+      "LGJCPENNFBC": 10090499,
+      "KBDPLOAHBJF": "P00304",
+      "EHJOGGHLGEN": "P00304",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 129
+    },
+    {
+      "LGJCPENNFBC": 10290598,
+      "KBDPLOAHBJF": "F02605",
+      "EHJOGGHLGEN": "F02605",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 294
+    },
+    {
+      "LGJCPENNFBC": 10290599,
+      "KBDPLOAHBJF": "P02606",
+      "EHJOGGHLGEN": "P02606",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 206
+    },
+    {
+      "LGJCPENNFBC": 1028301,
+      "KBDPLOAHBJF": "M02013",
+      "EHJOGGHLGEN": "CN_M02013",
+      "HBJAHCGKJJD": "代价",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10283,
+      "KHMIPNENNND": 29
+    },
+    {
+      "LGJCPENNFBC": 10260398,
+      "KBDPLOAHBJF": "F01503",
+      "EHJOGGHLGEN": "F01503",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 282
+    },
+    {
+      "LGJCPENNFBC": 10260399,
+      "KBDPLOAHBJF": "P01504,P01505",
+      "EHJOGGHLGEN": "P01504,P01505",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 186
+    },
+    {
+      "LGJCPENNFBC": 10380598,
+      "KBDPLOAHBJF": "F01905",
+      "EHJOGGHLGEN": "F01905",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 411
+    },
+    {
+      "LGJCPENNFBC": 10380599,
+      "KBDPLOAHBJF": "P01905",
+      "EHJOGGHLGEN": "P01905",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 416
+    },
+    {
+      "LGJCPENNFBC": 10450197,
+      "KBDPLOAHBJF": "T03401",
+      "EHJOGGHLGEN": "T03401",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 641
+    },
+    {
+      "LGJCPENNFBC": 1018301,
+      "KBDPLOAHBJF": "M01011",
+      "EHJOGGHLGEN": "CN_M01011",
+      "HBJAHCGKJJD": "洛特卡方程",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10183,
+      "KHMIPNENNND": 12
+    },
+    {
+      "LGJCPENNFBC": 3080921,
+      "KBDPLOAHBJF": "A02023,A02024",
+      "EHJOGGHLGEN": "A02023,A02024",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 373
+    },
+    {
+      "LGJCPENNFBC": 10370498,
+      "KBDPLOAHBJF": "F02004",
+      "EHJOGGHLGEN": "F02004",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 377
+    },
+    {
+      "LGJCPENNFBC": 10370499,
+      "KBDPLOAHBJF": "P02004,P02005",
+      "EHJOGGHLGEN": "P02004,P02005",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 382
+    },
+    {
+      "LGJCPENNFBC": 10500597,
+      "KBDPLOAHBJF": "T04405",
+      "EHJOGGHLGEN": "T04405",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 498
+    },
+    {
+      "LGJCPENNFBC": 1010331,
+      "KBDPLOAHBJF": "MA01004",
+      "EHJOGGHLGEN": "MA01004",
+      "HBJAHCGKJJD": "策定-04",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10103,
+      "KHMIPNENNND": 8
+    },
+    {
+      "LGJCPENNFBC": 1038301,
+      "KBDPLOAHBJF": "M03006",
+      "EHJOGGHLGEN": "CN_M03006",
+      "HBJAHCGKJJD": "3-5",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10383,
+      "KHMIPNENNND": 39
+    },
+    {
+      "LGJCPENNFBC": 1088101,
+      "KBDPLOAHBJF": "M08003,M08004,MA08001,M08005",
+      "EHJOGGHLGEN": "CN_M08003,CN_M08004,MA08001,CN_M08005",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10881,
+      "KHMIPNENNND": 111
+    },
+    {
+      "LGJCPENNFBC": 3130711,
+      "KBDPLOAHBJF": "M09016",
+      "EHJOGGHLGEN": "CN_M09016",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 31307,
+      "KHMIPNENNND": 538
+    },
+    {
+      "LGJCPENNFBC": 1060311,
+      "KBDPLOAHBJF": "M06004",
+      "EHJOGGHLGEN": "CN_M06004",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10603,
+      "KHMIPNENNND": 85
+    },
+    {
+      "LGJCPENNFBC": 10370398,
+      "KBDPLOAHBJF": "F02003",
+      "EHJOGGHLGEN": "F02003",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 376
+    },
+    {
+      "LGJCPENNFBC": 10370399,
+      "KBDPLOAHBJF": "P02003",
+      "EHJOGGHLGEN": "P02003",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 381
+    },
+    {
+      "LGJCPENNFBC": 3030731,
+      "KBDPLOAHBJF": "A01017",
+      "EHJOGGHLGEN": "A01017",
+      "BKCIGACKEFD": 31,
+      "KHMIPNENNND": 232
+    },
+    {
+      "LGJCPENNFBC": 3078701,
+      "KBDPLOAHBJF": "A04003",
+      "EHJOGGHLGEN": "A04003",
+      "BKCIGACKEFD": 1,
+      "KHMIPNENNND": 346
+    },
+    {
+      "LGJCPENNFBC": 1068401,
+      "KBDPLOAHBJF": "M06012,MA06001,M06013",
+      "EHJOGGHLGEN": "CN_M06012,MA06001,CN_M06013",
+      "BKCIGACKEFD": 10,
+      "PKCFEDDNIIO": 10684,
+      "KHMIPNENNND": 93
+    },
+    {
+      "LGJCPENNFBC": 3091021,
+      "KBDPLOAHBJF": "AA03002",
+      "EHJOGGHLGEN": "AA03002",
+      "BKCIGACKEFD": 21,
+      "KHMIPNENNND": 447
+    },
+    {
+      "LGJCPENNFBC": 10170198,
+      "KBDPLOAHBJF": "F00101",
+      "EHJOGGHLGEN": "F00101",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 245
+    },
+    {
+      "LGJCPENNFBC": 10170199,
+      "KBDPLOAHBJF": "P00101",
+      "EHJOGGHLGEN": "P00101",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 132
+    },
+    {
+      "LGJCPENNFBC": 10250597,
+      "KBDPLOAHBJF": "T01605",
+      "EHJOGGHLGEN": "T01605",
+      "BKCIGACKEFD": 97,
+      "KHMIPNENNND": 510
+    },
+    {
+      "LGJCPENNFBC": 10250598,
+      "KBDPLOAHBJF": "F01605",
+      "EHJOGGHLGEN": "F01605",
+      "BKCIGACKEFD": 98,
+      "KHMIPNENNND": 279
+    },
+    {
+      "LGJCPENNFBC": 10250599,
+      "KBDPLOAHBJF": "P01605",
+      "EHJOGGHLGEN": "P01605",
+      "BKCIGACKEFD": 99,
+      "KHMIPNENNND": 182
+    },
+    {
+      "LGJCPENNFBC": 10260699,
+      "KBDPLOAHBJF": "P01510",
+      "EHJOGGHLGEN": "P01510",
+      "KHMIPNENNND": 189
+    }
+  ]
+}

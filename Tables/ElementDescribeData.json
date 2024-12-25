@@ -1,0 +1,112 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 101,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_Cover",
+      "HLEJFBCNDAC": "坚硬壁垒：突击步枪暂无法对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_Cover",
+      "HLEJFBCNDAC": "坚硬壁垒：刀无法对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_Cover",
+      "HLEJFBCNDAC": "坚硬壁垒：机枪暂无法对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_Darkzonetalent_effect",
+      "HLEJFBCNDAC": "霰弹优势：霰弹枪可对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_Cover",
+      "HLEJFBCNDAC": "坚硬壁垒：冲锋枪无法对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_Cover",
+      "HLEJFBCNDAC": "坚硬壁垒：手枪无法对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_Cover",
+      "HLEJFBCNDAC": "坚硬壁垒：狙击枪暂无法对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 108,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_Darkzonetalent_effect",
+      "HLEJFBCNDAC": "爆破冲击：油桶、火药箱可直接破坏覆盖石层"
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "JCICKJAEAKF": 102,
+      "DNHAGPFHGCE": "Darkzone/Icon_Darkzonetalent_effect",
+      "HLEJFBCNDAC": "武器增效·二：突击步枪可对覆盖岩层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "JCICKJAEAKF": 102,
+      "DNHAGPFHGCE": "Darkzone/Icon_Darkzonetalent_effect",
+      "HLEJFBCNDAC": "武器增效·二：机枪可对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "JCICKJAEAKF": 102,
+      "DNHAGPFHGCE": "Darkzone/Icon_Darkzonetalent_effect",
+      "HLEJFBCNDAC": "霰弹枪增效：霰弹枪可直接破坏覆盖石层"
+    },
+    {
+      "LGJCPENNFBC": 207,
+      "JCICKJAEAKF": 102,
+      "DNHAGPFHGCE": "Darkzone/Icon_Darkzonetalent_effect",
+      "HLEJFBCNDAC": "武器增效·二：狙击枪可对覆盖石层造成伤害"
+    },
+    {
+      "LGJCPENNFBC": 301,
+      "JCICKJAEAKF": 101,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_BestDistance",
+      "HLEJFBCNDAC": "冲锋枪增效·一：冲锋枪无视掩体，对目标造成全额伤害。"
+    },
+    {
+      "LGJCPENNFBC": 302,
+      "JCICKJAEAKF": 102,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_BestDistance",
+      "HLEJFBCNDAC": "冲锋枪增效·三：冲锋枪可直接刺杀精英单位"
+    },
+    {
+      "LGJCPENNFBC": 401,
+      "JCICKJAEAKF": 103,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_BestDistance",
+      "HLEJFBCNDAC": "冲锋枪增效·二：冲锋枪可对头目单位造成更高伤害"
+    },
+    {
+      "LGJCPENNFBC": 501,
+      "JCICKJAEAKF": 103,
+      "DNHAGPFHGCE": "Darkzone/Icon_Darkzonetalent_effect",
+      "HLEJFBCNDAC": "油桶、火药箱可对头目单位造成更高伤害"
+    },
+    {
+      "LGJCPENNFBC": 601,
+      "JCICKJAEAKF": 103,
+      "DNHAGPFHGCE": "Darkzone/Icon_Darkzonetalent_effect",
+      "HLEJFBCNDAC": "防爆服：油桶、火药箱对我方人形造成伤害降低"
+    },
+    {
+      "LGJCPENNFBC": 701,
+      "JCICKJAEAKF": 104,
+      "DNHAGPFHGCE": "Darkzone/Icon_AttackBenefit_Cover",
+      "HLEJFBCNDAC": "目标受到掩体保护,承受较少伤害。"
+    }
+  ]
+}

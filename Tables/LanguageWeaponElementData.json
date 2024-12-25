@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3238"
+      },
+      "OPOCDFFKJAL": "A",
+      "DNHAGPFHGCE": "Icon_BulletHit_Light",
+      "EGPIAFNFKEJ": "95cc43FF",
+      "NDHFCJAIFGE": 1
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5921"
+      },
+      "OPOCDFFKJAL": "B",
+      "DNHAGPFHGCE": "Icon_BulletHit_Middle",
+      "EGPIAFNFKEJ": "95cc43FF",
+      "NDHFCJAIFGE": 1
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5922"
+      },
+      "OPOCDFFKJAL": "C",
+      "DNHAGPFHGCE": "Icon_BulletHit_Heavy",
+      "EGPIAFNFKEJ": "95cc43FF",
+      "NDHFCJAIFGE": 1
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6620"
+      },
+      "OPOCDFFKJAL": "D",
+      "DNHAGPFHGCE": "Icon_BulletHit_Melee",
+      "EGPIAFNFKEJ": "95cc43FF",
+      "NDHFCJAIFGE": 1
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5455"
+      },
+      "OPOCDFFKJAL": "E",
+      "DNHAGPFHGCE": "Icon_BulletHit_Shot",
+      "EGPIAFNFKEJ": "95cc43FF",
+      "NDHFCJAIFGE": 1
+    }
+  ]
+}

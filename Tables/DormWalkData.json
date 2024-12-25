@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "CHEFGIBNLOP": 3,
+      "JOBCIOALNEE": 1,
+      "JACCMLDMGIG": [
+        5,
+        6,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CHEFGIBNLOP": 3,
+      "JOBCIOALNEE": 2,
+      "JACCMLDMGIG": [
+        5,
+        6,
+        7,
+        8,
+        11
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CHEFGIBNLOP": 3,
+      "JOBCIOALNEE": 3,
+      "JACCMLDMGIG": [
+        5,
+        6,
+        7,
+        8,
+        11
+      ]
+    }
+  ]
+}

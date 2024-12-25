@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8313"
+      },
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_1",
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8313"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9457"
+      },
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_2",
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "9457"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "15489"
+      },
+      "DNHAGPFHGCE": "Skill_AegisWallIce_Active_3",
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "15489"
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "17894"
+      },
+      "DNHAGPFHGCE": "Skill_AegisWallSWAP_Active_1",
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "17894"
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "23721"
+      },
+      "DNHAGPFHGCE": "Skill_AegisWallSWAP_Active_2",
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "23721"
+      }
+    }
+  ]
+}

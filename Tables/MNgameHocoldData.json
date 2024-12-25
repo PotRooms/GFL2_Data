@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "EALJEIIAEGE": 2001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3105"
+      },
+      "HBKKKCPMLOJ": "Level1",
+      "KEAHLFANPBI": 2,
+      "BJBDFAOADLJ": "Img_MiniGame_GravityJump_Map1"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "EALJEIIAEGE": 2001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4660"
+      },
+      "HBKKKCPMLOJ": "Level2",
+      "KEAHLFANPBI": 4,
+      "BJBDFAOADLJ": "Img_MiniGame_GravityJump_Map2",
+      "BJMKILIMDLH": 2
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "EALJEIIAEGE": 2001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4661"
+      },
+      "HBKKKCPMLOJ": "Level3",
+      "KEAHLFANPBI": 4,
+      "BJBDFAOADLJ": "Img_MiniGame_GravityJump_Map3",
+      "BJMKILIMDLH": 3
+    }
+  ]
+}

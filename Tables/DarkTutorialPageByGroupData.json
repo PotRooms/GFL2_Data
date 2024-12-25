@@ -1,0 +1,799 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": [
+        900602
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3010,
+      "LGJCPENNFBC": [
+        301001
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3011,
+      "LGJCPENNFBC": [
+        301101
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3012,
+      "LGJCPENNFBC": [
+        301201,
+        301202
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3013,
+      "LGJCPENNFBC": [
+        301301,
+        301302,
+        301303
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3014,
+      "LGJCPENNFBC": [
+        301401
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3015,
+      "LGJCPENNFBC": [
+        301501,
+        301502,
+        301503
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3016,
+      "LGJCPENNFBC": [
+        301601,
+        301602,
+        301603
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9100,
+      "LGJCPENNFBC": [
+        910001,
+        910002
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1020,
+      "LGJCPENNFBC": [
+        102001,
+        102002,
+        102003,
+        102004,
+        102005,
+        102006
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1021,
+      "LGJCPENNFBC": [
+        102101,
+        102102,
+        102103,
+        102104,
+        102105,
+        102106
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1022,
+      "LGJCPENNFBC": [
+        102201,
+        102202,
+        102203,
+        102204,
+        102205,
+        102206
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1028,
+      "LGJCPENNFBC": [
+        102801,
+        102802,
+        102803,
+        102804,
+        102805,
+        102806
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1032,
+      "LGJCPENNFBC": [
+        103201,
+        103202,
+        103203,
+        103204,
+        103205,
+        103206,
+        103207
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1033,
+      "LGJCPENNFBC": [
+        103301,
+        103302,
+        103303,
+        103304,
+        103305,
+        103306,
+        103307
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1034,
+      "LGJCPENNFBC": [
+        103401,
+        103402,
+        103403,
+        103404,
+        103405,
+        103406,
+        103407
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1035,
+      "LGJCPENNFBC": [
+        103501,
+        103502,
+        103503,
+        103504,
+        103505,
+        103506,
+        103507
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1036,
+      "LGJCPENNFBC": [
+        103601,
+        103602,
+        103603,
+        103604,
+        103605,
+        103606,
+        103607
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1037,
+      "LGJCPENNFBC": [
+        103701,
+        103702,
+        103703,
+        103704,
+        103705,
+        103706,
+        103707
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1038,
+      "LGJCPENNFBC": [
+        103801,
+        103802,
+        103803,
+        103804,
+        103805,
+        103806,
+        103807
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1039,
+      "LGJCPENNFBC": [
+        103901,
+        103902,
+        103903,
+        103904,
+        103905,
+        103906,
+        103907
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3201,
+      "LGJCPENNFBC": [
+        320101,
+        320102,
+        320103,
+        320104
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3202,
+      "LGJCPENNFBC": [
+        320201,
+        320202,
+        320203,
+        320204
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3203,
+      "LGJCPENNFBC": [
+        320301,
+        320302,
+        320303,
+        320304
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3204,
+      "LGJCPENNFBC": [
+        320401,
+        320402,
+        320403,
+        320404
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3205,
+      "LGJCPENNFBC": [
+        320501,
+        320502,
+        320503,
+        320504
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1040,
+      "LGJCPENNFBC": [
+        104001,
+        104002,
+        104003,
+        104004,
+        104005,
+        104006,
+        104007
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1041,
+      "LGJCPENNFBC": [
+        104101,
+        104102,
+        104103,
+        104104,
+        104105,
+        104106,
+        104107
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1042,
+      "LGJCPENNFBC": [
+        104201,
+        104202,
+        104203,
+        104204,
+        104205,
+        104206,
+        104207
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1043,
+      "LGJCPENNFBC": [
+        104301,
+        104302,
+        104303,
+        104304,
+        104305,
+        104306,
+        104307
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1044,
+      "LGJCPENNFBC": [
+        104401,
+        104402,
+        104403,
+        104404,
+        104405,
+        104406,
+        104407
+      ]
+    },
+    {
+      "EALJEIIAEGE": 1045,
+      "LGJCPENNFBC": [
+        104501,
+        104502,
+        104503,
+        104504,
+        104505,
+        104506,
+        104507
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3001,
+      "LGJCPENNFBC": [
+        300101,
+        300103,
+        300104,
+        300105,
+        300106,
+        300107,
+        300108,
+        300109,
+        300115,
+        300116
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3002,
+      "LGJCPENNFBC": [
+        300201,
+        300202,
+        300206,
+        300207
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3003,
+      "LGJCPENNFBC": [
+        300302,
+        300303,
+        300304,
+        300305,
+        300306,
+        300307
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3004,
+      "LGJCPENNFBC": [
+        300401,
+        300402,
+        300403,
+        300404,
+        300405,
+        300406,
+        300407
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3005,
+      "LGJCPENNFBC": [
+        300501
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3006,
+      "LGJCPENNFBC": [
+        300601
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3007,
+      "LGJCPENNFBC": [
+        300701
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3008,
+      "LGJCPENNFBC": [
+        300801
+      ]
+    },
+    {
+      "EALJEIIAEGE": 3009,
+      "LGJCPENNFBC": [
+        300901,
+        300902,
+        300903,
+        300904,
+        300905,
+        300906,
+        300907,
+        300908,
+        300909
+      ]
+    },
+    {
+      "EALJEIIAEGE": 4001,
+      "LGJCPENNFBC": [
+        400101,
+        400102,
+        400103,
+        400104
+      ]
+    },
+    {
+      "EALJEIIAEGE": 4002,
+      "LGJCPENNFBC": [
+        400201,
+        400202,
+        400203
+      ]
+    },
+    {
+      "EALJEIIAEGE": 4003,
+      "LGJCPENNFBC": [
+        400301,
+        400302,
+        400303,
+        400304,
+        400305,
+        400306
+      ]
+    },
+    {
+      "EALJEIIAEGE": 4004,
+      "LGJCPENNFBC": [
+        400401,
+        400402,
+        400403,
+        400404,
+        400405
+      ]
+    },
+    {
+      "EALJEIIAEGE": 4005,
+      "LGJCPENNFBC": [
+        400501,
+        400502,
+        400503,
+        400504,
+        400505
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9001,
+      "LGJCPENNFBC": [
+        900101,
+        900102,
+        900103
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9002,
+      "LGJCPENNFBC": [
+        900201,
+        900202
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9003,
+      "LGJCPENNFBC": [
+        900301,
+        900302
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9004,
+      "LGJCPENNFBC": [
+        900401,
+        900402
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9005,
+      "LGJCPENNFBC": [
+        900501,
+        900502,
+        900503
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9006,
+      "LGJCPENNFBC": [
+        900601,
+        900603
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9007,
+      "LGJCPENNFBC": [
+        900701,
+        900702
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9008,
+      "LGJCPENNFBC": [
+        900801,
+        900802,
+        900803
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9301,
+      "LGJCPENNFBC": [
+        930101,
+        930102
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9302,
+      "LGJCPENNFBC": [
+        930201,
+        930202,
+        930203,
+        930204
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9303,
+      "LGJCPENNFBC": [
+        930301,
+        930302,
+        930303
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9304,
+      "LGJCPENNFBC": [
+        930401,
+        930402,
+        930403
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9305,
+      "LGJCPENNFBC": [
+        930501,
+        930502,
+        930503
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9306,
+      "LGJCPENNFBC": [
+        930601,
+        930602
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9307,
+      "LGJCPENNFBC": [
+        930701,
+        930702,
+        930703
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9308,
+      "LGJCPENNFBC": [
+        930801,
+        930802
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9309,
+      "LGJCPENNFBC": [
+        930901,
+        930902,
+        930903
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9310,
+      "LGJCPENNFBC": [
+        931001,
+        931002,
+        931003
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9311,
+      "LGJCPENNFBC": [
+        931101,
+        931102
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9312,
+      "LGJCPENNFBC": [
+        931201,
+        931202
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9313,
+      "LGJCPENNFBC": [
+        931301,
+        931302
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9314,
+      "LGJCPENNFBC": [
+        931401,
+        931402
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9315,
+      "LGJCPENNFBC": [
+        931501,
+        931502
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9316,
+      "LGJCPENNFBC": [
+        931601,
+        931602
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9317,
+      "LGJCPENNFBC": [
+        931701,
+        931702
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9318,
+      "LGJCPENNFBC": [
+        931801,
+        931802,
+        931803
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9319,
+      "LGJCPENNFBC": [
+        931901,
+        931902
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9320,
+      "LGJCPENNFBC": [
+        932001,
+        932002,
+        932003
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9321,
+      "LGJCPENNFBC": [
+        932101,
+        932102
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9322,
+      "LGJCPENNFBC": [
+        932201,
+        932202,
+        932203
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9323,
+      "LGJCPENNFBC": [
+        932301,
+        932302
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9324,
+      "LGJCPENNFBC": [
+        932401,
+        932402
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9325,
+      "LGJCPENNFBC": [
+        932501,
+        932502
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9326,
+      "LGJCPENNFBC": [
+        932601,
+        932602
+      ]
+    },
+    {
+      "EALJEIIAEGE": 2001,
+      "LGJCPENNFBC": [
+        200101,
+        200102,
+        200103,
+        200104,
+        200105,
+        200106
+      ]
+    },
+    {
+      "EALJEIIAEGE": 2002,
+      "LGJCPENNFBC": [
+        200201,
+        200202,
+        200203
+      ]
+    },
+    {
+      "EALJEIIAEGE": 2003,
+      "LGJCPENNFBC": [
+        200301,
+        200302,
+        200303
+      ]
+    },
+    {
+      "EALJEIIAEGE": 2004,
+      "LGJCPENNFBC": [
+        200401,
+        200402,
+        200403
+      ]
+    },
+    {
+      "EALJEIIAEGE": 2006,
+      "LGJCPENNFBC": [
+        200601,
+        200602,
+        200603
+      ]
+    },
+    {
+      "EALJEIIAEGE": 2007,
+      "LGJCPENNFBC": [
+        200701,
+        200702,
+        200703,
+        200704,
+        200705
+      ]
+    },
+    {
+      "EALJEIIAEGE": 2008,
+      "LGJCPENNFBC": [
+        200801,
+        200802,
+        200803,
+        200804
+      ]
+    },
+    {
+      "EALJEIIAEGE": 2009,
+      "LGJCPENNFBC": [
+        200901,
+        200902
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9013,
+      "LGJCPENNFBC": [
+        901301,
+        901302,
+        901303
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9014,
+      "LGJCPENNFBC": [
+        901401,
+        901402,
+        901403
+      ]
+    },
+    {
+      "EALJEIIAEGE": 9015,
+      "LGJCPENNFBC": [
+        901501,
+        901502
+      ]
+    }
+  ]
+}

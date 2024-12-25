@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "ADANFMNGGNI": "限定时间内，子弹数量无限"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "ADANFMNGGNI": "限定时间内，回复护盾速率提高（作用char页签shield_recover_speed字段，实际每秒回复速度为基础＋增加值）"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "ADANFMNGGNI": "火力值增加"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "ADANFMNGGNI": "限定时间内，基础攻击力提升y%（作用于gun页签attack字段，实际基础攻击力：基础值*（1＋y%））"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "ADANFMNGGNI": "限定时间内，弹夹容量增加Y（作用于gun页签capacity字段，实际弹夹容量：基础值＋Y）"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "ADANFMNGGNI": "护盾增加"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "ADANFMNGGNI": "限定时间内，每次命中获得的火力值额外增加Y（作用与value页签id=3，实际获取值：基础值＋Y）"
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "ADANFMNGGNI": "限定时间内，攻击弱点部位造成的伤害提高y%（作用于gun页签week_up字段，实际弱点加成为：基础值＋y%"
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "ADANFMNGGNI": "限定时间内，蓄力时间缩短y（作用于gun页签charge_time字段，实际蓄力时间为：基础值-y）"
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "ADANFMNGGNI": "限定时间内，换弹时间缩短y（作用于gun页签reload_time字段，实际蓄力时间为：基础值-y）"
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "ADANFMNGGNI": "限定时间内，射击增加y颗溅射子弹数量（作用于gun页签extra_bullet字段，实际溅射子弹数量为：基础值＋y）"
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "ADANFMNGGNI": "限定时间内，射击的后座力减弱（后坐力读取新的参数配置X|Y)"
+    }
+  ]
+}

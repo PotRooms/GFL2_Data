@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "策定-01",
+      "NBJFMAGJOEE": "BG_None_Carriage_01_02",
+      "KFEADHJBKPO": 1010111
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "策定-02",
+      "NBJFMAGJOEE": "CG_01_Besiege",
+      "KFEADHJBKPO": 1010211
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "策定-03",
+      "NBJFMAGJOEE": "CG_01_Besiege_Change",
+      "KFEADHJBKPO": 1010211
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "策定-04",
+      "NBJFMAGJOEE": "CG_01_Besiege_Appear",
+      "KFEADHJBKPO": 1010211
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "策定-05",
+      "NBJFMAGJOEE": "BG_None_Landing_Dusk_01",
+      "KFEADHJBKPO": 1010331
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "洛特卡方程",
+      "NBJFMAGJOEE": "BG_None_Carriage_04_02",
+      "KFEADHJBKPO": 1018301
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "完形崩溃",
+      "NBJFMAGJOEE": "BG_Yellow_Town_Day_01",
+      "KFEADHJBKPO": 1018401
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": "转移II",
+      "NBJFMAGJOEE": "BG_Yellow_Canyon_Day_01",
+      "KFEADHJBKPO": 1011031
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": "交叉点",
+      "NBJFMAGJOEE": "BG_None_Carriage_Centre_01",
+      "KFEADHJBKPO": 1028101
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": "趋同效应-01",
+      "NBJFMAGJOEE": "BG_None_Carriage_03_06",
+      "KFEADHJBKPO": 1028201
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": "趋同效应-02",
+      "NBJFMAGJOEE": "BG_None_Class_01",
+      "KFEADHJBKPO": 1028301
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": "代价-01",
+      "NBJFMAGJOEE": "CG_02_Nemertea",
+      "KFEADHJBKPO": 1028401
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": "代价-02",
+      "NBJFMAGJOEE": "CG_02_Nemertea_Change",
+      "KFEADHJBKPO": 1028401
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBJAHCGKJJD": "黑天鹅-01",
+      "NBJFMAGJOEE": "CG_02_Nemertea_Attack",
+      "KFEADHJBKPO": 1021021
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HBJAHCGKJJD": "黑天鹅-02",
+      "NBJFMAGJOEE": "CG_02_Nemertea_Disappear",
+      "KFEADHJBKPO": 1021021
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBJAHCGKJJD": "落幕",
+      "NBJFMAGJOEE": "BG_None_Carriage_03_03",
+      "KFEADHJBKPO": 1028501
+    }
+  ]
+}

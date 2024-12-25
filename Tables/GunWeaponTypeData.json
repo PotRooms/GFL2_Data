@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "KGDCGCALBCI": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3109"
+      },
+      "HOHKEHAFONK": "HG",
+      "GFMDILIKGLM": "枪种的描述，不知道要不要，先加着",
+      "DNHAGPFHGCE": "Icon_Weapon_HG",
+      "OKIKOKNKKKJ": "Weapon_HG_None"
+    },
+    {
+      "KGDCGCALBCI": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5040"
+      },
+      "HOHKEHAFONK": "SMG",
+      "GFMDILIKGLM": "枪种的描述，不知道要不要，先加着",
+      "DNHAGPFHGCE": "Icon_Weapon_SMG",
+      "OKIKOKNKKKJ": "Weapon_SMG_None"
+    },
+    {
+      "KGDCGCALBCI": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5041"
+      },
+      "HOHKEHAFONK": "RF",
+      "GFMDILIKGLM": "枪种的描述，不知道要不要，先加着",
+      "DNHAGPFHGCE": "Icon_Weapon_RF",
+      "OKIKOKNKKKJ": "Weapon_RF_None"
+    },
+    {
+      "KGDCGCALBCI": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5042"
+      },
+      "HOHKEHAFONK": "AR",
+      "GFMDILIKGLM": "枪种的描述，不知道要不要，先加着",
+      "DNHAGPFHGCE": "Icon_Weapon_AR",
+      "OKIKOKNKKKJ": "Weapon_AR_None"
+    },
+    {
+      "KGDCGCALBCI": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5043"
+      },
+      "HOHKEHAFONK": "MG",
+      "GFMDILIKGLM": "枪种的描述，不知道要不要，先加着",
+      "DNHAGPFHGCE": "Icon_Weapon_MG",
+      "OKIKOKNKKKJ": "Weapon_MG_None"
+    },
+    {
+      "KGDCGCALBCI": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5273"
+      },
+      "HOHKEHAFONK": "SG",
+      "GFMDILIKGLM": "枪种的描述，不知道要不要，先加着",
+      "DNHAGPFHGCE": "Icon_Weapon_SG",
+      "OKIKOKNKKKJ": "Weapon_SG_None"
+    },
+    {
+      "KGDCGCALBCI": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5275"
+      },
+      "HOHKEHAFONK": "BLD",
+      "GFMDILIKGLM": "枪种的描述，不知道要不要，先加着",
+      "DNHAGPFHGCE": "Icon_Weapon_BLD",
+      "OKIKOKNKKKJ": "Weapon_BLD_None"
+    }
+  ]
+}

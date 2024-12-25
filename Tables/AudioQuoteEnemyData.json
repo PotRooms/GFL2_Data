@@ -1,0 +1,1455 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 20241,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Boss_Ravn_Stun",
+      "DNBHBMLJFJH": [
+        "EN_FB_Ravn"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 68631,
+      "DNBHBMLJFJH": [
+        "EN_SFG_Blusphere02_Summon"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 694101
+    },
+    {
+      "LGJCPENNFBC": 694102
+    },
+    {
+      "LGJCPENNFBC": 694103
+    },
+    {
+      "LGJCPENNFBC": 6311,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisFrontsight",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisFrontsight"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6312,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_GolyatBlack",
+      "DNBHBMLJFJH": [
+        "EN_TX_Golyat"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6313,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_Dinergate",
+      "DNBHBMLJFJH": [
+        "EN_TX_Dinergate",
+        "EN_TX_Golyat"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6314,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisWall",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisWall"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6315,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisMelee",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisMelee"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6316,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisSuppress",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisSuppress"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6317,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_MachineSpider",
+      "DNBHBMLJFJH": [
+        "EN_TX_MachineSpider"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6321,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisFrontsightElectric",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisFrontsight"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6322,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_GolyatElectric",
+      "DNBHBMLJFJH": [
+        "EN_TX_Golyat"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6332,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_GolyatIce",
+      "DNBHBMLJFJH": [
+        "EN_TX_Golyat"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6334,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisWallIce",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisWall"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6340,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisArtillery_SWAP",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisArtillery"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6341,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisEdgeSWAP",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisMelee"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6342,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_ScoutBlack",
+      "DNBHBMLJFJH": [
+        "EN_TX_ScoutElite",
+        "EN_TX_Scout"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6344,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisWallSWAP",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisWall"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6345,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisJetpack",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisWall",
+        "EN_TX_AegisJetpack"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6347,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_AegisLeah",
+      "DNBHBMLJFJH": [
+        "EN_TX_AegisLeah"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6348,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_FlareCerberus",
+      "DNBHBMLJFJH": [
+        "EN_TX_FlareCerberus"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6701,
+      "DNBHBMLJFJH": [
+        "EN_JF_Surveying"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6702,
+      "DNBHBMLJFJH": [
+        "EN_AELG_ExecutionSquadLeader"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6703,
+      "DNBHBMLJFJH": [
+        "EN_AELG_ExecutionSquadMachinist"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6706,
+      "DNBHBMLJFJH": [
+        "EN_JF_Brontes"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6707,
+      "DNBHBMLJFJH": [
+        "EN_JF_Steropes"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6708,
+      "DNBHBMLJFJH": [
+        "EN_JF_Arges"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6709,
+      "DNBHBMLJFJH": [
+        "EN_JF_Doe"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6710,
+      "DNBHBMLJFJH": [
+        "EN_JF_Hydra"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6901,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "None_TankBase",
+      "DNBHBMLJFJH": [
+        "EN_TankBase",
+        "EN_Tank"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6902,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "None_Tank",
+      "DNBHBMLJFJH": [
+        "EN_TankBase",
+        "EN_Tank"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6903,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "None_TankEvo",
+      "DNBHBMLJFJH": [
+        "EN_TankBase",
+        "EN_Tank"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6914,
+      "DNBHBMLJFJH": [
+        "EN_Tank"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6931,
+      "DNBHBMLJFJH": [
+        "EN_MISC_DeepWarship"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6936,
+      "DNBHBMLJFJH": [
+        "EN_MISC_DeepWarship"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6941,
+      "DNBHBMLJFJH": [
+        "EN_MISC_DeepWarship"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6951,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "EberEvents",
+      "DNBHBMLJFJH": [
+        "EN_Eber"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6952,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "EberPig",
+      "DNBHBMLJFJH": [
+        "EN_Eber"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6953,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "EberBird",
+      "DNBHBMLJFJH": [
+        "EN_Eber"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6954,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "EberRhino",
+      "DNBHBMLJFJH": [
+        "EN_Eber"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6971,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crustacean01"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6972,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crustacean03"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6976,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crustacean02"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6977,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crustacean03"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 9006,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_Sextans_Default_Summon01"
+    },
+    {
+      "LGJCPENNFBC": 9008,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_Sextans_Default_Summon03"
+    },
+    {
+      "LGJCPENNFBC": 693601
+    },
+    {
+      "LGJCPENNFBC": 693602
+    },
+    {
+      "LGJCPENNFBC": 693603
+    },
+    {
+      "LGJCPENNFBC": 693604
+    },
+    {
+      "LGJCPENNFBC": 6501,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_ProfFertilizer",
+      "DNBHBMLJFJH": [
+        "EN_Bolidao_ProfFertilizer"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6502,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_DrWeeding",
+      "DNBHBMLJFJH": [
+        "EN_Bolidao_DrWeeding"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6503,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_SCHSmoke",
+      "DNBHBMLJFJH": [
+        "EN_Bolidao_SCHSomke"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6504,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_TtTargeting",
+      "DNBHBMLJFJH": [
+        "EN_Bolidao_TtTargerting"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6541,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_HackerGurad",
+      "DNBHBMLJFJH": [
+        "EN_Bolidao_HackerGuard"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6542,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_ReclamationExpertPhantonMix",
+      "DNBHBMLJFJH": [
+        "EN_Bolidao_ReclamationExpertPhantom"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6551,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_StrangeDoll",
+      "DNBHBMLJFJH": [
+        "EN_Bolidao_StrangeDoll"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 62019,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_TargetMachineKing",
+      "DNBHBMLJFJH": [
+        "EN_TargetMachineKing",
+        "EN_FB_Ravn",
+        "Common_EN_Gold"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 62020,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_TargetMachineN1",
+      "DNBHBMLJFJH": [
+        "Common_EN_Gold"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 62021,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_TargetMachineN2",
+      "DNBHBMLJFJH": [
+        "Common_EN_Gold"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 69011,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "None_TankBaseSummond"
+    },
+    {
+      "LGJCPENNFBC": 69012,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "None_TankSummond"
+    },
+    {
+      "LGJCPENNFBC": 69511,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Eber_Summond01"
+    },
+    {
+      "LGJCPENNFBC": 69531,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Eber_Summond02"
+    },
+    {
+      "LGJCPENNFBC": 69532,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Eber_Summond03"
+    },
+    {
+      "LGJCPENNFBC": 69533,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Eber_Summond04"
+    },
+    {
+      "LGJCPENNFBC": 69534,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Eber_Summond05"
+    },
+    {
+      "LGJCPENNFBC": 10400,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Papasha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10401,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Papasha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10402,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Papasha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10403,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Papasha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10404,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Papasha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10405,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Papasha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10406,
+      "DNBHBMLJFJH": [
+        "C_SSR01_Papasha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 96345,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Thutoad_Summon02"
+    },
+    {
+      "LGJCPENNFBC": 96347,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Hole"
+    },
+    {
+      "LGJCPENNFBC": 6703301
+    },
+    {
+      "LGJCPENNFBC": 6703302
+    },
+    {
+      "LGJCPENNFBC": 6410,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U023Melee",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U023"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6411,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U047SMG",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U047"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6412,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U039Sniper",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U039"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6413,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U015Support",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U015"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6414,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U033Sniper",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U033"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6420,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U023Melee_Fire",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U023"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6421,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U047SMG_Fire",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U047"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6422,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U039Sniper_Fire",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U039"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6423,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U015Support_Fire",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U015"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6430,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U023Melee_Poison",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U023"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6431,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U047SMG_Poison",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U047",
+        "EN_PLDS_U023"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6432,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U039Sniper_Poison",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U039",
+        "EN_PLDS_U023"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6433,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_U015Support_Poison",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_U015"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6441,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_Niter249",
+      "GPGIMPIBOAJ": 13001,
+      "DNBHBMLJFJH": [
+        "EN_PLDS_Niter"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6442,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_UnitasIon",
+      "GPGIMPIBOAJ": 13003,
+      "DNBHBMLJFJH": [
+        "EN_PLDS_Unitasion"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6443,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_UnitasIonN2",
+      "GPGIMPIBOAJ": 13003,
+      "DNBHBMLJFJH": [
+        "EN_PLDS_Unitasion"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6481,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_Bellator137",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_Unitasion"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6482,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "PLDS_Bellator212",
+      "DNBHBMLJFJH": [
+        "EN_PLDS_Unitasion"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6601,
+      "DNBHBMLJFJH": [
+        "EN_MotorDrivenN1"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6602,
+      "DNBHBMLJFJH": [
+        "EN_MotorDrivenN2"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6603,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "None_MotorDrivenN3",
+      "DNBHBMLJFJH": [
+        "EN_MotorDrivenN3",
+        "EN_MotorDrivenN2"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6604,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "None_MotorDrivenN4",
+      "DNBHBMLJFJH": [
+        "EN_MotorDrivenN4",
+        "EN_MotorDrivenN2"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6641,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "None_MotorDrivenLightning",
+      "DNBHBMLJFJH": [
+        "EN_None_MotorDrivenLightning",
+        "EN_MotorDrivenN2"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7001,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_Explosive"
+    },
+    {
+      "LGJCPENNFBC": 7002,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_Turret_Gatling",
+      "DNBHBMLJFJH": [
+        "EN_MISC_Turret",
+        "Gatling"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7003,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_TurretGrenade",
+      "DNBHBMLJFJH": [
+        "EN_MISC_Turret"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7004,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_Jerrican"
+    },
+    {
+      "LGJCPENNFBC": 7005,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_GasCylinders"
+    },
+    {
+      "LGJCPENNFBC": 7006,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_TurretDefense"
+    },
+    {
+      "LGJCPENNFBC": 7007,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_TurretGrenade"
+    },
+    {
+      "LGJCPENNFBC": 7008,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_MachineGun_orange"
+    },
+    {
+      "LGJCPENNFBC": 7009,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_MachineGun_white"
+    },
+    {
+      "LGJCPENNFBC": 7011,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_EnemyTokenWarning"
+    },
+    {
+      "LGJCPENNFBC": 7013,
+      "AGGGHKFNKKL": "JerricanWater",
+      "DNBHBMLJFJH": [
+        "EN_JerricanWater"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7014,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Nemertea_Summon01"
+    },
+    {
+      "LGJCPENNFBC": 7015,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Roadblock",
+      "DNBHBMLJFJH": [
+        "EN_ELID_Roadblock"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7016,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bastion",
+      "DNBHBMLJFJH": [
+        "EN_Obj_Bastion"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7017,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Thutoad_Summon01"
+    },
+    {
+      "LGJCPENNFBC": 7018,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_Darture_evo_Summon01"
+    },
+    {
+      "LGJCPENNFBC": 7021,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_Landmine_01"
+    },
+    {
+      "LGJCPENNFBC": 7022,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_SpawnerLite",
+      "DNBHBMLJFJH": [
+        "EN_Elid_Spawner"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7023,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_SpawnerStandard",
+      "DNBHBMLJFJH": [
+        "EN_Elid_Spawner"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7024,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_MacrophageSpawner",
+      "DNBHBMLJFJH": [
+        "EN_Elid_Spawner"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 654201,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_ReclamationExpertPhantonMix"
+    },
+    {
+      "LGJCPENNFBC": 654202,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Bolidao_ReclamationExpertPhantonMix"
+    },
+    {
+      "LGJCPENNFBC": 10501,
+      "DNBHBMLJFJH": [
+        "C_SSR01_ZhaoHui"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 66021
+    },
+    {
+      "LGJCPENNFBC": 68721,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Mecha_Device"
+    },
+    {
+      "LGJCPENNFBC": 68731,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Mecha_Device2"
+    },
+    {
+      "LGJCPENNFBC": 96141,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_FeladeCaptain"
+    },
+    {
+      "LGJCPENNFBC": 7101,
+      "DNBHBMLJFJH": [
+        "EN_MGDroneR01"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 69722
+    },
+    {
+      "LGJCPENNFBC": 69723
+    },
+    {
+      "LGJCPENNFBC": 69724
+    },
+    {
+      "LGJCPENNFBC": 697101
+    },
+    {
+      "LGJCPENNFBC": 697102
+    },
+    {
+      "LGJCPENNFBC": 697103
+    },
+    {
+      "LGJCPENNFBC": 697104
+    },
+    {
+      "LGJCPENNFBC": 5015,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_VepleySSR01"
+    },
+    {
+      "LGJCPENNFBC": 5031,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_CharolicSR01"
+    },
+    {
+      "LGJCPENNFBC": 5032,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_NemesisSR01"
+    },
+    {
+      "LGJCPENNFBC": 5033,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_ColphneSR01"
+    },
+    {
+      "LGJCPENNFBC": 5035,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_GrozaSR01"
+    },
+    {
+      "LGJCPENNFBC": 5036,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_PerityaSSR01"
+    },
+    {
+      "LGJCPENNFBC": 5039,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_SharkrySR01"
+    },
+    {
+      "LGJCPENNFBC": 5040,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_CheetaSR01"
+    },
+    {
+      "LGJCPENNFBC": 5041,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_TololoSSR01"
+    },
+    {
+      "LGJCPENNFBC": 5042,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_NagantSR01"
+    },
+    {
+      "LGJCPENNFBC": 5043,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_QiongjiuSSR01"
+    },
+    {
+      "LGJCPENNFBC": 5044,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_CentaureissiSSR01"
+    },
+    {
+      "LGJCPENNFBC": 5045,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_SabrinaSSR01"
+    },
+    {
+      "LGJCPENNFBC": 5046,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "RX_DaiyanSSR01"
+    },
+    {
+      "LGJCPENNFBC": 6110,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Felade",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_ZY",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6111,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Felaskju",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_ZY",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6112,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Felaste",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_ZY",
+        "Gun_HG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6113,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Svejk",
+      "DNBHBMLJFJH": [
+        "EN_FB_Svejk",
+        "Gun_MG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6114,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Guard",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "Gun_HG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6115,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Heal",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "Gun_HG",
+        "EN_FB_Heal"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6116,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Pincer",
+      "GPGIMPIBOAJ": 12001
+    },
+    {
+      "LGJCPENNFBC": 6120,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Felade_Fire",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_ZY",
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6121,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Felaskju_Fire",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_ZY",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6122,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Felaste_Fire",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_ZY",
+        "Gun_HG",
+        "EN_FB_Felaste"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6130,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Felade_Electric",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "Gun_SMG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6131,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Felaskju_Electric",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_ZY",
+        "Gun_RF"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6141,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_FeladeCaptain",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "Gun_SMG",
+        "EN_FB_Felaste",
+        "EN_FB_ZY"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6143,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Commander",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_Commander"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6144,
+      "DNBHBMLJFJH": [
+        "EN_FB_Hammer"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6145,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Imbiber",
+      "GPGIMPIBOAJ": 12001,
+      "DNBHBMLJFJH": [
+        "EN_FB_Imbiber"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6151,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Boss_Tosk",
+      "GPGIMPIBOAJ": 12003,
+      "DNBHBMLJFJH": [
+        "EN_FB_Ravn"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6166,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Ironside",
+      "DNBHBMLJFJH": [
+        "EN_FB_Ironside"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6169,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Boss_Ravn",
+      "GPGIMPIBOAJ": 12003,
+      "DNBHBMLJFJH": [
+        "EN_FB_Ravn"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6171,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "FB_Oljefat",
+      "GPGIMPIBOAJ": 12002,
+      "DNBHBMLJFJH": [
+        "EN_FB_Oljefat"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6851,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_Darture",
+      "GPGIMPIBOAJ": 11003,
+      "DNBHBMLJFJH": [
+        "EN_CF_Darture",
+        "EN_PLDS_Unitasion"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6852,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_Darture_evo",
+      "GPGIMPIBOAJ": 11004,
+      "DNBHBMLJFJH": [
+        "EN_CF_Darture",
+        "EN_PLDS_Unitasion"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6853,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_Sextans",
+      "GPGIMPIBOAJ": 110001,
+      "DNBHBMLJFJH": [
+        "EN_CF_Sextans",
+        "Gun_HG"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6858,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "CF_LoseSextans",
+      "GPGIMPIBOAJ": 11005,
+      "DNBHBMLJFJH": [
+        "EN_CF_LoseSextans"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6863,
+      "GPGIMPIBOAJ": 15001,
+      "DNBHBMLJFJH": [
+        "EN_SFG_Blusphere02"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6871,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Mecha_Support",
+      "DNBHBMLJFJH": [
+        "EN_Mecha",
+        "C_SR01_Groza",
+        "C_SR_Cheeta"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6872,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Mecha_Supperess",
+      "DNBHBMLJFJH": [
+        "EN_Mecha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6873,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Mecha_Guard",
+      "DNBHBMLJFJH": [
+        "EN_Mecha"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 693101
+    },
+    {
+      "LGJCPENNFBC": 693102
+    },
+    {
+      "LGJCPENNFBC": 693103
+    },
+    {
+      "LGJCPENNFBC": 1000,
+      "OGOGBEELNGG": 1,
+      "AGGGHKFNKKL": "PlayerToken"
+    },
+    {
+      "LGJCPENNFBC": 6201,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_ThutoadIce",
+      "GPGIMPIBOAJ": 14005,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Thutoad"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6210,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_HammerThorn",
+      "GPGIMPIBOAJ": 14002,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Thorn"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6211,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_ThutoadPoison",
+      "GPGIMPIBOAJ": 14005,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Thutoad",
+        "EN_ELID_Crocodeer"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6213,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Crismole",
+      "GPGIMPIBOAJ": 14003,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crismole",
+        "EN_ELID_Pitsard"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6214,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Crocodeer",
+      "GPGIMPIBOAJ": 14001,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crocodeer",
+        "EN_ELID_Thutoad",
+        "C_SSR01_Vepley"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6215,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_BombBug",
+      "GPGIMPIBOAJ": 14004,
+      "DNBHBMLJFJH": [
+        "EN_ELID_LycosaSingoriensis",
+        "EN_ELID_BombBug"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6216,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Bat",
+      "GPGIMPIBOAJ": 14006,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Bat"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6217,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Obshare",
+      "DNBHBMLJFJH": [
+        "EN_ELID_Obshare"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6220,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_HammerThornWater",
+      "GPGIMPIBOAJ": 14002,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Thorn"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6224,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_CrocodeerWater",
+      "GPGIMPIBOAJ": 14001,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crocodeer",
+        "EN_ELID_Thutoad"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6234,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_CrocodeerPoison",
+      "GPGIMPIBOAJ": 14001,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crocodeer",
+        "EN_ELID_Thutoad"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6241,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_ArrowThornElite",
+      "GPGIMPIBOAJ": 14002,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Thorn"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6242,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_CrismoleElite",
+      "GPGIMPIBOAJ": 14003,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Crismole"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6243,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_HammerThornElite",
+      "GPGIMPIBOAJ": 14002,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Thorn"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6244,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Spider",
+      "GPGIMPIBOAJ": 14004,
+      "DNBHBMLJFJH": [
+        "EN_ELID_LycosaSingoriensis"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6245,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Spider_Little",
+      "GPGIMPIBOAJ": 14004,
+      "DNBHBMLJFJH": [
+        "EN_ELID_LycosaSingoriensis"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6246,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Nemertea",
+      "GPGIMPIBOAJ": 14007,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Nemertea",
+        "EN_ELID_Crocodeer"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6247,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "Elid_ScophinxMoths",
+      "DNBHBMLJFJH": [
+        "EN_Elid_ScophinxMoths"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6248,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_Nemertea",
+      "GPGIMPIBOAJ": 14007,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Nemertea",
+        "EN_ELID_Crocodeer"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6250,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_EliteButterfly",
+      "DNBHBMLJFJH": [
+        "EN_ELID_EliteButterfly"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6273,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "ELID_CrismoleSummon"
+    },
+    {
+      "LGJCPENNFBC": 6282,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Sheepsheas_Dinosaur"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6283,
+      "DNBHBMLJFJH": [
+        "EN_ELID_Sheepsheas_Dinosaur"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 66347,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "TX_SmallGoliath",
+      "DNBHBMLJFJH": [
+        "EN_TX_Golyat"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 68521,
+      "OGOGBEELNGG": 2,
+      "AGGGHKFNKKL": "MISC_EnemyBeTokenWarning"
+    }
+  ]
+}

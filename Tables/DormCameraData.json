@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 101,
+      "MCAEEGKLLEB": "FixCamera_101",
+      "PBJGEMDCPLM": 1,
+      "EIFLIADCOLD": [
+        101,
+        105
+      ],
+      "JOBCIOALNEE": 1,
+      "IHMOBBDJNEM": [
+        0,
+        360
+      ]
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "MCAEEGKLLEB": "FixCamera_102",
+      "PBJGEMDCPLM": 1,
+      "EIFLIADCOLD": [
+        103,
+        104,
+        106
+      ],
+      "JOBCIOALNEE": 1,
+      "IHMOBBDJNEM": [
+        0,
+        360
+      ]
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "MCAEEGKLLEB": "FixCamera_103",
+      "PBJGEMDCPLM": 1,
+      "EIFLIADCOLD": [
+        102
+      ],
+      "JOBCIOALNEE": 1,
+      "IHMOBBDJNEM": [
+        0,
+        360
+      ]
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "MCAEEGKLLEB": "FixCamera_201",
+      "PBJGEMDCPLM": 1,
+      "EIFLIADCOLD": [
+        1,
+        8
+      ],
+      "JOBCIOALNEE": 2,
+      "IHMOBBDJNEM": [
+        0,
+        360
+      ]
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "MCAEEGKLLEB": "FixCamera_202",
+      "PBJGEMDCPLM": 1,
+      "EIFLIADCOLD": [
+        2,
+        5,
+        6,
+        7
+      ],
+      "JOBCIOALNEE": 2,
+      "IHMOBBDJNEM": [
+        0,
+        360
+      ]
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "MCAEEGKLLEB": "FixCamera_203",
+      "PBJGEMDCPLM": 1,
+      "EIFLIADCOLD": [
+        3,
+        4
+      ],
+      "JOBCIOALNEE": 2,
+      "IHMOBBDJNEM": [
+        0,
+        360
+      ]
+    },
+    {
+      "LGJCPENNFBC": 301,
+      "MCAEEGKLLEB": "FixCamera_301",
+      "PBJGEMDCPLM": 1,
+      "EIFLIADCOLD": [
+        301
+      ],
+      "JOBCIOALNEE": 3,
+      "IHMOBBDJNEM": [
+        0,
+        360
+      ]
+    },
+    {
+      "LGJCPENNFBC": 302,
+      "MCAEEGKLLEB": "FixCamera_302",
+      "PBJGEMDCPLM": 1,
+      "EIFLIADCOLD": [
+        302,
+        303,
+        304,
+        305
+      ],
+      "JOBCIOALNEE": 3,
+      "IHMOBBDJNEM": [
+        0,
+        360
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1101,
+      "MCAEEGKLLEB": "PlotCamera_101",
+      "PBJGEMDCPLM": 2,
+      "EIFLIADCOLD": [
+        101,
+        102,
+        103
+      ],
+      "JOBCIOALNEE": 1
+    },
+    {
+      "LGJCPENNFBC": 1102,
+      "MCAEEGKLLEB": "PlotCamera_102",
+      "PBJGEMDCPLM": 2,
+      "EIFLIADCOLD": [
+        104,
+        105,
+        106
+      ],
+      "JOBCIOALNEE": 1
+    },
+    {
+      "LGJCPENNFBC": 1211,
+      "MCAEEGKLLEB": "PlotCamera_211",
+      "PBJGEMDCPLM": 2,
+      "EIFLIADCOLD": [
+        3,
+        4,
+        6,
+        8
+      ],
+      "JOBCIOALNEE": 2,
+      "OHBLMCPFJAC": 1
+    },
+    {
+      "LGJCPENNFBC": 1212,
+      "MCAEEGKLLEB": "PlotCamera_212",
+      "PBJGEMDCPLM": 2,
+      "EIFLIADCOLD": [
+        1,
+        2,
+        5,
+        7
+      ],
+      "JOBCIOALNEE": 2
+    }
+  ]
+}

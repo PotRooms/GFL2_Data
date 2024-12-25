@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 101,
+      "PIBIGIIMLKA": 1,
+      "EAGCNKJNIMD": "c_Mayling_greet",
+      "LMDJKJCPJHF": "队长你们安心战斗就好啦，维护交给我~",
+      "KPLONAEONLA": 7200113
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "PIBIGIIMLKA": 1,
+      "EAGCNKJNIMD": "c_Mayling_greet02",
+      "LMDJKJCPJHF": "如、如果有什么我可以帮忙，请告诉我。",
+      "KPLONAEONLA": 7200102
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "PIBIGIIMLKA": 1,
+      "EAGCNKJNIMD": "c_Mayling_greet02",
+      "LMDJKJCPJHF": "报告指挥官，一、一切准备就绪！",
+      "KPLONAEONLA": 7200112
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "PIBIGIIMLKA": 2,
+      "EAGCNKJNIMD": "c_Mayling_idle_selfactA"
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "PIBIGIIMLKA": 2,
+      "EAGCNKJNIMD": "c_Mayling_idle_selfactB",
+      "GJMMMCLGIMD": 1
+    }
+  ]
+}

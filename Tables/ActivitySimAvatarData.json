@@ -1,0 +1,228 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 1001,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "Springfield",
+      "OPALJMAODEB": 21002
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 1002,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "Centaureissi",
+      "OPALJMAODEB": 21001
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 1003,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "customer_reporter",
+      "OPALJMAODEB": 21003
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 1004,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "customer_gourmet",
+      "OPALJMAODEB": 21004
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 1005,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "customer_artist",
+      "OPALJMAODEB": 21005
+    },
+    {
+      "LGJCPENNFBC": 2001,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2001,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_builder",
+      "OPALJMAODEB": 22001
+    },
+    {
+      "LGJCPENNFBC": 2002,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2002,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_designer",
+      "OPALJMAODEB": 22002
+    },
+    {
+      "LGJCPENNFBC": 2003,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2003,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_engineer",
+      "OPALJMAODEB": 22003
+    },
+    {
+      "LGJCPENNFBC": 2004,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2004,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_PM",
+      "OPALJMAODEB": 22004
+    },
+    {
+      "LGJCPENNFBC": 2005,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2005,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_handyman",
+      "OPALJMAODEB": 22005
+    },
+    {
+      "LGJCPENNFBC": 2006,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2006,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_desserter",
+      "OPALJMAODEB": 22006
+    },
+    {
+      "LGJCPENNFBC": 2007,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2007,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_chief",
+      "OPALJMAODEB": 22007
+    },
+    {
+      "LGJCPENNFBC": 2008,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2008,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_shopkeeper",
+      "OPALJMAODEB": 22008
+    },
+    {
+      "LGJCPENNFBC": 2009,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2009,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_TA",
+      "OPALJMAODEB": 22009
+    },
+    {
+      "LGJCPENNFBC": 2010,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2010,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_lecturer",
+      "OPALJMAODEB": 22010
+    },
+    {
+      "LGJCPENNFBC": 2011,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2011,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_professor",
+      "OPALJMAODEB": 22011
+    },
+    {
+      "LGJCPENNFBC": 2012,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 2012,
+      "HPEODMCEOJB": 2,
+      "BFECHIINHEI": "customer_headmaster",
+      "OPALJMAODEB": 22012
+    },
+    {
+      "LGJCPENNFBC": 3001,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 3001,
+      "HPEODMCEOJB": 3,
+      "BFECHIINHEI": "Daiyan",
+      "OPALJMAODEB": 23001
+    },
+    {
+      "LGJCPENNFBC": 3002,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 3002,
+      "HPEODMCEOJB": 3,
+      "BFECHIINHEI": "Chaohui",
+      "OPALJMAODEB": 23002
+    },
+    {
+      "LGJCPENNFBC": 3003,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 3003,
+      "HPEODMCEOJB": 3,
+      "BFECHIINHEI": "Jiangyu",
+      "OPALJMAODEB": 23003
+    },
+    {
+      "LGJCPENNFBC": 3004,
+      "PEBFFKKEGBD": 102,
+      "ACDLJLCPFOB": 3004,
+      "HPEODMCEOJB": 3,
+      "BFECHIINHEI": "Cheeta",
+      "OPALJMAODEB": 23004
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "PEBFFKKEGBD": 101,
+      "ACDLJLCPFOB": 1001,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "Springfield",
+      "OPALJMAODEB": 11002
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "PEBFFKKEGBD": 101,
+      "ACDLJLCPFOB": 1002,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "Centaureissi",
+      "OPALJMAODEB": 11001
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "PEBFFKKEGBD": 101,
+      "ACDLJLCPFOB": 1003,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "customer_reporter",
+      "OPALJMAODEB": 11003
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "PEBFFKKEGBD": 101,
+      "ACDLJLCPFOB": 1004,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "customer_gourmet",
+      "OPALJMAODEB": 11004
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "PEBFFKKEGBD": 101,
+      "ACDLJLCPFOB": 1005,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "customer_artist",
+      "OPALJMAODEB": 11005
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "PEBFFKKEGBD": 101,
+      "ACDLJLCPFOB": 2008,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "customer_shopkeeper",
+      "OPALJMAODEB": 11006
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "PEBFFKKEGBD": 101,
+      "ACDLJLCPFOB": 2012,
+      "HPEODMCEOJB": 1,
+      "BFECHIINHEI": "customer_headmaster",
+      "OPALJMAODEB": 11007
+    }
+  ]
+}

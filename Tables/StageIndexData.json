@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3167"
+      },
+      "OPOCDFFKJAL": "MAIN STORY",
+      "JCICKJAEAKF": 1,
+      "BKCIGACKEFD": 1,
+      "ONMLALFGEDE": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "FGFLIIMLBKA": [
+        26
+      ],
+      "LKFJOIOBOHD": "Img_BattleIndexBg_Plot",
+      "BBEFAMPMEFL": 21
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5350"
+      },
+      "OPOCDFFKJAL": "RESOURCES",
+      "JCICKJAEAKF": 4,
+      "BKCIGACKEFD": 2,
+      "ONMLALFGEDE": [
+        32,
+        24,
+        30,
+        25,
+        50,
+        35
+      ],
+      "LKFJOIOBOHD": "Img_BattleIndexBg_Sim",
+      "KFEADHJBKPO": 10999,
+      "BBEFAMPMEFL": 24
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5353"
+      },
+      "OPOCDFFKJAL": "miao",
+      "JCICKJAEAKF": 3,
+      "BKCIGACKEFD": 2,
+      "ONMLALFGEDE": [
+        21,
+        31,
+        22,
+        41,
+        20
+      ],
+      "LKFJOIOBOHD": "Img_BattleIndexBg_Sim",
+      "KFEADHJBKPO": 10998,
+      "BBEFAMPMEFL": 23
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5512"
+      },
+      "OPOCDFFKJAL": "BRANCH STORY",
+      "JCICKJAEAKF": 2,
+      "BKCIGACKEFD": 1,
+      "ONMLALFGEDE": [
+        3010,
+        3011,
+        3008
+      ],
+      "LKFJOIOBOHD": "Img_BattleIndexBg_Sim",
+      "KFEADHJBKPO": 10997,
+      "BBEFAMPMEFL": 22,
+      "BBLEKNIEAKJ": [
+        9001,
+        9001,
+        4001
+      ]
+    }
+  ]
+}

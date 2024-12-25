@@ -1,0 +1,308 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 110,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "3202"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "5733"
+      },
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab//Caifa_Turret_Switch.prefab",
+      "OBKPOBJOJBI": 1042
+    },
+    {
+      "LGJCPENNFBC": 111,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "5734"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "7005"
+      },
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab//Caifa_Turret_Switch.prefab",
+      "OBKPOBJOJBI": 1043
+    },
+    {
+      "LGJCPENNFBC": 112,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "7529"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "8272"
+      },
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "OBKPOBJOJBI": 1042
+    },
+    {
+      "LGJCPENNFBC": 1041,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "8615"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9409"
+      },
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Add.prefab",
+      "OBKPOBJOJBI": 1007
+    },
+    {
+      "LGJCPENNFBC": 1042,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9410"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9411"
+      },
+      "LOMMJHDDGBF": 2,
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "OBKPOBJOJBI": 50703
+    },
+    {
+      "LGJCPENNFBC": 1087,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9412"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9413"
+      },
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Armor.prefab",
+      "OBKPOBJOJBI": 1097
+    },
+    {
+      "LGJCPENNFBC": 1088,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9414"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9525"
+      },
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Entropy.prefab",
+      "OBKPOBJOJBI": 1098
+    },
+    {
+      "LGJCPENNFBC": 1089,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9526"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9527"
+      },
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_AP.prefab",
+      "OBKPOBJOJBI": 1099
+    },
+    {
+      "LGJCPENNFBC": 90001,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9528"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9529"
+      },
+      "ALLHIBPKKFH": "Assets/ArtsResource/Scene/Items/GuideArea.prefab",
+      "OBKPOBJOJBI": 1001
+    },
+    {
+      "LGJCPENNFBC": 90002,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9530"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9531"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/UI/SLGInteraction/bomb_bundle/bomb_bundle.prefab",
+      "OBKPOBJOJBI": 1014
+    },
+    {
+      "LGJCPENNFBC": 90003,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9532"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9532"
+      },
+      "LOMMJHDDGBF": 2,
+      "ALLHIBPKKFH": "ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_Landmine_01/Dz_dio_Landmine_01.prefab",
+      "OBKPOBJOJBI": 1015
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "4532"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9533"
+      },
+      "LOMMJHDDGBF": 1,
+      "ALLHIBPKKFH": "ArtsResource/Scene/Items/GuideArea.prefab",
+      "OBKPOBJOJBI": 1001
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9534"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1002
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9535"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9536"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1008
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "5949"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9537"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1002
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "5709"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9538"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1009
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9539"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9540"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1010
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9541"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9542"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1011
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9530"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9531"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1013
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "7458"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9543"
+      },
+      "LOMMJHDDGBF": 2,
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Ammo.prefab",
+      "OBKPOBJOJBI": 1004
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9544"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9545"
+      },
+      "LOMMJHDDGBF": 2,
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_MedKit.prefab",
+      "OBKPOBJOJBI": 1005
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9546"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9547"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 99000005
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9548"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9549"
+      },
+      "LOMMJHDDGBF": 2,
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Daoran.prefab",
+      "OBKPOBJOJBI": 1007
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9550"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9551"
+      },
+      "LOMMJHDDGBF": 2,
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+      "OBKPOBJOJBI": 1006
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9552"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9553"
+      },
+      "ALLHIBPKKFH": "ConfigPrefab/OtherPrefab/FunctionalBox_Dispel.prefab",
+      "OBKPOBJOJBI": 99000005
+    },
+    {
+      "LGJCPENNFBC": 108,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "4501"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9534"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1003
+    },
+    {
+      "LGJCPENNFBC": 109,
+      "AOPMFIAJHPC": {
+        "DOHLNDIPHAJ": "9554"
+      },
+      "MELFKCIAMEM": {
+        "DOHLNDIPHAJ": "9555"
+      },
+      "ALLHIBPKKFH": "ArtsResource/Effect/Effect_sum/Scene/SLGInteraction.prefab",
+      "OBKPOBJOJBI": 1008
+    }
+  ]
+}

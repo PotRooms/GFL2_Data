@@ -1,0 +1,306 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 81011,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8904"
+      },
+      "KHGHKKKAAOA": [
+        1,
+        5
+      ],
+      "AECHFNFFIDE": [
+        2024,
+        61131
+      ],
+      "EMLOEMPHKIF": [
+        21,
+        21
+      ],
+      "KEIPDHICHJM": "Monster_Head_Ravn"
+    },
+    {
+      "LGJCPENNFBC": 81012,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8905"
+      },
+      "KHGHKKKAAOA": [
+        5,
+        1
+      ],
+      "AECHFNFFIDE": [
+        6854,
+        63172
+      ],
+      "EMLOEMPHKIF": [
+        22,
+        22
+      ],
+      "KEIPDHICHJM": "Monster_Head_Sextans_default"
+    },
+    {
+      "LGJCPENNFBC": 81013,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "6203"
+      },
+      "KHGHKKKAAOA": [
+        1,
+        2
+      ],
+      "AECHFNFFIDE": [
+        2017,
+        63131
+      ],
+      "EMLOEMPHKIF": [
+        24,
+        24
+      ],
+      "KEIPDHICHJM": "Monster_Head_Darture_default"
+    },
+    {
+      "LGJCPENNFBC": 81014,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8638"
+      },
+      "KHGHKKKAAOA": [
+        2,
+        4
+      ],
+      "AECHFNFFIDE": [
+        6281,
+        61112
+      ],
+      "EMLOEMPHKIF": [
+        26,
+        26
+      ],
+      "KEIPDHICHJM": "Monster_Head_Mecha_Support"
+    },
+    {
+      "LGJCPENNFBC": 81015,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8915"
+      },
+      "KHGHKKKAAOA": [
+        2,
+        4,
+        5
+      ],
+      "AECHFNFFIDE": [
+        6952,
+        2022,
+        61121
+      ],
+      "EMLOEMPHKIF": [
+        28,
+        28,
+        28
+      ],
+      "KEIPDHICHJM": "Monster_Head_Eber_Pig"
+    },
+    {
+      "LGJCPENNFBC": 81016,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8916"
+      },
+      "KHGHKKKAAOA": [
+        2,
+        3,
+        5
+      ],
+      "AECHFNFFIDE": [
+        6348,
+        63511,
+        63521
+      ],
+      "EMLOEMPHKIF": [
+        30,
+        30,
+        30
+      ],
+      "KEIPDHICHJM": "Monster_Head_FlareCerberus"
+    },
+    {
+      "LGJCPENNFBC": 81017,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8917"
+      },
+      "KHGHKKKAAOA": [
+        1,
+        2,
+        3
+      ],
+      "AECHFNFFIDE": [
+        6166,
+        61102
+      ],
+      "EMLOEMPHKIF": [
+        32,
+        32
+      ],
+      "KEIPDHICHJM": "Monster_Head_Ironside"
+    },
+    {
+      "LGJCPENNFBC": 891011,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8918"
+      },
+      "KHGHKKKAAOA": [
+        1,
+        4,
+        5
+      ],
+      "AECHFNFFIDE": [
+        2024,
+        61131,
+        61142
+      ],
+      "EMLOEMPHKIF": [
+        27,
+        27,
+        27
+      ],
+      "KEIPDHICHJM": "Monster_Head_Ravn"
+    },
+    {
+      "LGJCPENNFBC": 891012,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8919"
+      },
+      "KHGHKKKAAOA": [
+        1,
+        2,
+        5
+      ],
+      "AECHFNFFIDE": [
+        6854,
+        63112,
+        63342
+      ],
+      "EMLOEMPHKIF": [
+        28,
+        28,
+        28
+      ],
+      "KEIPDHICHJM": "Monster_Head_Sextans_default"
+    },
+    {
+      "LGJCPENNFBC": 891013,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8920"
+      },
+      "KHGHKKKAAOA": [
+        2,
+        4,
+        5
+      ],
+      "AECHFNFFIDE": [
+        2017,
+        63131,
+        2018
+      ],
+      "EMLOEMPHKIF": [
+        30,
+        30,
+        30
+      ],
+      "KEIPDHICHJM": "Monster_Head_Darture_default"
+    },
+    {
+      "LGJCPENNFBC": 891014,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8921"
+      },
+      "KHGHKKKAAOA": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "AECHFNFFIDE": [
+        6281,
+        61222,
+        61312
+      ],
+      "EMLOEMPHKIF": [
+        32,
+        32,
+        32
+      ],
+      "KEIPDHICHJM": "Monster_Head_Mecha_Support"
+    },
+    {
+      "LGJCPENNFBC": 891015,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8922"
+      },
+      "KHGHKKKAAOA": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "AECHFNFFIDE": [
+        6952,
+        63112,
+        63152,
+        63342
+      ],
+      "EMLOEMPHKIF": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "KEIPDHICHJM": "Monster_Head_Eber_Pig"
+    },
+    {
+      "LGJCPENNFBC": 891016,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8923"
+      },
+      "KHGHKKKAAOA": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "AECHFNFFIDE": [
+        6348,
+        63112,
+        63152,
+        63162
+      ],
+      "EMLOEMPHKIF": [
+        36,
+        36,
+        36,
+        36
+      ],
+      "KEIPDHICHJM": "Monster_Head_FlareCerberus"
+    },
+    {
+      "LGJCPENNFBC": 891017,
+      "NCBEEKHNBLP": {
+        "DOHLNDIPHAJ": "8924"
+      },
+      "KHGHKKKAAOA": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "AECHFNFFIDE": [
+        6166,
+        61132,
+        63343
+      ],
+      "EMLOEMPHKIF": [
+        38,
+        38,
+        38
+      ],
+      "KEIPDHICHJM": "Monster_Head_Ironside"
+    }
+  ]
+}

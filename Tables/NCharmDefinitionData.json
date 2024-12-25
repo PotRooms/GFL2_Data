@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "知识",
+      "IDEHCKDCNAD": [
+        200,
+        400,
+        600,
+        800
+      ],
+      "GCIGGBELAEB": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "运动",
+      "IDEHCKDCNAD": [
+        200,
+        400,
+        600,
+        800
+      ],
+      "GCIGGBELAEB": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "魅力",
+      "IDEHCKDCNAD": [
+        200,
+        400,
+        600,
+        800
+      ],
+      "GCIGGBELAEB": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "勇气",
+      "IDEHCKDCNAD": [
+        200,
+        400,
+        600,
+        800
+      ],
+      "GCIGGBELAEB": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "DCCEKKIBIDJ": "吸血LV1",
+      "NPKGOGGMGNB": "攻击成功后，恢复自身1点生命",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 1,
+      "OEDIMEFNJDD": "1:1"
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "DCCEKKIBIDJ": "窃取LV1",
+      "NPKGOGGMGNB": "无论攻击是否成功，窃取目标1点防御，持续3回合，可叠加",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 2,
+      "OEDIMEFNJDD": "1:11,2:12"
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "DCCEKKIBIDJ": "窃取LV1",
+      "NPKGOGGMGNB": "无论攻击是否成功，窃取目标1点攻击，持续3回合，可叠加",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 2,
+      "OEDIMEFNJDD": "1:9,2:10"
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "DCCEKKIBIDJ": "撞击LV1",
+      "NPKGOGGMGNB": "攻击成功后，击退目标2格，若发生碰撞，则使碰撞双方受到6点生命损失",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 1,
+      "OEDIMEFNJDD": "2:2,6:3"
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "DCCEKKIBIDJ": "推离LV2",
+      "NPKGOGGMGNB": "攻击成功后，选择一个方向，将目标推开1-2格",
+      "BGJLBOBBFOB": 2,
+      "CIEFBDODCMP": 1,
+      "OEDIMEFNJDD": "2:4"
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "DCCEKKIBIDJ": "能量增援LV1",
+      "NPKGOGGMGNB": "每当自身回合开始时，有30%概率获得1点额外能量，上限2点，可叠加",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 3,
+      "OEDIMEFNJDD": "1:17"
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "DCCEKKIBIDJ": "干扰LV1",
+      "NPKGOGGMGNB": "选择1张对方的任务牌，放回牌库",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 4,
+      "OEDIMEFNJDD": "4:6"
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "DCCEKKIBIDJ": "范围伤害Ⅰ",
+      "NPKGOGGMGNB": "对范围内的敌方单位，扣除1点生命",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 4,
+      "OEDIMEFNJDD": "2:7"
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "DCCEKKIBIDJ": "控制Ⅰ",
+      "NPKGOGGMGNB": "获取一个敌方单位控制权，直至该单位死亡为止",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 4,
+      "OEDIMEFNJDD": "2:8"
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "DCCEKKIBIDJ": "范围减攻Ⅰ",
+      "NPKGOGGMGNB": "对范围内的敌方单位，扣除1点攻击，持续3回合",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 4,
+      "OEDIMEFNJDD": "2:10"
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "DCCEKKIBIDJ": "范围减防Ⅰ",
+      "NPKGOGGMGNB": "对范围内的敌方单位，扣除1点防御，持续3回合",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 4,
+      "OEDIMEFNJDD": "2:12"
+    },
+    {
+      "LGJCPENNFBC": 2001,
+      "DCCEKKIBIDJ": "陷阱减防",
+      "NPKGOGGMGNB": "对陷阱上的单位-1防",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 5,
+      "OEDIMEFNJDD": "7:101"
+    },
+    {
+      "LGJCPENNFBC": 2002,
+      "DCCEKKIBIDJ": "陷阱加防",
+      "NPKGOGGMGNB": "对陷阱上的单位+1防",
+      "BGJLBOBBFOB": 1,
+      "CIEFBDODCMP": 5,
+      "OEDIMEFNJDD": "7:102"
+    }
+  ]
+}

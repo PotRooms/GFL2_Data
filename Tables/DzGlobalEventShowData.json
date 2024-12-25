@@ -1,0 +1,619 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 2001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8029"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5788"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "NHHOBOKLKFI": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "IMCMLKDKFPM": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "OECJBHDJICM": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "CEFFDFDJKKD": 5000,
+      "KEJBLOFFNHD": {
+        "1": 1,
+        "2": 1
+      },
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5791"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2002,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8030"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5793"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5795"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2003,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5843"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2004,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5846"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2005,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5848"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2006,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6974"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2007,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8031"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8015"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "NHHOBOKLKFI": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "IMCMLKDKFPM": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "OECJBHDJICM": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "CEFFDFDJKKD": 5000,
+      "KEJBLOFFNHD": {
+        "1": 1,
+        "2": 1
+      },
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8016"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2008,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8032"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8018"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8019"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2009,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8033"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8021"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "IJEMJMOCJIH": "0,0,0",
+      "GJOIEIAEPDF": "Assets/ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_UAV_01/Animations/Dz_dio_UAV_01.prefab",
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8022"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2010,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8034"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8024"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8025"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2011,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8035"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8027"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8028"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8036"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5788"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "NHHOBOKLKFI": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "IMCMLKDKFPM": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "OECJBHDJICM": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "CEFFDFDJKKD": 5000,
+      "KEJBLOFFNHD": {
+        "1": 1,
+        "2": 1
+      },
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5791"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3002,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8037"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5793"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5795"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3003,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5843"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3004,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5846"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3005,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5848"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3006,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6974"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3007,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8038"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8015"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "NHHOBOKLKFI": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "IMCMLKDKFPM": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "OECJBHDJICM": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "CEFFDFDJKKD": 5000,
+      "KEJBLOFFNHD": {
+        "1": 1,
+        "2": 1
+      },
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8016"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3008,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8039"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8018"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8019"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3009,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8040"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8021"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "IJEMJMOCJIH": "0,0,0",
+      "GJOIEIAEPDF": "Assets/ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_UAV_01/Animations/Dz_dio_UAV_01.prefab",
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8022"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3010,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8041"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8024"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8025"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3011,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8042"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8027"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8028"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3218"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5788"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "NHHOBOKLKFI": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "IMCMLKDKFPM": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "OECJBHDJICM": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_glass_break_001.prefab",
+      "CEFFDFDJKKD": 5000,
+      "KEJBLOFFNHD": {
+        "1": 1,
+        "2": 1
+      },
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5791"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5792"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5793"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5795"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5843"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5846"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5848"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6974"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "5844"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "5844"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8014"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8015"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "NHHOBOKLKFI": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "IMCMLKDKFPM": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "OECJBHDJICM": "Assets/ArtsResource/Effect/Effect_sum/scene_darkzone/dz_buff_high_temperature.prefab",
+      "CEFFDFDJKKD": 5000,
+      "KEJBLOFFNHD": {
+        "1": 1,
+        "2": 1
+      },
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8016"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8017"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8018"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8019"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8020"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8021"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "IJEMJMOCJIH": "0,0,0",
+      "GJOIEIAEPDF": "Assets/ArtsResource/DarkSpace/DynamicInteractObject/Dz_dio_UAV_01/Animations/Dz_dio_UAV_01.prefab",
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8022"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8023"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8024"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8025"
+      }
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8026"
+      },
+      "GKFPJJIHICB": {
+        "DOHLNDIPHAJ": "8027"
+      },
+      "HLHCBEACDDA": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MHKGNENDPJF": "Assets/_UI/UIRes/Atlas/Icon/Buff/Buff_160Down.png",
+      "MMKEDGGJCOC": "#f26c1c",
+      "DBCBHOFFMLL": "这是一个跑马灯",
+      "CIJHEMKHFLG": -1,
+      "AFJONFCECBC": {
+        "DOHLNDIPHAJ": "8028"
+      }
+    }
+  ]
+}

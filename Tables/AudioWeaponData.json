@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "KGDCGCALBCI": 501,
+      "KLJDENIBOPH": "Gun_MG",
+      "OFJCCFNOFEI": "MG"
+    },
+    {
+      "KGDCGCALBCI": 502,
+      "KLJDENIBOPH": "Gun_MG",
+      "OFJCCFNOFEI": "Galil"
+    },
+    {
+      "KGDCGCALBCI": 601,
+      "KLJDENIBOPH": "Gun_SG",
+      "OFJCCFNOFEI": "Auto"
+    },
+    {
+      "KGDCGCALBCI": 602,
+      "KLJDENIBOPH": "Gun_SG",
+      "OFJCCFNOFEI": "Pump"
+    },
+    {
+      "KGDCGCALBCI": 1,
+      "KLJDENIBOPH": "Special",
+      "OFJCCFNOFEI": "Sword"
+    },
+    {
+      "KGDCGCALBCI": 101,
+      "KLJDENIBOPH": "Gun_HG",
+      "OFJCCFNOFEI": "Pistal"
+    },
+    {
+      "KGDCGCALBCI": 102,
+      "KLJDENIBOPH": "Gun_HG",
+      "OFJCCFNOFEI": "Revolver"
+    },
+    {
+      "KGDCGCALBCI": 201,
+      "KLJDENIBOPH": "Gun_RF",
+      "OFJCCFNOFEI": "RF"
+    },
+    {
+      "KGDCGCALBCI": 202,
+      "KLJDENIBOPH": "Gun_RF",
+      "OFJCCFNOFEI": "Mosinnagant"
+    },
+    {
+      "KGDCGCALBCI": 203,
+      "KLJDENIBOPH": "Gun_RF",
+      "OFJCCFNOFEI": "Wa2000"
+    },
+    {
+      "KGDCGCALBCI": 301,
+      "KLJDENIBOPH": "Gun_AR",
+      "OFJCCFNOFEI": "Groza"
+    },
+    {
+      "KGDCGCALBCI": 302,
+      "KLJDENIBOPH": "Gun_AR",
+      "OFJCCFNOFEI": "RoBinsonXCR"
+    },
+    {
+      "KGDCGCALBCI": 303,
+      "KLJDENIBOPH": "Gun_AR",
+      "OFJCCFNOFEI": "QBZ191"
+    },
+    {
+      "KGDCGCALBCI": 304,
+      "KLJDENIBOPH": "Gun_AR",
+      "OFJCCFNOFEI": "AK"
+    },
+    {
+      "KGDCGCALBCI": 305,
+      "KLJDENIBOPH": "Gun_AR",
+      "OFJCCFNOFEI": "MP7"
+    },
+    {
+      "KGDCGCALBCI": 306,
+      "KLJDENIBOPH": "Gun_AR",
+      "OFJCCFNOFEI": "HK416"
+    },
+    {
+      "KGDCGCALBCI": 307,
+      "KLJDENIBOPH": "Gun_AR",
+      "OFJCCFNOFEI": "G11"
+    },
+    {
+      "KGDCGCALBCI": 308,
+      "KLJDENIBOPH": "Gun_AR",
+      "OFJCCFNOFEI": "G28"
+    },
+    {
+      "KGDCGCALBCI": 401,
+      "KLJDENIBOPH": "Gun_SMG",
+      "OFJCCFNOFEI": "MP7"
+    },
+    {
+      "KGDCGCALBCI": 402,
+      "KLJDENIBOPH": "Gun_SMG",
+      "OFJCCFNOFEI": "SMG"
+    },
+    {
+      "KGDCGCALBCI": 403,
+      "KLJDENIBOPH": "Gun_SMG",
+      "OFJCCFNOFEI": "UMP9"
+    },
+    {
+      "KGDCGCALBCI": 404,
+      "KLJDENIBOPH": "Gun_SMG",
+      "OFJCCFNOFEI": "KP31"
+    }
+  ]
+}

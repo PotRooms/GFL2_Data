@@ -1,0 +1,274 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1000,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "队长快速死亡",
+      "IBKEKGBAHFE": "1#AddBuff@3,1022@99"
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "加骇入点",
+      "IBKEKGBAHFE": "1#GMSetProperty@1103@100"
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "加关卡探索值(新增属性)",
+      "IBKEKGBAHFE": "1#GMSetProperty@1114@100"
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "杀死当前队长所有玩家角色",
+      "IBKEKGBAHFE": "1#AddBuff@3,1022@1"
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "设置暗区氧气值为20",
+      "IBKEKGBAHFE": "1#GMSetProperty@1113@20"
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "警戒值等级改成2级",
+      "IBKEKGBAHFE": "3#SetGlobalEnemyWarn@149@true"
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "警戒值等级改成1级",
+      "IBKEKGBAHFE": "3#SetGlobalEnemyWarn@500@true"
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "一键暗区直接胜利",
+      "IBKEKGBAHFE": "1#Win@0"
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "局内掉落道具",
+      "IBKEKGBAHFE": "1#DropBag@300011"
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "暗区设置当前全局警戒值",
+      "IBKEKGBAHFE": "3#SetGlobalEnemyWarn@$INPUT@true"
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "添加全局事件--坍塌风暴3级",
+      "IBKEKGBAHFE": "1#AddEvents@[99901]"
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "添加全局事件--全面戒备（级",
+      "IBKEKGBAHFE": "1#AddEvents@[99919]"
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "移动速度增加100%",
+      "IBKEKGBAHFE": "1#AddBuff@9001@1"
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "减托洛洛1000血量",
+      "IBKEKGBAHFE": "1#GMSetHp@-1000@1025"
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "加托洛洛1000血量",
+      "IBKEKGBAHFE": "1#GMSetHp@1000@1025"
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "减乌尔丽德1000血量",
+      "IBKEKGBAHFE": "1#GMSetHp@-1000@1037"
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "加乌尔丽德1000血量",
+      "IBKEKGBAHFE": "1#GMSetHp@1000@1037"
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "暗区角色无敌buff",
+      "IBKEKGBAHFE": "1#AddBuff@3,10033@0"
+    },
+    {
+      "LGJCPENNFBC": 1018,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "清除无敌buff",
+      "IBKEKGBAHFE": "1#RmBuffByType@1@3"
+    },
+    {
+      "LGJCPENNFBC": 1019,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上移动速度增加buff",
+      "IBKEKGBAHFE": "1#AddBuff@10001@0"
+    },
+    {
+      "LGJCPENNFBC": 1020,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "清除移动速度增加buff",
+      "IBKEKGBAHFE": "1#RmBuffByType@1@10001"
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上视野增加buff",
+      "IBKEKGBAHFE": "1#AddBuff@10002@0"
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "清除视野增加buff",
+      "IBKEKGBAHFE": "1#RmBuffByType@1@10002"
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上射程增加buff",
+      "IBKEKGBAHFE": "1#AddBuff@10003@0"
+    },
+    {
+      "LGJCPENNFBC": 1024,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "清除射程增加buff",
+      "IBKEKGBAHFE": "1#RmBuffByType@1@10003"
+    },
+    {
+      "LGJCPENNFBC": 1025,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上体力上限增加buff",
+      "IBKEKGBAHFE": "1#AddBuff@10004@0"
+    },
+    {
+      "LGJCPENNFBC": 1026,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "清除体力上限增加buff",
+      "IBKEKGBAHFE": "1#RmBuffByType@1@10004"
+    },
+    {
+      "LGJCPENNFBC": 1027,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上移动速度降低buff",
+      "IBKEKGBAHFE": "1#AddBuff@10010@0"
+    },
+    {
+      "LGJCPENNFBC": 1028,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "清除移动速度降低buff",
+      "IBKEKGBAHFE": "1#RmBuffByType@1@10010"
+    },
+    {
+      "LGJCPENNFBC": 1029,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上滤芯劣化buff",
+      "IBKEKGBAHFE": "1#AddBuff@10011@0"
+    },
+    {
+      "LGJCPENNFBC": 1030,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "清除滤芯劣化buff",
+      "IBKEKGBAHFE": "1#RmBuffByType@1@10011"
+    },
+    {
+      "LGJCPENNFBC": 1031,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "移动速度增加100%",
+      "IBKEKGBAHFE": "1#AddBuff@9001@0"
+    },
+    {
+      "LGJCPENNFBC": 1032,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上低视野buff",
+      "IBKEKGBAHFE": "1#AddBuff@30401@0"
+    },
+    {
+      "LGJCPENNFBC": 1033,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上水地格buff",
+      "IBKEKGBAHFE": "1#AddBuff@20004@0"
+    },
+    {
+      "LGJCPENNFBC": 1034,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上火地格buff",
+      "IBKEKGBAHFE": "1#AddBuff@20000@99"
+    },
+    {
+      "LGJCPENNFBC": 1035,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上毒地格buff",
+      "IBKEKGBAHFE": "1#AddBuff@20008@0"
+    },
+    {
+      "LGJCPENNFBC": 1036,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上电地格buff",
+      "IBKEKGBAHFE": "1#AddBuff@20003@0"
+    },
+    {
+      "LGJCPENNFBC": 1037,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上冰地格buff",
+      "IBKEKGBAHFE": "1#AddBuff@20002@0"
+    },
+    {
+      "LGJCPENNFBC": 1038,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "警戒值加满",
+      "IBKEKGBAHFE": "1#AddBuff@9006@0"
+    },
+    {
+      "LGJCPENNFBC": 1039,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "加制造量",
+      "IBKEKGBAHFE": "1#GMSetProperty@1114@100"
+    },
+    {
+      "LGJCPENNFBC": 1040,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "加探索值",
+      "IBKEKGBAHFE": "1#GMSetProperty@1120@100"
+    },
+    {
+      "LGJCPENNFBC": 1041,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "清空探索值",
+      "IBKEKGBAHFE": "1#AddBuff@9004@0"
+    },
+    {
+      "LGJCPENNFBC": 1042,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上隐身buff",
+      "IBKEKGBAHFE": "1#AddBuff@3001@0"
+    },
+    {
+      "LGJCPENNFBC": 1043,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "挂上扣血99%buff",
+      "IBKEKGBAHFE": "1#AddBuff@9003@0"
+    },
+    {
+      "LGJCPENNFBC": 1044,
+      "BKCIGACKEFD": "暗区局内",
+      "HBJAHCGKJJD": "制造量为1",
+      "IBKEKGBAHFE": "1#GMSetProperty@1114@1"
+    }
+  ]
+}

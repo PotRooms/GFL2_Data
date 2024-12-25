@@ -1,0 +1,311 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BJBKCPBONMA": "。",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BJBKCPBONMA": "？",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BJBKCPBONMA": "！",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BJBKCPBONMA": "，",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "BJBKCPBONMA": "；",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "BJBKCPBONMA": "：",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "BJBKCPBONMA": "“",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "BJBKCPBONMA": "”",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "BJBKCPBONMA": "‘",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "BJBKCPBONMA": "’",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "BJBKCPBONMA": "『",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "BJBKCPBONMA": "』",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "BJBKCPBONMA": "「",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "BJBKCPBONMA": "」",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "BJBKCPBONMA": "（",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "BJBKCPBONMA": "）",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "BJBKCPBONMA": "[",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "BJBKCPBONMA": "]",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "BJBKCPBONMA": "{",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "BJBKCPBONMA": "}",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "BJBKCPBONMA": "【",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "BJBKCPBONMA": "】",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "BJBKCPBONMA": "·",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "BJBKCPBONMA": "-",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "BJBKCPBONMA": "—",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "BJBKCPBONMA": "~",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "BJBKCPBONMA": "·",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "BJBKCPBONMA": "《",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "BJBKCPBONMA": "》",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "BJBKCPBONMA": "<",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        2
+      ]
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "BJBKCPBONMA": ">",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "BJBKCPBONMA": "/",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "BJBKCPBONMA": "_",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "BJBKCPBONMA": "…",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "BJBKCPBONMA": "—",
+      "CKFIAIAOIPJ": [
+        1
+      ],
+      "PPEGPDGFLPA": [
+        1,
+        3
+      ]
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "BJBKCPBONMA": "%",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "BJBKCPBONMA": "、",
+      "CKFIAIAOIPJ": [
+        1
+      ]
+    }
+  ]
+}

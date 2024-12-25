@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HFDFEJFNBJM": "UIRes/Atlas/ActivityTour/Icon_ActivityTour_Game04",
+      "GHFCBBJMNKI": "UIRes/Atlas/ActivityTour/Icon_ActivityTourFlip_CardBg_3",
+      "IBOAKHILLAE": "E3A820"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HFDFEJFNBJM": "UIRes/Atlas/ActivityTour/Icon_ActivityTour_Game05",
+      "GHFCBBJMNKI": "UIRes/Atlas/ActivityTour/Icon_ActivityTourFlip_CardBg_2",
+      "IBOAKHILLAE": "745CA9"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HFDFEJFNBJM": "UIRes/Atlas/ActivityTour/Icon_ActivityTour_Game06",
+      "GHFCBBJMNKI": "UIRes/Atlas/ActivityTour/Icon_ActivityTourFlip_CardBg_1",
+      "IBOAKHILLAE": "27A3D7"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HFDFEJFNBJM": "UIRes/Atlas/ActivityTour/Icon_ActivityTour_Game01"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HFDFEJFNBJM": "UIRes/Atlas/ActivityTour/Icon_ActivityTour_Game02"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HFDFEJFNBJM": "UIRes/Atlas/ActivityTour/Icon_ActivityTour_Game03"
+    }
+  ]
+}

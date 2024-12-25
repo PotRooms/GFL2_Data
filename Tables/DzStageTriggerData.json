@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1660010700,
+      "FAGCFHJJPNN": "物品获得触发器",
+      "LBKDJFNDJAB": "dzitem_get",
+      "CHBJOIDAFMM": "51151;1"
+    },
+    {
+      "LGJCPENNFBC": 2020011000,
+      "FAGCFHJJPNN": "碰撞触发器",
+      "CHBJOIDAFMM": "0;0;4800,1900:5600,2600;0",
+      "KFAMPMBBILA": [
+        2020011001
+      ],
+      "KLPGDMDCPPD": 1,
+      "MECDGPIMMCB": true,
+      "KBCHIJIKBCK": true
+    },
+    {
+      "LGJCPENNFBC": 1660010200,
+      "FAGCFHJJPNN": "碰撞触发器",
+      "CHBJOIDAFMM": "0;0;11100,6900:16000,9800;0",
+      "KFAMPMBBILA": [
+        1660010201,
+        1660010202,
+        1660010203,
+        1660010204,
+        1660010205,
+        1660010206
+      ],
+      "MECDGPIMMCB": true,
+      "KBCHIJIKBCK": true
+    },
+    {
+      "LGJCPENNFBC": 1660010400,
+      "FAGCFHJJPNN": "倒计时触发器",
+      "LBKDJFNDJAB": "dzcountdown",
+      "CHBJOIDAFMM": "10",
+      "KLPGDMDCPPD": 1,
+      "KBCHIJIKBCK": true
+    },
+    {
+      "LGJCPENNFBC": 1660010500,
+      "FAGCFHJJPNN": "剩余人数触发器",
+      "LBKDJFNDJAB": "dzplayer_left",
+      "CHBJOIDAFMM": "True;1",
+      "MECDGPIMMCB": true,
+      "KBCHIJIKBCK": true
+    },
+    {
+      "LGJCPENNFBC": 1660010600,
+      "FAGCFHJJPNN": "计数触发器",
+      "LBKDJFNDJAB": "dzcounter",
+      "CHBJOIDAFMM": "1;5;True",
+      "MECDGPIMMCB": true,
+      "KBCHIJIKBCK": true
+    },
+    {
+      "LGJCPENNFBC": 1630011200,
+      "FAGCFHJJPNN": "剩余人数触发器",
+      "LBKDJFNDJAB": "dzplayer_left",
+      "CHBJOIDAFMM": "True;0"
+    },
+    {
+      "LGJCPENNFBC": 1660010300,
+      "FAGCFHJJPNN": "剩余时间触发器",
+      "LBKDJFNDJAB": "dztime_left",
+      "CHBJOIDAFMM": "1380",
+      "KFAMPMBBILA": [
+        1660010301
+      ],
+      "MECDGPIMMCB": true,
+      "KBCHIJIKBCK": true
+    },
+    {
+      "LGJCPENNFBC": 1660010800,
+      "FAGCFHJJPNN": "物品使用触发器",
+      "LBKDJFNDJAB": "dzitem_use",
+      "CHBJOIDAFMM": "51151;1"
+    },
+    {
+      "LGJCPENNFBC": 1660010900,
+      "FAGCFHJJPNN": "物品获得触发器",
+      "LBKDJFNDJAB": "dzitem_get",
+      "CHBJOIDAFMM": "51151|51161;1|2"
+    }
+  ]
+}

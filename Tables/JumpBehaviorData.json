@@ -1,0 +1,462 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1901,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkzoneExploreMainPanel",
+      "LPDHHMBNJKD": 28000
+    },
+    {
+      "LGJCPENNFBC": 1902,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneRepositoryPanel"
+    },
+    {
+      "LGJCPENNFBC": 1903,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneNPCSelectPanel"
+    },
+    {
+      "LGJCPENNFBC": 1904,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneStorePanel"
+    },
+    {
+      "LGJCPENNFBC": 1905,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneMapSelectPanel",
+      "LPDHHMBNJKD": 28000
+    },
+    {
+      "LGJCPENNFBC": 1906,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneQuestPanel",
+      "LPDHHMBNJKD": 28000
+    },
+    {
+      "LGJCPENNFBC": 1907,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneModePanel",
+      "LPDHHMBNJKD": 28000
+    },
+    {
+      "LGJCPENNFBC": 1908,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneMainPanel"
+    },
+    {
+      "LGJCPENNFBC": 1909,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneMakeTablePanel"
+    },
+    {
+      "LGJCPENNFBC": 1310,
+      "DNEFHCEHBKP": "Lounge",
+      "GOIGEDFPIKE": "UIDormGiftPanel",
+      "LPDHHMBNJKD": 15100
+    },
+    {
+      "LGJCPENNFBC": 1801,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIMailPanelV2"
+    },
+    {
+      "LGJCPENNFBC": 2901,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "HigherPVPMainPanel",
+      "LPDHHMBNJKD": 14500
+    },
+    {
+      "LGJCPENNFBC": 1401,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIQuestPanel",
+      "LPDHHMBNJKD": 24001
+    },
+    {
+      "LGJCPENNFBC": 1402,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIQuestPanel",
+      "LPDHHMBNJKD": 24002
+    },
+    {
+      "LGJCPENNFBC": 1501,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIRepositoryPanelV3"
+    },
+    {
+      "LGJCPENNFBC": 2201,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "ArchivesCenterEnterPanelV2",
+      "LPDHHMBNJKD": 20000
+    },
+    {
+      "LGJCPENNFBC": 2301,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDailyCheckInPanel",
+      "LPDHHMBNJKD": 26002
+    },
+    {
+      "LGJCPENNFBC": 2401,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIActivityCafeMainPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 61,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIUniteChapterPanel",
+      "LPDHHMBNJKD": 33001
+    },
+    {
+      "LGJCPENNFBC": 100,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UICommandCenterPanel"
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "GOIGEDFPIKE": "UICommonGetPanel",
+      "LPDHHMBNJKD": 27000
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "GOIGEDFPIKE": "UIComDiamondExchangeDialog",
+      "LPDHHMBNJKD": 16201
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "GOIGEDFPIKE": "UIComItemExchangeDialog"
+    },
+    {
+      "LGJCPENNFBC": 833,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkZoneQuestPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 1020,
+      "GOIGEDFPIKE": "UISimCombatWeaponModPanel",
+      "LPDHHMBNJKD": 11012
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UISimCombatTutorialEntrancePanel",
+      "LPDHHMBNJKD": 11010
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UISimCombatTutorialPanel",
+      "LPDHHMBNJKD": 11101
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UISimCombatRiddlePanel",
+      "LPDHHMBNJKD": 11102
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UISimCombatWeaponExpPanel"
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIHardChapterDetailPanel",
+      "LPDHHMBNJKD": 11002
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIHardChapterSelectPanelV2",
+      "LPDHHMBNJKD": 11002
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIWeeklyModeAPanel"
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIWeeklyModeBPanel"
+    },
+    {
+      "LGJCPENNFBC": 1018,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UISimCombatMythicMainPanelV2",
+      "LPDHHMBNJKD": 11009
+    },
+    {
+      "LGJCPENNFBC": 1601,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIFriendPanel"
+    },
+    {
+      "LGJCPENNFBC": 1910,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkzoneModeCarrierPanel",
+      "LPDHHMBNJKD": 28000
+    },
+    {
+      "LGJCPENNFBC": 5001,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIActivityTreasureBpPanel",
+      "LPDHHMBNJKD": 30001
+    },
+    {
+      "LGJCPENNFBC": 5002,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIActivityDialog",
+      "LPDHHMBNJKD": 30001
+    },
+    {
+      "LGJCPENNFBC": 200,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIShootChrEnterPanel"
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIGravityJumpEnterPanel"
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDoodleJumpEnterPanel"
+    },
+    {
+      "LGJCPENNFBC": 2600,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIDarkzoneModeCarrierPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 2701,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIActivityThemeBMainPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 2801,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIAnniversaryMainPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 2802,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UISummerActivityMainPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 925,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "RecentActivitiePanelV2"
+    },
+    {
+      "LGJCPENNFBC": 1201,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIStoreExchangePanel",
+      "LPDHHMBNJKD": 16101
+    },
+    {
+      "LGJCPENNFBC": 1202,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIStorePanelV2",
+      "LPDHHMBNJKD": 16000
+    },
+    {
+      "LGJCPENNFBC": 1203,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIPVPStoreExchangePanel",
+      "LPDHHMBNJKD": 16003
+    },
+    {
+      "LGJCPENNFBC": 1204,
+      "GOIGEDFPIKE": "UIStoreExchangePanel",
+      "LPDHHMBNJKD": 16008
+    },
+    {
+      "LGJCPENNFBC": 1701,
+      "DNEFHCEHBKP": "UAVhanger",
+      "GOIGEDFPIKE": "UIUAVPanel"
+    },
+    {
+      "LGJCPENNFBC": 3001,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIBattlePassPanel"
+    },
+    {
+      "LGJCPENNFBC": 3002,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIBattlePassUnlockPanel"
+    },
+    {
+      "LGJCPENNFBC": 3101,
+      "DNEFHCEHBKP": "HallScene",
+      "LPDHHMBNJKD": 19000
+    },
+    {
+      "LGJCPENNFBC": 4088,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIControlFightChapterPanel",
+      "LPDHHMBNJKD": 34001
+    },
+    {
+      "LGJCPENNFBC": 4100,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIBarrackChangeSkinPanel"
+    },
+    {
+      "LGJCPENNFBC": 4101,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIControlRoomMainPanel",
+      "LPDHHMBNJKD": 38003
+    },
+    {
+      "LGJCPENNFBC": 1000,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIBattleIndexPanelV2",
+      "LPDHHMBNJKD": 11000
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIStoryChapterPanel",
+      "LPDHHMBNJKD": 11001
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIHardChapterPanel",
+      "LPDHHMBNJKD": 11002
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "GOIGEDFPIKE": "UISimCombatDailyPanel",
+      "LPDHHMBNJKD": 11005
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "GOIGEDFPIKE": "UISimCombatGunExpPanel",
+      "LPDHHMBNJKD": 11003
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "GOIGEDFPIKE": "UISimCombatGoldPanel",
+      "LPDHHMBNJKD": 11004
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "GOIGEDFPIKE": "UISimCombatMythicMainPanel",
+      "LPDHHMBNJKD": 11007
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "GOIGEDFPIKE": "UIWeeklyEnterPanel",
+      "LPDHHMBNJKD": 11008
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "GOIGEDFPIKE": "UISimCombatMythicPanel",
+      "LPDHHMBNJKD": 11009
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "GOIGEDFPIKE": "UISimCombatTeachingPanel",
+      "LPDHHMBNJKD": 11010
+    },
+    {
+      "LGJCPENNFBC": 1030,
+      "GOIGEDFPIKE": "UISimCombatTutorialEntrancePanelV2",
+      "LPDHHMBNJKD": 11010
+    },
+    {
+      "LGJCPENNFBC": 1301,
+      "GOIGEDFPIKE": "UIGachaMainPanelV2",
+      "LPDHHMBNJKD": 13000
+    },
+    {
+      "LGJCPENNFBC": 1304,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIChrPowerUpPanel",
+      "LPDHHMBNJKD": 12000
+    },
+    {
+      "LGJCPENNFBC": 1305,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIGunTalentAssemblyPanel",
+      "LPDHHMBNJKD": 29001
+    },
+    {
+      "LGJCPENNFBC": 1306,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIWeaponPanel",
+      "LPDHHMBNJKD": 12003
+    },
+    {
+      "LGJCPENNFBC": 1307,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIChrWeaponPowerUpPanelV4",
+      "LPDHHMBNJKD": 29002
+    },
+    {
+      "LGJCPENNFBC": 1308,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIChrWeaponPartsPowerUpPanelV4",
+      "LPDHHMBNJKD": 12007
+    },
+    {
+      "LGJCPENNFBC": 1309,
+      "DNEFHCEHBKP": "Lounge",
+      "GOIGEDFPIKE": "DormMainPanel",
+      "LPDHHMBNJKD": 15100
+    },
+    {
+      "LGJCPENNFBC": 2001,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIPVPMainPanel"
+    },
+    {
+      "LGJCPENNFBC": 2002,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIPVPChallengeRecordDialog"
+    },
+    {
+      "LGJCPENNFBC": 2003,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "UIPVPRankDialog"
+    },
+    {
+      "LGJCPENNFBC": 2004,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "PVPMacineYardPanel"
+    },
+    {
+      "LGJCPENNFBC": 2101,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "DaiyanPreheatPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 2102,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "DaiyanMainPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 2103,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "DaiyanChapterPanel",
+      "LPDHHMBNJKD": 29301
+    },
+    {
+      "LGJCPENNFBC": 2104,
+      "DNEFHCEHBKP": "HallScene",
+      "GOIGEDFPIKE": "ActivityTourDifficultySelectPanel",
+      "LPDHHMBNJKD": 29302
+    }
+  ]
+}

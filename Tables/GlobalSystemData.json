@@ -1,0 +1,604 @@
+{
+  "data": [
+    {
+      "FGFGCCLOKNE": [
+        "pow",
+        "max_hp",
+        "armor",
+        "max_ap",
+        "crit",
+        "crit_mult",
+        "hit_percentage",
+        "dodge_percentage"
+      ],
+      "MLOFCMCFCKE": 23001,
+      "LBPPPPCEGBI": {
+        "1": 100
+      },
+      "MDOBIJDBOJO": 22001,
+      "LGMIMELFAOC": 24001,
+      "KIBNFNFPABO": 21999,
+      "PABBGPEPIBA": [
+        20,
+        1,
+        2
+      ],
+      "NNKAGAEKFBB": 80,
+      "CCDJLDFDJHF": 6,
+      "MONPJFBALGH": [
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60
+      ],
+      "HLFPLBKIEIJ": [
+        224,
+        244,
+        264,
+        132
+      ],
+      "NJJHPAKKGNC": [
+        225,
+        245,
+        265,
+        132
+      ],
+      "BMCJNGCIKNK": [
+        222,
+        242,
+        262,
+        132
+      ],
+      "PHHHNEJLDBP": [
+        221,
+        241,
+        261,
+        132
+      ],
+      "IPAFGJDGNPN": [
+        226,
+        246,
+        266,
+        132
+      ],
+      "PPIBNEKPHNK": [
+        223,
+        243,
+        263,
+        132
+      ],
+      "HHDNBPPKCFG": [
+        2,
+        3,
+        4
+      ],
+      "MKBMCCBOBHJ": [
+        2,
+        3,
+        4
+      ],
+      "NEFDAJLEFLD": 999,
+      "FMOKEOGLKDI": 8999,
+      "MCGJPKLEHLM": [
+        2.49,
+        300,
+        14
+      ],
+      "MNFABFJKINO": 5,
+      "PBGPGKMOFMN": 100,
+      "MCBLCNNMHEA": {
+        "50": 1
+      },
+      "LPAFJEMAAFN": 10,
+      "EGGMDCJBGEM": 8301,
+      "BIKMFEFMGKA": 6,
+      "JFLMNCMJEFE": {
+        "8300": 9999
+      },
+      "IJDJNEGPBLM": {
+        "8300": 9999
+      },
+      "MFJHFNOKMMK": 6,
+      "DIFONONOKDH": 300,
+      "KNECGNNBNLK": 3,
+      "IBPBCNPCADJ": [
+        8301,
+        8302,
+        8303,
+        8304,
+        8305,
+        8306
+      ],
+      "FEDMFPEEADK": 6,
+      "DILCLMDFIJC": 1,
+      "AAOHMNBNIND": 130,
+      "AFMFMAEIKMP": 0.8,
+      "DBAFMHCBNAA": 100,
+      "IOPCCIGDMOP": 11,
+      "CGKHFLEPKAP": "HG/HG_2,SMG/SMG_6,RF/RF_4,AR/AR_3,MG/MG_7,SG/SG_5,BLD/BLD_1",
+      "AOAMHODJCBM": 0.1,
+      "HFPFKMCHPLF": 0.1,
+      "FEOCFDFOAFI": 1,
+      "EIDEJNHCAOL": 0.1,
+      "PIGMLDIEKIH": 30000,
+      "DAIDKJBDFJE": {
+        "2": 100000,
+        "8300": 5
+      },
+      "NPLJDPPOFLP": {
+        "1": 8604,
+        "2": 8605,
+        "3": 8606,
+        "4": 8607,
+        "5": 8608
+      },
+      "LOMPKAHEBJB": 1,
+      "MEMIIEACCEO": 0.5,
+      "IMHHBHMAJKB": 215,
+      "JBHOEKELGHP": 214,
+      "AHLCBFOLOEI": 1296000,
+      "NFCMMHCEGGH": 3600,
+      "HEDPAJNFBBO": 1,
+      "BCAMOMCOOFO": 100,
+      "BLFMFODDLEC": 22,
+      "MJINHBGPCMD": 1,
+      "IGEALMHIJBB": 20,
+      "NJJFJGCMIEF": 80,
+      "LGLLLPJNNEE": 1,
+      "JLJNJHNCBEN": 10,
+      "HINHHFAANBN": 1,
+      "CFMBPNGABLG": 200,
+      "GPOMHLOPNMP": 100,
+      "KKAFGGGLGCG": [
+        3,
+        4,
+        5
+      ],
+      "IBHAHNFCGDN": 23,
+      "LCDKFODJLOD": 3,
+      "LKJNEBEBLKG": [
+        0.2
+      ],
+      "OJKJCKPMKIG": "1:6:00",
+      "KPNDDEMGHGB": "2:5:00",
+      "DEDFDEDOONH": "1:4:00",
+      "FGHCBPKMKNN": "0.20833333333333301",
+      "JJGMMLAIILP": "0.25",
+      "BFJKGGLGILP": 14,
+      "GLKKEBIKEOA": "4:00",
+      "OLKBMEAOOGG": 7,
+      "KNHIKFGHAID": 600,
+      "KDPGOFKHCIL": 1,
+      "ANJDMADLNEO": 1,
+      "IEODMAKHEHH": 1,
+      "NGDNEFDKEKD": 1,
+      "HCPPMDKMDGE": 80,
+      "KOEAAIAIOJF": 80,
+      "JMOJBJEPDEN": 80,
+      "NLEJMBIJINF": 80,
+      "DIAPPBFEPBJ": [
+        2022,
+        1,
+        1
+      ],
+      "JMDNDEEHJBD": 2000,
+      "NEGIHPNPDBP": 30000,
+      "HMNDDKHDMOE": 15000,
+      "LOJBDIICCAD": 1000,
+      "EJFLGBFBBAC": 10,
+      "JLDPGMHANMI": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        3
+      ],
+      "MNIAFEPPADK": "7:18:00",
+      "MPJALBCOGKP": "7:19:00",
+      "PGNDJOGHGFN": "7:17:00",
+      "PKBBBMILFKO": 5,
+      "FMNILPNEMHF": 3600,
+      "JIDHNCLDMPH": 2,
+      "FEPJBAAFAPL": 5,
+      "ALMNKMEPCBK": 20,
+      "EHLEDALOGII": 10,
+      "BCHEKPPIKHC": 20,
+      "KBHACNGKGIE": 3,
+      "AKKHPJAFLNA": {
+        "46": 50
+      },
+      "PCNOFAFBDLD": [
+        0
+      ],
+      "NBFHLHHAHNE": 300,
+      "BGLPCFJHBKM": 20,
+      "ANOILGJANMC": [
+        1,
+        100
+      ],
+      "OBCPMJKPEAG": 6,
+      "AKIABHJOHGF": 2160,
+      "AFFNOMPNPAC": 0.15,
+      "KLBDEDAMCGC": [
+        0,
+        3,
+        5
+      ],
+      "EOLLLIGAEHH": [
+        40,
+        8,
+        3,
+        20
+      ],
+      "MDKGDGKIDND": 3,
+      "ACINBMADGDH": 4,
+      "OHANLCPAEIC": 20,
+      "EMPAEKNJIDA": [
+        20,
+        40,
+        60,
+        80,
+        100,
+        120,
+        140,
+        160
+      ],
+      "BNNHPKEDIFJ": [
+        9,
+        4,
+        7,
+        12,
+        6,
+        5,
+        8,
+        1
+      ],
+      "KOOHLNPANGF": 217,
+      "DPLAAGFJFLK": 216,
+      "JALCEMPOKJP": 220,
+      "HHGAGMGNDFC": 219,
+      "EHMDGBJGCJK": 218,
+      "MBJLNNDDBLE": 999,
+      "GBDAEPMHGOA": 20,
+      "OMFEIJEPKBG": 3,
+      "MEBNMJNENCA": 60,
+      "JLDOEODLEPK": 10,
+      "PCBKABEIPEP": 360,
+      "CJIHEAGAFJD": 0.7,
+      "MOLNMECIMKB": 0.4,
+      "NNFHAFBBHMP": 1.8,
+      "LIOEIBHDJIO": 950,
+      "FOFEFLLEEGP": 3,
+      "DBAPCHKHIGE": 0.6,
+      "FBFPNBFBIGF": 3,
+      "KKJPDDPGGIK": 2,
+      "KJCEPGHOAII": 1,
+      "EPMOBNDBKFO": 47,
+      "MDCNABMFLDB": "-1",
+      "KNKCECOBJNN": true,
+      "BEMIGFBJHKD": [
+        10,
+        20
+      ],
+      "DKHADGOLKKD": [
+        1000,
+        1001
+      ],
+      "DCEJOHFNBGH": 1001,
+      "MLPCDOBDAAH": 10,
+      "JHDFBCHFCCB": 1,
+      "IOLLELJHNCA": 1,
+      "JIJHOMMBGHH": 10,
+      "HPBDADOFNEM": 60,
+      "FCLLPNGGDOI": 30,
+      "EKKAGLBFBKE": 10,
+      "IIICNFEPNOF": 15,
+      "FALOKJCNMBK": 400,
+      "DIFKMCOLGEG": 3,
+      "OGLAEGDPJIF": 3,
+      "PPEIHPMIBBP": {
+        "3": 2
+      },
+      "KNHAFFHFGGJ": 200,
+      "KDEOHGBJPDL": 200,
+      "BKLGMLMGAHM": 3,
+      "BFBDHCCAMGN": 50,
+      "AFPNKAGAGNM": 10,
+      "CHAEJBMLDJE": 100,
+      "ALLGBAHMBIN": 1,
+      "DNGFOHJCCEI": [
+        100,
+        90,
+        800,
+        10
+      ],
+      "DLNFGHOPIFH": 4,
+      "OPANEECJOIO": 10,
+      "EALFDDBGEJA": 9001,
+      "EADGNJHODFH": [
+        10202,
+        1101700
+      ],
+      "HJHGONAMDEL": 40,
+      "AKHDAMGFJLD": 44,
+      "LIOOOFBJJKM": "root/Root_M/Spine1_M/Spine2_M/Chest_M",
+      "FEHJJGFEFEJ": {
+        "110201": 1
+      },
+      "MNBPLFGBFGH": 30000,
+      "PFGAKHCKMDI": 4,
+      "ONGFNEEOAHM": 10101,
+      "BJFIPLOHEIM": [
+        10101,
+        20101,
+        30101
+      ],
+      "OGOOGCHLKEP": 8000,
+      "BCGMBMGMIEF": 1,
+      "NKKDKKNCLOG": [
+        20,
+        21,
+        22
+      ],
+      "HPBJINADMDI": [
+        2,
+        20000,
+        10000000
+      ],
+      "DBMBLAMKACF": 0.4,
+      "FHFJLPBJJJM": 60,
+      "PBFKNILJLPE": 2001,
+      "FMLJNIGOHOK": 1001,
+      "FHBILCGFDBI": 1001,
+      "KIEDLDFFLDA": [
+        0,
+        0,
+        0
+      ],
+      "OGDGFMDFPFA": 10202,
+      "LBPIGEMEJPA": 1,
+      "NLHDPCJACEL": 15,
+      "AALNAAJHAHF": 50,
+      "LPABFBFBPMA": 60,
+      "JBDJDAJLOOI": 7,
+      "DNLHHGOIJKG": 15,
+      "ODEFHDIJLHA": [
+        1.2,
+        70,
+        5
+      ],
+      "PAFPECDGIGE": [
+        20,
+        60,
+        90,
+        180,
+        270
+      ],
+      "KIBFKDJCDDI": 50,
+      "PNLNAKIPDBO": 8,
+      "LNNDNINOHAO": 9999,
+      "OLGCGMGDAIL": {
+        "105": 3
+      },
+      "NGMMEKAAMMO": 6,
+      "CJCBKPLIAHF": 3,
+      "PDHNCJJLPGN": 3600,
+      "CCDEBPEJBHP": 5,
+      "BPLJIANMBAN": {
+        "104": 1
+      },
+      "BBFPPDBOGII": 5,
+      "BOIDGPJACMD": {
+        "103": 1
+      },
+      "EMIBKCOGLLM": 4,
+      "DEMLBJFGLJP": 9999,
+      "EOHIKBNPHFM": {
+        "105": 1
+      },
+      "BBHILDDAKAH": 300,
+      "GFFLOIBDFOP": 10000,
+      "KNOIONLEEJG": "1:3",
+      "GCDMMICCPNK": "44",
+      "ICBPFGKPPBG": "1:3",
+      "FGPIPKPJMNO": "44",
+      "KFDAKKMPDKO": 10,
+      "LNIEPPHNNJP": 1001,
+      "PMIDEMIDNKA": 1,
+      "ADIFDHLPADE": {
+        "10001": 1001,
+        "10102": 1009,
+        "10303": 1008
+      },
+      "EIDOAGPHPHK": 20,
+      "EEIEDBCBALL": 3600,
+      "NGHCBGIBLGG": 1000,
+      "FILGFMCAEMH": {
+        "1": 1
+      },
+      "CEGNOBIAJHK": 5,
+      "PJCLFAIGBHK": 10,
+      "KJEKPGOECDO": 60,
+      "DGLDJPNJPEM": 600,
+      "CAABPELHAJI": 600,
+      "IPKMMAFKDKD": [
+        1
+      ],
+      "BPPICHJOLMG": 2,
+      "HIECOKFGEMO": 3,
+      "EAOHJLIFLHK": 5,
+      "AIGPJPHJIKG": 1017,
+      "PFNDBFBMFJB": 50,
+      "HAAALKFCIDN": 11,
+      "LFCFOCJBBKL": 5,
+      "OGHPEBGOIDB": 4,
+      "IAPLADABHAO": 5,
+      "ILBDOIMKMGF": [
+        2401,
+        2402,
+        2403
+      ],
+      "GNDGBEGGHCB": 0.6,
+      "DDDABECPKCG": 0.6,
+      "BLMOGAGAJAK": 10,
+      "CHGCHBABEME": 15,
+      "FCOMBJMJFCL": 14,
+      "FHECKLHBHJP": 100,
+      "EJCNPLMFPMO": "FF8601,65B73C",
+      "FGODBCIBDED": 3,
+      "DKCIFJBDNGN": [
+        2,
+        5
+      ],
+      "HLLLGBJPJEE": 5,
+      "ICLBFGNJMGL": [
+        14,
+        15
+      ],
+      "EOBIGMBNDNH": {
+        "1": 100
+      },
+      "EACKOJCCLKL": 1,
+      "GFLDLMBIGKN": 5,
+      "ENMHLLCDDJI": [
+        "b08f63",
+        "d1d1d5",
+        "e3ba61",
+        "f0af14"
+      ],
+      "JNGBAINPEHM": 8,
+      "ALKHJEIFBDL": [
+        33,
+        12,
+        36,
+        37,
+        39,
+        95,
+        96,
+        97,
+        98
+      ],
+      "PFCHOPCOKID": 1010341,
+      "LFLGGFJLMEC": 10000198,
+      "EOKEDLHMGCA": "1692910800",
+      "ELAJLPEBGND": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1
+      },
+      "GMICLLIBMCP": [
+        1025,
+        1027,
+        1029,
+        1015,
+        1021,
+        1033
+      ],
+      "LBFMBGKCJAI": 260,
+      "EIPOLKNADKD": 2,
+      "MBJBAHBLAGI": [
+        -200,
+        200
+      ],
+      "GLMCCEAECKB": 3,
+      "MOFNEBFDGFC": 106,
+      "CNDJNGFEDNI": 200,
+      "CHHFLEICICF": 1,
+      "BJPODEHPNFE": true,
+      "CAKMAJFJLOG": 500,
+      "EEIICIOLONK": [
+        1022,
+        1024,
+        1026,
+        1036,
+        1038
+      ],
+      "PIJFMOHOIKM": 2,
+      "FJDMMMFAOIN": [
+        1,
+        3,
+        5
+      ],
+      "IPLDNFILCHN": 60,
+      "OIPDODPBMHM": 601,
+      "GFHHMDANBLA": 100,
+      "MAAFNPHACGE": 100,
+      "DIMLBMJDJMJ": 72,
+      "JKPNFCAMHIH": {
+        "16": 2
+      },
+      "JHAPEBDOCKA": {
+        "16": 2
+      },
+      "GBPAFGNFIMP": {
+        "47": 12
+      },
+      "PDGNANFAJJM": {
+        "47": 12
+      },
+      "PAIGLCLEJKI": {
+        "47": 60
+      },
+      "FNHIEEMPLKE": {
+        "47": 60
+      },
+      "JCHABKAGALN": {
+        "131002": 1
+      },
+      "EBJFECCEMFK": {
+        "1": 4,
+        "2": 3,
+        "3": 3,
+        "4": 3
+      },
+      "MINADNKDOFB": {
+        "4": 8,
+        "5": 10
+      },
+      "NEGGPALEKCL": {
+        "131003": 1
+      },
+      "HLIPBIENFIJ": true,
+      "JCFCJHECCIA": {
+        "2": 8000
+      },
+      "NAPGEOAFEMC": {
+        "2": 15000
+      },
+      "EAEKPNADKGF": true,
+      "NNOEMHHNNNE": true,
+      "MDJJHNLBPCP": 4,
+      "JNHNOLDHKHH": 9101,
+      "IOEAODIGIBP": {
+        "25": 10
+      },
+      "JFKJJMHKLPO": {
+        "25": 10
+      },
+      "HNHALDAAAHP": true,
+      "KHKAJBCLKLD": [
+        37
+      ],
+      "MLNJEFIGBBF": {
+        "1": 5
+      },
+      "LABJPFHBGHD": 3,
+      "CEGIMKPNKDM": 8001,
+      "OMOFNFPJFIO": 13,
+      "MHLACDNLIPK": 11806,
+      "LOJGGJCILLO": 100,
+      "DFIIGJNOMHJ": 5,
+      "EPMPEOJMAFE": 1,
+      "AIBBKHBNJGF": 4
+    }
+  ]
+}

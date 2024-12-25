@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "OMPLENFHIGD": 100,
+      "NKKBLEJIMOI": {
+        "1": 100
+      }
+    },
+    {
+      "OMPLENFHIGD": 101,
+      "NKKBLEJIMOI": {
+        "1": 100
+      }
+    },
+    {
+      "OMPLENFHIGD": 102,
+      "NKKBLEJIMOI": {
+        "1": 100
+      }
+    },
+    {
+      "OMPLENFHIGD": 200,
+      "NKKBLEJIMOI": {
+        "2": 100
+      }
+    },
+    {
+      "OMPLENFHIGD": 201,
+      "NKKBLEJIMOI": {
+        "2": 100
+      }
+    },
+    {
+      "OMPLENFHIGD": 202,
+      "NKKBLEJIMOI": {
+        "2": 100
+      }
+    },
+    {
+      "OMPLENFHIGD": 300,
+      "NKKBLEJIMOI": {
+        "3": 100
+      }
+    },
+    {
+      "OMPLENFHIGD": 301,
+      "NKKBLEJIMOI": {
+        "3": 100
+      }
+    },
+    {
+      "OMPLENFHIGD": 10001,
+      "NKKBLEJIMOI": {
+        "1": 50,
+        "2": 50
+      }
+    },
+    {
+      "OMPLENFHIGD": 10002,
+      "NKKBLEJIMOI": {
+        "1": 50,
+        "2": 50,
+        "3": 50
+      }
+    }
+  ]
+}

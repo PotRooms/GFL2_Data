@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3250"
+      },
+      "BKCIGACKEFD": 1,
+      "HFKEFLKMJHO": 1,
+      "DNHAGPFHGCE": "Icon_Stamina_Conversion_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "6077"
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "6078"
+      },
+      "BKCIGACKEFD": 2,
+      "HFKEFLKMJHO": 2,
+      "DNHAGPFHGCE": "Icon_Stamina_Max_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "6978"
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7385"
+      },
+      "BKCIGACKEFD": 3,
+      "CHBJOIDAFMM": 2,
+      "HFKEFLKMJHO": 3,
+      "DNHAGPFHGCE": "Icon_Cash_Produce_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "7501"
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8000"
+      },
+      "BKCIGACKEFD": 4,
+      "CHBJOIDAFMM": 2,
+      "HFKEFLKMJHO": 4,
+      "DNHAGPFHGCE": "Icon_Cash_Max_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "8001"
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8002"
+      },
+      "BKCIGACKEFD": 3,
+      "CHBJOIDAFMM": 25,
+      "HFKEFLKMJHO": 5,
+      "DNHAGPFHGCE": "Icon_Expbook_Produce_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "8003"
+      }
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8004"
+      },
+      "BKCIGACKEFD": 4,
+      "CHBJOIDAFMM": 25,
+      "HFKEFLKMJHO": 6,
+      "DNHAGPFHGCE": "Icon_Expbook_Max_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "8005"
+      }
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8006"
+      },
+      "BKCIGACKEFD": 3,
+      "CHBJOIDAFMM": 8301,
+      "HFKEFLKMJHO": 7,
+      "DNHAGPFHGCE": "Icon_WeaponBlueprint_Produce_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "8007"
+      }
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8008"
+      },
+      "BKCIGACKEFD": 4,
+      "CHBJOIDAFMM": 8301,
+      "HFKEFLKMJHO": 8,
+      "DNHAGPFHGCE": "Icon_WeaponBlueprint_Max_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "8009"
+      }
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8010"
+      },
+      "BKCIGACKEFD": 5,
+      "HFKEFLKMJHO": 9,
+      "DNHAGPFHGCE": "Icon_Dispatch_Reward_Additive_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "8011"
+      }
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8012"
+      },
+      "BKCIGACKEFD": 6,
+      "HFKEFLKMJHO": 10,
+      "DNHAGPFHGCE": "Icon_Extra_Reward_Additive_64",
+      "ADEMFADMMCE": {
+        "DOHLNDIPHAJ": "8013"
+      }
+    }
+  ]
+}

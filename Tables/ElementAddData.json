@@ -1,0 +1,91 @@
+{
+  "data": [
+    {
+      "JPFPKBEMNBO": 40,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3188"
+      },
+      "PPEOFIALILG": "develop_property_element_add_physics",
+      "GNBANJPMAJB": 48,
+      "BEGDDACGAMC": "物理抗性",
+      "IOKOOIJNIPP": "develop_property_element_against_physics"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "JPFPKBEMNBO": 36,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5631"
+      },
+      "PPEOFIALILG": "develop_property_element_add_fire",
+      "GNBANJPMAJB": 44,
+      "BEGDDACGAMC": "燃烧抗性",
+      "IOKOOIJNIPP": "develop_property_element_against_fire"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "JPFPKBEMNBO": 37,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5632"
+      },
+      "PPEOFIALILG": "develop_property_element_add_electric",
+      "GNBANJPMAJB": 45,
+      "BEGDDACGAMC": "电导抗性",
+      "IOKOOIJNIPP": "develop_property_element_against_electric"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "JPFPKBEMNBO": 38,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5633"
+      },
+      "PPEOFIALILG": "develop_property_element_add_ice",
+      "GNBANJPMAJB": 46,
+      "BEGDDACGAMC": "冰冻抗性",
+      "IOKOOIJNIPP": "develop_property_element_against_ice"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "JPFPKBEMNBO": 39,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5634"
+      },
+      "PPEOFIALILG": "develop_property_element_add_poison",
+      "GNBANJPMAJB": 47,
+      "BEGDDACGAMC": "酸蚀抗性",
+      "IOKOOIJNIPP": "develop_property_element_against_poison"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "JPFPKBEMNBO": 41,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5635"
+      },
+      "PPEOFIALILG": "develop_property_element_add_soil",
+      "GNBANJPMAJB": 49,
+      "BEGDDACGAMC": "致密抗性",
+      "IOKOOIJNIPP": "develop_property_element_against_soil"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "JPFPKBEMNBO": 42,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5636"
+      },
+      "PPEOFIALILG": "develop_property_element_add_grass",
+      "GNBANJPMAJB": 50,
+      "BEGDDACGAMC": "寄生抗性",
+      "IOKOOIJNIPP": "develop_property_element_against_grass"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "JPFPKBEMNBO": 43,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5637"
+      },
+      "PPEOFIALILG": "develop_property_element_add_water",
+      "GNBANJPMAJB": 51,
+      "BEGDDACGAMC": "浊刻抗性",
+      "IOKOOIJNIPP": "develop_property_element_against_water"
+    }
+  ]
+}

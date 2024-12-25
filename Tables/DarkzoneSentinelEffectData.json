@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "CDBCNNMPKNL": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_warning_02.prefab"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CDBCNNMPKNL": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_warning_03.prefab"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CDBCNNMPKNL": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_warning_04.prefab"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "CDBCNNMPKNL": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_warning_05.prefab"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "CDBCNNMPKNL": "Assets/ArtsResource/Effect/Effect_sum/Other/screen_warning_06.prefab"
+    }
+  ]
+}

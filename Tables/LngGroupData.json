@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "HBJAHCGKJJD": "初始通用床组",
+      "DADJIHEHAMB": "common_simple_bed",
+      "KBBKEINKHLP": "最普通的床",
+      "BKGOHHKDBAG": 1
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "HBJAHCGKJJD": "初始闪电功能台",
+      "DADJIHEHAMB": "Groza_simple_function",
+      "KBBKEINKHLP": "闪电日常烹饪的地方",
+      "BKGOHHKDBAG": 3,
+      "KKEEJKEMCDH": 3
+    }
+  ]
+}

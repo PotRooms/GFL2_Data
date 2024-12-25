@@ -1,0 +1,866 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 60051,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4305"
+      },
+      "BPDOEBBFMGI": "Obshare",
+      "KHKINCNEIIO": "6005",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 354,
+      "MHGOABJJGNJ": 3900,
+      "EEONLGEDAJO": 3900,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 2,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "ONOFDOHCOEL": 2564
+    },
+    {
+      "LGJCPENNFBC": 70011,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4458"
+      },
+      "BPDOEBBFMGI": "Kuiper",
+      "KHKINCNEIIO": "7001",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterToDir",
+      "OEGNEKFCBIP": 2898,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 10,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 10,
+        "11": 3
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 70012,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4458"
+      },
+      "BPDOEBBFMGI": "Kuiper",
+      "KHKINCNEIIO": "7001",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterToDir",
+      "OEGNEKFCBIP": 9525,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 20,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 20,
+        "11": 4
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 70013,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4458"
+      },
+      "BPDOEBBFMGI": "Kuiper",
+      "KHKINCNEIIO": "7001",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterToDir",
+      "OEGNEKFCBIP": 12497,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 30,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 30,
+        "11": 5
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 70014,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4458"
+      },
+      "BPDOEBBFMGI": "Kuiper",
+      "KHKINCNEIIO": "7001",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterToDir",
+      "OEGNEKFCBIP": 23377,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 40,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 40,
+        "11": 6
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 70015,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4458"
+      },
+      "BPDOEBBFMGI": "Kuiper",
+      "KHKINCNEIIO": "7001",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterToDir",
+      "OEGNEKFCBIP": 29624,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 60,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 60,
+        "11": 8
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 60011,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4448"
+      },
+      "BPDOEBBFMGI": "Golyat",
+      "KHKINCNEIIO": "6001",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 150,
+      "MHGOABJJGNJ": 1000,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 1,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "ONOFDOHCOEL": 10000
+    },
+    {
+      "LGJCPENNFBC": 60012,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4449"
+      },
+      "BPDOEBBFMGI": "Golyat",
+      "KHKINCNEIIO": "6001",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 2,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 644,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 1,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 60013,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4450"
+      },
+      "BPDOEBBFMGI": "Golyat",
+      "KHKINCNEIIO": "6001",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 3,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 2490,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 2,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 60031,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4454"
+      },
+      "BPDOEBBFMGI": "Dinergate",
+      "KHKINCNEIIO": "6003",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterToDir",
+      "OEGNEKFCBIP": 211,
+      "MHGOABJJGNJ": 2600,
+      "EEONLGEDAJO": 3900,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 1,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "ONOFDOHCOEL": 3846
+    },
+    {
+      "LGJCPENNFBC": 60032,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4455"
+      },
+      "BPDOEBBFMGI": "Dinergate",
+      "KHKINCNEIIO": "6003",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 2,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterToDir",
+      "OEGNEKFCBIP": 452,
+      "MHGOABJJGNJ": 2925,
+      "EEONLGEDAJO": 3900,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 1,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "ONOFDOHCOEL": 3418
+    },
+    {
+      "LGJCPENNFBC": 60033,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4456"
+      },
+      "BPDOEBBFMGI": "Dinergate",
+      "KHKINCNEIIO": "6003",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 3,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterToDir",
+      "OEGNEKFCBIP": 521,
+      "MHGOABJJGNJ": 3250,
+      "EEONLGEDAJO": 3900,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 2,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "ONOFDOHCOEL": 3076
+    },
+    {
+      "LGJCPENNFBC": 60041,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4457"
+      },
+      "BPDOEBBFMGI": "Aegis",
+      "KHKINCNEIIO": "6004",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 3169,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 1,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 70041,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "BPDOEBBFMGI": "Urokrake",
+      "KHKINCNEIIO": "7004",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterReleaseSkill",
+      "OEGNEKFCBIP": 3802,
+      "MHGOABJJGNJ": 1950,
+      "EEONLGEDAJO": 1950,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 10,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 10,
+        "11": 3
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "MKAPBHBBFHC": "Stsp_SK_Bullet_Monster",
+      "DHEOECPOPBC": 7,
+      "AAAHHPOIACG": 13000,
+      "FBHELEDCEDI": 2.5,
+      "ONOFDOHCOEL": 5128
+    },
+    {
+      "LGJCPENNFBC": 70042,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "BPDOEBBFMGI": "Urokrake",
+      "KHKINCNEIIO": "7004",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterReleaseSkill",
+      "OEGNEKFCBIP": 5704,
+      "MHGOABJJGNJ": 1950,
+      "EEONLGEDAJO": 1950,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 20,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 20,
+        "11": 4
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "MKAPBHBBFHC": "Stsp_SK_Bullet_Monster",
+      "DHEOECPOPBC": 7,
+      "AAAHHPOIACG": 13000,
+      "FBHELEDCEDI": 2.5,
+      "ONOFDOHCOEL": 5128
+    },
+    {
+      "LGJCPENNFBC": 70043,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "BPDOEBBFMGI": "Urokrake",
+      "KHKINCNEIIO": "7004",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterReleaseSkill",
+      "OEGNEKFCBIP": 13746,
+      "MHGOABJJGNJ": 1950,
+      "EEONLGEDAJO": 1950,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 30,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 30,
+        "11": 5
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "MKAPBHBBFHC": "Stsp_SK_Bullet_Monster",
+      "DHEOECPOPBC": 7,
+      "AAAHHPOIACG": 13000,
+      "FBHELEDCEDI": 2.5,
+      "ONOFDOHCOEL": 5128
+    },
+    {
+      "LGJCPENNFBC": 70044,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "BPDOEBBFMGI": "Urokrake",
+      "KHKINCNEIIO": "7004",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterReleaseSkill",
+      "OEGNEKFCBIP": 24343,
+      "MHGOABJJGNJ": 1950,
+      "EEONLGEDAJO": 1950,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 40,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 40,
+        "11": 6
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "MKAPBHBBFHC": "Stsp_SK_Bullet_Monster",
+      "DHEOECPOPBC": 7,
+      "AAAHHPOIACG": 13000,
+      "FBHELEDCEDI": 2.5,
+      "ONOFDOHCOEL": 5128
+    },
+    {
+      "LGJCPENNFBC": 70045,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4460"
+      },
+      "BPDOEBBFMGI": "Urokrake",
+      "KHKINCNEIIO": "7004",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterReleaseSkill",
+      "OEGNEKFCBIP": 40000,
+      "MHGOABJJGNJ": 1950,
+      "EEONLGEDAJO": 1950,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 50,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 50,
+        "11": 8
+      },
+      "FIJIKBAHMPE": 2,
+      "MOKEFIBAAJG": 3,
+      "MKAPBHBBFHC": "Stsp_SK_Bullet_Monster",
+      "DHEOECPOPBC": 7,
+      "AAAHHPOIACG": 13000,
+      "FBHELEDCEDI": 2.5,
+      "ONOFDOHCOEL": 5128
+    },
+    {
+      "LGJCPENNFBC": 60021,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4451"
+      },
+      "BPDOEBBFMGI": "Aegis02",
+      "KHKINCNEIIO": "6002",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterReleaseSkill",
+      "OEGNEKFCBIP": 178,
+      "MHGOABJJGNJ": 1300,
+      "EEONLGEDAJO": 1300,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 1,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "MKAPBHBBFHC": "Stsp_SK_Bullet_Monster",
+      "DHEOECPOPBC": 5,
+      "AAAHHPOIACG": 13000,
+      "FBHELEDCEDI": 1.8,
+      "ONOFDOHCOEL": 7692
+    },
+    {
+      "LGJCPENNFBC": 60022,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4452"
+      },
+      "BPDOEBBFMGI": "Aegis02",
+      "KHKINCNEIIO": "6002",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 2,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterReleaseSkill",
+      "OEGNEKFCBIP": 769,
+      "MHGOABJJGNJ": 1625,
+      "EEONLGEDAJO": 1625,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 1,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "MKAPBHBBFHC": "Stsp_SK_Bullet_Monster",
+      "DHEOECPOPBC": 5,
+      "AAAHHPOIACG": 13000,
+      "FBHELEDCEDI": 1.8,
+      "ONOFDOHCOEL": 6153
+    },
+    {
+      "LGJCPENNFBC": 60023,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4453"
+      },
+      "BPDOEBBFMGI": "Aegis02",
+      "KHKINCNEIIO": "6002",
+      "PKEJPMMLGNJ": 1,
+      "BICIKBMLKDL": 3,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterReleaseSkill",
+      "OEGNEKFCBIP": 1811,
+      "MHGOABJJGNJ": 1625,
+      "EEONLGEDAJO": 1625,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 2,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 1,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "1": 1
+      },
+      "FIJIKBAHMPE": 1,
+      "MKAPBHBBFHC": "Stsp_SK_Bullet_Monster",
+      "DHEOECPOPBC": 5,
+      "AAAHHPOIACG": 13000,
+      "FBHELEDCEDI": 1.8,
+      "ONOFDOHCOEL": 6153
+    },
+    {
+      "LGJCPENNFBC": 70021,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "BPDOEBBFMGI": "Nemertea",
+      "KHKINCNEIIO": "7002",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 3000,
+      "MHGOABJJGNJ": 600,
+      "EEONLGEDAJO": 600,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 10,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 10,
+        "11": 3
+      },
+      "FIJIKBAHMPE": 4,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 16666
+    },
+    {
+      "LGJCPENNFBC": 70022,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "BPDOEBBFMGI": "Nemertea",
+      "KHKINCNEIIO": "7002",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 8659,
+      "MHGOABJJGNJ": 600,
+      "EEONLGEDAJO": 600,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 20,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 20,
+        "11": 4
+      },
+      "FIJIKBAHMPE": 4,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 16666
+    },
+    {
+      "LGJCPENNFBC": 70023,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "BPDOEBBFMGI": "Nemertea",
+      "KHKINCNEIIO": "7002",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 14995,
+      "MHGOABJJGNJ": 600,
+      "EEONLGEDAJO": 600,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 30,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 30,
+        "11": 5
+      },
+      "FIJIKBAHMPE": 4,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 16666
+    },
+    {
+      "LGJCPENNFBC": 70024,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "BPDOEBBFMGI": "Nemertea",
+      "KHKINCNEIIO": "7002",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 21252,
+      "MHGOABJJGNJ": 600,
+      "EEONLGEDAJO": 600,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 40,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 40,
+        "11": 6
+      },
+      "FIJIKBAHMPE": 4,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 16666
+    },
+    {
+      "LGJCPENNFBC": 70025,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4459"
+      },
+      "BPDOEBBFMGI": "Nemertea",
+      "KHKINCNEIIO": "7002",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 32586,
+      "MHGOABJJGNJ": 600,
+      "EEONLGEDAJO": 600,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 65,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 65,
+        "11": 8
+      },
+      "FIJIKBAHMPE": 4,
+      "MOKEFIBAAJG": 3,
+      "ONOFDOHCOEL": 16666
+    },
+    {
+      "LGJCPENNFBC": 70031,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "BPDOEBBFMGI": "Scourge Moth",
+      "KHKINCNEIIO": "7003",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 3477,
+      "MHGOABJJGNJ": 3575,
+      "EEONLGEDAJO": 5200,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 15,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 15,
+        "11": 3
+      },
+      "FIJIKBAHMPE": 2,
+      "ONOFDOHCOEL": 2797
+    },
+    {
+      "LGJCPENNFBC": 70032,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "BPDOEBBFMGI": "Scourge Moth",
+      "KHKINCNEIIO": "7003",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 12000,
+      "MHGOABJJGNJ": 3575,
+      "EEONLGEDAJO": 5200,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 25,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 25,
+        "11": 4
+      },
+      "FIJIKBAHMPE": 2,
+      "ONOFDOHCOEL": 2797
+    },
+    {
+      "LGJCPENNFBC": 70033,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "BPDOEBBFMGI": "Scourge Moth",
+      "KHKINCNEIIO": "7003",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 19126,
+      "MHGOABJJGNJ": 3575,
+      "EEONLGEDAJO": 5200,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 35,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 35,
+        "11": 5
+      },
+      "FIJIKBAHMPE": 2,
+      "ONOFDOHCOEL": 2797
+    },
+    {
+      "LGJCPENNFBC": 70034,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "BPDOEBBFMGI": "Scourge Moth",
+      "KHKINCNEIIO": "7003",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 25000,
+      "MHGOABJJGNJ": 3575,
+      "EEONLGEDAJO": 5200,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 45,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 45,
+        "11": 6
+      },
+      "FIJIKBAHMPE": 2,
+      "ONOFDOHCOEL": 2797
+    },
+    {
+      "LGJCPENNFBC": 70035,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4306"
+      },
+      "BPDOEBBFMGI": "Scourge Moth",
+      "KHKINCNEIIO": "7003",
+      "PKEJPMMLGNJ": 2,
+      "BICIKBMLKDL": 1,
+      "CMEOBMGAODI": 1,
+      "IDNOOBFOIAL": "MiniMonsterMove",
+      "OEGNEKFCBIP": 35548,
+      "MHGOABJJGNJ": 3575,
+      "EEONLGEDAJO": 5200,
+      "ONEAEFEIODK": 1000,
+      "NDLGGMKAHHP": 5,
+      "AANFIJGAJKG": 1,
+      "IEMEDBOBIFL": 75,
+      "EKOLEICGHKK": 1,
+      "JAJDLOHPHML": {
+        "2": 1,
+        "3": 75,
+        "11": 8
+      },
+      "FIJIKBAHMPE": 2,
+      "ONOFDOHCOEL": 2797
+    }
+  ]
+}

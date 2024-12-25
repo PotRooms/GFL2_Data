@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "CDBCNNMPKNL": "FX_c_lng_bubble01_music"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CDBCNNMPKNL": "FX_c_lng_bubble02_silent",
+      "BDAIMBLHHEF": "……"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CDBCNNMPKNL": "FX_c_lng_bubble01_surprise",
+      "BDAIMBLHHEF": "指挥官，稍等一下。"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "CDBCNNMPKNL": "FX_c_lng_bubble01_surprise",
+      "BDAIMBLHHEF": "我马上就来。"
+    }
+  ]
+}

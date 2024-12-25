@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 1,
+      "NJFNCANMBLB": "武器室",
+      "OLODDEOEBHP": 1,
+      "FJODJBCAKIP": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 2,
+      "NJFNCANMBLB": "卧室",
+      "OLODDEOEBHP": 1,
+      "OFKOPGEOLKJ": 1,
+      "IJHOOPIBMDC": 100,
+      "FJODJBCAKIP": 2
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 1,
+      "NJFNCANMBLB": "武器室",
+      "OLODDEOEBHP": 2,
+      "OFKOPGEOLKJ": 2,
+      "IJHOOPIBMDC": 200
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 2,
+      "NJFNCANMBLB": "卧室",
+      "OLODDEOEBHP": 2,
+      "OFKOPGEOLKJ": 3,
+      "IJHOOPIBMDC": 300
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 3,
+      "NJFNCANMBLB": "浴室",
+      "OLODDEOEBHP": 1,
+      "OFKOPGEOLKJ": 4,
+      "IJHOOPIBMDC": 400
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 3,
+      "NJFNCANMBLB": "浴室",
+      "OLODDEOEBHP": 2,
+      "OFKOPGEOLKJ": 5,
+      "IJHOOPIBMDC": 500
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 1,
+      "NJFNCANMBLB": "武器室",
+      "OLODDEOEBHP": 3,
+      "OFKOPGEOLKJ": 6,
+      "IJHOOPIBMDC": 600
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 2,
+      "NJFNCANMBLB": "卧室",
+      "OLODDEOEBHP": 3,
+      "OFKOPGEOLKJ": 7,
+      "IJHOOPIBMDC": 700
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "CHEFGIBNLOP": 3,
+      "GMIFFIAFOEP": 3,
+      "NJFNCANMBLB": "浴室",
+      "OLODDEOEBHP": 3,
+      "OFKOPGEOLKJ": 8,
+      "IJHOOPIBMDC": 800
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "阶群一",
+      "ICDJBCEJNKN": "E01",
+      "CPHHOLKBIJA": "Img_SimCombatMythic_Battle_1",
+      "ILEHAGBNBGK": "当前为阶群一，此阶群包含<color=#ff8236>五</color>个子群。每通过一个子群，您都将获得不同的演算效果。请以<color=#ff8236>通过“子群终”为目标</color>，合理利用您所持有的演算效果吧！",
+      "ADPCNBCPCGL": "当前为战术评估模式·阶群一。接下来，您需要使用<color=#ff8236>预制人形</color>作战。在通过最终的考验之前，您需要<color=#ff8236>持续作出决断</color>，以走向不同的终点。现在，请做好准备，您即将迎来第一次选择。",
+      "LODJDFDAKIN": [
+        83101,
+        83104,
+        83107,
+        83115
+      ],
+      "OEMMPHHADBF": {
+        "1": 3
+      },
+      "PNBBEHBCOBP": "1:2:10,1:4:20",
+      "EMHMCKEIPPI": 1,
+      "HKHCOMMILDN": 4,
+      "IFHGLBLDPLA": [
+        99999999,
+        99999999
+      ],
+      "LLFEOOHJNEF": [
+        61101,
+        61111,
+        61131,
+        61201,
+        62111,
+        61132,
+        62692
+      ],
+      "GKMELGNJDJM": [
+        6110,
+        6111,
+        6112,
+        6113,
+        6141,
+        6169,
+        6210,
+        6211,
+        6213,
+        6214,
+        6269,
+        6311,
+        6312,
+        6313,
+        6314
+      ],
+      "DPHNNJDDPJO": [
+        20,
+        20
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "阶群二",
+      "ICDJBCEJNKN": "E02",
+      "CPHHOLKBIJA": "Img_SimCombatMythic_Battle_2",
+      "ILEHAGBNBGK": "当前为阶群二，此阶群包含<color=#ff8236>五</color>个子群。每通过一个子群，您都将获得不同的演算效果。请以<color=#ff8236>通过“子群终”为目标</color>，合理利用您所持有的演算效果吧！",
+      "ADPCNBCPCGL": "当前为战术评估模式·阶群二。接下来，您需要使用<color=#ff8236>预制人形</color>作战。在通过最终的考验之前，您需要<color=#ff8236>持续作出决断</color>，以走向不同的终点。现在，请做好准备，您即将迎来第一次选择。",
+      "LODJDFDAKIN": [
+        83101,
+        83104,
+        83107,
+        83115
+      ],
+      "OEMMPHHADBF": {
+        "1": 3
+      },
+      "PNBBEHBCOBP": "1:2:10,1:4:20,1:6:30",
+      "EMHMCKEIPPI": 1,
+      "HKHCOMMILDN": 4,
+      "IFHGLBLDPLA": [
+        99999999,
+        99999999
+      ],
+      "LLFEOOHJNEF": [
+        61101,
+        61131,
+        62011,
+        62431,
+        61132,
+        61692,
+        62012
+      ],
+      "GKMELGNJDJM": [
+        6110,
+        6111,
+        6112,
+        6113,
+        6141,
+        6169,
+        6210,
+        6211,
+        6213,
+        6214,
+        6269,
+        6311,
+        6312,
+        6313,
+        6314
+      ],
+      "DPHNNJDDPJO": [
+        25,
+        20
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "阶群三",
+      "ICDJBCEJNKN": "E03",
+      "CPHHOLKBIJA": "Img_SimCombatMythic_Battle_3",
+      "ILEHAGBNBGK": "当前为阶群三，此阶群包含<color=#ff8236>五</color>个子群。每通过一个子群，您都将获得不同的演算效果。请以<color=#ff8236>通过“子群终”为目标</color>，合理利用您所持有的演算效果吧！",
+      "ADPCNBCPCGL": "当前为战术评估模式·阶群三。接下来，您需要使用<color=#ff8236>预制人形</color>作战。在通过最终的考验之前，您需要<color=#ff8236>持续作出决断</color>，以走向不同的终点。现在，请做好准备，您即将迎来第一次选择。",
+      "LODJDFDAKIN": [
+        83101,
+        83104,
+        83107,
+        83115
+      ],
+      "OEMMPHHADBF": {
+        "1": 3
+      },
+      "PNBBEHBCOBP": "1:2:10,1:4:20,1:6:30",
+      "EMHMCKEIPPI": 1,
+      "HKHCOMMILDN": 4,
+      "IFHGLBLDPLA": [
+        99999999,
+        99999999
+      ],
+      "LLFEOOHJNEF": [
+        61101,
+        61131,
+        61301,
+        61311,
+        62112,
+        68562
+      ],
+      "GKMELGNJDJM": [
+        6110,
+        6111,
+        6112,
+        6113,
+        6141,
+        6169,
+        6210,
+        6211,
+        6213,
+        6214,
+        6269,
+        6311,
+        6312,
+        6313,
+        6314
+      ],
+      "DPHNNJDDPJO": [
+        30,
+        20
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "阶群四",
+      "ICDJBCEJNKN": "E04",
+      "CPHHOLKBIJA": "Img_SimCombatMythic_Battle_4",
+      "ILEHAGBNBGK": "当前为阶群四，此阶群包含<color=#ff8236>五</color>个子群。每通过一个子群，您都将获得不同的演算效果。请以<color=#ff8236>通过“子群终”为目标</color>，合理利用您所持有的演算效果吧！",
+      "ADPCNBCPCGL": "当前为战术评估模式·阶群四。接下来，您需要使用<color=#ff8236>预制人形</color>作战。在通过最终的考验之前，您需要<color=#ff8236>持续作出决断</color>，以走向不同的终点。现在，请做好准备，您即将迎来第一次选择。",
+      "LODJDFDAKIN": [
+        83101,
+        83104,
+        83107,
+        83115
+      ],
+      "OEMMPHHADBF": {
+        "1": 3
+      },
+      "PNBBEHBCOBP": "1:2:10,1:4:20,1:6:30,1:8:40",
+      "EMHMCKEIPPI": 1,
+      "HKHCOMMILDN": 4,
+      "IFHGLBLDPLA": [
+        99999999,
+        99999999
+      ],
+      "LLFEOOHJNEF": [
+        61201,
+        61221,
+        61311,
+        63211,
+        62012,
+        68552
+      ],
+      "GKMELGNJDJM": [
+        6110,
+        6111,
+        6112,
+        6113,
+        6141,
+        6169,
+        6210,
+        6211,
+        6213,
+        6214,
+        6269,
+        6311,
+        6312,
+        6313,
+        6314
+      ],
+      "DPHNNJDDPJO": [
+        35,
+        20
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "阶群五",
+      "ICDJBCEJNKN": "E05",
+      "CPHHOLKBIJA": "Img_SimCombatMythic_Battle_5",
+      "ILEHAGBNBGK": "当前为阶群五，此阶群包含<color=#ff8236>五</color>个子群。每通过一个子群，您都将获得不同的演算效果。请以<color=#ff8236>通过“子群终”为目标</color>，合理利用您所持有的演算效果吧！",
+      "ADPCNBCPCGL": "当前为战术评估模式·阶群五。接下来，您需要使用<color=#ff8236>预制人形</color>作战。在通过最终的考验之前，您需要<color=#ff8236>持续作出决断</color>，以走向不同的终点。现在，请做好准备，您即将迎来第一次选择。",
+      "LODJDFDAKIN": [
+        83101,
+        83104,
+        83107,
+        83115
+      ],
+      "OEMMPHHADBF": {
+        "1": 3
+      },
+      "PNBBEHBCOBP": "1:2:10,1:4:20,1:6:30,1:8:40",
+      "EMHMCKEIPPI": 1,
+      "HKHCOMMILDN": 4,
+      "IFHGLBLDPLA": [
+        99999999,
+        99999999
+      ],
+      "LLFEOOHJNEF": [
+        61101,
+        61111,
+        61131,
+        61301,
+        61311,
+        62111,
+        63121,
+        63211,
+        63441,
+        61132,
+        61312,
+        68522
+      ],
+      "GKMELGNJDJM": [
+        6110,
+        6111,
+        6112,
+        6113,
+        6141,
+        6169,
+        6210,
+        6211,
+        6213,
+        6214,
+        6269,
+        6311,
+        6312,
+        6313,
+        6314
+      ],
+      "DPHNNJDDPJO": [
+        40,
+        20
+      ]
+    }
+  ]
+}

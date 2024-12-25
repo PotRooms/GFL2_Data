@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "相框",
+      "HLIGNFABKLL": "bedroom/common/s_dorm_photoframe/s_dorm_photoframe_01",
+      "AHDGLOJHGCG": 10,
+      "PMPPJEMGGKI": 2
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": "椅子",
+      "HLIGNFABKLL": "bedroom/elementary/contents/s_dorm_bedroom_elementary_chair",
+      "JOBCIOALNEE": 2,
+      "BLGFMPELPCE": "Slot207",
+      "AHDGLOJHGCG": 1,
+      "PMPPJEMGGKI": 1,
+      "KOCBEPFJFCH": 1,
+      "APDOMJNCKNM": 7
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBJAHCGKJJD": "书本",
+      "HLIGNFABKLL": "bedroom/common/s_dorm_book/s_dorm_book04",
+      "JOBCIOALNEE": 2,
+      "BLGFMPELPCE": "Slot205",
+      "AHDGLOJHGCG": 2,
+      "PMPPJEMGGKI": 1,
+      "KOCBEPFJFCH": 2,
+      "APDOMJNCKNM": 5
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HBJAHCGKJJD": "笔",
+      "HLIGNFABKLL": "bedroom/common/s_dorm_pen/s_dorm_pen_01",
+      "JOBCIOALNEE": 2,
+      "BLGFMPELPCE": "Slot206",
+      "AHDGLOJHGCG": 3,
+      "PMPPJEMGGKI": 1,
+      "KOCBEPFJFCH": 3,
+      "APDOMJNCKNM": 6
+    }
+  ]
+}

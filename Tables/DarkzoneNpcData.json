@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 401,
+      "HBJAHCGKJJD": "佩妮泽",
+      "CONIAFNPMBN": "测试npc1号",
+      "BKCIGACKEFD": 1,
+      "OKKKEFHJPEG": {
+        "1": 1200
+      },
+      "KJJCDLPBKMD": 1,
+      "IAAKILCKFPI": "Darkzone_Avatar_Whole_Poludnitsa",
+      "ACKDPJONCOF": "Darkzone_Avatar_Head_Poludnitsa"
+    },
+    {
+      "LGJCPENNFBC": 402,
+      "HBJAHCGKJJD": "格琳喵",
+      "CONIAFNPMBN": "测试npc2号",
+      "BKCIGACKEFD": 1,
+      "OKKKEFHJPEG": {
+        "2": 1200
+      },
+      "KFEADHJBKPO": "darkzone_npc_unlock_type_npc_favor",
+      "JFCECEDAKAO": 403,
+      "PPEIPOCPAAC": 4,
+      "KJJCDLPBKMD": 3,
+      "IAAKILCKFPI": "Darkzone_Avatar_Whole_Kalinia",
+      "ACKDPJONCOF": "Darkzone_Avatar_Head_Kalinia"
+    },
+    {
+      "LGJCPENNFBC": 403,
+      "HBJAHCGKJJD": "阿米达",
+      "CONIAFNPMBN": "测试npc3号",
+      "BKCIGACKEFD": 1,
+      "OKKKEFHJPEG": {
+        "3": 1200
+      },
+      "KFEADHJBKPO": "darkzone_npc_unlock_type_npc_favor",
+      "JFCECEDAKAO": 401,
+      "PPEIPOCPAAC": 4,
+      "KJJCDLPBKMD": 4,
+      "IAAKILCKFPI": "Darkzone_Avatar_Whole_Aminda",
+      "ACKDPJONCOF": "Darkzone_Avatar_Head_Aminda"
+    },
+    {
+      "LGJCPENNFBC": 404,
+      "HBJAHCGKJJD": "巴鲁克",
+      "CONIAFNPMBN": "测试npc4号",
+      "BKCIGACKEFD": 1,
+      "OKKKEFHJPEG": {
+        "4": 1200
+      },
+      "KFEADHJBKPO": "darkzone_npc_unlock_type_npc_favor",
+      "JFCECEDAKAO": 402,
+      "PPEIPOCPAAC": 4,
+      "KJJCDLPBKMD": 6,
+      "IAAKILCKFPI": "Darkzone_Avatar_Whole_Baruch",
+      "ACKDPJONCOF": "Darkzone_Avatar_Head_Baruch"
+    }
+  ]
+}

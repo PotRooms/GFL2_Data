@@ -1,0 +1,334 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10001,
+      "FJMDFNNFDMG": 80011,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "KFDGKBDCLLB": 6400,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "3220"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 10002,
+      "FJMDFNNFDMG": 80011,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "KFDGKBDCLLB": 6400,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6246"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 10003,
+      "FJMDFNNFDMG": 80011,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "KFDGKBDCLLB": 6400,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6247"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 10004,
+      "FJMDFNNFDMG": 80011,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "KFDGKBDCLLB": 6400,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6248"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 10005,
+      "FJMDFNNFDMG": 80011,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "KFDGKBDCLLB": 6400,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6249"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 20001,
+      "FJMDFNNFDMG": 80012,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "NCGHJPLCCLG": 3500,
+      "KFDGKBDCLLB": 5000,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6250"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "DLLKJKGDHAL": 600,
+      "MCAGDDCKLNH": 500,
+      "BKCIGACKEFD": 2,
+      "NGJPEAKJHAI": "6901:28"
+    },
+    {
+      "LGJCPENNFBC": 20002,
+      "FJMDFNNFDMG": 80013,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "NCGHJPLCCLG": 2400,
+      "KFDGKBDCLLB": 5000,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6251"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "DLLKJKGDHAL": 580,
+      "MCAGDDCKLNH": 540,
+      "BKCIGACKEFD": 2,
+      "NGJPEAKJHAI": "6890:28"
+    },
+    {
+      "LGJCPENNFBC": 20003,
+      "FJMDFNNFDMG": 80012,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "NCGHJPLCCLG": 3500,
+      "KFDGKBDCLLB": 5000,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6252"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "DLLKJKGDHAL": 600,
+      "MCAGDDCKLNH": 500,
+      "BKCIGACKEFD": 2,
+      "NGJPEAKJHAI": "6901:28"
+    },
+    {
+      "LGJCPENNFBC": 20004,
+      "FJMDFNNFDMG": 80012,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "NCGHJPLCCLG": 3500,
+      "KFDGKBDCLLB": 5000,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6253"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "DLLKJKGDHAL": 600,
+      "MCAGDDCKLNH": 500,
+      "BKCIGACKEFD": 2,
+      "NGJPEAKJHAI": "6901:28"
+    },
+    {
+      "LGJCPENNFBC": 20005,
+      "FJMDFNNFDMG": 80012,
+      "NDLGGMKAHHP": [
+        800,
+        1400,
+        2000,
+        2400
+      ],
+      "NCGHJPLCCLG": 3500,
+      "KFDGKBDCLLB": 5000,
+      "JJFDLLLBOBM": {
+        "800001": 200
+      },
+      "FBELMLMIEED": {
+        "800001": 225
+      },
+      "PACFFMKGFAO": {
+        "800001": 250
+      },
+      "MOHCFKAKLCJ": {
+        "800001": 280
+      },
+      "AIIEGNCIPJM": {
+        "800001": 310
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "6271"
+      },
+      "PPOPPBGKBCG": "UI/Sprite/AllianceIcon/clan_war_boss_1",
+      "DLLKJKGDHAL": 600,
+      "MCAGDDCKLNH": 500,
+      "BKCIGACKEFD": 2,
+      "NGJPEAKJHAI": "6901:28"
+    }
+  ]
+}

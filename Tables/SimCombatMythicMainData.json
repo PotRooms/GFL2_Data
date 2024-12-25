@@ -1,0 +1,134 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "ILBJDBAFELH": [
+        40011,
+        40061,
+        40111
+      ],
+      "NNGCIGDPHNI": 2,
+      "DMGFKMJNIPF": {
+        "1": 100
+      },
+      "FHACJIJKBHP": 25401,
+      "BICGPOOBEMM": "Monster_Half_Ravn",
+      "IHJPFFGFPLA": 6169,
+      "DIJECLFCAKN": 1,
+      "ACGEGJJBAEL": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "MEOJEPNJFGP": "Img_SimCombatMythicBg1",
+      "NOIHKMJEGFI": "Img_SimCombatMythicPic1"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "ILBJDBAFELH": [
+        40021,
+        40071,
+        40121
+      ],
+      "NNGCIGDPHNI": 1,
+      "DMGFKMJNIPF": {
+        "1": 200
+      },
+      "FHACJIJKBHP": 25402,
+      "BICGPOOBEMM": "Monster_Half_Ravn",
+      "IHJPFFGFPLA": 6169,
+      "DIJECLFCAKN": 2,
+      "ACGEGJJBAEL": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "MEOJEPNJFGP": "Img_SimCombatMythicBg1",
+      "NOIHKMJEGFI": "Img_SimCombatMythicPic1"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "ILBJDBAFELH": [
+        40031,
+        40081,
+        40131
+      ],
+      "NNGCIGDPHNI": 1,
+      "DMGFKMJNIPF": {
+        "1": 300
+      },
+      "FHACJIJKBHP": 25403,
+      "BICGPOOBEMM": "Monster_Half_Ravn",
+      "IHJPFFGFPLA": 6169,
+      "DIJECLFCAKN": 3,
+      "ACGEGJJBAEL": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "MEOJEPNJFGP": "Img_SimCombatMythicBg1",
+      "NOIHKMJEGFI": "Img_SimCombatMythicPic1"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "ILBJDBAFELH": [
+        40041,
+        40091,
+        40141
+      ],
+      "NNGCIGDPHNI": 1,
+      "DMGFKMJNIPF": {
+        "1": 400
+      },
+      "FHACJIJKBHP": 25404,
+      "BICGPOOBEMM": "Monster_Half_Ravn",
+      "IHJPFFGFPLA": 6169,
+      "DIJECLFCAKN": 1,
+      "ACGEGJJBAEL": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "MEOJEPNJFGP": "Img_SimCombatMythicBg1",
+      "NOIHKMJEGFI": "Img_SimCombatMythicPic1"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "ILBJDBAFELH": [
+        40051,
+        40101,
+        40151
+      ],
+      "NNGCIGDPHNI": 1,
+      "DMGFKMJNIPF": {
+        "1": 500
+      },
+      "FHACJIJKBHP": 25405,
+      "BICGPOOBEMM": "Monster_Half_Ravn",
+      "IHJPFFGFPLA": 6169,
+      "DIJECLFCAKN": 2,
+      "ACGEGJJBAEL": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "MEOJEPNJFGP": "Img_SimCombatMythicBg1",
+      "NOIHKMJEGFI": "Img_SimCombatMythicPic1"
+    }
+  ]
+}

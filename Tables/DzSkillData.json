@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "测试昙花技能加上",
+      "GFMDILIKGLM": "4R闪电队长气质",
+      "DNHAGPFHGCE": 1,
+      "JIEBHGPIGKL": 30400,
+      "NDEIAHGMNJM": 500
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "测试昙花buff加上",
+      "GFMDILIKGLM": "移动速度增加",
+      "DNHAGPFHGCE": 2,
+      "JIEBHGPIGKL": 1005,
+      "NDEIAHGMNJM": 500
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "风语",
+      "GFMDILIKGLM": "移动速度增加30%",
+      "DNHAGPFHGCE": 2,
+      "JIEBHGPIGKL": 10001,
+      "NDEIAHGMNJM": 500
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "鹰眼",
+      "GFMDILIKGLM": "视野增加20%",
+      "DNHAGPFHGCE": 2,
+      "JIEBHGPIGKL": 10002,
+      "NDEIAHGMNJM": 500
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "狙击者",
+      "GFMDILIKGLM": "射程增加200码",
+      "DNHAGPFHGCE": 2,
+      "JIEBHGPIGKL": 10003,
+      "NDEIAHGMNJM": 500
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "根性",
+      "GFMDILIKGLM": "体力上限增加20点",
+      "DNHAGPFHGCE": 2,
+      "JIEBHGPIGKL": 10004,
+      "NDEIAHGMNJM": 500
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "止水",
+      "GFMDILIKGLM": "体力回复增加2点",
+      "DNHAGPFHGCE": 2,
+      "JIEBHGPIGKL": 10005,
+      "NDEIAHGMNJM": 500
+    }
+  ]
+}

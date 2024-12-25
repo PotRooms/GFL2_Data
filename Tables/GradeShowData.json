@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "KKMCHFAMIBJ": 1,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "7478"
+      },
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "JHAJDBEPALK": "Icon_GoldRated1"
+    },
+    {
+      "KKMCHFAMIBJ": 2,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "7541"
+      },
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "JHAJDBEPALK": "Icon_GoldRated2"
+    },
+    {
+      "KKMCHFAMIBJ": 3,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "8284"
+      },
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "JHAJDBEPALK": "Icon_GoldRated3"
+    },
+    {
+      "KKMCHFAMIBJ": 4,
+      "ELADFCOJCOB": {
+        "DOHLNDIPHAJ": "8625"
+      },
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "JHAJDBEPALK": "Icon_GoldRated4"
+    }
+  ]
+}

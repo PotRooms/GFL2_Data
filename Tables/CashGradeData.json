@@ -1,0 +1,594 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 30,
+      "DOBOPCFDNEO": 8,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 280,
+      "JLOHCAFIPIE": [
+        261051
+      ],
+      "DOBKKFLACNL": {
+        "2": 460
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "DOBOPCFDNEO": 8,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 460,
+      "JLOHCAFIPIE": [
+        261051
+      ],
+      "DOBKKFLACNL": {
+        "2": 460
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "DOBOPCFDNEO": 8,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 820,
+      "JLOHCAFIPIE": [
+        261051
+      ],
+      "DOBKKFLACNL": {
+        "2": 460
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "DOBOPCFDNEO": 9,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 190,
+      "JLOHCAFIPIE": [
+        261055,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 5200,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "DOBOPCFDNEO": 9,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 410,
+      "JLOHCAFIPIE": [
+        261056
+      ],
+      "DOBKKFLACNL": {
+        "2": 520
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "DOBOPCFDNEO": 9,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 690,
+      "JLOHCAFIPIE": [
+        261056
+      ],
+      "DOBKKFLACNL": {
+        "2": 520
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "DOBOPCFDNEO": 9,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 1090,
+      "JLOHCAFIPIE": [
+        261056
+      ],
+      "DOBKKFLACNL": {
+        "2": 520
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "DOBOPCFDNEO": 10,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 200,
+      "JLOHCAFIPIE": [
+        261060,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 6000,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "DOBOPCFDNEO": 10,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 480,
+      "JLOHCAFIPIE": [
+        261061
+      ],
+      "DOBKKFLACNL": {
+        "2": 600
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "DOBOPCFDNEO": 10,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 720,
+      "JLOHCAFIPIE": [
+        261061
+      ],
+      "DOBKKFLACNL": {
+        "2": 600
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "DOBOPCFDNEO": 10,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 1120,
+      "JLOHCAFIPIE": [
+        261061
+      ],
+      "DOBKKFLACNL": {
+        "2": 600
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "DOBOPCFDNEO": 11,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 280,
+      "JLOHCAFIPIE": [
+        261065,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 7000,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "DOBOPCFDNEO": 11,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 600,
+      "JLOHCAFIPIE": [
+        261066
+      ],
+      "DOBKKFLACNL": {
+        "2": 700
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "DOBOPCFDNEO": 11,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 920,
+      "JLOHCAFIPIE": [
+        261066
+      ],
+      "DOBKKFLACNL": {
+        "2": 700
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "DOBOPCFDNEO": 11,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 1240,
+      "JLOHCAFIPIE": [
+        261066
+      ],
+      "DOBKKFLACNL": {
+        "2": 700
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "DOBOPCFDNEO": 12,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 300,
+      "JLOHCAFIPIE": [
+        261070,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 8200,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "DOBOPCFDNEO": 12,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 640,
+      "JLOHCAFIPIE": [
+        261071
+      ],
+      "DOBKKFLACNL": {
+        "2": 820
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "DOBOPCFDNEO": 12,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 1010,
+      "JLOHCAFIPIE": [
+        261071
+      ],
+      "DOBKKFLACNL": {
+        "2": 820
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "DOBOPCFDNEO": 12,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 1390,
+      "JLOHCAFIPIE": [
+        261071
+      ],
+      "DOBKKFLACNL": {
+        "2": 820
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "DOBOPCFDNEO": 3,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 80,
+      "JLOHCAFIPIE": [
+        261025,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 2400,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "DOBOPCFDNEO": 3,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 150,
+      "JLOHCAFIPIE": [
+        261026
+      ],
+      "DOBKKFLACNL": {
+        "2": 240
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "DOBOPCFDNEO": 3,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 200,
+      "JLOHCAFIPIE": [
+        261026
+      ],
+      "DOBKKFLACNL": {
+        "2": 240
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "DOBOPCFDNEO": 3,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 240,
+      "JLOHCAFIPIE": [
+        261026
+      ],
+      "DOBKKFLACNL": {
+        "2": 240
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "DOBOPCFDNEO": 4,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 100,
+      "JLOHCAFIPIE": [
+        261030,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 2600,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "DOBOPCFDNEO": 4,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 150,
+      "JLOHCAFIPIE": [
+        261031
+      ],
+      "DOBKKFLACNL": {
+        "2": 260
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "DOBOPCFDNEO": 4,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 300,
+      "JLOHCAFIPIE": [
+        261031
+      ],
+      "DOBKKFLACNL": {
+        "2": 260
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "DOBOPCFDNEO": 4,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 330,
+      "JLOHCAFIPIE": [
+        261031
+      ],
+      "DOBKKFLACNL": {
+        "2": 260
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "DOBOPCFDNEO": 5,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 120,
+      "JLOHCAFIPIE": [
+        261035,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 3000,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "DOBOPCFDNEO": 5,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 250,
+      "JLOHCAFIPIE": [
+        261036
+      ],
+      "DOBKKFLACNL": {
+        "2": 300
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "DOBOPCFDNEO": 5,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 400,
+      "JLOHCAFIPIE": [
+        261036
+      ],
+      "DOBKKFLACNL": {
+        "2": 300
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "DOBOPCFDNEO": 5,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 510,
+      "JLOHCAFIPIE": [
+        261036
+      ],
+      "DOBKKFLACNL": {
+        "2": 300
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "DOBOPCFDNEO": 6,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 120,
+      "JLOHCAFIPIE": [
+        261040,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 3400,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "DOBOPCFDNEO": 6,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 250,
+      "JLOHCAFIPIE": [
+        261041
+      ],
+      "DOBKKFLACNL": {
+        "2": 340
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "DOBOPCFDNEO": 6,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 400,
+      "JLOHCAFIPIE": [
+        261041
+      ],
+      "DOBKKFLACNL": {
+        "2": 340
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "DOBOPCFDNEO": 6,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 710,
+      "JLOHCAFIPIE": [
+        261041
+      ],
+      "DOBKKFLACNL": {
+        "2": 340
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "DOBOPCFDNEO": 7,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 120,
+      "JLOHCAFIPIE": [
+        261045,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 4000,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "DOBOPCFDNEO": 7,
+      "KKMCHFAMIBJ": 2,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_2_S",
+      "GEAHOMHDPCB": 250,
+      "JLOHCAFIPIE": [
+        261046
+      ],
+      "DOBKKFLACNL": {
+        "2": 400
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "DOBOPCFDNEO": 7,
+      "KKMCHFAMIBJ": 3,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_3_S",
+      "GEAHOMHDPCB": 400,
+      "JLOHCAFIPIE": [
+        261046
+      ],
+      "DOBKKFLACNL": {
+        "2": 400
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "DOBOPCFDNEO": 7,
+      "KKMCHFAMIBJ": 4,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_4_S",
+      "GEAHOMHDPCB": 740,
+      "JLOHCAFIPIE": [
+        261046
+      ],
+      "DOBKKFLACNL": {
+        "2": 400
+      },
+      "EMAGFGPFDLK": true
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "DOBOPCFDNEO": 8,
+      "KKMCHFAMIBJ": 1,
+      "OKGKIADPLBF": "Icon_SimcombatGold_Rated_1_S",
+      "GEAHOMHDPCB": 140,
+      "JLOHCAFIPIE": [
+        261050,
+        10020,
+        10021
+      ],
+      "DOBKKFLACNL": {
+        "2": 4600,
+        "300046": 0
+      },
+      "EMAGFGPFDLK": true
+    }
+  ]
+}

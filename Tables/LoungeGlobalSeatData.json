@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "全局平视机位",
+      "ANLAJDJJMKA": [
+        -3.072,
+        2.2727,
+        3.702
+      ],
+      "LAMFHDPFPCL": [
+        60,
+        90
+      ],
+      "DPGCPHLKKKI": [
+        12,
+        12
+      ],
+      "KAALIPFNDFA": "_LightSetting"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "房间切换机位",
+      "ANLAJDJJMKA": [
+        -4.809,
+        1.41,
+        1.326
+      ],
+      "LAMFHDPFPCL": [
+        60,
+        90
+      ],
+      "ILHDDPKJLCO": true,
+      "DPGCPHLKKKI": [
+        3,
+        7
+      ],
+      "KAALIPFNDFA": "_LightSetting_chooseChar",
+      "PLIDIHFKDEC": 0.5,
+      "OFFGJPAHBKF": 0.4,
+      "EMFBIMMFODM": 0.2,
+      "IGBINDMKCOJ": [
+        -1.047,
+        0.95,
+        5.078
+      ],
+      "MCPDGBGJKEE": [
+        -0.696,
+        0.939,
+        4.844
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "换装机位",
+      "ANLAJDJJMKA": [
+        -1.265,
+        1.119,
+        0.81
+      ],
+      "LAMFHDPFPCL": [
+        60,
+        90
+      ],
+      "ILHDDPKJLCO": true,
+      "DPGCPHLKKKI": [
+        5,
+        6.5
+      ],
+      "KAALIPFNDFA": "_LightSetting_changeclothes",
+      "PLIDIHFKDEC": 0.5,
+      "OFFGJPAHBKF": 0.4,
+      "EMFBIMMFODM": 0.2,
+      "IGBINDMKCOJ": [
+        1.787,
+        1.287,
+        2.889
+      ],
+      "MCPDGBGJKEE": [
+        1,
+        1.2,
+        3.5
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "商城",
+      "PLIDIHFKDEC": 0.5,
+      "OFFGJPAHBKF": 0.4
+    }
+  ]
+}

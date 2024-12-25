@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "IINAEFFCJFH": "task_daily",
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3077"
+      }
+    },
+    {
+      "IINAEFFCJFH": "task_weekly",
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4647"
+      }
+    },
+    {
+      "IINAEFFCJFH": "task_new",
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4648"
+      }
+    },
+    {
+      "IINAEFFCJFH": "task_cooperation",
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4649"
+      }
+    },
+    {
+      "IINAEFFCJFH": "task_season",
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "4650"
+      }
+    }
+  ]
+}

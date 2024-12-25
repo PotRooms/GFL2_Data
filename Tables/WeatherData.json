@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "18209"
+      },
+      "JJDIDNLPEOI": {
+        "DOHLNDIPHAJ": "18209"
+      },
+      "DNHAGPFHGCE": "Campaign_BattleInfo_Icon_Weather_Nothing"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "18422"
+      },
+      "JJDIDNLPEOI": {
+        "DOHLNDIPHAJ": "18423"
+      },
+      "DNHAGPFHGCE": "Campaign_BattleInfo_Icon_Weather_Sun",
+      "NOPAOILKIMH": 2002
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "18424"
+      },
+      "JJDIDNLPEOI": {
+        "DOHLNDIPHAJ": "18425"
+      },
+      "DNHAGPFHGCE": "Campaign_BattleInfo_Icon_Weather_Fog",
+      "NOPAOILKIMH": 2003
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "18426"
+      },
+      "JJDIDNLPEOI": {
+        "DOHLNDIPHAJ": "18427"
+      },
+      "DNHAGPFHGCE": "Campaign_BattleInfo_Icon_Weather_Rain",
+      "NOPAOILKIMH": 2004,
+      "PMDBELPILKL": 1
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "18428"
+      },
+      "JJDIDNLPEOI": {
+        "DOHLNDIPHAJ": "18429"
+      },
+      "DNHAGPFHGCE": "Campaign_BattleInfo_Icon_Weather_HeavyRain",
+      "NOPAOILKIMH": 2005,
+      "PMDBELPILKL": 2
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "18430"
+      },
+      "JJDIDNLPEOI": {
+        "DOHLNDIPHAJ": "18431"
+      },
+      "DNHAGPFHGCE": "Campaign_BattleInfo_Icon_Weather_Snow",
+      "NOPAOILKIMH": 2006,
+      "PMDBELPILKL": 3
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "18432"
+      },
+      "JJDIDNLPEOI": {
+        "DOHLNDIPHAJ": "18429"
+      },
+      "DNHAGPFHGCE": "Campaign_BattleInfo_Icon_Weather_HeavySnow",
+      "NOPAOILKIMH": 2007,
+      "PMDBELPILKL": 4
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "18433"
+      },
+      "JJDIDNLPEOI": {
+        "DOHLNDIPHAJ": "18434"
+      },
+      "NOPAOILKIMH": 10001
+    }
+  ]
+}

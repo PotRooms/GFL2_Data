@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": "1",
+      "CPDCEMHELII": "下載中"
+    },
+    {
+      "LGJCPENNFBC": "2",
+      "CPDCEMHELII": "解壓縮中"
+    },
+    {
+      "LGJCPENNFBC": "3",
+      "CPDCEMHELII": "即將完成"
+    },
+    {
+      "LGJCPENNFBC": "4",
+      "CPDCEMHELII": "載入中"
+    },
+    {
+      "LGJCPENNFBC": "5",
+      "CPDCEMHELII": "資源檢查"
+    },
+    {
+      "LGJCPENNFBC": "6",
+      "CPDCEMHELII": "是否檢查資源完整性"
+    },
+    {
+      "LGJCPENNFBC": "7",
+      "CPDCEMHELII": "適齡提示"
+    },
+    {
+      "LGJCPENNFBC": "8",
+      "CPDCEMHELII": "《少女前線2：追放》為一款原創的全3D策略遊戲。玩家將在關卡中收集不同類型的人形角色，並以此組成自己的隊伍，挑戰不同難度的關卡，最終推動劇情發展。"
+    },
+    {
+      "LGJCPENNFBC": "9",
+      "CPDCEMHELII": "當前處於非wifi環境，將需要下載<color=#f0af14>{0}</color>大小的檔案，是否繼續"
+    },
+    {
+      "LGJCPENNFBC": "10",
+      "CPDCEMHELII": "當前客戶端版本<color=#f0af14>已過時</color>，請下載最新客戶端"
+    },
+    {
+      "LGJCPENNFBC": "11",
+      "CPDCEMHELII": "取消"
+    },
+    {
+      "LGJCPENNFBC": "12",
+      "CPDCEMHELII": "確認"
+    },
+    {
+      "LGJCPENNFBC": "13",
+      "CPDCEMHELII": "提示"
+    },
+    {
+      "LGJCPENNFBC": "14",
+      "CPDCEMHELII": "{0}MB"
+    },
+    {
+      "LGJCPENNFBC": "15",
+      "CPDCEMHELII": "請求伺服器"
+    },
+    {
+      "LGJCPENNFBC": "16",
+      "CPDCEMHELII": "對比版本資訊"
+    },
+    {
+      "LGJCPENNFBC": "17",
+      "CPDCEMHELII": "下載表格"
+    },
+    {
+      "LGJCPENNFBC": "18",
+      "CPDCEMHELII": "解壓縮表格"
+    },
+    {
+      "LGJCPENNFBC": "19",
+      "CPDCEMHELII": "下載資源"
+    },
+    {
+      "LGJCPENNFBC": "20",
+      "CPDCEMHELII": "解壓縮資源"
+    },
+    {
+      "LGJCPENNFBC": "21",
+      "CPDCEMHELII": "資源合併"
+    },
+    {
+      "LGJCPENNFBC": "101",
+      "CPDCEMHELII": "錯誤"
+    },
+    {
+      "LGJCPENNFBC": "102",
+      "CPDCEMHELII": "親愛的指揮官，當前發生了未知錯誤的干擾。\n<color=#f0af14>（請檢查是否擁有足夠的儲存空間）</color>"
+    },
+    {
+      "LGJCPENNFBC": "103",
+      "CPDCEMHELII": "解析錯誤提示"
+    },
+    {
+      "LGJCPENNFBC": "104",
+      "CPDCEMHELII": "使用者取消下載！"
+    },
+    {
+      "LGJCPENNFBC": "105",
+      "CPDCEMHELII": "網路異常，請檢查網路連接"
+    },
+    {
+      "LGJCPENNFBC": "106",
+      "CPDCEMHELII": "登入解析錯誤："
+    },
+    {
+      "LGJCPENNFBC": "107",
+      "CPDCEMHELII": "下載時發生未知錯誤，請重新嘗試"
+    },
+    {
+      "LGJCPENNFBC": "108",
+      "CPDCEMHELII": "下載時發生未知錯誤，請重新嘗試"
+    },
+    {
+      "LGJCPENNFBC": "109",
+      "CPDCEMHELII": "發生異常，帳號退出"
+    },
+    {
+      "LGJCPENNFBC": "110",
+      "CPDCEMHELII": "帳號退出"
+    },
+    {
+      "LGJCPENNFBC": "111",
+      "CPDCEMHELII": "點擊重試"
+    },
+    {
+      "LGJCPENNFBC": "112",
+      "CPDCEMHELII": "提示"
+    },
+    {
+      "LGJCPENNFBC": "113",
+      "CPDCEMHELII": "重連失敗，即將返回登入介面"
+    },
+    {
+      "LGJCPENNFBC": "114",
+      "CPDCEMHELII": "斷線重連中…"
+    },
+    {
+      "LGJCPENNFBC": "115",
+      "CPDCEMHELII": "資源更新完畢，需要重新啟動遊戲"
+    },
+    {
+      "LGJCPENNFBC": "116",
+      "CPDCEMHELII": "解壓縮時發生未知錯誤，請重新嘗試"
+    },
+    {
+      "LGJCPENNFBC": "117",
+      "CPDCEMHELII": "檢測到您設備當前剩餘容量不足，本次下載需要容量：{0}，請釋放一些儲存空間並重試… …"
+    },
+    {
+      "LGJCPENNFBC": "118",
+      "CPDCEMHELII": "當前處於行動網路，繼續下載需要消耗流量：{0}，請確認是否進行下載… …"
+    },
+    {
+      "LGJCPENNFBC": "119",
+      "CPDCEMHELII": "客戶端檢查"
+    },
+    {
+      "LGJCPENNFBC": "120",
+      "CPDCEMHELII": "您是否需要修復和檢查客戶端完整性？"
+    },
+    {
+      "LGJCPENNFBC": "121",
+      "CPDCEMHELII": "強制更新所有下載資源"
+    },
+    {
+      "LGJCPENNFBC": "123",
+      "CPDCEMHELII": "確認"
+    },
+    {
+      "LGJCPENNFBC": "124",
+      "CPDCEMHELII": "取消"
+    },
+    {
+      "LGJCPENNFBC": "125",
+      "CPDCEMHELII": "語言選擇"
+    },
+    {
+      "LGJCPENNFBC": "126",
+      "CPDCEMHELII": "請選擇遊戲語音的語言\\n選擇後，可在設定中變更"
+    },
+    {
+      "LGJCPENNFBC": "127",
+      "CPDCEMHELII": "中文配音"
+    },
+    {
+      "LGJCPENNFBC": "128",
+      "CPDCEMHELII": "日文配音"
+    },
+    {
+      "LGJCPENNFBC": "129",
+      "CPDCEMHELII": "確認"
+    },
+    {
+      "LGJCPENNFBC": "130",
+      "CPDCEMHELII": "韓文配音"
+    },
+    {
+      "LGJCPENNFBC": "131",
+      "CPDCEMHELII": "伺服器選擇"
+    },
+    {
+      "LGJCPENNFBC": "132",
+      "CPDCEMHELII": "點擊開始"
+    },
+    {
+      "LGJCPENNFBC": "133",
+      "CPDCEMHELII": "本次更新資料(檔案大小{0})，檢測到當前未處於無線網路環境下，是否繼續下載？"
+    },
+    {
+      "LGJCPENNFBC": "134",
+      "CPDCEMHELII": "本次更新資料(檔案大小{0})，是否繼續下載？"
+    },
+    {
+      "LGJCPENNFBC": "135",
+      "CPDCEMHELII": "切換伺服器可能產生資源下載，是否確認進行伺服器切換"
+    },
+    {
+      "LGJCPENNFBC": "136",
+      "CPDCEMHELII": "伺服器暫時無法登入，請查詢公告或聯繫客服中心。"
+    },
+    {
+      "LGJCPENNFBC": "137",
+      "CPDCEMHELII": "重新連接"
+    },
+    {
+      "LGJCPENNFBC": "138",
+      "CPDCEMHELII": "伺服器連接"
+    },
+    {
+      "LGJCPENNFBC": "139",
+      "CPDCEMHELII": "簡中服"
+    },
+    {
+      "LGJCPENNFBC": "140",
+      "CPDCEMHELII": "美服"
+    },
+    {
+      "LGJCPENNFBC": "141",
+      "CPDCEMHELII": "全球"
+    },
+    {
+      "LGJCPENNFBC": "142",
+      "CPDCEMHELII": "日本"
+    },
+    {
+      "LGJCPENNFBC": "143",
+      "CPDCEMHELII": "韓國"
+    },
+    {
+      "LGJCPENNFBC": "144",
+      "CPDCEMHELII": "亞洲"
+    },
+    {
+      "LGJCPENNFBC": "145",
+      "CPDCEMHELII": "請登入帳號後重試"
+    }
+  ]
+}

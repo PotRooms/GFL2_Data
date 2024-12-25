@@ -1,0 +1,800 @@
+{
+  "data": [
+    {
+      "APDEGPMNLMM": 4004101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "3215"
+      },
+      "NHCCNJKJKMP": [
+        4004101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4010001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4907"
+      },
+      "NHCCNJKJKMP": [
+        4010001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4029001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4917"
+      },
+      "NHCCNJKJKMP": [
+        4029001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4002001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4907"
+      },
+      "NHCCNJKJKMP": [
+        4002001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4022001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4908"
+      },
+      "NHCCNJKJKMP": [
+        4022001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4011001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "3215"
+      },
+      "NHCCNJKJKMP": [
+        4011001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4018001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4909"
+      },
+      "NHCCNJKJKMP": [
+        4018001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4025101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "3215"
+      },
+      "NHCCNJKJKMP": [
+        4025101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4029101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4917"
+      },
+      "NHCCNJKJKMP": [
+        4029101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 1110,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8908"
+      },
+      "NHCCNJKJKMP": [
+        111001,
+        111002,
+        111003
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1111,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4910"
+      },
+      "NHCCNJKJKMP": [
+        111101,
+        111102,
+        111103,
+        111104
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1112,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4915"
+      },
+      "NHCCNJKJKMP": [
+        111201,
+        111202
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1113,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5783"
+      },
+      "NHCCNJKJKMP": [
+        111301,
+        111302
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1114,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8909"
+      },
+      "NHCCNJKJKMP": [
+        111401,
+        111402,
+        111403
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1115,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8908"
+      },
+      "NHCCNJKJKMP": [
+        111501,
+        111502
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1116,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8910"
+      },
+      "NHCCNJKJKMP": [
+        111601,
+        111602,
+        111603,
+        111604
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1117,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6982"
+      },
+      "NHCCNJKJKMP": [
+        111701,
+        111702
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1118,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8903"
+      },
+      "NHCCNJKJKMP": [
+        111801,
+        111802
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1119,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4907"
+      },
+      "NHCCNJKJKMP": [
+        111901
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 4001101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4907"
+      },
+      "NHCCNJKJKMP": [
+        4001101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4015001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4920"
+      },
+      "NHCCNJKJKMP": [
+        4015001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4017101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4920"
+      },
+      "NHCCNJKJKMP": [
+        4017101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 1170,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6041"
+      },
+      "NHCCNJKJKMP": [
+        117001
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1171,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6041"
+      },
+      "NHCCNJKJKMP": [
+        117101
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1172,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6044"
+      },
+      "NHCCNJKJKMP": [
+        117201
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1173,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6982"
+      },
+      "NHCCNJKJKMP": [
+        117301,
+        117302
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 4031,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8907"
+      },
+      "NHCCNJKJKMP": [
+        4031001,
+        4031002
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4032,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4907"
+      },
+      "NHCCNJKJKMP": [
+        4032001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4023001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4910"
+      },
+      "NHCCNJKJKMP": [
+        4023001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4023101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4910"
+      },
+      "NHCCNJKJKMP": [
+        4023101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4036001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4910"
+      },
+      "NHCCNJKJKMP": [
+        4036001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 2101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "2659"
+      },
+      "NHCCNJKJKMP": [
+        210102,
+        210103
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 4012001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4915"
+      },
+      "NHCCNJKJKMP": [
+        4012001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4907"
+      },
+      "NHCCNJKJKMP": [
+        400101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4003,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6033"
+      },
+      "NHCCNJKJKMP": [
+        4003001,
+        4003002
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4001001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4907"
+      },
+      "NHCCNJKJKMP": [
+        4001001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4009001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4907"
+      },
+      "NHCCNJKJKMP": [
+        4009001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4030001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4911"
+      },
+      "NHCCNJKJKMP": [
+        4030001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4035001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4915"
+      },
+      "NHCCNJKJKMP": [
+        4035001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 1101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5770"
+      },
+      "NHCCNJKJKMP": [
+        110101,
+        110102
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1102,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5775"
+      },
+      "NHCCNJKJKMP": [
+        110201,
+        110202
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1103,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4908"
+      },
+      "NHCCNJKJKMP": [
+        110301
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1104,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6602"
+      },
+      "NHCCNJKJKMP": [
+        110401,
+        110402
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1105,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4911"
+      },
+      "NHCCNJKJKMP": [
+        110501,
+        110502
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1106,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8900"
+      },
+      "NHCCNJKJKMP": [
+        110601,
+        110602,
+        110603
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1107,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8901"
+      },
+      "NHCCNJKJKMP": [
+        110701,
+        110702
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1108,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5783"
+      },
+      "NHCCNJKJKMP": [
+        110801,
+        110802
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1109,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8902"
+      },
+      "NHCCNJKJKMP": [
+        110901,
+        110902
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 3000,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4919"
+      },
+      "NHCCNJKJKMP": [
+        300001
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 3001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5783"
+      },
+      "NHCCNJKJKMP": [
+        300101
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 3002,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4920"
+      },
+      "NHCCNJKJKMP": [
+        300201
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 3003,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8903"
+      },
+      "NHCCNJKJKMP": [
+        300301,
+        300302
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 3004,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8906"
+      },
+      "NHCCNJKJKMP": [
+        300401
+      ]
+    },
+    {
+      "APDEGPMNLMM": 3005,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5895"
+      },
+      "NHCCNJKJKMP": [
+        300501
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 4013001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4917"
+      },
+      "NHCCNJKJKMP": [
+        4013001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4014001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4919"
+      },
+      "NHCCNJKJKMP": [
+        4014001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4017001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4919"
+      },
+      "NHCCNJKJKMP": [
+        4017001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4022101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4909"
+      },
+      "NHCCNJKJKMP": [
+        4022101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4022201,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4908"
+      },
+      "NHCCNJKJKMP": [
+        4022201
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4025001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "3215"
+      },
+      "NHCCNJKJKMP": [
+        4025001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4004201,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4915"
+      },
+      "NHCCNJKJKMP": [
+        4004201
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4008001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4911"
+      },
+      "NHCCNJKJKMP": [
+        4008001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4037001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4908"
+      },
+      "NHCCNJKJKMP": [
+        4037001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4004001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4917"
+      },
+      "NHCCNJKJKMP": [
+        4004001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4006001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4908"
+      },
+      "NHCCNJKJKMP": [
+        4006001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4006101,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4909"
+      },
+      "NHCCNJKJKMP": [
+        4006101
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4007001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4910"
+      },
+      "NHCCNJKJKMP": [
+        4007001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4021001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4908"
+      },
+      "NHCCNJKJKMP": [
+        4021001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 4026001,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "4915"
+      },
+      "NHCCNJKJKMP": [
+        4026001
+      ]
+    },
+    {
+      "APDEGPMNLMM": 1120,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8911"
+      },
+      "NHCCNJKJKMP": [
+        112001,
+        112002
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1121,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8902"
+      },
+      "NHCCNJKJKMP": [
+        112101,
+        112102
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1122,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6982"
+      },
+      "NHCCNJKJKMP": [
+        112201,
+        112202
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1123,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5783"
+      },
+      "NHCCNJKJKMP": [
+        112301,
+        112302
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1124,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6033"
+      },
+      "NHCCNJKJKMP": [
+        112401,
+        112402
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1125,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8912"
+      },
+      "NHCCNJKJKMP": [
+        112501,
+        112502
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1126,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5783"
+      },
+      "NHCCNJKJKMP": [
+        112601
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1127,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8913"
+      },
+      "NHCCNJKJKMP": [
+        112701
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1128,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "8914"
+      },
+      "NHCCNJKJKMP": [
+        112801,
+        112802
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1165,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "5783"
+      },
+      "NHCCNJKJKMP": [
+        116501
+      ],
+      "ABDJPOLOOKJ": 1
+    },
+    {
+      "APDEGPMNLMM": 1169,
+      "OHJACHLNDPJ": {
+        "DOHLNDIPHAJ": "6041"
+      },
+      "NHCCNJKJKMP": [
+        116901
+      ],
+      "ABDJPOLOOKJ": 1
+    }
+  ]
+}

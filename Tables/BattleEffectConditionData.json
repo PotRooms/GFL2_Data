@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 62019,
+      "IHGFFKGDHLI": "2019900",
+      "OJOLFKKJAPL": "Skill/2019_LightHit_Gold",
+      "AGGGHKFNKKL": "62019"
+    },
+    {
+      "LGJCPENNFBC": 62020,
+      "IHGFFKGDHLI": "2019900",
+      "OJOLFKKJAPL": "Skill/2020_LightHit_Gold",
+      "AGGGHKFNKKL": "62020,62021"
+    },
+    {
+      "LGJCPENNFBC": 10270803,
+      "IHGFFKGDHLI": "10270803",
+      "OJOLFKKJAPL": "Skill/BulletHitMany_Fire"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "IHGFFKGDHLI": "6334001",
+      "OJOLFKKJAPL": "Skill/Shield_Blue"
+    },
+    {
+      "LGJCPENNFBC": 901,
+      "IHGFFKGDHLI": "6334001",
+      "OJOLFKKJAPL": "Skill/Shield_Blue_hit",
+      "AGGGHKFNKKL": "6334"
+    }
+  ]
+}

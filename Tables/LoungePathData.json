@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 102,
+      "HBJAHCGKJJD": "A1",
+      "EPJCBLJDCLI": "A2",
+      "JFDBKKKCMCP": true,
+      "LFHGDLMCENE": "B1,B2;",
+      "BAAJFDADANH": "多功能区到沙发"
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "HBJAHCGKJJD": "A1",
+      "EPJCBLJDCLI": "A3",
+      "JFDBKKKCMCP": true,
+      "BAAJFDADANH": "多功能区到床"
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "HBJAHCGKJJD": "A1",
+      "EPJCBLJDCLI": "A4",
+      "JFDBKKKCMCP": true,
+      "BAAJFDADANH": "多功能区到二楼工作台"
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "HBJAHCGKJJD": "A1",
+      "EPJCBLJDCLI": "A5",
+      "JFDBKKKCMCP": true,
+      "BAAJFDADANH": "多功能区到二楼擦枪台"
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "HBJAHCGKJJD": "A2",
+      "EPJCBLJDCLI": "A3",
+      "JFDBKKKCMCP": true,
+      "LFHGDLMCENE": "B2.B1;",
+      "BAAJFDADANH": "沙发到床"
+    },
+    {
+      "LGJCPENNFBC": 601,
+      "HBJAHCGKJJD": "A1",
+      "EPJCBLJDCLI": "A1",
+      "JFDBKKKCMCP": true,
+      "LCFKFEKEJBF": true,
+      "LFHGDLMCENE": "M1.M2;",
+      "BAAJFDADANH": "扫地循环路径"
+    }
+  ]
+}

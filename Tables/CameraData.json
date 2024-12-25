@@ -1,0 +1,1010 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10190101,
+      "HBJAHCGKJJD": "OnAttack1019",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1019"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "HBJAHCGKJJD": "CharolicSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/CharolicSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1005
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "HBJAHCGKJJD": "NemesisSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/NemesisSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1006
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "HBJAHCGKJJD": "GrozaSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/GrozaSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1007
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "HBJAHCGKJJD": "NemesisSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/NemesisSR01/NemesisSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1008
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "HBJAHCGKJJD": "ColphneSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/ColphneSR01/ColphneSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1009
+    },
+    {
+      "LGJCPENNFBC": 1032,
+      "HBJAHCGKJJD": "DaiyanSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/DaiyanSSR01/DaiyanSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1032
+    },
+    {
+      "LGJCPENNFBC": 1033,
+      "HBJAHCGKJJD": "MosinnagantSR01_UltraSkill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/MosinnagantSR01/MosinnagantSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1033
+    },
+    {
+      "LGJCPENNFBC": 1035,
+      "HBJAHCGKJJD": "JiangyuSSR01_UltraSkill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/JiangyuSSR01/JiangyuSSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1035
+    },
+    {
+      "LGJCPENNFBC": 1036,
+      "HBJAHCGKJJD": "KseniaSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/KseniaSR01/KseniaSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1036
+    },
+    {
+      "LGJCPENNFBC": 1038,
+      "HBJAHCGKJJD": "MosinnagantSR01_UltraSkill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/MosinnagantSR01/MosinnagantSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1038
+    },
+    {
+      "LGJCPENNFBC": 10070101,
+      "HBJAHCGKJJD": "OnAttack1007",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1007"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10000103,
+      "HBJAHCGKJJD": "OnBuffSelf",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnBuffSelf"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10000104,
+      "HBJAHCGKJJD": "OnDebuff",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnDebuff"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10000105,
+      "HBJAHCGKJJD": "OnForceShield",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnForceShield"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10000106,
+      "HBJAHCGKJJD": "OnSpecialFirePre",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnSpecialFirePre"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10000107,
+      "HBJAHCGKJJD": "OnSpecialFire",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnSpecialFire"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10000108,
+      "HBJAHCGKJJD": "HK416Skill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "HK416Skill"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10000109,
+      "HBJAHCGKJJD": "SpringfieldSkill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SpringfieldSkill"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10120101,
+      "HBJAHCGKJJD": "OnAttack1012",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1012"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10270101,
+      "HBJAHCGKJJD": "OnAttack1027",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1027"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "HBJAHCGKJJD": "CharolicSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/CharolicSR01/CharolicSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 30
+    },
+    {
+      "LGJCPENNFBC": 31,
+      "HBJAHCGKJJD": "OnPreAim",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnPreAim"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 32,
+      "HBJAHCGKJJD": "DarkzoneTrackCamera",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "DarkzoneTrackCamera"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "HBJAHCGKJJD": "OnEnemyAttackBatch",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackBatch"
+      ],
+      "ANJGPFMGING": 33,
+      "EHGALKFNMAD": 1
+    },
+    {
+      "LGJCPENNFBC": 34,
+      "HBJAHCGKJJD": "OnEnemyAttackTargetRange",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackTargetRange"
+      ],
+      "EHGALKFNMAD": 1
+    },
+    {
+      "LGJCPENNFBC": 35,
+      "HBJAHCGKJJD": "OnGridSkill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnGridSkill"
+      ],
+      "ANJGPFMGING": 35
+    },
+    {
+      "LGJCPENNFBC": 36,
+      "HBJAHCGKJJD": "OnEnemyAttackTargetRangeHuge",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackTargetRangeHuge"
+      ],
+      "ANJGPFMGING": 36
+    },
+    {
+      "LGJCPENNFBC": 37,
+      "HBJAHCGKJJD": "OnEnemyAttackSelf",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackSelf"
+      ],
+      "ANJGPFMGING": 37
+    },
+    {
+      "LGJCPENNFBC": 38,
+      "HBJAHCGKJJD": "OnPassive",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnPassive"
+      ],
+      "ANJGPFMGING": 38
+    },
+    {
+      "LGJCPENNFBC": 39,
+      "HBJAHCGKJJD": "OnEnemyAttackTank",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackTank"
+      ],
+      "ANJGPFMGING": 39
+    },
+    {
+      "LGJCPENNFBC": 10050,
+      "HBJAHCGKJJD": "CharolicSSR01_UltraskillPre",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/CharolicSSR01_UltraskillPre"
+      ],
+      "ANJGPFMGING": 10050
+    },
+    {
+      "LGJCPENNFBC": 10051,
+      "HBJAHCGKJJD": "CharolicSSR01_Ultraskill2",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/CharolicSSR01_Ultraskill02"
+      ],
+      "ANJGPFMGING": 10051
+    },
+    {
+      "LGJCPENNFBC": 10070,
+      "HBJAHCGKJJD": "GrozaSSR01_Ultraskill_Tac",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/GrozaSSR01_Ultraskill_Tac"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10060101,
+      "HBJAHCGKJJD": "OnAttack1006",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1006"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10230101,
+      "HBJAHCGKJJD": "OnAttack1023",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1023"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 100,
+      "HBJAHCGKJJD": "OnEnemyAttackThrow",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackThrow"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "HBJAHCGKJJD": "PerityaSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/PerityaSSR01/PerityaSSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1021
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "HBJAHCGKJJD": "SharkrySR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/SharkrySR01/SharkrySR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1022
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "HBJAHCGKJJD": "DusevnyjSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/DusevnyjSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1023
+    },
+    {
+      "LGJCPENNFBC": 1024,
+      "HBJAHCGKJJD": "CheetaSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/CheetaSR01/CheetaSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1024
+    },
+    {
+      "LGJCPENNFBC": 1025,
+      "HBJAHCGKJJD": "TololoSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/TololoSSR01/TololoSSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1025
+    },
+    {
+      "LGJCPENNFBC": 1026,
+      "HBJAHCGKJJD": "NagantSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/NagantSR01/NagantSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1026
+    },
+    {
+      "LGJCPENNFBC": 1027,
+      "HBJAHCGKJJD": "QiongjiuSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/QiongjiuSSR01/QiongjiuSSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1027
+    },
+    {
+      "LGJCPENNFBC": 1028,
+      "HBJAHCGKJJD": "CentaureissiSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/CentaureissiSSR01/CentaureissiSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1028
+    },
+    {
+      "LGJCPENNFBC": 1029,
+      "HBJAHCGKJJD": "SabrinaSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/SabrinaSSR01/SabrinaSSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1029
+    },
+    {
+      "LGJCPENNFBC": 6340211,
+      "HBJAHCGKJJD": "OnTX_AegisArtillerySWAPSkill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnTX_AegisArtillerySWAPSkill"
+      ],
+      "EHGALKFNMAD": 1
+    },
+    {
+      "LGJCPENNFBC": 10040101,
+      "HBJAHCGKJJD": "OnAttack1004",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1004"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10110101,
+      "HBJAHCGKJJD": "OnAttack1011",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1011"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10170101,
+      "HBJAHCGKJJD": "OnAttack1017",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1017"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10210101,
+      "HBJAHCGKJJD": "OnAttack1021",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1021"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10230,
+      "HBJAHCGKJJD": "DusevnyjSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/DusevnyjSSR01_Ultraskill_Tac"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6872501,
+      "HBJAHCGKJJD": "OnTitan_AssailSkill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnTitan_AssailSkill"
+      ],
+      "EHGALKFNMAD": 1
+    },
+    {
+      "LGJCPENNFBC": 10030101,
+      "HBJAHCGKJJD": "OnAttack1003",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1003"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10150101,
+      "HBJAHCGKJJD": "OnAttack1015",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1015"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10240101,
+      "HBJAHCGKJJD": "OnAttack1024",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1024"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10320101,
+      "HBJAHCGKJJD": "OnAttack1032",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1032"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 40,
+      "HBJAHCGKJJD": "OnEnemyAttackAffectTarget",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackAffectTarget"
+      ],
+      "ANJGPFMGING": 40
+    },
+    {
+      "LGJCPENNFBC": 41,
+      "HBJAHCGKJJD": "OnAttackHigher",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttackHigher"
+      ],
+      "ANJGPFMGING": 41
+    },
+    {
+      "LGJCPENNFBC": 42,
+      "HBJAHCGKJJD": "OnEnemyAttackSelfHigher",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackSelfHigher"
+      ],
+      "ANJGPFMGING": 42
+    },
+    {
+      "LGJCPENNFBC": 43,
+      "HBJAHCGKJJD": "OnEnemyAttackSelfHigh",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackSelfHigh"
+      ],
+      "ANJGPFMGING": 43
+    },
+    {
+      "LGJCPENNFBC": 44,
+      "HBJAHCGKJJD": "OnEnemyMultiAttackParent",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyMultiAttackParent"
+      ],
+      "ANJGPFMGING": 44
+    },
+    {
+      "LGJCPENNFBC": 45,
+      "HBJAHCGKJJD": "OnSkillAllTargetHigh",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnSkillAllTargetHigh"
+      ],
+      "ANJGPFMGING": 45
+    },
+    {
+      "LGJCPENNFBC": 46,
+      "HBJAHCGKJJD": "OnEnemyAttackAffectTarget_Self",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackAffectTarget_Self"
+      ],
+      "ANJGPFMGING": 46
+    },
+    {
+      "LGJCPENNFBC": 47,
+      "HBJAHCGKJJD": "OnEnemyAttackAffectTargetHuge",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackAffectTargetHuge"
+      ],
+      "ANJGPFMGING": 47
+    },
+    {
+      "LGJCPENNFBC": 48,
+      "HBJAHCGKJJD": "OnEnemyAttackAffectTargetHuge_Self",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackAffectTargetHuge_Self"
+      ],
+      "ANJGPFMGING": 48
+    },
+    {
+      "LGJCPENNFBC": 98,
+      "HBJAHCGKJJD": "OnAttackReverse",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttackReverse"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 99,
+      "HBJAHCGKJJD": "PreToFire",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "PreToFire"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10080101,
+      "HBJAHCGKJJD": "OnAttack1008",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1008"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10000110,
+      "HBJAHCGKJJD": "SkillResult",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "SkillResult"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10000111,
+      "HBJAHCGKJJD": "Ots14Skill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "Ots14Skill"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10000114,
+      "HBJAHCGKJJD": "SkillEnemyResult",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "SkillEnemyResult"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10090101,
+      "HBJAHCGKJJD": "OnAttack1009",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1009"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10130101,
+      "HBJAHCGKJJD": "OnAttack1013",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1013"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10250101,
+      "HBJAHCGKJJD": "OnAttack1025",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1025"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 102104011,
+      "HBJAHCGKJJD": "OnPerityaUltraskill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnPerityaUltraskill"
+      ],
+      "ANJGPFMGING": 102104011
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "Freedom",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "God",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "God"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": "Aim",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": "Combo",
+      "BKCIGACKEFD": 1,
+      "KHKINCNEIIO": [
+        "OnComboFeature"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "HBJAHCGKJJD": "OnSlay",
+      "BKCIGACKEFD": 1,
+      "KHKINCNEIIO": [
+        "OnSlay"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "HBJAHCGKJJD": "OnReload",
+      "BKCIGACKEFD": 1,
+      "KHKINCNEIIO": [
+        "OnReload"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "HBJAHCGKJJD": "DieCloseUp",
+      "BKCIGACKEFD": 1,
+      "KHKINCNEIIO": [
+        "OnDead"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "HBJAHCGKJJD": "Climb",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "HBJAHCGKJJD": "EnemyMove",
+      "BKCIGACKEFD": 1
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "HBJAHCGKJJD": "InspectEnemyMove",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnInspect"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "HBJAHCGKJJD": "OnEnemyAttack",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttack"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "HBJAHCGKJJD": "PlayerAttack",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack",
+        "OnAttack",
+        "OnAttack"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "HBJAHCGKJJD": "PlayerAttackCloseUp",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttackCloseUp"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "HBJAHCGKJJD": "OnMelee",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnMelee"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "HBJAHCGKJJD": "OnEnemyAttackTarget",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackTarget"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "HBJAHCGKJJD": "OnEnemyAttackRole",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnEnemyAttackRole"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "HBJAHCGKJJD": "RavnPrePerform",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "RavnPrePerform"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "HBJAHCGKJJD": "OnBreak",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnBreak"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "HBJAHCGKJJD": "StayStill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "StayStill"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "HBJAHCGKJJD": "OnMelee",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnMelee"
+      ],
+      "ANJGPFMGING": 11
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "HBJAHCGKJJD": "OnCannonDroneAttack",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnCannonDroneAttack"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "HBJAHCGKJJD": "OnMGDroneAttack",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnMGDroneAttack"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "HBJAHCGKJJD": "OnVepleySkill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnVepleySkill"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "HBJAHCGKJJD": "OnCharolicSkill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnCharolicSkill"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "HBJAHCGKJJD": "OnSkillAllTarget",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnSkillAllTarget"
+      ],
+      "ANJGPFMGING": 25
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "HBJAHCGKJJD": "MoveWSkill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "MoveWSkill"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "HBJAHCGKJJD": "OnSkillTarget",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnSkillTarget"
+      ],
+      "ANJGPFMGING": 27
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "HBJAHCGKJJD": "TrackCamera",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "TrackCamera"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "HBJAHCGKJJD": "EffectFollowCamera",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "EffectFollowCamera"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10050101,
+      "HBJAHCGKJJD": "OnAttack1005",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1005"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10140101,
+      "HBJAHCGKJJD": "OnAttack1014",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1014"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 10160101,
+      "HBJAHCGKJJD": "OnAttack1016",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1016"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "HBJAHCGKJJD": "ColphneSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/ColphneSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1012
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "HBJAHCGKJJD": "LennaSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/LennaSSR/LennaSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1013
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "HBJAHCGKJJD": "PerityaSSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/PerityaSSR01_Ultraskill"
+      ],
+      "ANJGPFMGING": 1014
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "HBJAHCGKJJD": "VepleySSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/VepleySSR01/VepleySSR01_UltraSkill"
+      ],
+      "ANJGPFMGING": 1015
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "HBJAHCGKJJD": "GrozaSR01_Ultraskill",
+      "BKCIGACKEFD": 21,
+      "KHKINCNEIIO": [
+        "SkillTimeline/GrozaSR01/GrozaSR01_slg_UltraSkill"
+      ],
+      "ANJGPFMGING": 1017
+    },
+    {
+      "LGJCPENNFBC": 6269905,
+      "HBJAHCGKJJD": "OnNemerteaSkill",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnNemerteaSkill"
+      ]
+    },
+    {
+      "LGJCPENNFBC": 10010101,
+      "HBJAHCGKJJD": "OnAttack1001",
+      "BKCIGACKEFD": 20,
+      "KHKINCNEIIO": [
+        "OnAttack1001"
+      ],
+      "ANJGPFMGING": 11,
+      "FEIKJPODIGO": 11
+    }
+  ]
+}

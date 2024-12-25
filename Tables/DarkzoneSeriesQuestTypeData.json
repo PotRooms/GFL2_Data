@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 101,
+      "DNHAGPFHGCE": "Img_DarkzoneMode_Type_1",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3124"
+      },
+      "JELIGNKHMDK": "darkzone_questtype_assassination"
+    },
+    {
+      "LGJCPENNFBC": 102,
+      "DNHAGPFHGCE": "Img_DarkzoneMode_Type_2",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5402"
+      },
+      "JELIGNKHMDK": "darkzone_questtype_capture"
+    },
+    {
+      "LGJCPENNFBC": 103,
+      "DNHAGPFHGCE": "Img_DarkzoneMode_Type_2",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5402"
+      },
+      "JELIGNKHMDK": "darkzone_questtype_annihilation"
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "DNHAGPFHGCE": "darkzone_questtype_104",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5403"
+      },
+      "JELIGNKHMDK": "darkzone_questtype_hijack"
+    },
+    {
+      "LGJCPENNFBC": 105,
+      "DNHAGPFHGCE": "darkzone_questtype_105",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5404"
+      },
+      "JELIGNKHMDK": "darkzone_questtype_mobile defense"
+    },
+    {
+      "LGJCPENNFBC": 106,
+      "DNHAGPFHGCE": "darkzone_questtype_106",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5405"
+      },
+      "JELIGNKHMDK": "darkzone_questtype_rescue"
+    },
+    {
+      "LGJCPENNFBC": 107,
+      "DNHAGPFHGCE": "Img_DarkzoneMode_Type_3",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5406"
+      },
+      "JELIGNKHMDK": "darkzone_questtype_existence"
+    },
+    {
+      "LGJCPENNFBC": 9901,
+      "DNHAGPFHGCE": "Img_DarkzoneMode_Type_4",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "2855"
+      },
+      "JELIGNKHMDK": "darkzone_questtype_activity_escort"
+    }
+  ]
+}

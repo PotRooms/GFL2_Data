@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": "人形",
+      "IINAEFFCJFH": "role_type_gun"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": "NPC",
+      "IINAEFFCJFH": "role_type_npc"
+    }
+  ]
+}

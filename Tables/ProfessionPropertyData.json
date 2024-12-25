@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "IBFCEELLDCB": [
+        201,
+        203,
+        205,
+        207
+      ]
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "IBFCEELLDCB": [
+        209,
+        211,
+        213,
+        215
+      ]
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "IBFCEELLDCB": [
+        217,
+        219,
+        221,
+        223
+      ]
+    },
+    {
+      "LGJCPENNFBC": 29,
+      "IBFCEELLDCB": [
+        202,
+        204,
+        206,
+        208
+      ]
+    },
+    {
+      "LGJCPENNFBC": 30,
+      "IBFCEELLDCB": [
+        210,
+        212,
+        214,
+        216
+      ]
+    },
+    {
+      "LGJCPENNFBC": 33,
+      "IBFCEELLDCB": [
+        218,
+        220,
+        222,
+        224
+      ]
+    }
+  ]
+}

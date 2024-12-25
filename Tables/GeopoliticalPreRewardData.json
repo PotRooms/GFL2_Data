@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "BAFKMEHNFMC": 101,
+      "BLGCIKBFGNA": "通关关卡1",
+      "ALGGJBJOLMO": 951,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "1": 10
+      }
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "BAFKMEHNFMC": 101,
+      "BLGCIKBFGNA": "通关关卡2",
+      "ALGGJBJOLMO": 951,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "1": 20
+      }
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "BAFKMEHNFMC": 101,
+      "BLGCIKBFGNA": "通关关卡3",
+      "ALGGJBJOLMO": 951,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "1": 30
+      }
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "BAFKMEHNFMC": 101,
+      "BLGCIKBFGNA": "通关关卡4",
+      "ALGGJBJOLMO": 951,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "1": 40
+      }
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "BAFKMEHNFMC": 101,
+      "BLGCIKBFGNA": "通关关卡5",
+      "ALGGJBJOLMO": 951,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "1": 50
+      }
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "BAFKMEHNFMC": 101,
+      "BLGCIKBFGNA": "通关关卡6",
+      "ALGGJBJOLMO": 951,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "1": 60
+      }
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "BAFKMEHNFMC": 101,
+      "BLGCIKBFGNA": "通关关卡7",
+      "ALGGJBJOLMO": 951,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "180001": 1
+      },
+      "LOMMOEHKGOH": 1
+    }
+  ]
+}

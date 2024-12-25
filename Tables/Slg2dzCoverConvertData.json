@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "KGDCGCALBCI": 5113,
+      "KDMELCHCHMP": 140100,
+      "LCLDKELNIJO": [
+        14010000,
+        14010090
+      ]
+    },
+    {
+      "KGDCGCALBCI": 5127,
+      "KDMELCHCHMP": 140200,
+      "LCLDKELNIJO": [
+        14020000,
+        14020090
+      ]
+    },
+    {
+      "KGDCGCALBCI": 1,
+      "KDMELCHCHMP": 141100,
+      "LCLDKELNIJO": [
+        14110000,
+        14110090
+      ]
+    },
+    {
+      "KGDCGCALBCI": 3,
+      "KDMELCHCHMP": 141200,
+      "LCLDKELNIJO": [
+        14120000,
+        14120090
+      ]
+    },
+    {
+      "KGDCGCALBCI": 27,
+      "KDMELCHCHMP": 140200,
+      "LCLDKELNIJO": [
+        14020000,
+        14020090
+      ]
+    },
+    {
+      "KGDCGCALBCI": 1003,
+      "KDMELCHCHMP": 140200,
+      "LCLDKELNIJO": [
+        14020000,
+        14020090
+      ]
+    },
+    {
+      "KGDCGCALBCI": 5102,
+      "KDMELCHCHMP": 301200,
+      "LCLDKELNIJO": [
+        30120000,
+        30120090
+      ]
+    },
+    {
+      "KGDCGCALBCI": 5103,
+      "KDMELCHCHMP": 301100,
+      "LCLDKELNIJO": [
+        30110000,
+        30110090
+      ]
+    },
+    {
+      "KGDCGCALBCI": 5104,
+      "KDMELCHCHMP": 301000,
+      "LCLDKELNIJO": [
+        30100000,
+        30100090
+      ]
+    }
+  ]
+}

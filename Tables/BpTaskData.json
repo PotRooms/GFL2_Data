@@ -1,0 +1,4178 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1020,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11927"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1021,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11928"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11929"
+      },
+      "ALGGJBJOLMO": 1102,
+      "CGFMAIFHLEO": 20,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1000",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1022,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11930"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11931"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1023,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11932"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 2010,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3237"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5902"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2011,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5903"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5904"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3809",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2012,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5906"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3817",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2013,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7010"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7435"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3825",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2014,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2015,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7438"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4844"
+      },
+      "ALGGJBJOLMO": 750,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "4015",
+      "OCIKCDKGEKM": 11012,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2016,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2017,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2018,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2019,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11904"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 4001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11908"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11911"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11912"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3008",
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11913"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11914"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3002",
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4007,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11915"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11916"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3018",
+      "CIDKFLGFFJN": 11005,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4008,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11917"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11918"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "2000",
+      "CIDKFLGFFJN": 11002,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4009,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11919"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11920"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3003",
+      "CIDKFLGFFJN": 11004,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 8001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11921"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11922"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "21001",
+      "CIDKFLGFFJN": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11923"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11924"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "OCIKCDKGEKM": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8007,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5001"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 300,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8008,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11925"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 500,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8009,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 9010,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9011,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9012,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11933"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9013,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11934"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 5,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9014,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11935"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11936"
+      },
+      "ALGGJBJOLMO": 1504,
+      "CGFMAIFHLEO": 10,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "41001",
+      "CIDKFLGFFJN": 38001,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 12010,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12011,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12012,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11933"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12013,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11934"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 5,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12014,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11935"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11936"
+      },
+      "ALGGJBJOLMO": 1504,
+      "CGFMAIFHLEO": 10,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "41001",
+      "CIDKFLGFFJN": 38001,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 1010,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3237"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5902"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1011,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5903"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5904"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3809",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1012,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5906"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3817",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1013,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7010"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7435"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3825",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1014,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1015,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7438"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4844"
+      },
+      "ALGGJBJOLMO": 750,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "4015",
+      "OCIKCDKGEKM": 11012,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1016,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1017,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1018,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1019,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11904"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 5020,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11927"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5021,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11928"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11929"
+      },
+      "ALGGJBJOLMO": 1102,
+      "CGFMAIFHLEO": 20,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1000",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5022,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11930"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11931"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5023,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11932"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 6020,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11927"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6021,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11928"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11929"
+      },
+      "ALGGJBJOLMO": 1102,
+      "CGFMAIFHLEO": 20,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1000",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6022,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11930"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11931"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6023,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11932"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 8010,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8011,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8012,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11933"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 8013,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11934"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 5,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30008
+    },
+    {
+      "LGJCPENNFBC": 9001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11921"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11922"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "21001",
+      "CIDKFLGFFJN": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11923"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11924"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "OCIKCDKGEKM": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9007,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5001"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 300,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9008,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11925"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 500,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 9009,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30009
+    },
+    {
+      "LGJCPENNFBC": 5001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11908"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11911"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11912"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3008",
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11913"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11914"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3002",
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5007,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11915"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11916"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3018",
+      "CIDKFLGFFJN": 11005,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5008,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11917"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11918"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "2000",
+      "CIDKFLGFFJN": 11002,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5009,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11919"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11920"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3003",
+      "CIDKFLGFFJN": 11004,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 6001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11908"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11911"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11912"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3008",
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11913"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11914"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3002",
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6007,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11915"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11916"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3018",
+      "CIDKFLGFFJN": 11005,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6008,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11917"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11918"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "2000",
+      "CIDKFLGFFJN": 11002,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6009,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11919"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11920"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3003",
+      "CIDKFLGFFJN": 11004,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6010,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3237"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5902"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6011,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5903"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5904"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3809",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6012,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5906"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3817",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6013,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7010"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7435"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3825",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6014,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6015,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7438"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4844"
+      },
+      "ALGGJBJOLMO": 750,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "4015",
+      "OCIKCDKGEKM": 11012,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6016,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6017,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6018,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 6019,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11904"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30006
+    },
+    {
+      "LGJCPENNFBC": 10001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11921"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11922"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "21001",
+      "CIDKFLGFFJN": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11923"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11924"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "OCIKCDKGEKM": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10007,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5001"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 300,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10008,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11925"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 500,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10009,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10010,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10011,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10012,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11933"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10013,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11934"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 5,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 10014,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11935"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11936"
+      },
+      "ALGGJBJOLMO": 1504,
+      "CGFMAIFHLEO": 10,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "41001",
+      "CIDKFLGFFJN": 38001,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30010
+    },
+    {
+      "LGJCPENNFBC": 2020,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11927"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2021,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11928"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11929"
+      },
+      "ALGGJBJOLMO": 1102,
+      "CGFMAIFHLEO": 20,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1000",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2022,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11930"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11931"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2023,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11932"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 3020,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11927"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3021,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11928"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11929"
+      },
+      "ALGGJBJOLMO": 1102,
+      "CGFMAIFHLEO": 20,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1000",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3022,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11930"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11931"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3023,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11932"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 7001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11908"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11911"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11912"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3008",
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11913"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11914"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3002",
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7007,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11915"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11916"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3018",
+      "CIDKFLGFFJN": 11005,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7008,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11917"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11918"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "2000",
+      "CIDKFLGFFJN": 11002,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7009,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11919"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11920"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3003",
+      "CIDKFLGFFJN": 11004,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7020,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11927"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7021,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11928"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11929"
+      },
+      "ALGGJBJOLMO": 1102,
+      "CGFMAIFHLEO": 20,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1000",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7022,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11930"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11931"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7023,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11932"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 3010,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3237"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5902"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3011,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5903"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5904"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3809",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3012,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5906"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3817",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3013,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7010"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7435"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3825",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3014,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3015,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7438"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4844"
+      },
+      "ALGGJBJOLMO": 750,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "4015",
+      "OCIKCDKGEKM": 11012,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3016,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3017,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3018,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3019,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11904"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 2001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11908"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11911"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11912"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3008",
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11913"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11914"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3002",
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2007,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11915"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11916"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3018",
+      "CIDKFLGFFJN": 11005,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2008,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11917"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11918"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "2000",
+      "CIDKFLGFFJN": 11002,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 2009,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11919"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11920"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3003",
+      "CIDKFLGFFJN": 11004,
+      "EOGACCIKFBM": 30002
+    },
+    {
+      "LGJCPENNFBC": 11001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11921"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11922"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "21001",
+      "CIDKFLGFFJN": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11923"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11924"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "OCIKCDKGEKM": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11007,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5001"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 300,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11008,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11925"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 500,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11009,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11010,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11011,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11012,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11933"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11013,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11934"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 5,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 11014,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11935"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11936"
+      },
+      "ALGGJBJOLMO": 1504,
+      "CGFMAIFHLEO": 10,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "41001",
+      "CIDKFLGFFJN": 38001,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30011
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11908"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11911"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11912"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3008",
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11913"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11914"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3002",
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1007,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11915"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11916"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3018",
+      "CIDKFLGFFJN": 11005,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1008,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11917"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11918"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "2000",
+      "CIDKFLGFFJN": 11002,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 1009,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11919"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11920"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3003",
+      "CIDKFLGFFJN": 11004,
+      "EOGACCIKFBM": 30001
+    },
+    {
+      "LGJCPENNFBC": 5010,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3237"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5902"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5011,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5903"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5904"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3809",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5012,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5906"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3817",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5013,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7010"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7435"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3825",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5014,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5015,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7438"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4844"
+      },
+      "ALGGJBJOLMO": 750,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "4015",
+      "OCIKCDKGEKM": 11012,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5016,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5017,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5018,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 5019,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11904"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30005
+    },
+    {
+      "LGJCPENNFBC": 12001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11921"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11922"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "21001",
+      "CIDKFLGFFJN": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11923"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11924"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "OCIKCDKGEKM": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 99103,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12007,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5001"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 300,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12008,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11925"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 500,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 12009,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30012
+    },
+    {
+      "LGJCPENNFBC": 3001,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11906"
+      },
+      "ALGGJBJOLMO": 5,
+      "CGFMAIFHLEO": 80,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "7001",
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3002,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11907"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4850"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 120,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3003,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11908"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3004,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11909"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11910"
+      },
+      "ALGGJBJOLMO": 210,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1099",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3005,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11911"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11912"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3008",
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3006,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11913"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11914"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3002",
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3007,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11915"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11916"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3018",
+      "CIDKFLGFFJN": 11005,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3008,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11917"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11918"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "2000",
+      "CIDKFLGFFJN": 11002,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 3009,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11919"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11920"
+      },
+      "ALGGJBJOLMO": 201,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3003",
+      "CIDKFLGFFJN": 11004,
+      "EOGACCIKFBM": 30003
+    },
+    {
+      "LGJCPENNFBC": 7010,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3237"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5902"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7011,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5903"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5904"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3809",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7012,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5906"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3817",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7013,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7010"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7435"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3825",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7014,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7015,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7438"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4844"
+      },
+      "ALGGJBJOLMO": 750,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "4015",
+      "OCIKCDKGEKM": 11012,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7016,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7017,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7018,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 7019,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11904"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30007
+    },
+    {
+      "LGJCPENNFBC": 4020,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11926"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11927"
+      },
+      "ALGGJBJOLMO": 301,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3014",
+      "CIDKFLGFFJN": 14000,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4021,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11928"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11929"
+      },
+      "ALGGJBJOLMO": 1102,
+      "CGFMAIFHLEO": 20,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1000",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4022,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11930"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11931"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4023,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11932"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7512"
+      },
+      "ALGGJBJOLMO": 209,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "1098",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4010,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3237"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5902"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3801",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4011,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5903"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5904"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3809",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4012,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5905"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "5906"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3817",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4013,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7010"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7435"
+      },
+      "ALGGJBJOLMO": 211,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "3825",
+      "CIDKFLGFFJN": 11012,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4014,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7436"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7437"
+      },
+      "ALGGJBJOLMO": 418,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "15000",
+      "OCIKCDKGEKM": 11012,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4015,
+      "BKCIGACKEFD": "task_daily",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7438"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "4844"
+      },
+      "ALGGJBJOLMO": 750,
+      "CGFMAIFHLEO": 1,
+      "DMGFKMJNIPF": {
+        "601": 75
+      },
+      "BJKCACPPLGN": "4015",
+      "OCIKCDKGEKM": 11012,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4016,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "7474"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "7539"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 900,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1100",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4017,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "8282"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "8623"
+      },
+      "ALGGJBJOLMO": 2,
+      "CGFMAIFHLEO": 10000,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "4002",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4018,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "9432"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11897"
+      },
+      "ALGGJBJOLMO": 400,
+      "CGFMAIFHLEO": 3,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "1",
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    },
+    {
+      "LGJCPENNFBC": 4019,
+      "BKCIGACKEFD": "task_weekly",
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "11902"
+      },
+      "PGBMMDIPEFA": {
+        "DOHLNDIPHAJ": "11904"
+      },
+      "ALGGJBJOLMO": 305,
+      "CGFMAIFHLEO": 2,
+      "DMGFKMJNIPF": {
+        "601": 130
+      },
+      "BJKCACPPLGN": "3005",
+      "CIDKFLGFFJN": 11008,
+      "NKKBLEJIMOI": 1000,
+      "EOGACCIKFBM": 30004
+    }
+  ]
+}

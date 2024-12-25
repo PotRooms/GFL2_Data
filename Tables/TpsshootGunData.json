@@ -1,0 +1,356 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "JBCGDKCJAEJ": "斯库拉",
+      "JGBGBLNNGBB": 10523,
+      "PLPMMICFBAA": 120,
+      "MJAPPEKFKJE": 60,
+      "EBKAOCPLNEO": [
+        200,
+        3
+      ],
+      "KFGIGHMHCPJ": [
+        200,
+        1
+      ],
+      "LFKJEMEAHCL": 60,
+      "EEKMIFFLLAK": 100,
+      "DENEFDBIDKL": 40,
+      "MCLOCGEEBCO": 1200,
+      "HGDILPEFBNJ": 2,
+      "KKMFFDFAPJH": 8,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS_high",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS_high",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "低",
+      "HKGALKKFMKF": "高",
+      "NACLDCOBFEH": "突击步枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_HK416_5_1024"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "JBCGDKCJAEJ": "华灯飞艇",
+      "JGBGBLNNGBB": 10523,
+      "FMCAEFKLHMI": 4134165,
+      "KFEADHJBKPO": 8,
+      "PLPMMICFBAA": 160,
+      "MJAPPEKFKJE": 70,
+      "EBKAOCPLNEO": [
+        200,
+        2
+      ],
+      "KFGIGHMHCPJ": [
+        200,
+        1
+      ],
+      "LFKJEMEAHCL": 70,
+      "EEKMIFFLLAK": 80,
+      "DENEFDBIDKL": 50,
+      "MCLOCGEEBCO": 1100,
+      "HGDILPEFBNJ": 1,
+      "KKMFFDFAPJH": 10,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS_high",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS_high",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "中",
+      "HKGALKKFMKF": "较高",
+      "NACLDCOBFEH": "突击步枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_ARClaS003_5_1024"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "JBCGDKCJAEJ": "苦涩焦糖",
+      "JGBGBLNNGBB": 10343,
+      "PLPMMICFBAA": 420,
+      "MJAPPEKFKJE": 180,
+      "EBKAOCPLNEO": [
+        0
+      ],
+      "KFGIGHMHCPJ": [
+        200,
+        1
+      ],
+      "LFKJEMEAHCL": 60,
+      "EEKMIFFLLAK": 550,
+      "INDJGMKAHBC": 1,
+      "DENEFDBIDKL": 12,
+      "MCLOCGEEBCO": 1200,
+      "HGDILPEFBNJ": 4,
+      "KKMFFDFAPJH": 15,
+      "OLNHEIMLKIA": 5,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/RF_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_BulletHit_Physical_TPS",
+      "BDCHBNOCAHM": "高",
+      "MEOLNHEHNGJ": "较高",
+      "HKGALKKFMKF": "低",
+      "NACLDCOBFEH": "狙击枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_WA2000_5_1024"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "JBCGDKCJAEJ": "泳池对决",
+      "JGBGBLNNGBB": 10343,
+      "FMCAEFKLHMI": 4233684,
+      "KFEADHJBKPO": 9,
+      "PLPMMICFBAA": 550,
+      "MJAPPEKFKJE": 220,
+      "EBKAOCPLNEO": [
+        0
+      ],
+      "KFGIGHMHCPJ": [
+        200,
+        1
+      ],
+      "LFKJEMEAHCL": 70,
+      "EEKMIFFLLAK": 450,
+      "INDJGMKAHBC": 1,
+      "DENEFDBIDKL": 15,
+      "MCLOCGEEBCO": 1100,
+      "HGDILPEFBNJ": 3,
+      "KKMFFDFAPJH": 15,
+      "OLNHEIMLKIA": 4,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/RF_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_BulletHit_Physical_TPS",
+      "BDCHBNOCAHM": "高",
+      "MEOLNHEHNGJ": "高",
+      "HKGALKKFMKF": "较低",
+      "NACLDCOBFEH": "狙击枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_RFSpE002_4_1024"
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "JBCGDKCJAEJ": "梅扎露娜",
+      "JGBGBLNNGBB": 11047,
+      "PLPMMICFBAA": 200,
+      "MJAPPEKFKJE": 70,
+      "EBKAOCPLNEO": [
+        200,
+        5
+      ],
+      "MMIHMPEODDM": 3,
+      "KFGIGHMHCPJ": [
+        200,
+        10
+      ],
+      "LFKJEMEAHCL": 50,
+      "EEKMIFFLLAK": 450,
+      "DENEFDBIDKL": 8,
+      "MCLOCGEEBCO": 1200,
+      "HGDILPEFBNJ": 6,
+      "KKMFFDFAPJH": 8,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS02",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_ShotFire_Physical_TPS02",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS02_01",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "较低",
+      "HKGALKKFMKF": "较低",
+      "NACLDCOBFEH": "霰弹枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_SPAS-12_5_1024"
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "JBCGDKCJAEJ": "引路时针",
+      "JGBGBLNNGBB": 11047,
+      "FMCAEFKLHMI": 4136175,
+      "KFEADHJBKPO": 10,
+      "PLPMMICFBAA": 240,
+      "MJAPPEKFKJE": 80,
+      "EBKAOCPLNEO": [
+        200,
+        4
+      ],
+      "MMIHMPEODDM": 4,
+      "KFGIGHMHCPJ": [
+        200,
+        8
+      ],
+      "LFKJEMEAHCL": 45,
+      "EEKMIFFLLAK": 350,
+      "DENEFDBIDKL": 10,
+      "MCLOCGEEBCO": 1100,
+      "HGDILPEFBNJ": 5,
+      "KKMFFDFAPJH": 10,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS02",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_ShotFire_Physical_TPS02",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS02_01",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "中",
+      "HKGALKKFMKF": "中",
+      "NACLDCOBFEH": "霰弹枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_SGClaS004_5_1024"
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "JBCGDKCJAEJ": "冲锋枪",
+      "JGBGBLNNGBB": 10393,
+      "PLPMMICFBAA": 100,
+      "MJAPPEKFKJE": 50,
+      "EBKAOCPLNEO": [
+        200,
+        3
+      ],
+      "KFGIGHMHCPJ": [
+        200,
+        1
+      ],
+      "LFKJEMEAHCL": 60,
+      "EEKMIFFLLAK": 100,
+      "DENEFDBIDKL": 40,
+      "MCLOCGEEBCO": 1500,
+      "HGDILPEFBNJ": 2,
+      "KKMFFDFAPJH": 8,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS_high",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS_high",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "低",
+      "HKGALKKFMKF": "高",
+      "NACLDCOBFEH": "突击步枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_HK416_5_1024"
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "JBCGDKCJAEJ": "索米",
+      "JGBGBLNNGBB": 10392,
+      "PLPMMICFBAA": 120,
+      "MJAPPEKFKJE": 60,
+      "EBKAOCPLNEO": [
+        200,
+        3
+      ],
+      "KFGIGHMHCPJ": [
+        200,
+        1
+      ],
+      "LFKJEMEAHCL": 60,
+      "EEKMIFFLLAK": 100,
+      "DENEFDBIDKL": 40,
+      "MCLOCGEEBCO": 1200,
+      "HGDILPEFBNJ": 2,
+      "KKMFFDFAPJH": 12,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS_high",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS_high",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "低",
+      "HKGALKKFMKF": "高",
+      "NACLDCOBFEH": "冲锋枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_M1931_4_1024"
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "JBCGDKCJAEJ": "未言使命",
+      "JGBGBLNNGBB": 10393,
+      "KFEADHJBKPO": 208,
+      "PLPMMICFBAA": 160,
+      "MJAPPEKFKJE": 70,
+      "EBKAOCPLNEO": [
+        200,
+        2
+      ],
+      "KFGIGHMHCPJ": [
+        200,
+        1
+      ],
+      "LFKJEMEAHCL": 70,
+      "EEKMIFFLLAK": 80,
+      "DENEFDBIDKL": 50,
+      "MCLOCGEEBCO": 1100,
+      "HGDILPEFBNJ": 1,
+      "KKMFFDFAPJH": 15,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/AR_ATK01_ShotFire_Physical_TPS_high",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS_high",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "中",
+      "HKGALKKFMKF": "较高",
+      "NACLDCOBFEH": "冲锋枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_M1931_5_1024"
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "JBCGDKCJAEJ": "梅扎露娜",
+      "JGBGBLNNGBB": 11047,
+      "PLPMMICFBAA": 240,
+      "MJAPPEKFKJE": 70,
+      "EBKAOCPLNEO": [
+        200,
+        5
+      ],
+      "MMIHMPEODDM": 3,
+      "KFGIGHMHCPJ": [
+        200,
+        10
+      ],
+      "LFKJEMEAHCL": 50,
+      "EEKMIFFLLAK": 450,
+      "DENEFDBIDKL": 8,
+      "MCLOCGEEBCO": 1200,
+      "HGDILPEFBNJ": 6,
+      "KKMFFDFAPJH": 12,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS02",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_ShotFire_Physical_TPS02",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS02_01",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "较低",
+      "HKGALKKFMKF": "较低",
+      "NACLDCOBFEH": "霰弹枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_SPAS-12_5_1024"
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "JBCGDKCJAEJ": "引路时针",
+      "JGBGBLNNGBB": 11047,
+      "FMCAEFKLHMI": 4136175,
+      "KFEADHJBKPO": 209,
+      "PLPMMICFBAA": 280,
+      "MJAPPEKFKJE": 80,
+      "EBKAOCPLNEO": [
+        200,
+        4
+      ],
+      "MMIHMPEODDM": 4,
+      "KFGIGHMHCPJ": [
+        200,
+        8
+      ],
+      "LFKJEMEAHCL": 45,
+      "EEKMIFFLLAK": 350,
+      "DENEFDBIDKL": 10,
+      "MCLOCGEEBCO": 1100,
+      "HGDILPEFBNJ": 5,
+      "KKMFFDFAPJH": 15,
+      "JCNMJPCGAJA": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_ShotFire_Physical_TPS",
+      "KJBMDBDEICJ": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS02",
+      "EEMCIODJMPM": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_BulletHit_Physical_TPS",
+      "DPEOHCDOPDL": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/SG_ATK01_ShotFire_Physical_TPS02",
+      "OMFEPBHILJC": "Assets/ArtsResource/Effect/Effect_activity/Tpsshoot/Common_Bullet_ker_Physical_TPS02_01",
+      "BDCHBNOCAHM": "中",
+      "MEOLNHEHNGJ": "中",
+      "HKGALKKFMKF": "中",
+      "NACLDCOBFEH": "霰弹枪",
+      "NFMKHFDFIJI": "UIRes/Atlas/Icon/Weapon/Weapon_SGClaS004_5_1024"
+    }
+  ]
+}

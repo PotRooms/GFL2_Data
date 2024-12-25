@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 7000,
+      "HBJAHCGKJJD": "迷你炮机枪",
+      "JCICKJAEAKF": 4,
+      "BKCIGACKEFD": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "5805"
+      },
+      "BABBAMHGFPE": "MachineGun",
+      "JKGMGALNGGK": 1,
+      "JONPFGODOKJ": 7000,
+      "HEOBFINNMCO": 1,
+      "OFLIFFHEFOK": [
+        2,
+        3,
+        5,
+        10,
+        20
+      ],
+      "KMLLEEDOLKN": 1011,
+      "GIIAAGIBICC": 1,
+      "HLLNHFADNDM": 2,
+      "BJEOECMKDNC": 7000
+    },
+    {
+      "LGJCPENNFBC": 7001,
+      "HBJAHCGKJJD": "固定炮塔",
+      "JCICKJAEAKF": 4,
+      "BKCIGACKEFD": 2,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "1550"
+      },
+      "BABBAMHGFPE": "DefenseTower",
+      "JKGMGALNGGK": 3,
+      "JONPFGODOKJ": 7001,
+      "HEOBFINNMCO": 1,
+      "OFLIFFHEFOK": [
+        2,
+        3,
+        5,
+        10,
+        20
+      ],
+      "KMLLEEDOLKN": 1021,
+      "GIIAAGIBICC": 2,
+      "HLLNHFADNDM": 1,
+      "BJEOECMKDNC": 7000
+    },
+    {
+      "LGJCPENNFBC": 7002,
+      "HBJAHCGKJJD": "寻敌导弹",
+      "JCICKJAEAKF": 4,
+      "BKCIGACKEFD": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "3207"
+      },
+      "BABBAMHGFPE": "Missile",
+      "JKGMGALNGGK": 2,
+      "JONPFGODOKJ": 7002,
+      "HEOBFINNMCO": 1,
+      "OFLIFFHEFOK": [
+        2,
+        3,
+        5,
+        10,
+        20
+      ],
+      "KMLLEEDOLKN": 1031,
+      "GIIAAGIBICC": 2,
+      "HLLNHFADNDM": 1,
+      "BJEOECMKDNC": 7000
+    },
+    {
+      "LGJCPENNFBC": 7003,
+      "HBJAHCGKJJD": "巡回式机枪车",
+      "JCICKJAEAKF": 4,
+      "BKCIGACKEFD": 2,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "1530"
+      },
+      "BABBAMHGFPE": "MG_Vehicle",
+      "JKGMGALNGGK": 2,
+      "JONPFGODOKJ": 7003,
+      "HEOBFINNMCO": 1,
+      "OFLIFFHEFOK": [
+        2,
+        3,
+        5,
+        10,
+        20
+      ],
+      "KMLLEEDOLKN": 1071,
+      "GIIAAGIBICC": 1,
+      "HLLNHFADNDM": 2,
+      "BJEOECMKDNC": 7000
+    },
+    {
+      "LGJCPENNFBC": 7004,
+      "HBJAHCGKJJD": "应急维修组件",
+      "JCICKJAEAKF": 4,
+      "BKCIGACKEFD": 2,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "5911"
+      },
+      "BABBAMHGFPE": "AED",
+      "JKGMGALNGGK": 4,
+      "JONPFGODOKJ": 7004,
+      "HEOBFINNMCO": 1,
+      "OFLIFFHEFOK": [
+        2,
+        3,
+        5,
+        10,
+        20
+      ],
+      "KMLLEEDOLKN": 1081,
+      "GIIAAGIBICC": 1,
+      "BJEOECMKDNC": 7000
+    },
+    {
+      "LGJCPENNFBC": 7005,
+      "HBJAHCGKJJD": "短效爆发组件",
+      "JCICKJAEAKF": 4,
+      "BKCIGACKEFD": 2,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "6015"
+      },
+      "BABBAMHGFPE": "Potential",
+      "JKGMGALNGGK": 5,
+      "JONPFGODOKJ": 7005,
+      "HEOBFINNMCO": 1,
+      "OFLIFFHEFOK": [
+        2,
+        3,
+        5,
+        10,
+        20
+      ],
+      "KMLLEEDOLKN": 1091,
+      "GIIAAGIBICC": 2,
+      "HLLNHFADNDM": 1,
+      "BJEOECMKDNC": 7000
+    },
+    {
+      "LGJCPENNFBC": 9001,
+      "HBJAHCGKJJD": "寻敌导弹",
+      "JCICKJAEAKF": 4,
+      "BKCIGACKEFD": 1,
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "3207"
+      },
+      "BABBAMHGFPE": "Missile",
+      "JKGMGALNGGK": 2,
+      "JONPFGODOKJ": 7002,
+      "HEOBFINNMCO": 1,
+      "OFLIFFHEFOK": [
+        2,
+        3,
+        5,
+        10,
+        20
+      ],
+      "KMLLEEDOLKN": 1031,
+      "GIIAAGIBICC": 2,
+      "HLLNHFADNDM": 1,
+      "BJEOECMKDNC": 7000
+    }
+  ]
+}

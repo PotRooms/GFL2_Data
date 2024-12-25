@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "KFHCEAABLHG": 1,
+      "JIENMKEAHCM": "增加1点生命",
+      "PBAEKNAJECH": 104,
+      "BJLELANDBDG": 1
+    },
+    {
+      "KFHCEAABLHG": 2,
+      "JIENMKEAHCM": "击退目标2格",
+      "PBAEKNAJECH": 201,
+      "BJLELANDBDG": 2
+    },
+    {
+      "KFHCEAABLHG": 3,
+      "JIENMKEAHCM": "碰撞双方扣除6点生命",
+      "PBAEKNAJECH": 202,
+      "BJLELANDBDG": 6
+    },
+    {
+      "KFHCEAABLHG": 4,
+      "JIENMKEAHCM": "推离目标1-2格",
+      "PBAEKNAJECH": 203,
+      "BJLELANDBDG": 1,
+      "JHLNDNJMJFG": 2
+    },
+    {
+      "KFHCEAABLHG": 5,
+      "JIENMKEAHCM": "回合开始时30%概率获得能量2点",
+      "PBAEKNAJECH": 110,
+      "BJLELANDBDG": 2,
+      "JHLNDNJMJFG": 300
+    },
+    {
+      "KFHCEAABLHG": 6,
+      "JIENMKEAHCM": "把1张任务卡洗回去",
+      "PBAEKNAJECH": 301,
+      "BJLELANDBDG": 1
+    },
+    {
+      "KFHCEAABLHG": 7,
+      "JIENMKEAHCM": "扣除1点生命",
+      "PBAEKNAJECH": 101,
+      "BJLELANDBDG": 1
+    },
+    {
+      "KFHCEAABLHG": 8,
+      "JIENMKEAHCM": "获得敌方单位控制权",
+      "PBAEKNAJECH": 501,
+      "BJLELANDBDG": 1001,
+      "JHLNDNJMJFG": 99
+    },
+    {
+      "KFHCEAABLHG": 9,
+      "JIENMKEAHCM": "增加+1攻的buff，3回合",
+      "PBAEKNAJECH": 501,
+      "BJLELANDBDG": 101,
+      "JHLNDNJMJFG": 3
+    },
+    {
+      "KFHCEAABLHG": 10,
+      "JIENMKEAHCM": "增加-1攻的buff，3回合",
+      "PBAEKNAJECH": 501,
+      "BJLELANDBDG": 201,
+      "JHLNDNJMJFG": 3
+    },
+    {
+      "KFHCEAABLHG": 11,
+      "JIENMKEAHCM": "增加+1防的buff，3回合",
+      "PBAEKNAJECH": 501,
+      "BJLELANDBDG": 301,
+      "JHLNDNJMJFG": 3
+    },
+    {
+      "KFHCEAABLHG": 12,
+      "JIENMKEAHCM": "增加-1防的buff，3回合",
+      "PBAEKNAJECH": 501,
+      "BJLELANDBDG": 401,
+      "JHLNDNJMJFG": 3
+    },
+    {
+      "KFHCEAABLHG": 17,
+      "JIENMKEAHCM": "增加每回合开始时30%概率获得能量2点的buff",
+      "PBAEKNAJECH": 501,
+      "BJLELANDBDG": 501,
+      "JHLNDNJMJFG": 99
+    },
+    {
+      "KFHCEAABLHG": 101,
+      "JIENMKEAHCM": "陷阱-1防",
+      "PBAEKNAJECH": 501,
+      "BJLELANDBDG": 2001,
+      "JHLNDNJMJFG": 99
+    },
+    {
+      "KFHCEAABLHG": 102,
+      "JIENMKEAHCM": "陷阱+1防",
+      "PBAEKNAJECH": 501,
+      "BJLELANDBDG": 2002,
+      "JHLNDNJMJFG": 99
+    }
+  ]
+}

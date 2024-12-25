@@ -1,0 +1,1003 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 910040101,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/AR_ATK01_ShotFire_Physical_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 180
+    },
+    {
+      "LGJCPENNFBC": 961111011,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/RF_ATK01_ShotFire_FB_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 160
+    },
+    {
+      "LGJCPENNFBC": 10,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Darkzone_recover",
+      "NJODPOCAFCM": 104,
+      "JJHACPLIGCP": 2000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 11,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Darkzone_Battle_CharacterAppear",
+      "NJODPOCAFCM": 109,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 12,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Darkzone_Battle_CharacterDisappear",
+      "NJODPOCAFCM": 109,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 13,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Dz_dio_Oiler_onfire",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 14,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_01",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 15,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_02",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 16,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_03",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 17,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_04",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 18,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_05",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 19,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Dz_dio_eff_Laser_off",
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 20,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Dz_dio_eff_Laser_on",
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 21,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_factor_finish_vfx",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 22,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_factor_running_vfx",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 23,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_01",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 24,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_02",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 25,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_03",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 26,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_04",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 27,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_dio_eff_Dropbox_rare_05",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 28,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/sfx_darkzone_roleSwitch",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30010,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_will_up",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 60,
+      "JJHACPLIGCP": 3500,
+      "JJNGJGCFFKD": 75
+    },
+    {
+      "LGJCPENNFBC": 30011,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_will_up1",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 60,
+      "JJHACPLIGCP": 3500,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30012,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_escape_01",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 300,
+      "JJHACPLIGCP": 3500,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30013,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_buff_teleport",
+      "NJODPOCAFCM": 109,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30014,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_buff_revive",
+      "NJODPOCAFCM": 109,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90011,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_low",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90012,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_mid",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90013,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_high",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90014,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_open2close_1",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90015,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_open2close_2",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90016,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_open2close_3",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90017,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_green",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90018,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_red",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90019,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_interference",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 104,
+      "CDBCNNMPKNL": "Effect_sum/Buff/AtkU",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 8,
+      "JJNGJGCFFKD": 130
+    },
+    {
+      "LGJCPENNFBC": 961101011,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/AR_ATK01_ShotFire_FB_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 160
+    },
+    {
+      "LGJCPENNFBC": 621001,
+      "CDBCNNMPKNL": "Effect_sum/Skill/Elid_HammerThorn_darkzone_bunkeridle",
+      "NJODPOCAFCM": 109,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 2000,
+      "OALCFIDHEOK": 13,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 910190101,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/MG_ATK01_ShotFire_Physical_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 110
+    },
+    {
+      "LGJCPENNFBC": 20000,
+      "CDBCNNMPKNL": "Effect_sum/Buff/Dot_burn",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 90,
+      "JJNGJGCFFKD": 50
+    },
+    {
+      "LGJCPENNFBC": 20002,
+      "CDBCNNMPKNL": "Effect_sum/Buff/buff_Frozen",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 90,
+      "JJNGJGCFFKD": 35
+    },
+    {
+      "LGJCPENNFBC": 20003,
+      "CDBCNNMPKNL": "Effect_sum/Buff/Paralysis",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 90,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 20004,
+      "CDBCNNMPKNL": "Effect_sum/Buff/damp",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 90,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 20008,
+      "CDBCNNMPKNL": "Effect_sum/Buff/Dot_poison",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 90,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40101,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation1_idle",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40102,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation1_enable",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40103,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation1_del",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40104,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation1_start",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 2000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40105,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation1_end",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 2000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90001,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_loot_A_class01",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90002,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_beacon_idle",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90003,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_eff_Manholer_active",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90004,
+      "CDBCNNMPKNL": "Effect_sum/Skill/dz_event_air_drop_born",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90005,
+      "CDBCNNMPKNL": "Effect_sum/Scene/dz_eff_booster_will",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90006,
+      "CDBCNNMPKNL": "Effect_sum/Scene/scene_SimCombatBsae_warning07",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 300,
+      "PHIIIMHAGKA": 900
+    },
+    {
+      "LGJCPENNFBC": 90030,
+      "CDBCNNMPKNL": "Effect_sum/Scene/sfx_obj_break_y00_03_b",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90031,
+      "CDBCNNMPKNL": "Effect_sum/Skill/Roadblock_die",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90032,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/Dz_dio_barrier_die",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1900,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90033,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_room_not_unlockable",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90034,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_room_unlockable",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90035,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_room_unlock",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90036,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_preGrass",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 3000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30001,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_bleeding1",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 75,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30002,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_bleeding2",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 75,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30003,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_blind",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 60,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30004,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_filter_down2",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 60,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30005,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_filter_up1_1",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 300,
+      "JJHACPLIGCP": 3500,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30006,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_filter_up2",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 300,
+      "JJHACPLIGCP": 3500,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30007,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_filter_up2_1",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 300,
+      "JJHACPLIGCP": 3500,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30008,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_hide_banned",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 60,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 30009,
+      "CDBCNNMPKNL": "Effect_sum/Buff/dz_buff_strengthen",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 60,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40201,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation2_idle",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40202,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation2_enable",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40203,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation2_del",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40204,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation2_start",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 2000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40205,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation2_end",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 2000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 910040404,
+      "CDBCNNMPKNL": "Effect_sum/Skill/10040401_Explosion",
+      "JJHACPLIGCP": 1500,
+      "OALCFIDHEOK": 9,
+      "JJNGJGCFFKD": 40
+    },
+    {
+      "LGJCPENNFBC": 961161011,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/HG_ATK01_ShotFire_FB_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 160
+    },
+    {
+      "LGJCPENNFBC": 1000,
+      "CDBCNNMPKNL": "Effect_sum/Buff/empty",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 34,
+      "MENMGLKLNCP": 1,
+      "JJNGJGCFFKD": 130
+    },
+    {
+      "LGJCPENNFBC": 1001,
+      "CDBCNNMPKNL": "Effect_sum/Buff/empty",
+      "OALCFIDHEOK": 9,
+      "MENMGLKLNCP": 1,
+      "JJNGJGCFFKD": 130
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "CDBCNNMPKNL": "Effect_sum/Buff/empty",
+      "OALCFIDHEOK": 4,
+      "MENMGLKLNCP": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 910020101,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/HG_ATK01_ShotFire_Physical_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 180
+    },
+    {
+      "LGJCPENNFBC": 910060101,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/RF_ATK01_ShotFire_Physical_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 180
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "CDBCNNMPKNL": "Effect_sum/Buff/sfx_darkzone_buff_revive",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 100,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "CDBCNNMPKNL": "Effect_sum/Buff/sfx_darkzone_buff_burn",
+      "NJODPOCAFCM": 104,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "CDBCNNMPKNL": "Effect_sum/Buff/sfx_darkzone_buff_revive",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 100,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "CDBCNNMPKNL": "Effect_sum/Buff/sfx_darkzone_buff_burn",
+      "NJODPOCAFCM": 104,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 5,
+      "CDBCNNMPKNL": "Effect_sum/Buff/sfx_darkzone_buff_speedup",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 100,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 6,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Darkzone_Battle_invincible",
+      "NJODPOCAFCM": 109,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 7,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Darkzone_escapeshow",
+      "NJODPOCAFCM": 109,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 8,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Darkzone_aimenemy1",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 9,
+      "CDBCNNMPKNL": "Effect_sum/Scene/Darkzone_aimenemy2",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40301,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation3_idle",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40302,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation3_enable",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40303,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation3_del",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40304,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation3_start",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 2000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40305,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_teleportation3_end",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 2000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40306,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_preladder_idle",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 40307,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_preladder_enable",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1500,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90020,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_dio_switch_close",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90021,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_dio_switch_open",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90022,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/DZ_invisible",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 20,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90023,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/DZ_up_invisible",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 20,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 5000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90024,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/DZ_invisible_2",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90025,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/DZ_up_invisible_2",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 5000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90026,
+      "CDBCNNMPKNL": "Effect_sum/scene_darkzone/dz_powergrid_highpower_icon",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100,
+      "PHIIIMHAGKA": 400
+    },
+    {
+      "LGJCPENNFBC": 90027,
+      "CDBCNNMPKNL": "Effect_sum/Skill/Explosion_1",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 5000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90028,
+      "CDBCNNMPKNL": "Effect_sum/Skill/7007101_WaterDie",
+      "NJODPOCAFCM": 104,
+      "IBFKMPPIBAE": 1,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 5000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 90029,
+      "CDBCNNMPKNL": "Effect_sum/Scene/sfx_obj_damageGroupH_y04",
+      "NJODPOCAFCM": 104,
+      "DJJCNKJGAMM": 1,
+      "JJHACPLIGCP": 1000,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 963101011,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/SMG_ATK01_ShotFire_TX_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 400
+    },
+    {
+      "LGJCPENNFBC": 10000,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/Common_Bullet_ker_Physical",
+      "OALCFIDHEOK": 15,
+      "JJNGJGCFFKD": 230
+    },
+    {
+      "LGJCPENNFBC": 10001,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/Common_Bullet_test",
+      "JJHACPLIGCP": 2000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 230
+    },
+    {
+      "LGJCPENNFBC": 10002,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/Common_Bullet",
+      "JJHACPLIGCP": 2000,
+      "OALCFIDHEOK": 15,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 110
+    },
+    {
+      "LGJCPENNFBC": 10003,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/Common_Bullet_test_weak",
+      "JJHACPLIGCP": 2000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 230
+    },
+    {
+      "LGJCPENNFBC": 10004,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/Common_Bullet_ker_Magical",
+      "OALCFIDHEOK": 15,
+      "JJNGJGCFFKD": 230
+    },
+    {
+      "LGJCPENNFBC": 10005,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/Common_Bullet_test_weak",
+      "OALCFIDHEOK": 47,
+      "JJNGJGCFFKD": 230
+    },
+    {
+      "LGJCPENNFBC": 10006,
+      "CDBCNNMPKNL": "Effect_sum/Skill/Common_Bullet_Shield_Blue",
+      "OALCFIDHEOK": 15,
+      "JJNGJGCFFKD": 230
+    },
+    {
+      "LGJCPENNFBC": 10007,
+      "CDBCNNMPKNL": "Effect_sum/Skill/Common_Bullet_Shield_Red",
+      "OALCFIDHEOK": 15,
+      "JJNGJGCFFKD": 230
+    },
+    {
+      "LGJCPENNFBC": 10008,
+      "CDBCNNMPKNL": "Effect_sum/Buff/10090401_Recover",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 90,
+      "JJHACPLIGCP": 3000,
+      "JJNGJGCFFKD": 60
+    },
+    {
+      "LGJCPENNFBC": 10009,
+      "CDBCNNMPKNL": "Effect_sum/Buff/Debuff_unheal",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 95,
+      "JJNGJGCFFKD": 20
+    },
+    {
+      "LGJCPENNFBC": 10010,
+      "CDBCNNMPKNL": "Effect_sum/Buff/DebuffPlate",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 95,
+      "JJNGJGCFFKD": 50
+    },
+    {
+      "LGJCPENNFBC": 10011,
+      "CDBCNNMPKNL": "Effect_sum/Buff/debuff_speeddown",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 80,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 10012,
+      "CDBCNNMPKNL": "Effect_sum/Buff/Debuff_coverless",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 80,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 10013,
+      "CDBCNNMPKNL": "Effect_sum/Buff/explosive",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 80,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 10014,
+      "CDBCNNMPKNL": "Effect_sum/Buff/EliteFog_05",
+      "NJODPOCAFCM": 114,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 80,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 10015,
+      "CDBCNNMPKNL": "Effect_sum/Buff/explosive",
+      "NJODPOCAFCM": 109,
+      "IBFKMPPIBAE": 1,
+      "ABCHECCDOFD": 80,
+      "JJNGJGCFFKD": 50
+    },
+    {
+      "LGJCPENNFBC": 910010101,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/HC_ATK01_ShotFire_Heat_Fake",
+      "JJHACPLIGCP": 1500,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 130
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "CDBCNNMPKNL": "Effect_sum/Other/sfx_darkzone_playerMark_beenChase",
+      "NJODPOCAFCM": 109,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 202,
+      "CDBCNNMPKNL": "Effect_sum/Other/sfx_darkzone_monsMark_Chase",
+      "NJODPOCAFCM": 114,
+      "JJNGJGCFFKD": 100,
+      "PHIIIMHAGKA": 800
+    },
+    {
+      "LGJCPENNFBC": 203,
+      "CDBCNNMPKNL": "Effect_sum/Other/sfx_darkzone_monsMark_Gaze",
+      "NJODPOCAFCM": 114,
+      "JJNGJGCFFKD": 100,
+      "PHIIIMHAGKA": 800
+    },
+    {
+      "LGJCPENNFBC": 204,
+      "CDBCNNMPKNL": "Effect_sum/ViewCone/P_ViewCone",
+      "NJODPOCAFCM": 109,
+      "DJJCNKJGAMM": 1,
+      "JJNGJGCFFKD": 100
+    },
+    {
+      "LGJCPENNFBC": 10000001,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/SMG_ATK01_BulletShell",
+      "JJHACPLIGCP": 2000,
+      "OALCFIDHEOK": 31,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 130
+    },
+    {
+      "LGJCPENNFBC": 910110101,
+      "CDBCNNMPKNL": "Effect_sum/Weapon/SG_ATK01_ShotFire_Heat_Fake",
+      "JJHACPLIGCP": 1000,
+      "OALCFIDHEOK": 7,
+      "MENMGLKLNCP": 5,
+      "JJNGJGCFFKD": 180
+    }
+  ]
+}

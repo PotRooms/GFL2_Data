@@ -1,0 +1,283 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 100101,
+      "PGBMMDIPEFA": "突击步枪对石头伤害",
+      "AMLJJEKIEGA": 1,
+      "AHOPIAHPPJA": [
+        "4"
+      ],
+      "LNLPLPJAHLK": 100101,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100102,
+      "PGBMMDIPEFA": "常规枪对BOSS伤害",
+      "AMLJJEKIEGA": 2,
+      "AHOPIAHPPJA": [
+        "3"
+      ],
+      "LNLPLPJAHLK": 100102,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100103,
+      "PGBMMDIPEFA": "常规枪对普通敌人伤害",
+      "AMLJJEKIEGA": 3,
+      "AHOPIAHPPJA": [
+        "1"
+      ],
+      "LNLPLPJAHLK": 100103,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100104,
+      "PGBMMDIPEFA": "常规枪对精英敌人伤害",
+      "AMLJJEKIEGA": 4,
+      "AHOPIAHPPJA": [
+        "2"
+      ],
+      "LNLPLPJAHLK": 100104,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100105,
+      "PGBMMDIPEFA": "常规枪对普通敌人掩体穿透率",
+      "AMLJJEKIEGA": 3,
+      "AHOPIAHPPJA": [
+        "11",
+        "1"
+      ],
+      "LNLPLPJAHLK": 100105,
+      "AALBNGIAFAK": "damage*(A-100)/100"
+    },
+    {
+      "LGJCPENNFBC": 100106,
+      "PGBMMDIPEFA": "常规枪对精英敌人掩体穿透率",
+      "AMLJJEKIEGA": 4,
+      "AHOPIAHPPJA": [
+        "11",
+        "2"
+      ],
+      "LNLPLPJAHLK": 100106,
+      "AALBNGIAFAK": "damage*(A-100)/100"
+    },
+    {
+      "LGJCPENNFBC": 100201,
+      "PGBMMDIPEFA": "刀对石头伤害",
+      "AMLJJEKIEGA": 1,
+      "AHOPIAHPPJA": [
+        "4"
+      ],
+      "LNLPLPJAHLK": 100201,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100205,
+      "PGBMMDIPEFA": "近战对普通敌人掩体穿透率",
+      "AMLJJEKIEGA": 3,
+      "AHOPIAHPPJA": [
+        "11",
+        "1"
+      ],
+      "LNLPLPJAHLK": 100205,
+      "AALBNGIAFAK": "damage*(A-100)/100"
+    },
+    {
+      "LGJCPENNFBC": 100206,
+      "PGBMMDIPEFA": "近战对精英敌人掩体穿透率",
+      "AMLJJEKIEGA": 4,
+      "AHOPIAHPPJA": [
+        "11",
+        "2"
+      ],
+      "LNLPLPJAHLK": 100206,
+      "AALBNGIAFAK": "damage*(A-100)/100"
+    },
+    {
+      "LGJCPENNFBC": 100301,
+      "PGBMMDIPEFA": "机枪对石头伤害",
+      "AMLJJEKIEGA": 1,
+      "AHOPIAHPPJA": [
+        "4"
+      ],
+      "LNLPLPJAHLK": 100301,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100305,
+      "PGBMMDIPEFA": "机枪对普通敌人掩体穿透率",
+      "AMLJJEKIEGA": 3,
+      "AHOPIAHPPJA": [
+        "11",
+        "1"
+      ],
+      "LNLPLPJAHLK": 100505,
+      "AALBNGIAFAK": "damage*(A-100)/100"
+    },
+    {
+      "LGJCPENNFBC": 100306,
+      "PGBMMDIPEFA": "机枪对精英敌人掩体穿透率",
+      "AMLJJEKIEGA": 4,
+      "AHOPIAHPPJA": [
+        "11",
+        "2"
+      ],
+      "LNLPLPJAHLK": 100106,
+      "AALBNGIAFAK": "damage*(A-100)/100"
+    },
+    {
+      "LGJCPENNFBC": 100401,
+      "PGBMMDIPEFA": "霰弹枪对石头伤害",
+      "AMLJJEKIEGA": 1,
+      "AHOPIAHPPJA": [
+        "4"
+      ],
+      "LNLPLPJAHLK": 100401,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100501,
+      "PGBMMDIPEFA": "冲锋枪对石头伤害",
+      "AMLJJEKIEGA": 1,
+      "AHOPIAHPPJA": [
+        "4"
+      ],
+      "LNLPLPJAHLK": 100501,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100502,
+      "PGBMMDIPEFA": "冲锋枪对BOSS伤害",
+      "AMLJJEKIEGA": 2,
+      "AHOPIAHPPJA": [
+        "3"
+      ],
+      "LNLPLPJAHLK": 100502,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100503,
+      "PGBMMDIPEFA": "冲锋枪对普通敌人伤害",
+      "AMLJJEKIEGA": 3,
+      "AHOPIAHPPJA": [
+        "1"
+      ],
+      "LNLPLPJAHLK": 100503,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100504,
+      "PGBMMDIPEFA": "冲锋枪对精英敌人伤害",
+      "AMLJJEKIEGA": 4,
+      "AHOPIAHPPJA": [
+        "2"
+      ],
+      "LNLPLPJAHLK": 100504,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100505,
+      "PGBMMDIPEFA": "冲锋枪对普通敌人掩体穿透率",
+      "AMLJJEKIEGA": 3,
+      "AHOPIAHPPJA": [
+        "11",
+        "1"
+      ],
+      "LNLPLPJAHLK": 100505,
+      "AALBNGIAFAK": "damage*(A-100)/100"
+    },
+    {
+      "LGJCPENNFBC": 100506,
+      "PGBMMDIPEFA": "冲锋枪对精英敌人掩体穿透率",
+      "AMLJJEKIEGA": 4,
+      "AHOPIAHPPJA": [
+        "11",
+        "2"
+      ],
+      "LNLPLPJAHLK": 100506,
+      "AALBNGIAFAK": "damage*(A-100)/100"
+    },
+    {
+      "LGJCPENNFBC": 100601,
+      "PGBMMDIPEFA": "手枪对石头伤害",
+      "AMLJJEKIEGA": 1,
+      "AHOPIAHPPJA": [
+        "4"
+      ],
+      "LNLPLPJAHLK": 100601,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 100701,
+      "PGBMMDIPEFA": "狙击枪对石头伤害",
+      "AMLJJEKIEGA": 1,
+      "AHOPIAHPPJA": [
+        "4"
+      ],
+      "LNLPLPJAHLK": 100701,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 200101,
+      "PGBMMDIPEFA": "油桶/炸药桶对石头伤害",
+      "AMLJJEKIEGA": 1,
+      "AHOPIAHPPJA": [
+        "4"
+      ],
+      "LNLPLPJAHLK": 200101,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 200102,
+      "PGBMMDIPEFA": "油桶/炸药桶对BOSS伤害",
+      "AMLJJEKIEGA": 2,
+      "AHOPIAHPPJA": [
+        "3"
+      ],
+      "LNLPLPJAHLK": 200102,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 200103,
+      "PGBMMDIPEFA": "油桶/炸药桶对普通敌人伤害",
+      "AMLJJEKIEGA": 3,
+      "AHOPIAHPPJA": [
+        "1"
+      ],
+      "LNLPLPJAHLK": 200103,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 200104,
+      "PGBMMDIPEFA": "油桶/炸药桶对精英怪伤害",
+      "AMLJJEKIEGA": 4,
+      "AHOPIAHPPJA": [
+        "2"
+      ],
+      "LNLPLPJAHLK": 200104,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 200120,
+      "PGBMMDIPEFA": "油桶/炸药桶对人形伤害",
+      "AMLJJEKIEGA": 20,
+      "AHOPIAHPPJA": [
+        "5"
+      ],
+      "LNLPLPJAHLK": 200120,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    },
+    {
+      "LGJCPENNFBC": 300120,
+      "PGBMMDIPEFA": "怪物反击伤害",
+      "AMLJJEKIEGA": 20,
+      "JPMGHKJHMDN": 1,
+      "AHOPIAHPPJA": [
+        "5"
+      ],
+      "LNLPLPJAHLK": 200120,
+      "AALBNGIAFAK": "target.maxhp*A/100"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1001,
+      "HBJAHCGKJJD": "兴奋",
+      "POLMKKAAJCP": 99999,
+      "CIKKHFKFEEC": 5,
+      "MGBMENCECPE": 5,
+      "KCHIFIPAOKF": 1002
+    },
+    {
+      "LGJCPENNFBC": 1002,
+      "HBJAHCGKJJD": "常规",
+      "POLMKKAAJCP": 99999,
+      "CIKKHFKFEEC": 5,
+      "KCHIFIPAOKF": 1003
+    },
+    {
+      "LGJCPENNFBC": 1003,
+      "HBJAHCGKJJD": "不悦",
+      "POLMKKAAJCP": 99999,
+      "KCHIFIPAOKF": 1003
+    }
+  ]
+}

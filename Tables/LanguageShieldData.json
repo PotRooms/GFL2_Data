@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "3161"
+      },
+      "OPOCDFFKJAL": "Shield",
+      "DNHAGPFHGCE": "Icon_Special_Shield",
+      "EGPIAFNFKEJ": "333333FF"
+    },
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5291"
+      },
+      "OPOCDFFKJAL": "PhysicalShield",
+      "DNHAGPFHGCE": "Icon_Physical_Shield",
+      "EGPIAFNFKEJ": "333333FF"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "5292"
+      },
+      "OPOCDFFKJAL": "MagicalShield",
+      "DNHAGPFHGCE": "Icon_Magical_Shield",
+      "EGPIAFNFKEJ": "333333FF"
+    }
+  ]
+}

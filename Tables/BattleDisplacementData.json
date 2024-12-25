@@ -1,0 +1,428 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 6282601,
+      "BKCIGACKEFD": 3,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 3000,
+      "LBPGEGFPHLI": 1,
+      "PLDHIFNGLCH": 1,
+      "AHLBOILKFMA": 1,
+      "GEEHAKEPCEN": "5,1,62826001,1,0",
+      "AEHDPNHIKHB": "Skill/6280601_Hit",
+      "IMAEJJANKEI": "104",
+      "PENACPILEJA": "Skill/6280601_Stop",
+      "OJAMDLKGMEI": "109"
+    },
+    {
+      "LGJCPENNFBC": 6971301,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10010501,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 300,
+      "LBPGEGFPHLI": 1,
+      "AHLBOILKFMA": 1,
+      "LFLEHFGBAPK": 2,
+      "LAAKBBNADOO": "1,1,pow,1000,0,0,0,0,0,0,0,0"
+    },
+    {
+      "LGJCPENNFBC": 6410201,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6482402,
+      "BKCIGACKEFD": 2,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 200,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6857301,
+      "BKCIGACKEFD": 3,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 3000,
+      "LBPGEGFPHLI": 3,
+      "AHLBOILKFMA": 1,
+      "LFLEHFGBAPK": 1,
+      "LAAKBBNADOO": "1,1,pow,1000,0,0,0,2,0,0,0,,8;2,,0,0,5",
+      "AEHDPNHIKHB": "Skill/6857401_BeHit",
+      "IMAEJJANKEI": "104"
+    },
+    {
+      "LGJCPENNFBC": 6871101,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10130511,
+      "BKCIGACKEFD": 4,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 400,
+      "LBPGEGFPHLI": 3,
+      "AEHDPNHIKHB": "Skill/10130501_FallSmoke",
+      "IMAEJJANKEI": "109"
+    },
+    {
+      "LGJCPENNFBC": 6853212,
+      "BKCIGACKEFD": 3,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 500,
+      "LBPGEGFPHLI": 3,
+      "AHLBOILKFMA": 1,
+      "LFLEHFGBAPK": 1,
+      "LAAKBBNADOO": "1,1,pow,1000,0,0,0,4,0,0,0,0,0;2,,0,0,1;5,2,401041,1,0",
+      "AEHDPNHIKHB": "Skill/BluntWeapons_ATK01_Hit_white",
+      "IMAEJJANKEI": "104"
+    },
+    {
+      "LGJCPENNFBC": 6883101,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6951101,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 63153101,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 200,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1,
+      "LFLEHFGBAPK": 1,
+      "LAAKBBNADOO": "1,1,pow,500,2,0,0,2,0,0,0,,32",
+      "GEEHAKEPCEN": "1,1,pow,500,2,0,0,2,0,0,0,,32",
+      "AEHDPNHIKHB": "Skill/BluntWeapons_ATK01_Hit_white",
+      "IMAEJJANKEI": "104"
+    },
+    {
+      "LGJCPENNFBC": 71010501,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 200,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6151111,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 300,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6214201,
+      "BKCIGACKEFD": 3,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 500,
+      "LBPGEGFPHLI": 3,
+      "AHLBOILKFMA": 1,
+      "LFLEHFGBAPK": 1,
+      "LAAKBBNADOO": "1,1,pow,900,0,0,0,2,0,0,0,,24;2,,0,0,2",
+      "HLKMOEJDKIJ": 6214202,
+      "AEHDPNHIKHB": "Skill/6213101_Hit_001",
+      "IMAEJJANKEI": "104"
+    },
+    {
+      "LGJCPENNFBC": 6214202,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1,
+      "LFLEHFGBAPK": 1
+    },
+    {
+      "LGJCPENNFBC": 6863401,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 400,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10080701,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10150501,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 400,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10210711,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 4,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10290511,
+      "BKCIGACKEFD": 2,
+      "OLPILGKMAEK": 4,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10500711,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 3,
+      "LNJHDIKBAHE": 200,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6313101,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1,
+      "LFLEHFGBAPK": 1
+    },
+    {
+      "LGJCPENNFBC": 6481402,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 200,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10410511,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 300,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6282401,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6443201,
+      "BKCIGACKEFD": 2,
+      "OLPILGKMAEK": 4,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1,
+      "LFLEHFGBAPK": 16,
+      "LAAKBBNADOO": "1,1,pow,300,0,0,0,2,-1,0,0,,32",
+      "GEEHAKEPCEN": "1,1,pow,300,0,0,0,2,-1,0,0,,32",
+      "AEHDPNHIKHB": "Skill/6213101_Hit_001",
+      "IMAEJJANKEI": "104"
+    },
+    {
+      "LGJCPENNFBC": 6705301,
+      "BKCIGACKEFD": 3,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 600,
+      "LBPGEGFPHLI": 5,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1,
+      "OFLCEDMHDGO": "1"
+    },
+    {
+      "LGJCPENNFBC": 6705302,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 600,
+      "LBPGEGFPHLI": 4
+    },
+    {
+      "LGJCPENNFBC": 6853312,
+      "BKCIGACKEFD": 2,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 800,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10130501,
+      "BKCIGACKEFD": 4,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 300,
+      "LBPGEGFPHLI": 3,
+      "AEHDPNHIKHB": "Skill/10130501_FallSmoke",
+      "IMAEJJANKEI": "109"
+    },
+    {
+      "LGJCPENNFBC": 10150511,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 10210701,
+      "BKCIGACKEFD": 2,
+      "OLPILGKMAEK": 4,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 63480701,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 200,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 296,
+      "BKCIGACKEFD": 3,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 600,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1,
+      "AEHDPNHIKHB": "Skill/6857401_BeHit",
+      "IMAEJJANKEI": "104",
+      "PENACPILEJA": "Skill/6280601_Stop",
+      "OJAMDLKGMEI": "109"
+    },
+    {
+      "LGJCPENNFBC": 6170111,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 300,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6201201,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 6246601,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 300,
+      "NMEFJKAEFED": 1,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1,
+      "LAAKBBNADOO": "1,1,pow,500,2,0,0,2,0,0,0,,32",
+      "GEEHAKEPCEN": "1,1,pow,500,2,0,0,2,0,0,0,,32",
+      "AEHDPNHIKHB": "Skill/BluntWeapons_ATK01_Hit_white",
+      "IMAEJJANKEI": "104"
+    },
+    {
+      "LGJCPENNFBC": 10010401,
+      "BKCIGACKEFD": 3,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 700,
+      "LBPGEGFPHLI": 1,
+      "HLKMOEJDKIJ": 10010401,
+      "AEHDPNHIKHB": "Skill/6213101_Hit_001",
+      "IMAEJJANKEI": "104"
+    },
+    {
+      "LGJCPENNFBC": 10150401,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 4,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    },
+    {
+      "LGJCPENNFBC": 103504111,
+      "BKCIGACKEFD": 1,
+      "OLPILGKMAEK": 1,
+      "LNJHDIKBAHE": 100,
+      "LBPGEGFPHLI": 1,
+      "EJJFOPADJAG": 1,
+      "AHLBOILKFMA": 1
+    }
+  ]
+}

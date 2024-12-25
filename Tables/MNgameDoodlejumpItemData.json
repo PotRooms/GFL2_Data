@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 10101,
+      "HPFJBPGLLAC": 101,
+      "MINHDEFMGIG": 1,
+      "ILHCKHPAGNH": 3.5,
+      "KIPIFMKNCMN": 1,
+      "INDAKBJEEMJ": 1,
+      "OFFBCPIMAFE": 1,
+      "MBIHBGHIAEP": "spring"
+    },
+    {
+      "LGJCPENNFBC": 10102,
+      "HPFJBPGLLAC": 101,
+      "MINHDEFMGIG": 1,
+      "ILHCKHPAGNH": 6,
+      "KIPIFMKNCMN": 1,
+      "INDAKBJEEMJ": 1,
+      "OFFBCPIMAFE": 1,
+      "MBIHBGHIAEP": "rocket"
+    },
+    {
+      "LGJCPENNFBC": 10103,
+      "HPFJBPGLLAC": 101,
+      "MINHDEFMGIG": 2,
+      "ILHCKHPAGNH": 2,
+      "KIPIFMKNCMN": 4,
+      "OFFBCPIMAFE": 1,
+      "MBIHBGHIAEP": "shoes"
+    },
+    {
+      "LGJCPENNFBC": 10104,
+      "HPFJBPGLLAC": 101,
+      "MINHDEFMGIG": 2,
+      "KIPIFMKNCMN": 5,
+      "NHIEBOGBPCN": 1,
+      "OFFBCPIMAFE": 1,
+      "MBIHBGHIAEP": "shield"
+    },
+    {
+      "LGJCPENNFBC": 10204,
+      "HPFJBPGLLAC": 101,
+      "MINHDEFMGIG": 2,
+      "KIPIFMKNCMN": 8,
+      "NHIEBOGBPCN": 1,
+      "OFFBCPIMAFE": 1,
+      "MBIHBGHIAEP": "shield"
+    }
+  ]
+}

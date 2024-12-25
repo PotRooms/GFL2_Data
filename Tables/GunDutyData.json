@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 1,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1659"
+      },
+      "IINAEFFCJFH": "Guard",
+      "HOHKEHAFONK": {
+        "DOHLNDIPHAJ": "4662"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "4663"
+      },
+      "DNHAGPFHGCE": "Icon_Professional_Guard"
+    },
+    {
+      "LGJCPENNFBC": 2,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1660"
+      },
+      "IINAEFFCJFH": "Scout",
+      "HOHKEHAFONK": {
+        "DOHLNDIPHAJ": "4664"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "4665"
+      },
+      "DNHAGPFHGCE": "Icon_Professional_Scout"
+    },
+    {
+      "LGJCPENNFBC": 3,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1661"
+      },
+      "IINAEFFCJFH": "Assist",
+      "HOHKEHAFONK": {
+        "DOHLNDIPHAJ": "4759"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "4760"
+      },
+      "DNHAGPFHGCE": "Icon_Professional_Assist"
+    },
+    {
+      "LGJCPENNFBC": 4,
+      "HBJAHCGKJJD": {
+        "DOHLNDIPHAJ": "1662"
+      },
+      "IINAEFFCJFH": "Suppress",
+      "HOHKEHAFONK": {
+        "DOHLNDIPHAJ": "4854"
+      },
+      "GFMDILIKGLM": {
+        "DOHLNDIPHAJ": "4855"
+      },
+      "DNHAGPFHGCE": "Icon_Professional_Suppress"
+    }
+  ]
+}

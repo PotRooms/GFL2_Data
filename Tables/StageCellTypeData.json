@@ -1,0 +1,559 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 51020,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3794"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_fire",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_fire",
+      "NOKLKOLGGCF": 51020,
+      "ELJMEELGLCI": 103,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51020,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51020",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3795"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3796"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3797"
+      },
+      "PGHFEGECJNI": 1
+    },
+    {
+      "LGJCPENNFBC": 51080,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3847"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_Shock",
+      "KLBEJKMBGOF": "Skill/10130501_Shock",
+      "NOKLKOLGGCF": 51080,
+      "ELJMEELGLCI": 108,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51080,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51080",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3848"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3849"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3850"
+      },
+      "PGHFEGECJNI": 2
+    },
+    {
+      "LGJCPENNFBC": 67011,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3818"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_advance",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_advance",
+      "NOKLKOLGGCF": 67011,
+      "ELJMEELGLCI": 102,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 67011,
+      "BDNGJMPGGFC": 999,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "6701901",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3819"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3820"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3821"
+      },
+      "PGHFEGECJNI": 999
+    },
+    {
+      "LGJCPENNFBC": 51050,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3838"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_corrosion",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_corrosion",
+      "NOKLKOLGGCF": 51050,
+      "ELJMEELGLCI": 106,
+      "GPCGKHCLKLH": 615131,
+      "EFOHFOOFGFF": 1,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;2",
+      "PJJBMDBPGHN": 51050,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "OGEAAPHBBLN": "1,7,51050",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51050",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3839"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3840"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3841"
+      },
+      "PGHFEGECJNI": 4
+    },
+    {
+      "LGJCPENNFBC": 51051,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3838"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_corrosion",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_corrosion",
+      "NOKLKOLGGCF": 51050,
+      "ELJMEELGLCI": 106,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51050,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "OGEAAPHBBLN": "1,7,51050",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51051",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3842"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3842"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3842"
+      },
+      "PGHFEGECJNI": 4
+    },
+    {
+      "LGJCPENNFBC": 51040,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3835"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_frosts",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_frosts",
+      "NOKLKOLGGCF": 51040,
+      "ELJMEELGLCI": 105,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51040,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51040",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3836"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3837"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3837"
+      },
+      "PGHFEGECJNI": 3
+    },
+    {
+      "LGJCPENNFBC": 51060,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3843"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_acid",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_acid",
+      "NOKLKOLGGCF": 51060,
+      "ELJMEELGLCI": 107,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51060,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51060",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3844"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3845"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3846"
+      },
+      "PGHFEGECJNI": 4
+    },
+    {
+      "LGJCPENNFBC": 51100,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3831"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_corrosion",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_corrosion",
+      "NOKLKOLGGCF": 51100,
+      "ELJMEELGLCI": 106,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51100,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51100",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3832"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3833"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3834"
+      },
+      "PGHFEGECJNI": 4
+    },
+    {
+      "LGJCPENNFBC": 62791,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3815"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_burn",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_fire_Boss",
+      "NOKLKOLGGCF": 62791,
+      "ELJMEELGLCI": 102,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51010,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "62791",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3816"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3816"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3817"
+      },
+      "PGHFEGECJNI": 1
+    },
+    {
+      "LGJCPENNFBC": 101,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3822"
+      },
+      "KCOAGDHHICC": 1001,
+      "ELJMEELGLCI": 101,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 10,
+      "BDNGJMPGGFC": 10,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3823"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3824"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3824"
+      },
+      "PHMPAHGCHKM": 1,
+      "PGHFEGECJNI": 999
+    },
+    {
+      "LGJCPENNFBC": 200,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3825"
+      },
+      "KCOAGDHHICC": 1001,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 20,
+      "BDNGJMPGGFC": 11,
+      "LJMGGCIOGBI": "2;-1",
+      "DGEDMDGJDFN": 1,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3825"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3825"
+      },
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3825"
+      },
+      "PGHFEGECJNI": 999
+    },
+    {
+      "LGJCPENNFBC": 201,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3826"
+      },
+      "KCOAGDHHICC": 1001,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 21,
+      "BDNGJMPGGFC": 12,
+      "LJMGGCIOGBI": "2;-1",
+      "DGEDMDGJDFN": 1,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3825"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3825"
+      },
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3825"
+      },
+      "PGHFEGECJNI": 999
+    },
+    {
+      "LGJCPENNFBC": 51010,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3802"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_burn",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_burn",
+      "NOKLKOLGGCF": 51010,
+      "ELJMEELGLCI": 102,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51010,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51010",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3803"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3804"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3805"
+      },
+      "PGHFEGECJNI": 1
+    },
+    {
+      "LGJCPENNFBC": 51011,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3802"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_burn",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_burn",
+      "NOKLKOLGGCF": 51010,
+      "ELJMEELGLCI": 102,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51010,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51011",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3806"
+      },
+      "JHNEJEAAMOG": 2,
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3807"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3805"
+      },
+      "PGHFEGECJNI": 1
+    },
+    {
+      "LGJCPENNFBC": 51015,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "2942"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_burnPro",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_burnPro",
+      "NOKLKOLGGCF": 51015,
+      "ELJMEELGLCI": 102,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51015,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51015",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3808"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3809"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3810"
+      },
+      "PGHFEGECJNI": 1
+    },
+    {
+      "LGJCPENNFBC": 51030,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3811"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_water",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_water",
+      "NOKLKOLGGCF": 51030,
+      "ELJMEELGLCI": 104,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51030,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51030",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3812"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3813"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3814"
+      },
+      "PGHFEGECJNI": 5
+    },
+    {
+      "LGJCPENNFBC": 51070,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3827"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_lightning",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_lightning",
+      "NOKLKOLGGCF": 51070,
+      "ELJMEELGLCI": 108,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51070,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51070",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3828"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3829"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3830"
+      },
+      "PGHFEGECJNI": 2
+    },
+    {
+      "LGJCPENNFBC": 51090,
+      "NLDKBJPDOAP": {
+        "DOHLNDIPHAJ": "3798"
+      },
+      "KCOAGDHHICC": 99000004,
+      "CIKDFIKCFKH": "GridSfx/Grideffect_corrosion",
+      "KLBEJKMBGOF": "GridSfx/Grideffectbase_corrosion",
+      "NOKLKOLGGCF": 51090,
+      "ELJMEELGLCI": 106,
+      "GPCGKHCLKLH": 615131,
+      "IOEAAHABIGO": 1,
+      "LEPAEBIKJPG": "0;1",
+      "PJJBMDBPGHN": 51090,
+      "BDNGJMPGGFC": 1,
+      "LJMGGCIOGBI": "2;-1",
+      "DLEBKDIBAIK": 1,
+      "DGEDMDGJDFN": 1,
+      "GBGHPGBPLEC": "51090",
+      "IPELFCCKDBK": 2,
+      "JLGMCMKLPLJ": {
+        "DOHLNDIPHAJ": "3799"
+      },
+      "BDNFOHKKMPI": {
+        "DOHLNDIPHAJ": "3800"
+      },
+      "HDDCNPLFICM": 3,
+      "LLBGIBCMFFI": {
+        "DOHLNDIPHAJ": "3801"
+      },
+      "PGHFEGECJNI": 4
+    }
+  ]
+}

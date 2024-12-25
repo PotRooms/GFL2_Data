@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "LGJCPENNFBC": 6666,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2901"
+      },
+      "MINHDEFMGIG": "dungeon_stamina",
+      "JHAJDBEPALK": "Item_Icon_DungeonDraught",
+      "LIOAPEADNML": 176010
+    },
+    {
+      "LGJCPENNFBC": 7777,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2902"
+      },
+      "MINHDEFMGIG": "dungeon_item_bullet",
+      "JHAJDBEPALK": "Item_Icon_DungeonBullet",
+      "MKONLPKEHBO": 1,
+      "LIOAPEADNML": 176014
+    },
+    {
+      "LGJCPENNFBC": 8888,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2903"
+      },
+      "MINHDEFMGIG": "dungeon_item_bullet",
+      "JHAJDBEPALK": "Item_Icon_DungeonTreasure",
+      "LIOAPEADNML": 176015
+    },
+    {
+      "LGJCPENNFBC": 9901,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2904"
+      },
+      "MINHDEFMGIG": "dungeon_item_stamina",
+      "JHAJDBEPALK": "Item_Icon_DungeonDraught",
+      "MKONLPKEHBO": 3,
+      "LIOAPEADNML": 176011
+    },
+    {
+      "LGJCPENNFBC": 9902,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2905"
+      },
+      "MINHDEFMGIG": "dungeon_item_stamina",
+      "JHAJDBEPALK": "Item_Icon_DungeonDraught",
+      "MKONLPKEHBO": 8,
+      "LIOAPEADNML": 176011
+    },
+    {
+      "LGJCPENNFBC": 9903,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2906"
+      },
+      "MINHDEFMGIG": "dungeon_item_stamina",
+      "JHAJDBEPALK": "Item_Icon_DungeonDraught",
+      "MKONLPKEHBO": 10,
+      "LIOAPEADNML": 176011
+    },
+    {
+      "LGJCPENNFBC": 9904,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2907"
+      },
+      "MINHDEFMGIG": "dungeon_item_hp",
+      "JHAJDBEPALK": "Item_Icon_DungeonHPDraught",
+      "MKONLPKEHBO": 5,
+      "LIOAPEADNML": 176012
+    },
+    {
+      "LGJCPENNFBC": 9905,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2908"
+      },
+      "MINHDEFMGIG": "dungeon_item_hp",
+      "JHAJDBEPALK": "Item_Icon_DungeonHPDraught",
+      "MKONLPKEHBO": 15,
+      "LIOAPEADNML": 176012
+    },
+    {
+      "LGJCPENNFBC": 9999,
+      "ECKCDABPAON": {
+        "DOHLNDIPHAJ": "2900"
+      },
+      "MINHDEFMGIG": "dungeon_item_key",
+      "JHAJDBEPALK": "Item_Icon_DungeonKey",
+      "MKONLPKEHBO": 1,
+      "LIOAPEADNML": 176013
+    }
+  ]
+}
